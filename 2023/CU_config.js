@@ -63,7 +63,7 @@ var config_data = `
       "shape": "circle 5 black red true"
     }
   ],
-  "auton": [
+  "autonomous": [
     { "name": "Auto Scoring",
       "code": "asg",
       "type": "clickable_image",
@@ -75,7 +75,7 @@ var config_data = `
       "showUndo": "false",
       "shape": "circle 12 black red true"
     },
-    { "name": "Crossed Cable",
+    { "name": "Crossed Cable Protector",
       "code": "acc",
       "type": "bool"
     },
@@ -83,11 +83,11 @@ var config_data = `
       "code": "acs",
       "type": "bool"
     },
-    { "name": "Mobility?",
+    { "name": "Mobility Bonus?",
       "code": "am",
       "type": "bool"
     },
-    { "name": "Docked",
+    { "name": "Charge Station",
       "code": "ad",
       "type":"radio",
       "choices": {
