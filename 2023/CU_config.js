@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2022ilpe",
+      "defaultValue": "2022carv",
       "required": "true",
       "disabled": "true"
     },
@@ -63,7 +63,7 @@ var config_data = `
       "shape": "circle 5 black red true"
     }
   ],
-  "autonomous": [
+  "auton": [
     { "name": "Auto Scoring",
       "code": "asg",
       "type": "clickable_image",
@@ -75,7 +75,7 @@ var config_data = `
       "showUndo": "false",
       "shape": "circle 12 black red true"
     },
-    { "name": "Crossed Cable Protector",
+    { "name": "Crossed Cable",
       "code": "acc",
       "type": "bool"
     },
@@ -83,11 +83,11 @@ var config_data = `
       "code": "acs",
       "type": "bool"
     },
-    { "name": "Mobility Bonus?",
+    { "name": "Mobility?",
       "code": "am",
       "type": "bool"
     },
-    { "name": "Charge Station",
+    { "name": "Docked",
       "code": "ad",
       "type":"radio",
       "choices": {
