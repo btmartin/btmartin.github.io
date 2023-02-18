@@ -1,9 +1,9 @@
 var config_data = `
 {
-  "title": "2481 Scouting",
-  "page_title": "2023 CIR",
+  "title": "Scouting PASS 2023",
+  "page_title": "Charged Up",
   "checkboxAs": "10",
-  "pre-match": [
+  "prematch": [
     { "name": "Scouter Initials",
       "code": "s",
       "type": "scouter",
@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023ilpe",
+      "defaultValue": "2022carv",
       "required": "true",
       "disabled": "true"
     },
@@ -63,7 +63,7 @@ var config_data = `
       "shape": "circle 5 black red true"
     }
   ],
-  "autonomous": [
+  "auton": [
     { "name": "Auto Scoring",
       "code": "asg",
       "type": "clickable_image",
@@ -75,7 +75,7 @@ var config_data = `
       "showUndo": "false",
       "shape": "circle 12 black red true"
     },
-    { "name": "Crossed Cable Protector",
+    { "name": "Crossed Cable",
       "code": "acc",
       "type": "bool"
     },
@@ -83,7 +83,7 @@ var config_data = `
       "code": "acs",
       "type": "bool"
     },
-    { "name": "Mobility Bonus?",
+    { "name": "Mobility?",
       "code": "am",
       "type": "bool"
     },
@@ -100,6 +100,10 @@ var config_data = `
     }
   ],
   "teleop": [
+    { "name": "Cycle Timer",
+      "code": "tct",
+      "type": "cycle"
+    },
     { "name": "Grid Scoring",
       "code": "tsg",
       "type": "clickable_image",
@@ -112,6 +116,15 @@ var config_data = `
       "shape": "circle 12 black red true",
       "cycleTimer": "tct"
     },
+    { "name": "Feeder Count<br>(Fed another bot)",
+      "code": "tfc",
+      "type": "counter",
+      "cycleTimer": "tct"
+    },
+    { "name": "Was Fed<br>Game Pieces",
+      "code": "wf",
+      "type": "bool"
+    },
     { "name": "Was Defended",
       "code": "wd",
       "type": "bool"
@@ -119,6 +132,21 @@ var config_data = `
     { "name": "Who Defended this bot",
       "code": "who",
       "type": "text"
+    },
+    { "name": "Smart Placement<br>(creates Links)",
+      "code": "lnk",
+      "type": "bool"
+    },
+    { "name": "Floor Pickup",
+      "code": "fpu",
+      "type": "radio",
+      "choices": {
+        "o": "Cones<br>",
+        "u": "Cubes<br>",
+        "b": "Both<br>",
+        "x": "Not Attempted"
+      },
+      "defaultValue": "x"
     }
   ],
   "endgame": [
@@ -155,6 +183,10 @@ var config_data = `
       },
       "defaultValue": "x"
     },
+    { "name": "Links Scored",
+      "code": "ls",
+      "type": "counter"
+    },
     { "name": "Defense Rating",
       "code": "dr",
       "type": "radio",
@@ -167,16 +199,37 @@ var config_data = `
       },
       "defaultValue": "x"
     },
+    { "name": "Swerve drive?",
+      "code": "sd",
+      "type": "bool"
+    },
+    { "name": "Speed Rating",
+      "code": "sr",
+      "type": "radio",
+      "choices": {
+        "1": "1 (slow)<br>",
+        "2": "2<br>",
+        "3": "3<br>",
+        "4": "4<br>",
+        "5": "5 (fast)"
+      },
+      "defaultValue":"3"
+    },
     { "name": "Died/Immobilized",
       "code": "die",
       "type": "bool"
     },
-    { "name": "Tippy<br>(tipped or almost tipped over)",
+    { "name": "Tippy<br>(almost tipped over)",
       "code": "tip",
       "type": "bool"
     },
-    { "name": "Dropped Game Pieces (>2)",
+    { "name": "Dropped Cones (>2)",
       "code": "dc",
+      "type": "bool"
+    },
+    { "name": "Make good<br>alliance partner?",
+      "tooltip": "Would you want this robot on your alliance in eliminations?",
+      "code": "all",
       "type": "bool"
     },
     { "name": "Comments",
