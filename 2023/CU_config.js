@@ -1,6 +1,6 @@
 var config_data = `
 {
-  "title": "2481 Scouting 2023 - CIR",
+  "title": "Scouting PASS 2023",
   "page_title": "2023 CIR",
   "checkboxAs": "10",
   "pre-match": [
