@@ -62,7 +62,7 @@ var config_data = `
       "clickRestriction": "one",
       "shape": "circle 5 black red true"
     }
-  ],
+  ]/*,
   "autonomous": [
     { "name": "Auto Scoring",
       "code": "asg",
@@ -185,5 +185,5 @@ var config_data = `
       "size": 15,
       "maxSize": 50
     }
-  ]
+  ]*/
 }`;
