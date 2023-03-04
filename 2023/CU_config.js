@@ -116,18 +116,14 @@ var config_data = `
       "code": "who",
       "type": "text"
     },
-    { "name": "Smart Placement<br>(creates Links)",
-      "code": "lnk",
-      "type": "bool"
-    },
-    { "name": "Floor Pickup",
+    { "name": "Cycling Location",
       "code": "fpu",
       "type": "radio",
       "choices": {
-        "o": "Cones<br>",
-        "u": "Cubes<br>",
-        "b": "Both<br>",
-        "x": "Not Attempted"
+        "o": "Single Substation<br>",
+        "s": "Double Substation Shelf<br>",
+        "f": "Double Substation Floor<br>",
+        "x": "No Cycling"
       },
       "defaultValue": "x"
     }
