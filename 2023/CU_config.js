@@ -4,7 +4,7 @@ var config_data = `
   "page_title": "2023 CIR",
   "checkboxAs": "10",
   "prematch": [
-    { "name": "Scouter",
+    { "name": "Scouter Initials",
       "code": "s",
       "type": "scouter",
       "size": 5,
