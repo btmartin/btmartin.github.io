@@ -132,17 +132,25 @@ var config_data = `
       "code": "ls",
       "type": "counter"
     },
-    { "name": "Cycling Location",
-      "code": "fpu",
-      "type": "radio",
-      "choices": {
-        "o": "Single Substation<br>",
-        "s": "Double Substation Shelf<br>",
-        "f": "Double Substation Floor<br>",
-        "m": "Multiple Locations<br>",
-        "x": "No Cycling"
-      },
-      "defaultValue": "x"
+    { "name": "Cycling - Single Substation",
+      "code": "css",
+      "type": "bool"
+    },
+    { "name": "Cycling - Double Substation Shelf",
+      "code": "cdss",
+      "type": "bool"
+    },
+    { "name": "Cycling - Double Substation Floor",
+      "code": "cdsf",
+      "type": "bool"
+    },
+    { "name": "Cycling - Floor",
+      "code": "cf",
+      "type": "bool"
+    },
+    { "name": "No Cycling",
+      "code": "nc",
+      "type": "bool"
     }
   ],
   "endgame": [
