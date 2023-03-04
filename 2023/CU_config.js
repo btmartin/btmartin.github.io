@@ -108,15 +108,6 @@ var config_data = `
       "shape": "circle 12 black red true",
       "cycleTimer": "tct"
     },
-    { "name": "Feeder Count<br>(Fed another bot)",
-      "code": "tfc",
-      "type": "counter",
-      "cycleTimer": "tct"
-    },
-    { "name": "Was Fed<br>Game Pieces",
-      "code": "wf",
-      "type": "bool"
-    },
     { "name": "Was Defended",
       "code": "wd",
       "type": "bool"
