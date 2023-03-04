@@ -148,17 +148,6 @@ var config_data = `
     }
   ],
   "postmatch": [
-    { "name": "Driver Skill",
-      "code": "ds",
-      "type": "radio",
-      "choices": {
-        "n": "Not Effective<br>",
-        "a": "Average<br>",
-        "v": "Very Effective<br>",
-        "x": "Not Observed"
-      },
-      "defaultValue": "x"
-    },
     { "name": "Defense Rating",
       "code": "dr",
       "type": "radio",
@@ -171,19 +160,7 @@ var config_data = `
       },
       "defaultValue": "x"
     },
-    { "name": "Speed Rating",
-      "code": "sr",
-      "type": "radio",
-      "choices": {
-        "1": "1 (slow)<br>",
-        "2": "2<br>",
-        "3": "3<br>",
-        "4": "4<br>",
-        "5": "5 (fast)"
-      },
-      "defaultValue":"3"
-    },
-    { "name": "Died/Immobilized",
+    { "name": "Breakage / Connectivity Issues",
       "code": "die",
       "type": "bool"
     },
@@ -191,16 +168,29 @@ var config_data = `
       "code": "tip",
       "type": "bool"
     },
-    { "name": "Make good<br>alliance partner?",
-      "tooltip": "Would you want this robot on your alliance in eliminations?",
-      "code": "all",
-      "type": "bool"
-    },
-    { "name": "Comments",
-      "code": "co",
+    { "name": "Comments: Match Flow Issues",
+      "code": "coa",
       "type": "text",
       "size": 15,
-      "maxSize": 50
+      "maxSize": 1000
+    },
+    { "name": "Comments: Balancing Details",
+      "code": "cob",
+      "type": "text",
+      "size": 15,
+      "maxSize": 1000
+    },
+    { "name": "Comments: Defense Details",
+      "code": "coc",
+      "type": "text",
+      "size": 15,
+      "maxSize": 1000
+    },
+    { "name": "Comments: Other",
+      "code": "cod",
+      "type": "text",
+      "size": 15,
+      "maxSize": 1000
     }
   ]
 }`;
