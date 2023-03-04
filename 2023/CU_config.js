@@ -145,6 +145,17 @@ var config_data = `
         "x": "Not attempted"
       },
       "defaultValue": "x"
+    },
+    { "name": "Balance Speed",
+      "code": "bs",
+      "type":"radio",
+      "choices": {
+        "s": "Slow (&gt20)<br>",
+        "m": "Medium (10 - 20)<br>",
+        "f": "Fast (&lt10)<br>",
+        "x": "Not attempted"
+      },
+      "defaultValue": "x"
     }
   ],
   "postmatch": [
