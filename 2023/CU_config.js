@@ -129,10 +129,6 @@ var config_data = `
     }
   ],
   "endgame": [
-    { "name": "Docking Timer",
-      "code": "dt",
-      "type": "timer"
-    },
     { "name": "Final Status",
       "code": "fs",
       "type":"radio",
@@ -140,14 +136,11 @@ var config_data = `
         "p": "Parked<br>",
         "d": "Docked (Not Engaged)<br>",
         "e": "Engaged<br>",
+        "h": "Hanging off the side<br>",
         "a": "Attempted but failed<br>",
         "x": "Not attempted"
       },
       "defaultValue": "x"
-    },
-    { "name": "Total # of alliance<br>robots docked/engaged",
-      "code": "dn",
-      "type": "counter"
     }
   ],
   "postmatch": [
