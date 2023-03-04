@@ -139,6 +139,7 @@ var config_data = `
         "o": "Single Substation<br>",
         "s": "Double Substation Shelf<br>",
         "f": "Double Substation Floor<br>",
+        "m": "Multiple Locations<br>",
         "x": "No Cycling"
       },
       "defaultValue": "x"
