@@ -89,6 +89,18 @@ var config_data = `
         "x": "Not attempted"
       },
       "defaultValue": "x"
+    },
+    { "name": "Auto Type (relative to driver station)",
+      "code": "at",
+      "type":"radio",
+      "choices": {
+        "l": "Left<br>",
+        "r": "Right<br>",
+        "c": "Center<br>",
+        "o": "Other<br>",
+        "x": "Not attempted"
+      },
+      "defaultValue": "x"
     }
   ],
   "teleop": [
