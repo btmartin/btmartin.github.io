@@ -97,7 +97,7 @@ var config_data = `
         "b": "Bump Side<br>",
         "n": "No Bump Side<br>",
         "c": "Center<br>",
-        "o": "Other<br>",
+        "o": "Only Scored, No Movement<br>",
         "x": "Did Nothing"
       },
       "defaultValue": "x"
