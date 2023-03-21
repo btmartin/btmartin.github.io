@@ -94,11 +94,11 @@ var config_data = `
       "code": "at",
       "type":"radio",
       "choices": {
-        "l": "Left<br>",
-        "r": "Right<br>",
+        "b": "Bump Side<br>",
+        "n": "No Bump Side<br>",
         "c": "Center<br>",
         "o": "Other<br>",
-        "x": "Not attempted"
+        "x": "Did Nothing"
       },
       "defaultValue": "x"
     }
