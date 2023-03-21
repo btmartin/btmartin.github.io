@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "2481 Scouting",
-  "page_title": "2023 CIR",
+  "page_title": "2023 7 Rivers",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter Initials",
@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023ilpe",
+      "defaultValue": "2023wila",
       "required": "true",
       "disabled": "true"
     },
