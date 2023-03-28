@@ -4,22 +4,25 @@ var config_data = `
   "page_title": "2023 7 Rivers",
   "checkboxAs": "10",
   "prematch": [
-    { "name": "Scouter",
+    { "name": "Scouter Initials",
       "code": "s",
+      "gsCol": "scouter",
       "type": "scouter",
-      "size": 15,
-      "maxSize": 50,
+      "size": 5,
+      "maxSize": 5,
       "required": "true"
     },
     { "name": "Event",
       "code": "e",
+      "gsCol": "event",
       "type": "event",
-      "defaultValue": "2023wila",
+      "defaultValue": "2022ilpe",
       "required": "true",
       "disabled": "true"
     },
     { "name": "Match Level",
       "code": "l",
+      "gsCol": "level",
       "type": "level",
       "choices": {
         "qm": "Quals<br>",
@@ -31,6 +34,7 @@ var config_data = `
     },
     { "name": "Match #",
       "code": "m",
+      "gsCol": "matchNum",
       "type": "match",
       "min": 1,
       "max": 100,
@@ -38,6 +42,7 @@ var config_data = `
     },
     { "name": "Robot",
       "code": "r",
+      "gsCol": "robot",
       "type": "robot",
       "choices": {
         "r1": "Red-1",
@@ -51,10 +56,18 @@ var config_data = `
     },
     { "name": "Team #",
       "code": "t",
+      "gsCol": "teamNum",
       "type": "team",
       "min": 1,
-      "max": 99999,
-      "required": "true"
+      "max": 99999
+    },
+    { "name": "Auto Start Position",
+      "code": "as",
+      "gsCol": "autoStartPosition",
+      "type": "field_image",
+      "filename": "2023/field_image.png",
+      "clickRestriction": "one",
+      "shape": "circle 5 black red true"
     }
   ],
   "auton": [
