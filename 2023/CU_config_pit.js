@@ -12,62 +12,12 @@ var config_data = `
       "maxSize": 50,
       "required": "true"
     },
-    { "name": "Event",
-      "code": "e",
-      "gsCol": "event",
-      "type": "event",
-      "defaultValue": "2023wila",
-      "required": "true",
-      "disabled": "true"
-    },
-    { "name": "Match Level",
-      "code": "l",
-      "gsCol": "level",
-      "type": "level",
-      "choices": {
-        "qm": "Quals<br>",
-        "de": "Double Elimination<br>",
-        "f": "Finals"
-      },
-      "defaultValue": "qm",
-      "required": "true"
-    },
-    { "name": "Match #",
-      "code": "m",
-      "gsCol": "matchNum",
-      "type": "match",
-      "min": 1,
-      "max": 100,
-      "required": "true"
-    },
-    { "name": "Robot",
-      "code": "r",
-      "gsCol": "robot",
-      "type": "robot",
-      "choices": {
-        "r1": "Red-1",
-        "b1": "Blue-1<br>",
-        "r2": "Red-2",
-        "b2": "Blue-2<br>",
-        "r3": "Red-3",
-        "b3": "Blue-3"
-      },
-      "required":"true"
-    },
     { "name": "Team #",
       "code": "t",
       "gsCol": "teamNum",
       "type": "team",
       "min": 1,
       "max": 99999
-    },
-    { "name": "Auto Start Position",
-      "code": "as",
-      "gsCol": "autoStartPosition",
-      "type": "field_image",
-      "filename": "2023/field_image.png",
-      "clickRestriction": "one",
-      "shape": "circle 5 black red true"
     },
     { "name": "Weight With Bumpers",
       "code": "wwb",
@@ -112,7 +62,7 @@ var config_data = `
         "s": "Swerve<br>",
         "t": "Tank<br>",
         "m": "Mecanum<br>",
-        "o": "Omni",
+        "o": "Omni<br>",
         "r": "Other"
       },
       "defaultValue": "s"
