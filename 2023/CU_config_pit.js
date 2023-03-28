@@ -3,7 +3,7 @@ var config_data = `
   "title": "2481 Scouting - Pit",
   "page_title": "2023 7 Rivers - Pit",
   "checkboxAs": "10",
-  "prematch": [
+  "pit": [
     { "name": "Scouter",
       "code": "s",
       "gsCol": "scouter",
