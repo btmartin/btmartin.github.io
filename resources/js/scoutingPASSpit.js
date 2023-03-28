@@ -692,45 +692,14 @@ function configure() {
     }
   }
 
-  // Configure prematch screen
-  var pmc = mydata.prematch;
+  // Configure pit screen
+  var pmc = mydata.pit;
   var pmt = document.getElementById("prematch_table");
   var idx = 0;
   pmc.forEach(element => {
     idx = addElement(pmt, idx, element);
   });
 
-  // Configure auton screen
-  var ac = mydata.auton;
-  var at = document.getElementById("auton_table");
-  idx = 0;
-  ac.forEach(element => {
-    idx = addElement(at, idx, element);
-  });
-
-  // Configure teleop screen
-  var tc = mydata.teleop;
-  var tt = document.getElementById("teleop_table");
-  idx = 0;
-  tc.forEach(element => {
-    idx = addElement(tt, idx, element);
-  });
-
-  // Configure endgame screen
-  var egc = mydata.endgame;
-  var egt = document.getElementById("endgame_table");
-  idx = 0;
-  egc.forEach(element => {
-    idx = addElement(egt, idx, element);
-  });
-
-  // Configure postmatch screen
-  pmc = mydata.postmatch;
-  pmt = document.getElementById("postmatch_table");
-  var idx = 0;
-  pmc.forEach(element => {
-    idx = addElement(pmt, idx, element);
-  });
 
   if (!enableGoogleSheets) {
     document.getElementById("submit").style.display = "none";
@@ -926,9 +895,6 @@ function updateQRHeader() {
   var str = 'Event: !EVENT! Match: !MATCH! Robot: !ROBOT! Team: !TEAM!';
 
   str = str
-    .replace('!EVENT!', document.getElementById("input_e").value)
-    .replace('!MATCH!', document.getElementById("input_m").value)
-    .replace('!ROBOT!', document.getElementById("display_r").value)
     .replace('!TEAM!', document.getElementById("input_t").value);
 
   document.getElementById("display_qr-info").textContent = str;
