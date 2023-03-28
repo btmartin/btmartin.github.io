@@ -106,7 +106,7 @@ var config_data = `
       "toggleClick": "true",
       "showFlip": "false",
       "showUndo": "false",
-      "shape": "circle 12 black red true",
+      "shape": "circle 12 black red true"
     },
     { "name": "Successful Cycles",
       "code": "sc",
@@ -160,7 +160,7 @@ var config_data = `
         "x": "No points"
       },
       "defaultValue": "x"
-    },
+    }
   ],
   "postmatch": [
     { "name": "Defense Rating",
