@@ -7,8 +7,8 @@ var config_data = `
     { "name": "Scouter",
       "code": "s",
       "type": "scouter",
-      "size": 5,
-      "maxSize": 5,
+      "size": 15,
+      "maxSize": 50,
       "required": "true"
     },
     { "name": "Event",
