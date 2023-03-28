@@ -4,7 +4,7 @@ var config_data = `
   "page_title": "2023 7 Rivers",
   "checkboxAs": "10",
   "prematch": [
-    { "name": "Scouter Initials",
+    { "name": "Scouter",
       "code": "s",
       "type": "scouter",
       "size": 5,
@@ -55,19 +55,12 @@ var config_data = `
       "min": 1,
       "max": 99999
     },
-    { "name": "Auto Start Position",
-      "code": "as",
-      "type": "clickable_image",
-      "filename": "2023/field_image.png",
-      "clickRestriction": "one",
-      "shape": "circle 5 black red true"
-    }
   ],
   "auton": [
     { "name": "Auto Scoring",
       "code": "asg",
       "type": "clickable_image",
-      "filename": "2023/grid_image.png",
+      "filename": "2023/grid_image_2.png",
       "dimensions": "9 4",
       "clickRestriction": "onePerBox",
       "toggleClick": "true",
@@ -104,21 +97,24 @@ var config_data = `
     }
   ],
   "teleop": [
-    { "name": "Cycle Timer",
-      "code": "tct",
-      "type": "cycle"
-    },
     { "name": "Grid Scoring",
       "code": "tsg",
       "type": "clickable_image",
-      "filename": "2023/grid_image.png",
+      "filename": "2023/grid_image_2.png",
       "dimensions": "9 4",
       "clickRestriction": "onePerBox",
       "toggleClick": "true",
       "showFlip": "false",
       "showUndo": "false",
       "shape": "circle 12 black red true",
-      "cycleTimer": "tct"
+    },
+    { "name": "Successful Cycles",
+      "code": "sc",
+      "type": "counter"
+    },
+    { "name": "Missed Cycles",
+      "code": "mc",
+      "type": "counter"
     },
     { "name": "Was Defended",
       "code": "wd",
@@ -161,22 +157,10 @@ var config_data = `
         "p": "Parked<br>",
         "d": "Docked (Not Engaged)<br>",
         "e": "Engaged<br>",
-        "a": "Attempted but failed<br>",
-        "x": "Not attempted"
+        "x": "No points"
       },
       "defaultValue": "x"
     },
-    { "name": "Balance Speed",
-      "code": "bs",
-      "type":"radio",
-      "choices": {
-        "s": "Slow (&gt20)<br>",
-        "m": "Medium (10 - 20)<br>",
-        "f": "Fast (&lt10)<br>",
-        "x": "Not attempted"
-      },
-      "defaultValue": "x"
-    }
   ],
   "postmatch": [
     { "name": "Defense Rating",
@@ -202,25 +186,37 @@ var config_data = `
     { "name": "Comments: Match Flow Issues",
       "code": "coa",
       "type": "text",
-      "size": 15,
+      "size": 25,
+      "maxSize": 1000
+    },
+    { "name": "Comments: Tippiness",
+      "code": "cot",
+      "type": "text",
+      "size": 25,
+      "maxSize": 1000
+    },
+    { "name": "Comments: Fouls",
+      "code": "cof",
+      "type": "text",
+      "size": 25,
       "maxSize": 1000
     },
     { "name": "Comments: Balancing Details",
       "code": "cob",
       "type": "text",
-      "size": 15,
+      "size": 25,
       "maxSize": 1000
     },
     { "name": "Comments: Defense Details",
       "code": "coc",
       "type": "text",
-      "size": 15,
+      "size": 25,
       "maxSize": 1000
     },
     { "name": "Comments: Other",
       "code": "cod",
       "type": "text",
-      "size": 15,
+      "size": 25,
       "maxSize": 1000
     }
   ]
