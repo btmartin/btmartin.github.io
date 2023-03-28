@@ -112,7 +112,7 @@ var config_data = `
         "s": "Swerve<br>",
         "t": "Tank<br>",
         "m": "Mecanum<br>",
-        "o": "Omni"
+        "o": "Omni",
         "r": "Other"
       },
       "defaultValue": "s"
