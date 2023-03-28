@@ -4,19 +4,19 @@ var config_data = `
   "page_title": "2023 7 Rivers",
   "checkboxAs": "10",
   "prematch": [
-    { "name": "Scouter Initials",
+    { "name": "Scouter",
       "code": "s",
       "gsCol": "scouter",
       "type": "scouter",
-      "size": 5,
-      "maxSize": 5,
+      "size": 15,
+      "maxSize": 50,
       "required": "true"
     },
     { "name": "Event",
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2022ilpe",
+      "defaultValue": "2023wila",
       "required": "true",
       "disabled": "true"
     },
@@ -86,7 +86,7 @@ var config_data = `
       "code": "am",
       "type": "bool"
     },
-    { "name": "Docked",
+    { "name": "Charge Station",
       "code": "ad",
       "type":"radio",
       "choices": {
