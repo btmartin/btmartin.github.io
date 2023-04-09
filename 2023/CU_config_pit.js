@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "2481 Scouting - Pit",
-  "page_title": "2023 7 Rivers - Pit",
+  "page_title": "2023 Worlds - Pit",
   "checkboxAs": "10",
   "pit": [
     { "name": "Scouter",
@@ -19,7 +19,19 @@ var config_data = `
       "min": 1,
       "max": 99999
     },
-    { "name": "Weight With Bumpers",
+    { "name": "Drivetrain Type",
+      "code": "dt",
+      "type":"radio",
+      "choices": {
+        "s": "Swerve<br>",
+        "t": "Tank<br>",
+        "m": "Mecanum<br>",
+        "o": "Omni<br>",
+        "r": "Other"
+      },
+      "defaultValue": "s"
+    },
+    { "name": "Weight Without Bumpers",
       "code": "wwb",
       "type": "text",
       "size": 25,
@@ -37,35 +49,11 @@ var config_data = `
       "size": 25,
       "maxSize": 1000
     },
-    { "name": "What autos can they do",
-      "code": "au",
-      "type": "text",
-      "size": 25,
-      "maxSize": 1000
-    },
-    { "name": "Comments: Robot Build Quality",
-      "code": "cob",
-      "type": "text",
-      "size": 25,
-      "maxSize": 1000
-    },
-    { "name": "Other Comments",
+    { "name": "Comments",
       "code": "coo",
       "type": "text",
       "size": 25,
       "maxSize": 1000
-    },
-    { "name": "Drivetrain Type",
-      "code": "dt",
-      "type":"radio",
-      "choices": {
-        "s": "Swerve<br>",
-        "t": "Tank<br>",
-        "m": "Mecanum<br>",
-        "o": "Omni<br>",
-        "r": "Other"
-      },
-      "defaultValue": "s"
     }
   ]
 }`;
