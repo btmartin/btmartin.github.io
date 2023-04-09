@@ -925,7 +925,7 @@ function qr_clear() {
 function clearForm() {
   var e = 0;
 
-  swipePage(-1)
+  swipePage(-5)
 
   // Robot
   resetRobot()
