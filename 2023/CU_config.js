@@ -1,6 +1,6 @@
 var config_data = `
 {
-  "title": "2481 Scouting",
+  "title": "2481 Match Scouting",
   "page_title": "2023 Worlds",
   "checkboxAs": "10",
   "prematch": [
