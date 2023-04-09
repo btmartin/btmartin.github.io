@@ -923,18 +923,9 @@ function qr_clear() {
 }
 
 function clearForm() {
-  var match = 0;
   var e = 0;
 
-  swipePage(-5)
-
-  // Increment match
-  match = parseInt(document.getElementById("input_m").value)
-  if (match == NaN) {
-    document.getElementById("input_m").value = ""
-  } else {
-    document.getElementById("input_m").value = match + 1
-  }
+  swipePage(-1)
 
   // Robot
   resetRobot()
