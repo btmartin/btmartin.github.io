@@ -927,9 +927,6 @@ function clearForm() {
 
   swipePage(-5)
 
-  // Robot
-  resetRobot()
-
   // Clear XY coordinates
   inputs = document.querySelectorAll("[id*='XY_']");
   for (e of inputs) {
@@ -940,13 +937,6 @@ function clearForm() {
   inputs = document.querySelectorAll("[id*='input_']");
   for (e of inputs) {
     code = e.id.substring(6)
-
-    // Don't clear key fields
-    if (code == "m") continue
-    if (code.substring(0, 2) == "r_") continue
-    if (code.substring(0, 2) == "l_") continue
-    if (code == "e") continue
-    if (code == "s") continue
 
     if (e.className == "clickableImage") {
       e.value = "[]";
@@ -1392,9 +1382,6 @@ function copyData(){
 window.onload = function () {
   var ret = configure();
   if (ret != -1) {
-    var ec = document.getElementById("input_e").value;
-    getTeams(ec);
-    getSchedule(ec);
     this.drawFields();
     if (enableGoogleSheets) {
       console.log("Enabling Google Sheets.");
