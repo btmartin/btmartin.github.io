@@ -40,7 +40,7 @@ var config_data = `
       "max": 100,
       "required": "true"
     },
-    { "name": "Robot",
+    { "name": "Robot (Relative to the drivers looking at the robots, 1 is on the left, 2 is in the center, and 3 is on the right)",
       "code": "r",
       "gsCol": "robot",
       "type": "robot",
