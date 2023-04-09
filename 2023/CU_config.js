@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "2481 Scouting",
-  "page_title": "2023 7 Rivers",
+  "page_title": "2023 Worlds",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter",
@@ -89,6 +89,20 @@ var config_data = `
       },
       "defaultValue": "x"
     },
+    { "name": "Auto Missed Pieces",
+      "code": "amp",
+      "type": "counter"
+    },
+    { "name": "Auto Fouls",
+      "code": "af",
+      "type": "counter"
+    },
+    { "name": "Comments: Auto",
+      "code": "aco",
+      "type": "text",
+      "size": 25,
+      "maxSize": 1000
+    },
     { "name": "Auto Type (relative to driver station)",
       "code": "at",
       "type":"radio",
@@ -96,7 +110,6 @@ var config_data = `
         "b": "Bump Side<br>",
         "n": "No Bump Side<br>",
         "c": "Center<br>",
-        "o": "Only Scored, No Movement<br>",
         "x": "Did Nothing"
       },
       "defaultValue": "x"
@@ -114,23 +127,11 @@ var config_data = `
       "showUndo": "false",
       "shape": "circle 12 black red true"
     },
-    { "name": "Successful Cycles",
-      "code": "sc",
-      "type": "counter"
-    },
     { "name": "Missed Cycles",
       "code": "mc",
       "type": "counter"
     },
-    { "name": "Was Defended",
-      "code": "wd",
-      "type": "bool"
-    },
-    { "name": "Who Defended this bot",
-      "code": "who",
-      "type": "text"
-    },
-    { "name": "Fouls",
+    { "name": "Teleoperated Fouls",
       "code": "ls",
       "type": "counter"
     },
@@ -150,8 +151,8 @@ var config_data = `
       "code": "cf",
       "type": "bool"
     },
-    { "name": "No Cycling",
-      "code": "nc",
+    { "name": "Did the alliance finish the full grid?",
+      "code": "afg",
       "type": "bool"
     }
   ],
@@ -181,8 +182,20 @@ var config_data = `
       },
       "defaultValue": "x"
     },
-    { "name": "Breakage / Connectivity Issues",
-      "code": "die",
+    { "name": "Was Defended",
+      "code": "wd",
+      "type": "bool"
+    },
+    { "name": "Who Defended this bot",
+      "code": "who",
+      "type": "text"
+    },
+    { "name": "Breakage Issues",
+      "code": "bi",
+      "type": "bool"
+    },
+    { "name": "Connectivity Issues",
+      "code": "ci",
       "type": "bool"
     },
     { "name": "Tipped",
