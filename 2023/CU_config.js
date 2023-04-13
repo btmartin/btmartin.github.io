@@ -16,7 +16,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2023wila",
+      "defaultValue": "2023hcmp",
       "required": "true",
       "disabled": "true"
     },
