@@ -127,6 +127,10 @@ var config_data = `
       "showUndo": "false",
       "shape": "circle 12 black red true"
     },
+    { "name": "Double Scores on Grid",
+      "code": "afg",
+      "type": "counter"
+    },
     { "name": "Missed Cycles",
       "code": "mc",
       "type": "counter"
@@ -143,16 +147,12 @@ var config_data = `
       "code": "cdss",
       "type": "bool"
     },
-    { "name": "Cycling - Double Substation Floor",
+    { "name": "Cycling - Substation Floor",
       "code": "cdsf",
       "type": "bool"
     },
     { "name": "Cycling - Floor",
       "code": "cf",
-      "type": "bool"
-    },
-    { "name": "Did the alliance finish the full grid?",
-      "code": "afg",
       "type": "bool"
     }
   ],
