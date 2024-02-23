@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "2481 Match Scouting",
-  "page_title": "2023 Worlds",
+  "page_title": "2023 Greem Country",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter",
@@ -16,7 +16,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2023hop",
+      "defaultValue": "2024oktu",
       "required": "true",
       "disabled": "true"
     },
@@ -60,9 +60,7 @@ var config_data = `
       "type": "team",
       "min": 1,
       "max": 99999
-    }
-  ],
-  "auton": [
+    },
     { "name": "Auto Scoring",
       "code": "asg",
       "type": "clickable_image",
@@ -74,20 +72,21 @@ var config_data = `
       "showUndo": "false",
       "shape": "circle 12 black red true"
     },
-    { "name": "Mobility Bonus?",
-      "code": "am",
+    { "name": "Leave Bonus?",
+      "code": "al",
       "type": "bool"
     },
-    { "name": "Charge Station",
-      "code": "ad",
-      "type":"radio",
-      "choices": {
-        "d": "Docked (not Engaged)<br>",
-        "e": "Engaged<br>",
-        "a": "Attempted but failed<br>",
-        "x": "Not attempted"
-      },
-      "defaultValue": "x"
+    { "name": "Auto Speaker",
+      "code": "am",
+      "type": "counter"
+    },
+    { "name": "Auto Amp",
+      "code": "aa",
+      "type": "counter"
+    },
+    { "name": "Auto Missed",
+      "code": "am",
+      "type": "counter"
     },
     { "name": "Auto Missed Pieces",
       "code": "amp",
@@ -97,25 +96,27 @@ var config_data = `
       "code": "af",
       "type": "counter"
     },
+    { "name": "Auto Stop?",
+      "code": "ast",
+      "type": "bool"
+    },
+    { "name": "Auto Type (relative to driver station)",
+      "code": "at",
+      "type":"radio",
+      "choices": {
+        "a": "Amp Side<br>",
+        "l": "Loading Station Side<br>",
+        "s": "Against Speaker<br>",
+        "x": "Did Nothing"
+      },
+      "defaultValue": "x"
+    },
     { "name": "Comments: Auto",
       "code": "aco",
       "type": "text",
       "size": 25,
       "maxSize": 1000
     },
-    { "name": "Auto Type (relative to driver station)",
-      "code": "at",
-      "type":"radio",
-      "choices": {
-        "b": "Bump Side<br>",
-        "n": "No Bump Side<br>",
-        "c": "Center<br>",
-        "x": "Did Nothing"
-      },
-      "defaultValue": "x"
-    }
-  ],
-  "teleop": [
     { "name": "Grid Scoring",
       "code": "tsg",
       "type": "clickable_image",
@@ -154,9 +155,7 @@ var config_data = `
     { "name": "Cycling - Floor",
       "code": "cf",
       "type": "bool"
-    }
-  ],
-  "endgame": [
+    },
     { "name": "Final Status",
       "code": "fs",
       "type":"radio",
@@ -167,9 +166,7 @@ var config_data = `
         "x": "No points"
       },
       "defaultValue": "x"
-    }
-  ],
-  "postmatch": [
+    },
     { "name": "Defense Rating",
       "code": "dr",
       "type": "radio",
