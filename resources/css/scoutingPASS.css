@@ -19,12 +19,12 @@ html, body{
 
     font-family : -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
     text-align: center;
-    color: white;
+    color: black;
     font-size: 13px;
     font-style: bold;
     letter-spacing: 1px;
     border-width: 4px;
-    border-color: white;
+    border-color: black;
 }
 
 #auton_table, #endgame_table, #teleop_table {
@@ -54,8 +54,8 @@ html, body{
 }
 
 #prematchHeader1, #prematchHeader2{
-    color: white;
-    border-color: white;
+    color: black;
+    border-color: black;
     border-width: 4px;
 }
 
