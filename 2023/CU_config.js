@@ -65,6 +65,19 @@ var config_data = `
       "code": "a",
       "type": "bool"
     },
+    { "name": "Robot Start Location(relative to driver station)",
+      "code": "rsl",
+      "type":"radio",
+      "choices": {
+        "a": "Amp Side<br>",
+        "l": "Loading Station Side<br>",
+        "s": "Against Speaker<br>",
+        "x": "Did Nothing"
+      },
+      "defaultValue": "x"
+    }
+  ],
+  "match": [
     { "name": "Leave Bonus?",
       "code": "al",
       "type": "bool"
@@ -92,17 +105,6 @@ var config_data = `
     { "name": "Auto Stop?",
       "code": "ast",
       "type": "bool"
-    },
-    { "name": "Auto Type (relative to driver station)",
-      "code": "at",
-      "type":"radio",
-      "choices": {
-        "a": "Amp Side<br>",
-        "l": "Loading Station Side<br>",
-        "s": "Against Speaker<br>",
-        "x": "Did Nothing"
-      },
-      "defaultValue": "x"
     },
     { "name": "Comments: Auto",
       "code": "aco",
