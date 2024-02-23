@@ -45,9 +45,7 @@ var config_data = `
     },
     { "name": "Drive Under Stage?",
       "code": "dus",
-      "type": "text",
-      "size": 25,
-      "maxSize": 1000
+      "type": "bool"
     },
     { "name": "Comments",
       "code": "coo",
