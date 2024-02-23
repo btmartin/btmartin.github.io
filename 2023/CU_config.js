@@ -77,7 +77,7 @@ var config_data = `
       "defaultValue": "x"
     }
   ],
-  "match": [
+  "auton": [
     { "name": "Leave Bonus?",
       "code": "al",
       "type": "bool"
