@@ -84,6 +84,7 @@ var config_data = `
     },
     { "name": "Auto Speaker",
       "code": "am",
+      "text-color": "red",
       "type": "counter"
     },
     { "name": "Auto Amp",
