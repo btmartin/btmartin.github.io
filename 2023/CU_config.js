@@ -61,16 +61,9 @@ var config_data = `
       "min": 1,
       "max": 99999
     },
-    { "name": "Auto Scoring",
-      "code": "asg",
-      "type": "clickable_image",
-      "filename": "2023/grid_image_2.png",
-      "dimensions": "9 4",
-      "clickRestriction": "onePerBox",
-      "toggleClick": "true",
-      "showFlip": "false",
-      "showUndo": "false",
-      "shape": "circle 12 black red true"
+    { "name": "HP at amp?",
+      "code": "a",
+      "type": "bool"
     },
     { "name": "Leave Bonus?",
       "code": "al",
@@ -117,120 +110,72 @@ var config_data = `
       "size": 25,
       "maxSize": 1000
     },
-    { "name": "Grid Scoring",
-      "code": "tsg",
-      "type": "clickable_image",
-      "filename": "2023/grid_image_2.png",
-      "dimensions": "9 4",
-      "clickRestriction": "onePerBox",
-      "toggleClick": "true",
-      "showFlip": "false",
-      "showUndo": "false",
-      "shape": "circle 12 black red true"
-    },
-    { "name": "Double Scores on Grid",
-      "code": "afg",
+    { "name": "Teleop Amp Scores",
+      "code": "ta",
       "type": "counter"
     },
-    { "name": "Missed Cycles",
-      "code": "mc",
+    { "name": "Teleop Amp Misses",
+      "code": "tam",
+      "type": "counter"
+    },
+    { "name": "Teleop Speaker Scores",
+      "code": "ts",
+      "type": "counter"
+    },
+    { "name": "Teleop Speaker Misses",
+      "code": "ts",
       "type": "counter"
     },
     { "name": "Teleoperated Fouls",
-      "code": "ls",
+      "code": "tf",
       "type": "counter"
     },
-    { "name": "Cycling - Single Substation",
-      "code": "css",
-      "type": "bool"
-    },
-    { "name": "Cycling - Double Substation Shelf",
-      "code": "cdss",
-      "type": "bool"
-    },
-    { "name": "Cycling - Substation Floor",
-      "code": "cdsf",
-      "type": "bool"
-    },
     { "name": "Cycling - Floor",
-      "code": "cf",
+      "code": "tcf",
       "type": "bool"
+    },
+    { "name": "Cycling - Source",
+      "code": "tcs",
+      "type": "bool"
+    },
+    { "name": "Played Defense?",
+      "code": "tpd",
+      "type": "bool"
+    },
+    { "name": "Was Defended?",
+      "code": "twd",
+      "type": "bool"
+    },
+    { "name": "Traps",
+      "code": "et",
+      "type": "counter"
     },
     { "name": "Final Status",
-      "code": "fs",
+      "code": "ef",
       "type":"radio",
       "choices": {
         "p": "Parked<br>",
-        "d": "Docked (Not Engaged)<br>",
-        "e": "Engaged<br>",
+        "d": "Onstage<br>",
         "x": "No points"
       },
       "defaultValue": "x"
     },
-    { "name": "Defense Rating",
-      "code": "dr",
-      "type": "radio",
-      "choices": {
-        "b": "Below Average<br>",
-        "a": "Average<br>",
-        "g": "Good<br>",
-        "e": "Excellent<br>",
-        "x": "Did not play defense"
-      },
-      "defaultValue": "x"
-    },
-    { "name": "Was Defended",
-      "code": "wd",
+    { "name": "Scored Microphone?",
+      "code": "em",
       "type": "bool"
     },
-    { "name": "Who Defended this bot",
-      "code": "who",
-      "type": "text"
-    },
-    { "name": "Breakage Issues",
-      "code": "bi",
-      "type": "bool"
-    },
-    { "name": "Connectivity Issues",
-      "code": "ci",
-      "type": "bool"
-    },
-    { "name": "Tipped",
-      "code": "tip",
+    { "name": "Tippy?",
+      "code": "pt",
       "type": "bool"
     },
     { "name": "Comments: Match Flow Issues",
-      "code": "coa",
-      "type": "text",
-      "size": 25,
-      "maxSize": 1000
-    },
-    { "name": "Comments: Tippiness",
-      "code": "cot",
-      "type": "text",
-      "size": 25,
-      "maxSize": 1000
-    },
-    { "name": "Comments: Fouls",
       "code": "cof",
       "type": "text",
       "size": 25,
       "maxSize": 1000
     },
-    { "name": "Comments: Balancing Details",
-      "code": "cob",
-      "type": "text",
-      "size": 25,
-      "maxSize": 1000
-    },
-    { "name": "Comments: Defense Details",
-      "code": "coc",
-      "type": "text",
-      "size": 25,
-      "maxSize": 1000
-    },
     { "name": "Comments: Other",
-      "code": "cod",
+      "code": "coo",
       "type": "text",
       "size": 25,
       "maxSize": 1000
