@@ -37,14 +37,14 @@ var config_data = `
       "size": 25,
       "maxSize": 1000
     },
-    { "name": "Long Dimension",
-      "code": "ld",
+    { "name": "Dimensions No Bumpers",
+      "code": "dnb",
       "type": "text",
       "size": 25,
       "maxSize": 1000
     },
-    { "name": "Wide Dimension",
-      "code": "wd",
+    { "name": "Drive Under Stage?",
+      "code": "dus",
       "type": "text",
       "size": 25,
       "maxSize": 1000
