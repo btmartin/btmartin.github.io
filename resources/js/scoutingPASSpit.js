@@ -892,7 +892,7 @@ function getData(useStr) {
 }
 
 function updateQRHeader() {
-  var str = 'Event: !EVENT! Match: !MATCH! Robot: !ROBOT! Team: !TEAM!';
+  var str = 'Team: !TEAM!';
 
   str = str
     .replace('!TEAM!', document.getElementById("input_t").value);
