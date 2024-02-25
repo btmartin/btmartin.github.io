@@ -83,7 +83,7 @@ var config_data = `
       "type": "bool"
     },
     { "name": "Auto Speaker",
-      "code": "am",
+      "code": "as",
       "text-color": "red",
       "type": "counter"
     },
