@@ -188,7 +188,7 @@ var config_data = `
         "2": "Medium<br>",
         "1": "Low<br>",
         "0": "No"
-      }
+      },
       "defaultValue": "0"
     }
   ]
