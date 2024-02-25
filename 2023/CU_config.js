@@ -187,7 +187,7 @@ var config_data = `
         "3": "High<br>",
         "2": "Medium<br>",
         "1": "Low<br>",
-        "0": "No"
+        "0": "No<br>"
       },
       "defaultValue": "0"
     }
