@@ -708,9 +708,9 @@ function configure() {
     idx = addElement(at, idx, element);
   });
 
-  if (!enableGoogleSheets) {
-    document.getElementById("submit").style.display = "none";
-  }
+  //if (!enableGoogleSheets) {
+    //document.getElementById("submit").style.display = "none";
+  //}
 
   return 0
 }
