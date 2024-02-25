@@ -70,7 +70,7 @@ var config_data = `
       "type":"radio",
       "choices": {
         "a": "Amp Side<br>",
-        "l": "Loading Station Side<br>",
+        "l": "Source Side<br>",
         "s": "Against Speaker<br>",
         "x": "Did Nothing"
       },
@@ -122,7 +122,7 @@ var config_data = `
       "type": "counter"
     },
     { "name": "Teleop Speaker Misses",
-      "code": "ts",
+      "code": "tsm",
       "type": "counter"
     },
     { "name": "Teleoperated Fouls",
@@ -154,7 +154,8 @@ var config_data = `
       "type":"radio",
       "choices": {
         "p": "Parked<br>",
-        "d": "Onstage<br>",
+        "o": "Onstage<br>",
+        "h": "Onstage Harmony<br>",
         "x": "No points"
       },
       "defaultValue": "x"
