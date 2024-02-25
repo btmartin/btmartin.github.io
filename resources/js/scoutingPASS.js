@@ -708,30 +708,6 @@ function configure() {
     idx = addElement(at, idx, element);
   });
 
-  // Configure teleop screen
-  var tc = mydata.teleop;
-  var tt = document.getElementById("teleop_table");
-  idx = 0;
-  /*tc.forEach(element => {
-    idx = addElement(tt, idx, element);
-  });*/
-
-  // Configure endgame screen
-  var egc = mydata.endgame;
-  var egt = document.getElementById("endgame_table");
-  idx = 0;
-  /*egc.forEach(element => {
-    idx = addElement(egt, idx, element);
-  });*/
-
-  // Configure postmatch screen
-  pmc = mydata.postmatch;
-  pmt = document.getElementById("postmatch_table");
-  var idx = 0;
-  /*pmc.forEach(element => {
-    idx = addElement(pmt, idx, element);
-  });*/
-
   if (!enableGoogleSheets) {
     document.getElementById("submit").style.display = "none";
   }
