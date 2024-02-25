@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "2481 Match Scouting",
-  "page_title": "2023 Greem Country",
+  "page_title": "2023 Green Country",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter",
@@ -93,10 +93,6 @@ var config_data = `
     },
     { "name": "Auto Missed",
       "code": "am",
-      "type": "counter"
-    },
-    { "name": "Auto Missed Pieces",
-      "code": "amp",
       "type": "counter"
     },
     { "name": "Auto Fouls",
