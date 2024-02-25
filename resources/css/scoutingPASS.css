@@ -242,3 +242,7 @@ input {
     font-family:'Lucida Console', 'monospace';
     text-align: justify;
 }
+
+#display_qr-info {
+    text-color: black;
+}
