@@ -179,6 +179,15 @@ var config_data = `
       "type": "text",
       "size": 25,
       "maxSize": 1000
-    }
+    },
+    { "name": "Subjective Partner Evaluation",
+      "code": "ef",
+      "type":"radio",
+      "choices": {
+        "3": "High<br>",
+        "2": "Medium<br>",
+        "1": "Low<br>",
+        "0": "No"
+      }
   ]
 }`;
