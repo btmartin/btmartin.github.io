@@ -732,6 +732,10 @@ function configure() {
     idx = addElement(pmt, idx, element);
   });*/
 
+  if (!enableGoogleSheets) {
+    document.getElementById("submit").style.display = "none";
+  }
+
   return 0
 }
 
