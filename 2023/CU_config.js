@@ -181,7 +181,7 @@ var config_data = `
       "maxSize": 1000
     },
     { "name": "Subjective Partner Evaluation",
-      "code": "ef",
+      "code": "es",
       "type":"radio",
       "choices": {
         "3": "High<br>",
