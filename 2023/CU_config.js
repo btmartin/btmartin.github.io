@@ -153,10 +153,10 @@ var config_data = `
       "code": "ef",
       "type":"radio",
       "choices": {
-        "p": "Parked<br>",
-        "o": "Onstage<br>",
-        "h": "Onstage Harmony<br>",
-        "x": "No points"
+        "1": "Parked<br>",
+        "3": "Onstage<br>",
+        "4": "Onstage Harmony<br>",
+        "0": "No points"
       },
       "defaultValue": "x"
     },
