@@ -16,7 +16,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2024oktu",
+      "defaultValue": "2024ilpe",
       "required": "true",
       "disabled": "true"
     },
