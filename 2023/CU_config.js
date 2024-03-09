@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "2481 Match Scouting",
-  "page_title": "2023 Green Country",
+  "page_title": "2023 CIR",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter",
@@ -72,7 +72,7 @@ var config_data = `
         "a": "Amp Side<br>",
         "l": "Source Side<br>",
         "s": "Against Speaker<br>",
-        "x": "Did Nothing"
+        "x": "Out of the way"
       },
       "defaultValue": "x"
     }
@@ -87,12 +87,16 @@ var config_data = `
       "text-color": "red",
       "type": "counter"
     },
+    { "name": "Auto Speaker Missed",
+      "code": "asm",
+      "type": "counter"
+    },
     { "name": "Auto Amp",
       "code": "aa",
       "type": "counter"
     },
-    { "name": "Auto Missed",
-      "code": "am",
+    { "name": "Auto Amp Missed",
+      "code": "aam",
       "type": "counter"
     },
     { "name": "Auto Fouls",
@@ -123,6 +127,10 @@ var config_data = `
     },
     { "name": "Teleop Speaker Misses",
       "code": "tsm",
+      "type": "counter"
+    },
+    { "name": "Note Feed",
+      "code": "tnf",
       "type": "counter"
     },
     { "name": "Teleoperated Fouls",
