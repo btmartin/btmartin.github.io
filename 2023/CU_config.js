@@ -113,20 +113,20 @@ var config_data = `
       "size": 25,
       "maxSize": 1000
     },
-    { "name": "Teleop Amp Scores",
-      "code": "ta",
-      "type": "counter"
-    },
-    { "name": "Teleop Amp Misses",
-      "code": "tam",
-      "type": "counter"
-    },
     { "name": "Teleop Speaker Scores",
       "code": "ts",
       "type": "counter"
     },
     { "name": "Teleop Speaker Misses",
       "code": "tsm",
+      "type": "counter"
+    },
+    { "name": "Teleop Amp Scores",
+      "code": "ta",
+      "type": "counter"
+    },
+    { "name": "Teleop Amp Misses",
+      "code": "tam",
       "type": "counter"
     },
     { "name": "Note Feed",
