@@ -166,7 +166,7 @@ var config_data = `
         "4": "Onstage Harmony<br>",
         "0": "No points"
       },
-      "defaultValue": "x"
+      "defaultValue": "0"
     },
     { "name": "Scored Microphone?",
       "code": "em",
