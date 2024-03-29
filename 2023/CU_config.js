@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "2481 Match Scouting",
-  "page_title": "2023 CIR",
+  "page_title": "2023 Rocket City",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter",
@@ -16,7 +16,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2024ilpe",
+      "defaultValue": "2024alhu",
       "required": "true",
       "disabled": "true"
     },
@@ -103,10 +103,6 @@ var config_data = `
       "code": "af",
       "type": "counter"
     },
-    { "name": "Auto Stop?",
-      "code": "ast",
-      "type": "bool"
-    },
     { "name": "Comments: Auto",
       "code": "aco",
       "type": "text",
@@ -137,14 +133,6 @@ var config_data = `
       "code": "tf",
       "type": "counter"
     },
-    { "name": "Cycling - Floor",
-      "code": "tcf",
-      "type": "bool"
-    },
-    { "name": "Cycling - Source",
-      "code": "tcs",
-      "type": "bool"
-    },
     { "name": "Played Defense?",
       "code": "tpd",
       "type": "bool"
@@ -172,12 +160,14 @@ var config_data = `
       "code": "em",
       "type": "bool"
     },
-    { "name": "Tippy?",
-      "code": "pt",
-      "type": "bool"
-    },
     { "name": "Comments: Match Flow Issues",
       "code": "cof",
+      "type": "text",
+      "size": 25,
+      "maxSize": 1000
+    },
+    { "name": "Comments: Defense",
+      "code": "cod",
       "type": "text",
       "size": 25,
       "maxSize": 1000
@@ -187,17 +177,6 @@ var config_data = `
       "type": "text",
       "size": 25,
       "maxSize": 1000
-    },
-    { "name": "Subjective Partner Evaluation",
-      "code": "es",
-      "type":"radio",
-      "choices": {
-        "3": "High<br>",
-        "2": "Medium<br>",
-        "1": "Low<br>",
-        "0": "No<br>"
-      },
-      "defaultValue": "0"
     }
   ]
 }`;
