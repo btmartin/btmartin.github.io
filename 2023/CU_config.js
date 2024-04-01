@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "2481 Match Scouting",
-  "page_title": "2023 CIR",
+  "page_title": "2023 Rocket City",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter",
@@ -16,7 +16,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2024ilpe",
+      "defaultValue": "2024alhu",
       "required": "true",
       "disabled": "true"
     },
@@ -78,10 +78,6 @@ var config_data = `
     }
   ],
   "auton": [
-    { "name": "Leave Bonus?",
-      "code": "al",
-      "type": "bool"
-    },
     { "name": "Auto Speaker",
       "code": "as",
       "text-color": "red",
@@ -103,8 +99,8 @@ var config_data = `
       "code": "af",
       "type": "counter"
     },
-    { "name": "Auto Stop?",
-      "code": "ast",
+    { "name": "Leave Bonus?",
+      "code": "al",
       "type": "bool"
     },
     { "name": "Comments: Auto",
@@ -133,17 +129,25 @@ var config_data = `
       "code": "tnf",
       "type": "counter"
     },
+    { "name": "Scored Speaker Against Subwoofer?",
+      "code": "tsas",
+      "type": "bool"
+    },
+    { "name": "Scored Speaker Between Subwoofer and Podium?",
+      "code": "tssp",
+      "type": "bool"
+    },
+    { "name": "Scored Speaker Between Podium and Wing Line?",
+      "code": "tspw",
+      "type": "bool"
+    },
+    { "name": "Scored Speaker Beyond Wing Line?",
+      "code": "tsbw",
+      "type": "bool"
+    },
     { "name": "Teleoperated Fouls",
       "code": "tf",
       "type": "counter"
-    },
-    { "name": "Cycling - Floor",
-      "code": "tcf",
-      "type": "bool"
-    },
-    { "name": "Cycling - Source",
-      "code": "tcs",
-      "type": "bool"
     },
     { "name": "Played Defense?",
       "code": "tpd",
@@ -166,18 +170,20 @@ var config_data = `
         "4": "Onstage Harmony<br>",
         "0": "No points"
       },
-      "defaultValue": "x"
+      "defaultValue": "0"
     },
     { "name": "Scored Microphone?",
       "code": "em",
       "type": "bool"
     },
-    { "name": "Tippy?",
-      "code": "pt",
-      "type": "bool"
-    },
     { "name": "Comments: Match Flow Issues",
       "code": "cof",
+      "type": "text",
+      "size": 25,
+      "maxSize": 1000
+    },
+    { "name": "Comments: Defense",
+      "code": "cod",
       "type": "text",
       "size": 25,
       "maxSize": 1000
@@ -187,17 +193,6 @@ var config_data = `
       "type": "text",
       "size": 25,
       "maxSize": 1000
-    },
-    { "name": "Subjective Partner Evaluation",
-      "code": "es",
-      "type":"radio",
-      "choices": {
-        "3": "High<br>",
-        "2": "Medium<br>",
-        "1": "Low<br>",
-        "0": "No<br>"
-      },
-      "defaultValue": "0"
     }
   ]
 }`;

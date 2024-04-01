@@ -43,10 +43,6 @@ var config_data = `
       "size": 25,
       "maxSize": 1000
     },
-    { "name": "Drive Under Stage?",
-      "code": "dus",
-      "type": "bool"
-    },
     { "name": "Comments",
       "code": "coo",
       "type": "text",
