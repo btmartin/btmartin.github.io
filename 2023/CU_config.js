@@ -78,10 +78,6 @@ var config_data = `
     }
   ],
   "auton": [
-    { "name": "Leave Bonus?",
-      "code": "al",
-      "type": "bool"
-    },
     { "name": "Auto Speaker",
       "code": "as",
       "text-color": "red",
@@ -102,6 +98,10 @@ var config_data = `
     { "name": "Auto Fouls",
       "code": "af",
       "type": "counter"
+    },
+    { "name": "Leave Bonus?",
+      "code": "al",
+      "type": "bool"
     },
     { "name": "Comments: Auto",
       "code": "aco",
@@ -128,6 +128,22 @@ var config_data = `
     { "name": "Note Feed",
       "code": "tnf",
       "type": "counter"
+    },
+    { "name": "Scored Speaker Against Subwoofer?",
+      "code": "tsas",
+      "type": "bool"
+    },
+    { "name": "Scored Speaker Between Subwoofer and Podium?",
+      "code": "tssp",
+      "type": "bool"
+    },
+    { "name": "Scored Speaker Between Podium and Wing Line?",
+      "code": "tspw",
+      "type": "bool"
+    },
+    { "name": "Scored Speaker Beyond Wing Line?",
+      "code": "tsbw",
+      "type": "bool"
     },
     { "name": "Teleoperated Fouls",
       "code": "tf",
