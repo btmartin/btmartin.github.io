@@ -63,3 +63,21 @@ TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumbe
 9702_12,Krit,2024alhu,qm,12,2024alhu_qm12,r2,9702,22,7,14,1,6,1,1,0.833333333,0,s,1,1,0,0,0,0,,2,0,3,1,0,1,0,0,0,0,0,0,0,1,0,,,,Jonah,s,88,24 by 32,Able to feed and fast
 3140_12,ARR,2024alhu,qm,12,2024alhu_qm12,b2,3140,13,12,0,1,2,0,1,,0,l,1,2,0,0,0,0,,0,0,0,0,8,0,0,0,0,0,0,1,0,1,0,,,,ARR,s,110,29 29,Knowledge 5 out of 10. too Manny people in the pit
 5410_12,Shan,2024alhu,qm,12,2024alhu_qm12,b3,5410,14,2,9,3,4,4,,0.5,0,x,1,0,0,0,0,0,,3,0,1,4,0,1,1,0,0,1,0,0,0,3,0,Bad ay lining up speaker,,Threw pieces out of bounds  wobbly intake and shooter,Anna,s,114,24 by 32,0
+547_13,Krit,2024alhu,qm,13,2024alhu_qm13,r2,547,1,0,0,1,0,0,,,0,a,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Horrendous ,,Hayden and Drake ,t,59,27 by 33 point 5,Didn?t know answers fully
+4499_13,Luke,2024alhu,qm,13,2024alhu_qm13,b1,4499,32,7,16,9,10,2,1,0.8,1,l,1,1,0,0,0,0,,0,0,8,2,1,0,1,1,0,0,0,0,1,3,1,,,Played excellently,Luke,s,123,25x29,0
+9435_13,Anna,2024alhu,qm,13,2024alhu_qm13,b3,9435,12,7,4,1,3,0,1,1,0,s,1,1,0,0,0,0,,0,0,2,0,0,1,0,0,0,0,1,0,0,1,0,Slow  not good driver,Bad defence  did nothing,Tried to climb and failed,ARR,s,105,27 27,Knowledge 7 out of 10. reliable shot
+34_13,ARR,2024alhu,qm,13,2024alhu_qm13,b2,34,20,0,20,0,5,0,,1,0,a,0,0,0,0,0,0,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,ARR,s,85,29 29,Knowledge 8 out of 10
+6652_12,Liam,2024alhu,qm,12,2024alhu_qm12,r1,6652,34,15,16,3,11,1,1,0.888888889,0,s,0,3,0,0,0,0,,0,0,8,1,0,1,0,0,0,0,0,0,0,3,0,,,Great speaker score,Shan,t,90,24 by 25,0
+4306_13,Drake ,2024alhu,qm,13,2024alhu_qm13,r3,4306,-13,2,-15,0,0,0,,,1,l,1,0,0,0,0,0,Poor connection ,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,,,E stoped ,Levi H,s,100.3,32 x 27,Can go under stage and can climb
+9073_14,Krit,2024alhu,qm,14,2024alhu_qm14,r2,9073,12,0,12,0,3,0,,1,0,x,0,0,0,0,0,0,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Connectivity issues,,,Luke,s,66,26x26,Doesnt know much about robot
+120_14,Luke,2024alhu,qm,14,2024alhu_qm14,b1,120,7,0,6,1,3,2,0,0.75,1,s,0,0,0,1,0,0,A stopped,0,0,3,1,6,1,0,0,0,0,0,0,0,1,0,,,,ARR,s,115,31 28,Knowledge 7 out of 10
+3966_14,ARR,2024alhu,qm,14,2024alhu_qm14,b2,3966,16,7,8,1,5,2,1,0.666666667,0,l,1,1,0,0,0,0,,0,0,4,2,0,1,0,0,0,0,0,0,0,1,0,,,,Hayden and Drake ,s,82 point 8,30 by 30,0
+6517_14,Anna,2024alhu,qm,14,2024alhu_qm14,b3,6517,41,12,28,1,12,1,1,0.909090909,0,s,1,2,0,0,0,0,Tried to pick up a 3rd piece,4,1,6,0,0,0,1,1,0,0,0,0,0,1,0,Fast  good driver  high robot,,Tried to climb but then team mate ran into them,Jonah,s,111,24.5x27,22 ft per sec
+2393_14,Drake ,2024alhu,qm,14,2024alhu_qm14,r3,2393,2,0,2,0,1,4,0,0.25,0,s,0,0,0,1,0,0,Poor connection ,0,0,1,3,1,0,0,1,0,0,0,0,0,0,0,10 seconds to line up ,,,Hayden and Drake,s,119 point 8,28 by 28,0
+2481_15,Drake ,2024alhu,qm,15,2024alhu_qm15,r3,2481,58,27,28,3,15,0,1,1,1,s,1,5,0,0,0,0,,4,0,6,0,0,0,0,1,0,0,0,0,0,3,0,,,Poor connection ,#N/A,#N/A,#N/A,#N/A,#N/A
+5005_16,Shan,2024alhu,qm,16,2024alhu_qm16,b1,5005,-2,2,-5,1,0,0,,,0,x,1,0,0,0,0,0,,0,0,0,0,2,0,0,0,0,1,0,0,0,1,0,,,Fed from source  foul for carrying two notes  Note stuck on robot,Luke,s,110,28x28,Only picks up from the source
+9476_16,ARR,2024alhu,qm,16,2024alhu_qm16,b2,9476,0,0,0,0,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Not effective at defense,,,Luke,t,59,30x27,Kit bot
+8772_16,Drake ,2024alhu,qm,16,2024alhu_qm16,r3,8772,0,0,0,0,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,No show ,Luke ,t,75,31x31,Might not pass inspection
+7111_16,Liam,2024alhu,qm,16,2024alhu_qm16,r1,7111,13,10,2,1,3,0,1,1,0,s,0,2,0,0,0,0,,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,,,They were really bad,Anna,s,106,28 by 28,0
+931_16,Krit,2024alhu,qm,16,2024alhu_qm16,r2,931,26,5,20,1,11,1,1,0.909090909,0,l,0,1,0,0,0,0,A stopped,0,0,10,1,0,0,0,0,0,0,0,0,0,1,0,,,,Hayden/Drake,s,98 to100,29 by 29,0
+8841_16,Anna,2024alhu,qm,16,2024alhu_qm16,b3,8841,40,17,22,1,9,3,0.75,0.75,0,s,1,3,0,1,0,0,Tried to pick up a middle note,5,0,1,2,4,0,1,0,0,0,0,0,0,1,0,Fast ish,,Tried to climb,Levi H,s,116,30 x 30,Drive under stage and speaker amp and climb 
