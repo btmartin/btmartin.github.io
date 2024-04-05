@@ -117,7 +117,7 @@ TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumbe
 9590_22,Levi H,2024alhu,qm,22,2024alhu_qm22,b1,9590,4,2,2,0,1,0,,1,0,a,1,0,0,0,0,0,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,,,Kida tippy,Jonah,t,Not avaliable ,27 5 x 31 5,0
 323_22,Liam,2024alhu,qm,22,2024alhu_qm22,r1,323,35,5,30,0,12,3,1,0.785714286,1,s,0,1,0,0,0,0,,4,0,7,3,0,0,0,0,0,0,0,0,0,0,0,Fast good shooter,,,Anna,s,80,26 by 26,0
 3966_22,Rekka ,2024alhu,qm,22,2024alhu_qm22,r3,3966,21,12,8,1,6,2,1,0.666666667,0,s,1,2,0,0,0,0,,0,0,4,2,0,1,0,0,0,0,0,0,0,1,0,I couldn?t see the robot very well because of where I was sitting ,,,Hayden and Drake ,s,82 point 8,30 by 30,0
-2481_23,Shan,2024alhu,qm,23,2024alhu_qm23,b3,2481,73,15,54,4,24,2,0.8,0.952380952,1,s,0,4,0,1,0,1,,7,0,13,1,2,1,1,1,0,0,0,0,0,3,1,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+2481_23,Shan,2024alhu,qm,23,2024alhu_qm23,b3,2481,75,17,54,4,24,2,0.8,0.952380952,1,s,1,4,0,1,0,1,,7,0,13,1,2,1,1,1,0,0,0,0,0,3,1,,,,#N/A,#N/A,#N/A,#N/A,#N/A
 5005_24,Levi H,2024alhu,qm,24,2024alhu_qm24,b1,5005,5,2,0,3,0,0,,,0,l,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,,Not good defense ,Got note stuck ,Luke,s,110,28x28,Only picks up from the source
 4020_24,Liam,2024alhu,qm,24,2024alhu_qm24,r1,4020,40,10,22,8,11,1,0.666666667,1,0,s,0,2,0,1,0,0,,3,0,5,0,0,0,0,0,0,0,0,0,1,3,0,Fast cycles,,Slow amp ,#N/A,#N/A,#N/A,#N/A,#N/A
 1466_24,Shan,2024alhu,qm,24,2024alhu_qm24,b3,1466,24,7,14,3,6,1,1,0.833333333,0,s,1,1,0,0,0,0,,2,0,3,1,0,1,1,0,0,0,0,0,0,3,0,,,A little trouble at source,Shan,s,95,26 by 26 and half,0
@@ -187,3 +187,4 @@ TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumbe
 120_35,Shan,2024alhu,qm,35,2024alhu_qm35,b3,120,18,7,10,1,4,1,1,0.75,0,s,1,1,0,0,0,0,,2,0,1,1,6,1,0,0,0,0,0,1,0,1,0,,,Bad placement of fed notes,ARR,s,115,31 28,Knowledge 7 out of 10
 3984_35,ARR,2024alhu,qm,35,2024alhu_qm35,b2,3984,36,22,11,3,12,1,1,0.888888889,0,s,1,4,0,0,0,0,,0,0,8,1,0,1,0,0,0,1,0,0,0,3,0,Controlling more than one note at a time,,,Shan,s,101,29 by 29,0
 4635_35,Rekka,2024alhu,qm,35,2024alhu_qm35,r3,4635,38,7,28,3,9,2,1,0.8,0,l,1,1,0,0,0,0,,6,0,2,2,1,0,1,0,0,0,0,0,0,3,0,"Speaker half accuracy, prefers amp",Can take a hit,Quick climb,Jonah,s,119,24 30,Quick cycles. Said can shoot over and under stage
+2481_36,Shan,2024alhu,qm,36,2024alhu_qm36,b3,2481,47,27,17,3,12,1,0.833333333,1,1,s,1,5,0,1,0,0,,4,0,3,0,4,0,0,0,0,1,0,1,0,3,0,,8772 defended,,#N/A,#N/A,#N/A,#N/A,#N/A
