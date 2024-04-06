@@ -260,7 +260,7 @@ TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumbe
 4635_49,Levi H,2024alhu,qm,49,2024alhu_qm49,b1,4635,39,12,24,3,11,3,0.666666667,0.818181818,0,l,1,2,0,1,0,0,,3,0,6,2,0,0,1,0,0,0,0,0,0,3,0,,,Good driver,Jonah,s,119,24 30,Quick cycles. Said can shoot over and under stage
 7717_49,Liam,2024alhu,qm,49,2024alhu_qm49,r1,7717,20,5,14,1,5,0,1,1,0,s,0,1,0,0,0,0,,3,0,1,0,0,0,0,0,0,0,0,0,0,1,0,,Average ,,Hayden and drake,s,93,29 and 3 quarters by 29 and 3 quarters,0
 6652_49,Krit,2024alhu,qm,49,2024alhu_qm49,r2,6652,1,0,0,1,0,2,0,0,0,s,0,0,0,1,0,0,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,Connectivity issues ,,,Shan,t,90,24 by 25,0
-2481_50,Krit,2024alhu,qm,50,2024alhu_qm50,r2,2481,46,10,32,4,13,1,0.666666667,1,1,s,0,2,0,1,0,0,,5,0,6,0,2,1,1,0,0,0,0,0,0,4,0,,We got defended by basically the whole alliance ,,#N/A,#N/A,#N/A,#N/A,#N/A
+2481_50,Krit,2024alhu,qm,50,2024alhu_qm50,r2,2481,48,12,32,4,13,1,0.666666667,1,1,s,1,2,0,1,0,0,,5,0,6,0,2,1,1,0,0,0,0,0,0,4,0,,We got defended by basically the whole alliance ,,#N/A,#N/A,#N/A,#N/A,#N/A
 6404_51,Isaiah,2024alhu,qm,51,2024alhu_qm51,b3,6404,8,0,8,0,4,0,,1,0,s,0,0,0,0,0,0,,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,,,Connection issues,Levi H,s,101,35x35,Only speaker and can climb
 538_51,Drake ,2024alhu,qm,51,2024alhu_qm51,r3,538,3,2,0,1,0,1,,0,1,l,1,0,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,,,,Jonah,m,96,27 by 32,Intake destroyed according to them
 9476_51,ARR,2024alhu,qm,51,2024alhu_qm51,b2,9476,2,2,0,0,0,0,,,0,x,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Did nothing,,,Luke,t,59,30x27,Kit bot
@@ -338,7 +338,6 @@ TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumbe
 6517_64,Drake ,2024alhu,qm,64,2024alhu_qm64,r3,6517,29,12,14,3,7,1,1,0.833333333,0,l,1,2,0,0,0,0,,2,1,3,0,1,1,0,0,0,0,0,0,0,3,0,,,,Jonah,s,111,24.5x27,22 ft per sec
 6404_64,ARR,2024alhu,qm,64,2024alhu_qm64,b2,6404,19,5,10,4,6,2,1,0.714285714,0,a,0,1,0,0,0,0,,0,0,5,2,0,1,0,0,0,0,0,0,0,4,0,,,,Levi H,s,101,35x35,Only speaker and can climb
 4306_64,Brody,2024alhu,qm,64,2024alhu_qm64,b1,4306,1,0,0,1,0,1,,0,0,a,0,0,0,0,0,0,Brick,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,In way of own alliance at times,Attempted to block source from 323 and 6517 failure,Attempted climb but did not have enough time,Levi H,s,100.3,32 x 27,Can go under stage and can climb
-1466_64,Krit ,2024alhu,qm,64,2024alhu_qm64,r1,1466,26,5,18,3,6,0,1,1,0,s,0,1,0,0,0,0,,4,0,1,0,0,0,0,0,0,0,0,0,0,3,0,,,,Shan,s,95,26 by 26 and half,0
 1466_64,Hayden,2024alhu,qm,64,2024alhu_qm64,r1,1466,18,5,10,3,4,0,1,1,0,s,0,1,0,0,0,0,Slight connection issues ,2,0,1,0,0,0,0,0,0,0,0,0,0,3,0,,,Meh robot but it was kinda hard to see because people were standing in front of me ,Shan,s,95,26 by 26 and half,0
 323_64,Jonah ,2024alhu,qm,64,2024alhu_qm64,r2,323,12,5,4,3,2,2,0.5,0.5,0,s,0,1,0,1,0,0,,1,0,0,1,4,0,0,0,0,0,0,0,0,3,0,Lime light hooked on to blue Amp robot almost scored in blue,,,Anna,s,80,26 by 26,0
 3966_65,Drake ,2024alhu,qm,65,2024alhu_qm65,r3,3966,7,7,0,0,1,0,1,,0,s,1,1,0,0,0,0,A stop ,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,,, connection issue ,Hayden and Drake ,s,82 point 8,30 by 30,0
@@ -347,3 +346,22 @@ TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumbe
 3959_65,Isaiah,2024alhu,qm,65,2024alhu_qm65,b3,3959,9,0,8,1,4,1,,0.8,0,a,0,0,0,0,0,0,,0,0,4,1,0,1,0,0,0,0,0,0,0,1,0,,,New confused driver,#N/A,#N/A,#N/A,#N/A,#N/A
 538_65,Jonah ,2024alhu,qm,65,2024alhu_qm65,r2,538,3,2,0,1,0,0,,,0,l,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Veeeeerrry slow this match.,,Did literally nothing ,Jonah,m,96,27 by 32,Intake destroyed according to them
 4020_65,Brody,2024alhu,qm,65,2024alhu_qm65,b1,4020,51,22,28,1,14,0,1,1,0,s,1,4,0,0,0,0,,4,0,6,0,0,0,1,0,0,0,0,0,0,1,0,Not in way good driver,,,#N/A,#N/A,#N/A,#N/A,#N/A
+6652_66,Isaiah,2024alhu,qm,66,2024alhu_qm66,b3,6652,1,0,0,1,0,1,0,,0,s,0,0,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,Connection issues ,Shan,t,90,24 by 25,0
+5002_66,Jonah ,2024alhu,qm,66,2024alhu_qm66,r2,5002,26,5,18,3,6,1,1,0.833333333,0,s,0,1,0,0,0,0,,4,0,1,1,0,1,0,0,0,0,0,0,0,3,0,,,,Shan,s,110,24 by 29,0
+7111_66,Drake ,2024alhu,qm,66,2024alhu_qm66,r3,7111,12,7,4,1,3,2,0.5,0.666666667,0,s,1,1,0,1,0,0,,0,0,2,1,0,1,0,0,0,0,0,0,0,1,0,,,Lost connection but recovered ,Anna,s,106,28 by 28,0
+547_66,ARR,2024alhu,qm,66,2024alhu_qm66,b2,547,6,5,0,1,1,5,1,0,0,a,0,1,0,0,0,0,,0,0,0,5,0,1,0,0,0,0,0,0,0,1,0,,,,Hayden and Drake ,t,59,27 by 33 point 5,Didn?t know answers fully
+2638_66,Brody,2024alhu,qm,66,2024alhu_qm66,b1,2638,51,17,34,0,15,0,1,1,0,s,1,3,0,0,0,0,,5,0,7,0,0,1,0,0,0,0,0,0,0,0,0,,,They are fast,Luke,s,118,30x30,There selling feature was feeding
+4265_66,Hayden,2024alhu,qm,66,2024alhu_qm66,r1,4265,26,12,14,0,7,0,1,1,0,s,1,2,0,0,0,0,,2,0,3,0,1,0,0,0,0,0,0,0,0,0,0,,,Really fast robot they have a good intake and can are good at any field component ,Luke,s,123,29.5x30,Shifting swerve
+7725_67,Krit ,2024alhu,qm,67,2024alhu_qm67,r1,7725,1,0,0,1,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Slow and choppy movement,,Possibly broke intake ,#N/A,#N/A,#N/A,#N/A,#N/A
+34_67,Drake ,2024alhu,qm,67,2024alhu_qm67,r3,34,2,2,0,0,0,1,,0,0,l,1,0,0,0,0,0,A stop ,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,,Mechanical issue ,ARR,s,85,29 29,Knowledge 8 out of 10
+9702_67,Hayden,2024alhu,qm,67,2024alhu_qm67,r2,9702,18,5,12,1,7,2,1,0.75,0,s,0,1,0,0,0,0,,0,0,6,2,0,0,0,0,0,0,0,1,0,1,0,,2393 defended them,Mid speed,Jonah,s,88,24 by 32,Able to feed and fast
+9476_67,Isaiah,2024alhu,qm,67,2024alhu_qm67,b3,9476,2,2,0,0,0,0,,,0,l,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Could not get note from sorce and cloged it,,New driver defended their own amp for most the match,Luke,t,59,30x27,Kit bot
+2393_67,Brody,2024alhu,qm,67,2024alhu_qm67,b2,2393,14,5,8,1,5,0,1,1,0,s,0,1,0,0,0,0,Brick,0,0,4,0,2,0,1,0,0,0,0,0,0,1,0,Hovered around the source while feeding,,Missed two feeds,Hayden and Drake,s,119 point 8,28 by 28,0
+5557_67,Levi H,2024alhu,qm,67,2024alhu_qm67,b1,5557,48,17,28,3,13,1,0.75,1,0,s,1,3,0,1,0,0,,4,0,6,0,0,0,1,0,0,0,0,0,0,3,0,,,,Levi H,s,113,28 x 26,Drive under stage and can amp speaker and climb
+2481_68,Levi H,2024alhu,qm,68,2024alhu_qm68,b1,2481,60,12,44,4,15,3,0.5,0.928571429,1,s,1,2,0,2,0,0,,9,1,4,0,1,0,1,1,0,0,0,1,0,4,0,,,Cracked ,#N/A,#N/A,#N/A,#N/A,#N/A
+931_69,Krit ,2024alhu,qm,69,2024alhu_qm69,r1,931,30,5,22,3,10,2,1,0.818181818,1,s,0,1,0,0,0,0,,2,0,7,2,0,0,0,0,0,0,0,0,0,3,0,,,,Hayden/Drake,s,98 to100,29 by 29,0
+9067_69,Hayden,2024alhu,qm,69,2024alhu_qm69,r2,9067,32,22,10,0,7,0,1,1,0,s,1,4,0,0,0,0,,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Drove against wall caused them to slow down DRASTICALLY,,Dropped note ,Anna,s,84,28 by 28,4 note auto
+3139_69,Levi H,2024alhu,qm,69,2024alhu_qm69,b1,3139,17,0,16,1,4,0,,1,0,s,0,0,0,0,0,0,,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,,Luke,t,64,26x31,Amp no speaker
+5800_69,Brody,2024alhu,qm,69,2024alhu_qm69,b2,5800,11,7,4,0,2,0,1,1,0,s,1,1,0,0,0,0,Meant to shoot more but disconnected,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stuck in front of subwoofer,,Disconnected in auto came back in endgame,Anna,t,90,39 by 39,0
+7717_69,Isaiah,2024alhu,qm,69,2024alhu_qm69,b3,7717,9,5,4,0,3,2,1,0.5,0,s,0,1,0,0,0,0,,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,,,,Hayden and drake,s,93,29 and 3 quarters by 29 and 3 quarters,0
+5045_69,Drake ,2024alhu,qm,69,2024alhu_qm69,r3,5045,1,0,0,1,0,1,,0,0,a,0,0,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,,,,Levi H,s,77,28 x 28,Can go under stage 
