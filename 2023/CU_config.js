@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "2481 Match Scouting",
-  "page_title": "2023 Rocket City",
+  "page_title": "2024 Worlds",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter",
@@ -16,7 +16,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2024alhu",
+      "defaultValue": "2024cur",
       "required": "true",
       "disabled": "true"
     },
@@ -60,10 +60,6 @@ var config_data = `
       "type": "team",
       "min": 1,
       "max": 99999
-    },
-    { "name": "HP at amp?",
-      "code": "a",
-      "type": "bool"
     },
     { "name": "Robot Start Location(relative to driver station)",
       "code": "rsl",
@@ -129,6 +125,10 @@ var config_data = `
       "code": "tnf",
       "type": "counter"
     },
+    { "name": "Teleoperated Fouls",
+      "code": "tf",
+      "type": "counter"
+    },
     { "name": "Scored Speaker Against Subwoofer?",
       "code": "tsas",
       "type": "bool"
@@ -144,10 +144,6 @@ var config_data = `
     { "name": "Scored Speaker Beyond Wing Line?",
       "code": "tsbw",
       "type": "bool"
-    },
-    { "name": "Teleoperated Fouls",
-      "code": "tf",
-      "type": "counter"
     },
     { "name": "Played Defense?",
       "code": "tpd",
