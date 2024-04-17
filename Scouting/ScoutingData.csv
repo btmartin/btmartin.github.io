@@ -1,385 +1,301 @@
 TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumber,approxPoints,autoPoints,telePoints,endgamePoints,totalGamePieces,totalMisses,autoScorePercent,teleScorePercent,hpAtAmp,robotStartLocation,leaveBonus,autoSpeaker,autoAmp,autoSpeakerMiss,autoAmpMiss,autoFouls,autoComments,teleAmp,teleAmpMiss,teleSpeaker,teleSpeakerMiss,noteFeed,speakerScoredAgainstSub,speakerScoredSubToPodium,speakerScoredPodiumToWing,speakerScoredBeyondWing,teleFouls,playedDefense,wasDefended,traps,finalStatus,scoredMicrophone,flowComments,defenseComments,otherComments,pitScouter,drivetrainType,weightNoBumpers,dimensionsNoBumpers,pitComments
-5410_1,Luke,2024alhu,qm,1,2024alhu_qm1,b1,5410,25,12,12,1,8,3,1,0.666666667,1,s,1,2,0,0,0,0,,0,0,6,3,0,0,1,0,0,0,0,0,0,1,0,,,Wobbly shooter,Anna,s,114,24 by 32,0
-6107_1,Isaiah,2024alhu,qm,1,2024alhu_qm1,b3,6107,3,2,0,1,0,1,,0,0,l,1,0,0,0,0,0,,0,0,0,1,2,0,0,0,0,0,0,0,0,1,0,Blocked sorce for team ,,Slow cant pick up off ground and can score speaker ,Jonah,t,73,28 32 with bumpers,Floor and source intake
-7717_1,ARR,2024alhu,qm,1,2024alhu_qm1,b2,7717,10,5,4,1,2,0,1,1,0,x,0,1,0,0,0,0,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Note got stuck on them then freed it,,,Hayden and drake,s,93,29 and 3 quarters by 29 and 3 quarters,0
-4020_1,Drake ,2024alhu,qm,1,2024alhu_qm1,r3,4020,40,15,22,3,11,1,1,0.888888889,1,a,0,3,0,0,0,0,,3,0,5,1,0,1,0,0,0,0,0,1,0,3,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
-9590_1,Krit,2024alhu,qm,1,2024alhu_qm1,r2,9590,0,0,0,0,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Very hesitent,Disabled,Jonah,t,Not avaliable ,27 5 x 31 5,0
-3824_2,Drake ,2024alhu,qm,2,2024alhu_qm2,r3,3824,1,0,0,1,0,0,,,0,l,0,0,0,0,0,0,Did not move ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Maybe brown out e stoped ,,Struggle to move mechanical issue ,Hayden and Drake ,s,123 point 6,30 by 30,Didn?t really know the answers
-323_2,Isaiah,2024alhu,qm,2,2024alhu_qm2,b3,323,23,7,13,3,7,0,1,1,0,s,1,1,0,0,0,0,,3,0,3,0,0,0,1,0,0,1,0,0,0,3,0,,,Good driver,Anna,s,80,26 by 26,0
-547_2,Luke,2024alhu,qm,2,2024alhu_qm2,b1,547,0,0,0,0,0,1,,0,1,a,0,0,0,0,0,0,Did nothing ,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,,Prevented from getting out of source,Super slow and in the way,Hayden and Drake ,t,59,27 by 33 point 5,Didn?t know answers fully
-4635_2,ARR,2024alhu,qm,2,2024alhu_qm2,b2,4635,45,20,24,1,13,1,0.8,1,0,s,0,4,0,1,0,0,,3,0,6,0,0,0,1,0,0,0,0,0,0,1,0,,,,Jonah,s,119,24 30,Quick cycles. Said can shoot over and under stage
-7725_2,Liam,2024alhu,qm,2,2024alhu_qm2,r1,7725,-12,-3,-10,1,0,0,,,1,l,1,0,0,0,0,1,"Crossed middle line, got tech",0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,"Decent defense, needs to stay out of source",,Two source fouls,#N/A,#N/A,#N/A,#N/A,#N/A
-1466_1,Liam,2024alhu,qm,1,2024alhu_qm1,r1,1466,30,17,10,3,6,1,1,0.75,1,s,1,3,0,0,0,0,,2,0,1,1,0,0,1,0,0,0,0,0,0,3,0,Human player amped on a miss,,Intake issues,Shan,s,95,26 by 26 and half,0
-8841_2,Krit,2024alhu,qm,2,2024alhu_qm2,r2,8841,35,10,24,1,11,1,1,0.9,0,s,0,2,0,0,0,0,,3,0,6,1,0,1,0,0,0,0,0,0,0,1,0,,,,Levi H,s,116,30 x 30,Drive under stage and speaker amp and climb 
-9476_3,Luke,2024alhu,qm,3,2024alhu_qm3,b1,9476,0,0,0,0,0,0,,,1,l,0,0,0,0,0,0,Did nothing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Had connection issues,,,Luke,t,59,30x27,Kit bot
-6404_3,Drake ,2024alhu,qm,3,2024alhu_qm3,r3,6404,11,5,3,3,5,1,1,0.8,1,a,0,1,0,0,0,0,,0,0,4,1,0,1,0,0,0,1,0,0,0,3,0,,,,Levi H,s,101,35x35,Only speaker and can climb
-9067_3,Isaiah,2024alhu,qm,3,2024alhu_qm3,b3,9067,27,17,10,0,6,2,1,0.6,0,s,1,3,0,0,0,0,,2,0,1,2,0,1,0,0,0,0,0,0,0,0,0,,,,Anna,s,84,28 by 28,4 note auto
-5557_3,Krit,2024alhu,qm,3,2024alhu_qm3,r2,5557,41,20,20,1,13,0,1,1,0,s,0,4,0,0,0,0,,6,0,3,0,0,0,0,0,0,2,0,0,0,1,0,,,,Levi H,s,113,28 x 26,Drive under stage and can amp speaker and climb
-3139_3,ARR,2024alhu,qm,3,2024alhu_qm3,b2,3139,8,0,7,1,3,0,,1,0,x,0,0,0,0,0,0,,3,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Store fed,,Aggressively hitting opposing lines robot,Luke,t,64,26x31,Amp no speaker
-8773_3,Liam,2024alhu,qm,3,2024alhu_qm3,r1,8773,-10,0,-10,0,0,0,,,0,x,0,0,0,0,0,0,Did nothing,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,"Pushed into, 2 techs",,Can,Luke,m,45ish,32x27,Nothing but drivetrain
-8624_5,Shan,2024alhu,qm,5,2024alhu_qm5,b1,8624,0,0,0,0,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,No show,Levi H,s,49,24.5 x 27,Drive under stage and can score speaker
-4265_5,ARR,2024alhu,qm,5,2024alhu_qm5,b2,4265,34,17,14,3,9,0,1,1,1,a,1,3,0,0,0,0,,1,0,5,0,5,1,0,0,0,0,0,0,0,3,0,,,,Luke,s,123,29.5x30,Shifting swerve
-3984_5,Drake ,2024alhu,qm,5,2024alhu_qm5,r3,3984,27,12,14,1,9,1,1,0.875,1,s,1,2,0,0,0,0,,0,1,7,0,0,1,0,0,0,0,0,1,0,1,0,,,,Shan,s,101,29 by 29,0
-5800_5,Isaiah,2024alhu,qm,5,2024alhu_qm5,b3,5800,7,7,-1,1,2,1,1,0.5,0,s,1,1,0,0,0,0,,1,0,0,1,0,1,0,0,0,1,0,0,0,1,0,Got note stuck in them,,Rough posibly new driver,Anna,t,90,39 by 39,0
-8772_5,Krit,2024alhu,qm,5,2024alhu_qm5,r2,8772,0,0,0,0,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Not on the field,Luke ,t,75,31x31,Might not pass inspection
-2393_5,Liam,2024alhu,qm,5,2024alhu_qm5,r1,2393,11,0,10,1,5,0,,1,0,s,0,0,0,0,0,0,None,0,0,5,0,0,0,0,1,0,0,0,1,0,1,0,Semi fast,Easily guarded by 5800,Very good speaker score,Hayden and Drake,s,119 point 8,28 by 28,0
-3140_6,Liam,2024alhu,qm,6,2024alhu_qm6,r1,3140,19,0,16,3,8,2,0,1,0,s,0,0,0,2,0,0,,0,0,8,0,0,0,0,0,0,0,0,1,0,3,0,,Defended by 5005,,ARR,s,110,29 29,Knowledge 5 out of 10. too Manny people in the pit
-5005_6,Isaiah,2024alhu,qm,6,2024alhu_qm6,b3,5005,-3,2,-5,0,0,0,,,0,s,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Connection issues near the end,Mid,,Luke,s,110,28x28,Only picks up from the source
-6652_6,Krit,2024alhu,qm,6,2024alhu_qm6,r2,6652,4,0,4,0,2,1,,0.666666667,0,s,0,0,0,0,0,0,,0,0,2,1,0,1,0,0,0,0,1,0,0,0,0,,Not very effective ,,Shan,t,90,24 by 25,0
-9073_6,ARR,2024alhu,qm,6,2024alhu_qm6,b2,9073,9,0,8,1,2,0,,1,0,a,0,0,0,0,0,0,,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,,Luke,s,66,26x26,Doesnt know much about robot
-3959_6,Shan,2024alhu,qm,6,2024alhu_qm6,b1,3959,12,5,4,3,3,1,1,0.666666667,1,s,0,1,0,0,0,0,Tried to leave,0,0,2,1,0,1,0,0,0,0,0,0,0,3,0,Note stuck in robot for most of match,,Weak shooter,#N/A,#N/A,#N/A,#N/A,#N/A
-5002_6,Drake ,2024alhu,qm,6,2024alhu_qm6,r3,5002,13,0,12,1,3,3,,0.5,1,l,0,0,0,0,0,0,,3,2,0,1,0,0,0,0,0,0,0,0,0,1,0,,,,Shan,s,110,24 by 29,0
-2638_7,Drake ,2024alhu,qm,7,2024alhu_qm7,r3,2638,44,17,24,3,10,1,1,0.875,1,s,1,3,0,0,0,0,,5,1,2,0,0,1,0,0,0,0,0,0,0,3,0,,,Good strategy ,Luke,s,118,30x30,There selling feature was feeding
-3966_7,Luke,2024alhu,qm,7,2024alhu_qm7,b1,3966,16,12,3,1,6,0,1,1,1,s,1,2,0,0,0,0,,0,0,4,0,0,1,0,0,0,1,0,0,0,1,0,,,Very tank like,Hayden and Drake ,s,82 point 8,30 by 30,0
-9702_7,Shan,2024alhu,qm,7,2024alhu_qm7,b2,9702,8,0,5,3,4,2,0,0.8,0,s,0,0,0,1,0,0,,1,0,3,1,0,1,0,1,0,1,0,0,0,3,0,Took awhile for source for some reason,,Very fast with good shooter but was awkward,Jonah,s,88,24 by 32,Able to feed and fast
-9787_7,Isaiah,2024alhu,qm,7,2024alhu_qm7,b3,9787,11,2,8,1,3,2,0,0.75,0,s,1,0,0,1,0,0,,1,1,2,0,0,1,0,0,0,0,0,0,0,1,0,Got foul on teammate ,,,ARR,m,98,26 24,Knowledge 7 out of 10. low CG
-9435_7,Liam,2024alhu,qm,7,2024alhu_qm7,r1,9435,17,15,2,0,4,0,1,1,0,s,0,3,0,0,0,0,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,Hit and broke at start,ARR,s,105,27 27,Knowledge 7 out of 10. reliable shot
-5045_7,Krit,2024alhu,qm,7,2024alhu_qm7,r2,5045,3,0,2,1,1,0,,1,0,x,0,0,0,0,0,0,,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,Connectivity issues,,,Levi H,s,77,28 x 28,Can go under stage 
-4499_8,Liam,2024alhu,qm,8,2024alhu_qm8,r1,4499,37,5,24,8,9,1,1,0.875,0,s,0,1,0,0,0,0,,5,1,2,0,0,0,0,0,0,0,0,0,1,3,0,Very good amp bad speaker,,,Luke,s,123,25x29,0
-4306_8,Drake ,2024alhu,qm,8,2024alhu_qm8,r3,4306,0,0,0,0,0,0,,,1,a,0,0,0,0,0,0,A stop ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,E stop ,,,Levi H,s,100.3,32 x 27,Can go under stage and can climb
-120_8,Isaiah,2024alhu,qm,8,2024alhu_qm8,b3,120,5,2,2,1,1,3,0,0.333333333,0,s,1,0,0,1,0,0,,0,0,1,2,6,1,0,0,0,0,0,0,0,1,0,,,,ARR,s,115,31 28,Knowledge 7 out of 10
-8773_8,Luke,2024alhu,qm,8,2024alhu_qm8,b1,8773,0,0,0,0,0,0,,,1,a,0,0,0,0,0,0,Did nothing,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Was doing nothing and in the way,Not effective whatsoever ,DNP tank drive,Luke,m,45ish,32x27,Nothing but drivetrain
-7111_8,Krit,2024alhu,qm,8,2024alhu_qm8,r2,7111,24,7,16,1,9,2,1,0.8,0,s,1,1,0,0,0,0,A stopped ,0,0,8,2,0,1,1,0,0,0,0,0,0,1,0,,,,Anna,s,106,28 by 28,0
-931_8,Shan,2024alhu,qm,8,2024alhu_qm8,b2,931,38,12,26,0,11,4,0.666666667,0.75,1,s,1,2,0,1,0,0,,4,0,5,3,0,1,1,0,0,0,0,0,0,0,0,,,Had tendency to get note stuck in amp,Hayden/Drake,s,98 to100,29 by 29,0
-2973_9,Isaiah,2024alhu,qm,9,2024alhu_qm9,b3,2973,10,7,2,1,2,3,1,0.25,0,s,1,1,0,0,0,0,,0,0,1,3,0,1,0,0,0,0,0,0,0,1,0,,,Everything about it is slow,Anna,t,78,33  by 27,Low center of gravity
-6107_9,Luke,2024alhu,qm,9,2024alhu_qm9,b1,6107,13,0,12,1,3,0,,1,1,l,0,0,0,0,0,0,Did nothing,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Got in the way of teamates,,,Jonah,t,73,28 32 with bumpers,Floor and source intake
-3824_9,Krit,2024alhu,qm,9,2024alhu_qm9,r2,3824,3,2,0,1,0,0,,,0,x,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,Drive train probably broken,Hayden and Drake ,s,123 point 6,30 by 30,Didn?t really know the answers
-3139_9,Drake ,2024alhu,qm,9,2024alhu_qm9,r3,3139,2,2,0,0,0,0,,,0,l,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Mechanical issue,Luke,t,64,26x31,Amp no speaker
-4256_9,Liam,2024alhu,qm,9,2024alhu_qm9,r1,4256,22,10,12,0,8,3,0.666666667,0.75,0,x,0,2,0,1,0,0,,0,0,6,2,0,1,1,0,0,0,0,0,0,0,0,Semi fast,,Good speaker,ARR,s,111,28 32,Knowledge 9 out of 10. Can feed. Too many people in pit
-4020_9,Shan,2024alhu,qm,9,2024alhu_qm9,b2,4020,40,17,22,1,14,1,0.75,1,0,s,1,3,0,1,0,0,,0,0,11,0,0,0,1,1,0,0,0,0,0,1,0,,,Incredibly good driver stole from other robots,#N/A,#N/A,#N/A,#N/A,#N/A
-538_10,Luke,2024alhu,qm,10,2024alhu_qm10,b1,538,5,2,0,3,0,1,,0,1,l,1,0,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,1,0,0,3,0,,Played trash defense,Slow,Jonah,m,96,27 by 32,Intake destroyed according to them
-7725_10,ARR,2024alhu,qm,10,2024alhu_qm10,b2,7725,5,5,0,0,1,2,1,0,0,a,0,1,0,0,0,0,,0,0,0,2,0,1,0,0,0,0,1,0,0,0,0,Note it got stuck in intake,Not effective defense,Connection issues,#N/A,#N/A,#N/A,#N/A,#N/A
-7717_10,Shan,2024alhu,qm,10,2024alhu_qm10,b3,7717,15,0,14,1,5,0,,1,1,s,0,0,0,0,0,0,,2,0,3,0,0,1,0,0,0,0,0,0,0,1,0,,,Tried for harmony but missed,Hayden and drake,s,93,29 and 3 quarters by 29 and 3 quarters,0
-8841_10,Krit,2024alhu,qm,10,2024alhu_qm10,r2,8841,13,5,4,4,3,0,1,1,0,s,0,1,0,0,0,0,,0,0,2,0,5,1,0,0,0,0,0,0,0,4,0,,,,Levi H,s,116,30 x 30,Drive under stage and speaker amp and climb 
-4265_10,Liam,2024alhu,qm,10,2024alhu_qm10,r3,4265,21,7,14,0,6,1,1,0.833333333,0,a,1,1,0,0,0,0,Shot and moved,2,0,3,1,0,0,0,0,0,0,0,0,0,0,0,,,Solid amp score,Luke,s,123,29.5x30,Shifting swerve
-323_10,Liam,2024alhu,qm,10,2024alhu_qm10,r1,323,20,7,12,1,6,3,0.333333333,0.833333333,0,s,1,1,0,2,0,0,,1,0,4,1,0,0,0,0,0,0,0,1,0,1,0,,Defended by 7725,,Anna,s,80,26 by 26,0
-8772_11,ARR,2024alhu,qm,11,2024alhu_qm11,b2,8772,0,0,0,0,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Did not attend,Luke ,t,75,31x31,Might not pass inspection
-5557_11,Luke,2024alhu,qm,11,2024alhu_qm11,b1,5557,39,17,20,2,9,1,1,0.857142857,1,s,1,3,0,0,0,0,,4,0,2,1,0,1,1,0,0,0,0,0,0,1,1,,,,Levi H,s,113,28 x 26,Drive under stage and can amp speaker and climb
-1466_11,Shan,2024alhu,qm,11,2024alhu_qm11,b3,1466,18,7,11,0,6,2,1,0.714285714,0,s,1,1,0,0,0,0,Hit teammate a bit,3,0,2,2,0,1,1,0,0,1,0,1,0,0,0,,Bad against defense by 5002,,Shan,s,95,26 by 26 and half,0
-9590_11,Krit,2024alhu,qm,11,2024alhu_qm11,r2,9590,2,2,0,0,0,1,,0,0,s,1,0,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,,Driver seems confused,Jonah,t,Not avaliable ,27 5 x 31 5,0
-3984_12,Luke,2024alhu,qm,12,2024alhu_qm12,b1,3984,27,2,22,3,11,1,0,1,1,s,1,0,0,1,0,0,,0,0,11,0,0,1,0,0,0,0,0,0,0,3,0,,,,Shan,s,101,29 by 29,0
-5045_12,Drake ,2024alhu,qm,12,2024alhu_qm12,r3,5045,5,2,2,1,1,0,,1,1,l,1,0,0,0,0,0,,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,Note stuck ,Ok defense ,,Levi H,s,77,28 x 28,Can go under stage 
-6652_12,Liam,2024alhu,qm,12,2024alhu_qm12,r1,6652,2,0,2,0,1,3,,0.25,0,s,0,0,0,0,0,0,Did nothing,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,They cannot play offense,,They take to much time at everything,Shan,t,90,24 by 25,0
-9702_12,Krit,2024alhu,qm,12,2024alhu_qm12,r2,9702,22,7,14,1,6,1,1,0.833333333,0,s,1,1,0,0,0,0,,2,0,3,1,0,1,0,0,0,0,0,0,0,1,0,,,,Jonah,s,88,24 by 32,Able to feed and fast
-3140_12,ARR,2024alhu,qm,12,2024alhu_qm12,b2,3140,13,12,0,1,2,0,1,,0,l,1,2,0,0,0,0,,0,0,0,0,8,0,0,0,0,0,0,1,0,1,0,,,,ARR,s,110,29 29,Knowledge 5 out of 10. too Manny people in the pit
-5410_12,Shan,2024alhu,qm,12,2024alhu_qm12,b3,5410,14,2,9,3,4,4,,0.5,0,x,1,0,0,0,0,0,,3,0,1,4,0,1,1,0,0,1,0,0,0,3,0,Bad ay lining up speaker,,Threw pieces out of bounds  wobbly intake and shooter,Anna,s,114,24 by 32,0
-547_13,Krit,2024alhu,qm,13,2024alhu_qm13,r2,547,1,0,0,1,0,0,,,0,a,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,Horrendous ,,Hayden and Drake ,t,59,27 by 33 point 5,Didn?t know answers fully
-4499_13,Luke,2024alhu,qm,13,2024alhu_qm13,b1,4499,32,7,16,9,10,2,1,0.8,1,l,1,1,0,0,0,0,,0,0,8,2,1,0,1,1,0,0,0,0,1,3,1,,,Played excellently,Luke,s,123,25x29,0
-9435_13,Anna,2024alhu,qm,13,2024alhu_qm13,b3,9435,12,7,4,1,3,0,1,1,0,s,1,1,0,0,0,0,,0,0,2,0,0,1,0,0,0,0,1,0,0,1,0,Slow  not good driver,Bad defence  did nothing,Tried to climb and failed,ARR,s,105,27 27,Knowledge 7 out of 10. reliable shot
-34_13,ARR,2024alhu,qm,13,2024alhu_qm13,b2,34,20,0,20,0,5,0,,1,0,a,0,0,0,0,0,0,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,ARR,s,85,29 29,Knowledge 8 out of 10
-6652_12,Liam,2024alhu,qm,12,2024alhu_qm12,r1,6652,34,15,16,3,11,1,1,0.888888889,0,s,0,3,0,0,0,0,,0,0,8,1,0,1,0,0,0,0,0,0,0,3,0,,,Great speaker score,Shan,t,90,24 by 25,0
-4306_13,Drake ,2024alhu,qm,13,2024alhu_qm13,r3,4306,-13,2,-15,0,0,0,,,1,l,1,0,0,0,0,0,Poor connection ,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,,,E stoped ,Levi H,s,100.3,32 x 27,Can go under stage and can climb
-9073_14,Krit,2024alhu,qm,14,2024alhu_qm14,r2,9073,12,0,12,0,3,0,,1,0,x,0,0,0,0,0,0,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Connectivity issues,,,Luke,s,66,26x26,Doesnt know much about robot
-120_14,Luke,2024alhu,qm,14,2024alhu_qm14,b1,120,7,0,6,1,3,2,0,0.75,1,s,0,0,0,1,0,0,A stopped,0,0,3,1,6,1,0,0,0,0,0,0,0,1,0,,,,ARR,s,115,31 28,Knowledge 7 out of 10
-3966_14,ARR,2024alhu,qm,14,2024alhu_qm14,b2,3966,16,7,8,1,5,2,1,0.666666667,0,l,1,1,0,0,0,0,,0,0,4,2,0,1,0,0,0,0,0,0,0,1,0,,,,Hayden and Drake ,s,82 point 8,30 by 30,0
-6517_14,Anna,2024alhu,qm,14,2024alhu_qm14,b3,6517,41,12,28,1,12,1,1,0.909090909,0,s,1,2,0,0,0,0,Tried to pick up a 3rd piece,4,1,6,0,0,0,1,1,0,0,0,0,0,1,0,Fast  good driver  high robot,,Tried to climb but then team mate ran into them,Jonah,s,111,24.5x27,22 ft per sec
-2393_14,Drake ,2024alhu,qm,14,2024alhu_qm14,r3,2393,2,0,2,0,1,4,0,0.25,0,s,0,0,0,1,0,0,Poor connection ,0,0,1,3,1,0,0,1,0,0,0,0,0,0,0,10 seconds to line up ,,,Hayden and Drake,s,119 point 8,28 by 28,0
-2481_15,Drake ,2024alhu,qm,15,2024alhu_qm15,r3,2481,58,27,28,3,15,0,1,1,1,s,1,5,0,0,0,0,,4,0,6,0,0,0,0,1,0,0,0,0,0,3,0,,,Poor connection ,#N/A,#N/A,#N/A,#N/A,#N/A
-5005_16,Shan,2024alhu,qm,16,2024alhu_qm16,b1,5005,-2,2,-5,1,0,0,,,0,x,1,0,0,0,0,0,,0,0,0,0,2,0,0,0,0,1,0,0,0,1,0,,,Fed from source  foul for carrying two notes  Note stuck on robot,Luke,s,110,28x28,Only picks up from the source
-9476_16,ARR,2024alhu,qm,16,2024alhu_qm16,b2,9476,0,0,0,0,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Not effective at defense,,,Luke,t,59,30x27,Kit bot
-8772_16,Drake ,2024alhu,qm,16,2024alhu_qm16,r3,8772,0,0,0,0,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,No show ,Luke ,t,75,31x31,Might not pass inspection
-7111_16,Liam,2024alhu,qm,16,2024alhu_qm16,r1,7111,13,10,2,1,3,0,1,1,0,s,0,2,0,0,0,0,,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,,,They were really bad,Anna,s,106,28 by 28,0
-931_16,Krit,2024alhu,qm,16,2024alhu_qm16,r2,931,26,5,20,1,11,1,1,0.909090909,0,l,0,1,0,0,0,0,A stopped,0,0,10,1,0,0,0,0,0,0,0,0,0,1,0,,,,Hayden/Drake,s,98 to100,29 by 29,0
-8841_16,Anna,2024alhu,qm,16,2024alhu_qm16,b3,8841,40,17,22,1,9,3,0.75,0.75,0,s,1,3,0,1,0,0,Tried to pick up a middle note,5,0,1,2,4,0,1,0,0,0,0,0,0,1,0,Fast ish,,Tried to climb,Levi H,s,116,30 x 30,Drive under stage and speaker amp and climb 
-3959_17,Rekka ,2024alhu,qm,17,2024alhu_qm17,r1,3959,0,0,0,0,0,0,,,1,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sat entire match,,,#N/A,#N/A,#N/A,#N/A,#N/A
-4265_17,ARR,2024alhu,qm,17,2024alhu_qm17,b2,4265,36,5,28,3,11,2,0.333333333,1,0,a,0,1,0,2,0,0,,4,0,6,0,1,1,1,1,0,0,0,0,0,3,0,,,Connection issues,Luke,s,123,29.5x30,Shifting swerve
-8773_17,Anna,2024alhu,qm,17,2024alhu_qm17,b3,8773,0,0,0,0,0,0,,,0,l,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Did not move thw whole match,,Not a connection issue,Luke,m,45ish,32x27,Nothing but drivetrain
-3140_17,Drake ,2024alhu,qm,17,2024alhu_qm17,r3,3140,30,7,20,3,11,0,1,1,0,l,1,1,0,0,0,0,,0,0,10,0,0,1,0,0,0,0,0,1,0,3,0,,,Good at speaker ,ARR,s,110,29 29,Knowledge 5 out of 10. too Manny people in the pit
-6107_17,Krit,2024alhu,qm,17,2024alhu_qm17,r2,6107,1,0,0,1,0,0,,,0,a,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,,,Jonah,t,73,28 32 with bumpers,Floor and source intake
-3984_17,Shan,2024alhu,qm,17,2024alhu_qm17,b1,3984,10,12,-3,1,3,1,1,0.5,0,s,1,2,0,0,0,0,,0,0,1,1,0,0,0,0,0,1,1,0,0,1,0,Note got stuck in intake so switched to defense,Good defense on 6107 but ok defense on 3140,,Shan,s,101,29 by 29,0
-1466_18,ARR,2024alhu,qm,18,2024alhu_qm18,b2,1466,42,17,22,3,11,0,1,1,0,s,1,3,0,0,0,0,,3,0,5,0,0,1,0,0,0,0,0,0,0,3,0,,,,Shan,s,95,26 by 26 and half,0
-4256_18,Krit,2024alhu,qm,18,2024alhu_qm18,r2,4256,2,0,2,0,1,2,,0.333333333,0,x,0,0,0,0,0,0,,0,0,1,2,7,1,0,0,0,0,0,0,0,0,0,,,,ARR,s,111,28 32,Knowledge 9 out of 10. Can feed. Too many people in pit
-9702_18,Shan,2024alhu,qm,18,2024alhu_qm18,b1,9702,22,7,14,1,7,2,1,0.75,0,s,1,1,0,0,0,0,,1,0,5,2,0,1,1,0,0,0,0,0,0,1,0,,,Driver is extremly jerky  great potential though,Jonah,s,88,24 by 32,Able to feed and fast
-547_18,Anna,2024alhu,qm,18,2024alhu_qm18,b3,547,1,0,0,1,0,0,,,0,l,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Did nothing very slow bad driver,,Dnp got stuck in the stage bc tried to go under even tho it was to tall,Hayden and Drake ,t,59,27 by 33 point 5,Didn?t know answers fully
-5557_18,Drake ,2024alhu,qm,18,2024alhu_qm18,r3,5557,62,15,44,3,16,1,1,0.928571429,1,s,0,3,0,0,0,0,,9,1,4,0,0,1,0,0,0,0,0,0,0,3,0,,,,Levi H,s,113,28 x 26,Drive under stage and can amp speaker and climb
-4499_18,Rekka ,2024alhu,qm,18,2024alhu_qm18,r1,4499,29,12,14,3,9,1,1,0.875,0,l,1,2,0,0,0,0,,0,0,7,1,0,0,1,1,0,0,0,0,0,3,0,Failed trap,,Smart driver,Luke,s,123,25x29,0
-6652_19,Liam,2024alhu,qm,19,2024alhu_qm19,r1,6652,0,0,0,0,0,0,,,0,s,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Connection issues,,,Shan,t,90,24 by 25,0
-9435_19,Rekka ,2024alhu,qm,19,2024alhu_qm19,r2,9435,4,0,4,0,2,0,,1,0,x,0,0,0,0,0,0,,0,0,2,0,0,1,0,0,0,0,0,1,0,0,0,Incredibly slow and jerky,5002 shut them down,Dnp,ARR,s,105,27 27,Knowledge 7 out of 10. reliable shot
-2393_19,Levi H,2024alhu,qm,19,2024alhu_qm19,b1,2393,5,5,0,0,1,2,0.333333333,,0,s,0,1,0,2,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,They E stoped right in front of the speaker ,Hayden and Drake,s,119 point 8,28 by 28,0
-538_19,Drake ,2024alhu,qm,19,2024alhu_qm19,r3,538,5,2,0,3,0,1,,0,1,l,1,0,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,1,0,0,3,0,,,,Jonah,m,96,27 by 32,Intake destroyed according to them
-7725_19,Shan,2024alhu,qm,19,2024alhu_qm19,b2,7725,-2,2,-5,1,0,1,,0,0,l,1,0,0,0,0,0,Ran into teammates,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,,,Couldn,#N/A,#N/A,#N/A,#N/A,#N/A
-5002_19,Anna,2024alhu,qm,19,2024alhu_qm19,b3,5002,5,0,4,1,1,0,,1,0,a,0,0,0,0,0,0,,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Did nothing  slow,Bad,Could not pick up notes,Shan,s,110,24 by 29,0
-3824_20,Shan,2024alhu,qm,20,2024alhu_qm20,b2,3824,0,0,0,0,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,No show,Hayden and Drake ,s,123 point 6,30 by 30,Didn?t really know the answers
-6517_20,Liam,2024alhu,qm,20,2024alhu_qm20,r1,6517,38,10,20,8,10,1,1,0.875,0,l,0,2,0,0,0,0,,3,0,4,1,0,1,1,1,0,0,0,0,1,3,0,Good amp good speaker fast cycles,,,Jonah,s,111,24.5x27,22 ft per sec
-5045_20,Levi H,2024alhu,qm,20,2024alhu_qm20,b1,5045,5,2,2,1,1,2,,0.333333333,0,a,1,0,0,0,0,0,,0,0,1,2,0,1,0,0,0,0,1,0,0,1,0,,Defense was not good,,Levi H,s,77,28 x 28,Can go under stage 
-9073_20,Drake ,2024alhu,qm,20,2024alhu_qm20,r3,9073,5,0,4,1,1,1,,0.5,0,a,0,0,0,0,0,0,,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,,Played bad defense ,Connection issue before match ,Luke,s,66,26x26,Doesnt know much about robot
-2638_20,Rekka ,2024alhu,qm,20,2024alhu_qm20,r2,2638,39,10,28,1,11,1,0.666666667,1,0,s,0,2,0,1,0,0,,5,0,4,0,0,0,0,0,0,0,0,0,0,1,0,Slow intake,,"Jerky driving, pretty good cycler ",Luke,s,118,30x30,There selling feature was feeding
-34_20,Anna,2024alhu,qm,20,2024alhu_qm20,b3,34,10,2,8,0,2,1,,0.666666667,0,l,1,0,0,0,0,0,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Very jerky  Tippy  slow  did nothing all lot of the time,,Dnp,ARR,s,85,29 29,Knowledge 8 out of 10
-8624_21,Anna,2024alhu,qm,21,2024alhu_qm21,b3,8624,0,0,0,0,0,0,,,0,a,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Just sat there the whole match  did nothing,,Not connection issues,Levi H,s,49,24.5 x 27,Drive under stage and can score speaker
-4306_21,Liam,2024alhu,qm,21,2024alhu_qm21,r1,4306,0,0,0,0,0,0,,,0,s,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Never showed up,,,Levi H,s,100.3,32 x 27,Can go under stage and can climb
-9067_21,Levi H,2024alhu,qm,21,2024alhu_qm21,b1,9067,35,12,20,3,7,2,0.666666667,0.833333333,0,s,1,2,0,1,0,0,,5,0,0,1,0,0,1,0,0,0,0,0,0,3,0,,,,Anna,s,84,28 by 28,4 note auto
-9787_21,Rekka ,2024alhu,qm,21,2024alhu_qm21,r2,9787,19,5,14,0,5,1,1,0.8,0,s,0,1,0,0,0,0,,3,0,1,1,0,1,0,0,0,0,0,0,0,0,0,Only shoot auto,Doesn?t maneuver that well,Slow amp,ARR,m,98,26 24,Knowledge 7 out of 10. low CG
-4635_21,Shan,2024alhu,qm,21,2024alhu_qm21,b2,4635,25,12,12,1,7,1,0.666666667,1,1,l,1,2,0,1,0,0,,1,0,4,0,2,1,1,1,0,0,0,0,0,1,0,,,Fed directly from source,Jonah,s,119,24 30,Quick cycles. Said can shoot over and under stage
-5410_21,Drake ,2024alhu,qm,21,2024alhu_qm21,r3,5410,18,12,2,4,3,0,1,1,1,s,1,2,0,0,0,0,,0,0,1,0,0,1,0,0,0,0,1,0,0,3,1,,,Spotlight  ,Anna,s,114,24 by 32,0
-5800_22,Jonah ,2024alhu,qm,22,2024alhu_qm22,r2,5800,4,7,-3,0,2,1,0.5,1,0,s,1,1,0,1,0,0,,0,0,1,0,4,0,0,0,0,1,0,0,0,0,0,,,,Anna,t,90,39 by 39,0
-2973_22,Shan,2024alhu,qm,22,2024alhu_qm22,b3,2973,14,7,6,1,4,0,1,1,0,s,1,1,0,0,0,0,,0,0,3,0,0,1,0,0,0,0,0,0,0,1,0,Teammate in way at source for 40 sec,,Struggle to pick up,Anna,t,78,33  by 27,Low center of gravity
-9476_22,ARR,2024alhu,qm,22,2024alhu_qm22,b2,9476,0,0,0,0,0,0,,,0,l,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Spent the whole entire match trying to get a note into their shooter,,,Luke,t,59,30x27,Kit bot
-9590_22,Levi H,2024alhu,qm,22,2024alhu_qm22,b1,9590,4,2,2,0,1,0,,1,0,a,1,0,0,0,0,0,,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,,,Kida tippy,Jonah,t,Not avaliable ,27 5 x 31 5,0
-323_22,Liam,2024alhu,qm,22,2024alhu_qm22,r1,323,35,5,30,0,12,3,1,0.785714286,1,s,0,1,0,0,0,0,,4,0,7,3,0,0,0,0,0,0,0,0,0,0,0,Fast good shooter,,,Anna,s,80,26 by 26,0
-3966_22,Rekka ,2024alhu,qm,22,2024alhu_qm22,r3,3966,21,12,8,1,6,2,1,0.666666667,0,s,1,2,0,0,0,0,,0,0,4,2,0,1,0,0,0,0,0,0,0,1,0,I couldn?t see the robot very well because of where I was sitting ,,,Hayden and Drake ,s,82 point 8,30 by 30,0
-2481_23,Shan,2024alhu,qm,23,2024alhu_qm23,b3,2481,75,17,54,4,24,2,0.8,0.952380952,1,s,1,4,0,1,0,1,,7,0,13,1,2,1,1,1,0,0,0,0,0,3,1,,,,#N/A,#N/A,#N/A,#N/A,#N/A
-5005_24,Levi H,2024alhu,qm,24,2024alhu_qm24,b1,5005,5,2,0,3,0,0,,,0,l,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,,Not good defense ,Got note stuck ,Luke,s,110,28x28,Only picks up from the source
-4020_24,Liam,2024alhu,qm,24,2024alhu_qm24,r1,4020,40,10,22,8,11,1,0.666666667,1,0,s,0,2,0,1,0,0,,3,0,5,0,0,0,0,0,0,0,0,0,1,3,0,Fast cycles,,Slow amp ,#N/A,#N/A,#N/A,#N/A,#N/A
-1466_24,Shan,2024alhu,qm,24,2024alhu_qm24,b3,1466,24,7,14,3,6,1,1,0.833333333,0,s,1,1,0,0,0,0,,2,0,3,1,0,1,1,0,0,0,0,0,0,3,0,,,A little trouble at source,Shan,s,95,26 by 26 and half,0
-3139_24,Krit,2024alhu,qm,24,2024alhu_qm24,r2,3139,7,2,4,1,1,1,,0.5,0,l,1,0,0,0,0,0,,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Very Longggg load time,,,Luke,t,64,26x31,Amp no speaker
-5002_24,ARR,2024alhu,qm,24,2024alhu_qm24,b2,5002,5,2,0,3,0,0,,,0,l,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,Got to note stuck on them,Not effective,,Shan,s,110,24 by 29,0
-2393_24,Rekka ,2024alhu,qm,24,2024alhu_qm24,r3,2393,7,0,4,3,2,4,0,0.4,0,s,0,0,0,1,0,0,,0,0,2,3,0,0,0,1,0,0,0,0,0,3,0,Slow at source,,I might have missed a speaker score,Hayden and Drake,s,119 point 8,28 by 28,0
-8772_25,Krit,2024alhu,qm,25,2024alhu_qm25,r2,8772,0,0,0,0,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Not on field,Luke ,t,75,31x31,Might not pass inspection
-4499_25,Liam,2024alhu,qm,25,2024alhu_qm25,r1,4499,21,20,0,1,4,0,1,,0,s,0,4,0,0,0,0,Hit stage,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,Below average,Broke,Luke,s,123,25x29,0
-4256_25,Isaiah,2024alhu,qm,25,2024alhu_qm25,b3,4256,19,12,6,1,5,3,0.666666667,0.6,0,a,1,2,0,1,0,0,,0,0,3,2,2,0,1,0,0,0,0,0,0,1,0,,,,ARR,s,111,28 32,Knowledge 9 out of 10. Can feed. Too many people in pit
-6517_25,Levi H,2024alhu,qm,25,2024alhu_qm25,b1,6517,44,12,32,0,12,0,1,1,0,s,1,2,0,0,0,0,,6,0,4,0,0,0,1,0,0,0,0,1,0,0,0,,,Good driver,Jonah,s,111,24.5x27,22 ft per sec
-7725_25,Drake ,2024alhu,qm,25,2024alhu_qm25,r3,7725,9,7,2,0,2,0,1,1,1,l,1,1,0,0,0,0,A stop ,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,,Ok defense ,Connection issue and recovered multiple times ,#N/A,#N/A,#N/A,#N/A,#N/A
-5045_25,ARR,2024alhu,qm,25,2024alhu_qm25,b2,5045,3,2,0,1,0,1,,0,0,l,1,0,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,Note stuck in their intake,,,Levi H,s,77,28 x 28,Can go under stage 
-9067_26,Isaiah,2024alhu,qm,26,2024alhu_qm26,b3,9067,13,7,6,0,3,1,0.5,1,0,a,1,1,0,1,0,0,,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,,,Connection issues,Anna,s,84,28 by 28,4 note auto
-2638_26,Liam,2024alhu,qm,26,2024alhu_qm26,r1,2638,31,0,28,3,10,2,0,1,0,s,0,0,0,2,0,0,,4,0,6,0,0,0,0,0,0,0,0,0,0,3,0,Average amp score,,Good speaker score,Luke,s,118,30x30,There selling feature was feeding
-9073_26,Levi H,2024alhu,qm,26,2024alhu_qm26,b1,9073,15,2,12,1,3,0,,1,0,l,1,0,0,0,0,0,,3,0,0,0,3,0,0,0,0,0,0,0,0,1,0,,,,Luke,s,66,26x26,Doesnt know much about robot
-3984_26,ARR,2024alhu,qm,26,2024alhu_qm26,b2,3984,36,17,16,3,11,0,1,1,0,l,1,3,0,0,0,0,,0,0,8,0,0,1,0,0,0,0,0,0,0,3,0,,,,Shan,s,101,29 by 29,0
-8841_26,Drake ,2024alhu,qm,26,2024alhu_qm26,r3,8841,27,12,12,3,7,1,1,0.833333333,1,s,1,2,0,0,0,0,A stop ,1,0,4,1,2,1,0,0,0,0,0,1,0,3,0,,,,Levi H,s,116,30 x 30,Drive under stage and speaker amp and climb 
-6107_26,Krit,2024alhu,qm,26,2024alhu_qm26,r2,6107,5,2,2,1,1,2,,0.333333333,0,x,1,0,0,0,0,0,,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,,,,Jonah,t,73,28 32 with bumpers,Floor and source intake
-547_27,Isaiah,2024alhu,qm,27,2024alhu_qm27,b3,547,1,0,0,1,0,0,,,0,a,0,0,0,0,0,0,,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,,,Slow timid driver weak robot terrible feeder ,Hayden and Drake ,t,59,27 by 33 point 5,Didn?t know answers fully
-9476_27,Liam,2024alhu,qm,27,2024alhu_qm27,r1,9476,0,0,0,0,0,1,,0,0,s,0,0,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,These guys are not good at anything ,,,Luke,t,59,30x27,Kit bot
-3959_27,Levi H,2024alhu,qm,27,2024alhu_qm27,b1,3959,3,0,2,1,1,0,,1,0,s,0,0,0,0,0,0,A stoped,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,,,Got in the way,#N/A,#N/A,#N/A,#N/A,#N/A
-5410_27,ARR,2024alhu,qm,27,2024alhu_qm27,b2,5410,22,7,14,1,8,1,1,0.875,0,s,1,1,0,0,0,0,,0,0,7,1,0,1,0,0,0,0,0,0,0,1,0,,,,Anna,s,114,24 by 32,0
-5800_27,Krit,2024alhu,qm,27,2024alhu_qm27,r2,5800,16,12,4,0,4,3,1,0.4,0,s,1,2,0,0,0,0,,0,0,2,3,0,1,0,0,0,0,0,0,0,0,0,,,,Anna,t,90,39 by 39,0
-5800_27,Krit,2024alhu,qm,27,2024alhu_qm27,r2,5800,16,12,4,0,4,3,1,0.4,0,s,1,2,0,0,0,0,,0,0,2,3,0,1,0,0,0,0,0,0,0,0,0,,,,Anna,t,90,39 by 39,0
-9787_27,Drake ,2024alhu,qm,27,2024alhu_qm27,r3,9787,-4,0,-5,1,0,0,,,1,a,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,,Bad defense ,Connection issue in the beginning ,ARR,m,98,26 24,Knowledge 7 out of 10. low CG
-9435_28,Krit,2024alhu,qm,28,2024alhu_qm28,r2,9435,7,0,6,1,3,1,,0.75,0,x,0,0,0,0,0,0,,0,0,3,1,0,0,0,0,0,0,0,0,0,1,0,,,,ARR,s,105,27 27,Knowledge 7 out of 10. reliable shot
-120_28,Rekka ,2024alhu,qm,28,2024alhu_qm28,r1,120,24,7,16,1,5,2,1,0.666666667,0,s,1,1,0,0,0,0,,4,0,0,2,0,1,0,0,0,0,0,1,0,1,0,Source direct drop in amp,,,ARR,s,115,31 28,Knowledge 7 out of 10
-3140_28,ARR,2024alhu,qm,28,2024alhu_qm28,b2,3140,24,5,16,3,8,0,1,1,0,l,0,1,0,0,0,0,,1,0,6,0,0,1,0,0,0,0,0,0,0,3,0,,,,ARR,s,110,29 29,Knowledge 5 out of 10. too Manny people in the pit
-538_28,Shan,2024alhu,qm,28,2024alhu_qm28,b1,538,3,2,0,1,0,1,,0,0,x,1,0,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,,Good defense on 2973 9435 and 120,,Jonah,m,96,27 by 32,Intake destroyed according to them
-5557_28,Isaiah,2024alhu,qm,28,2024alhu_qm28,b3,5557,46,17,28,1,13,1,1,0.909090909,0,s,1,3,0,0,0,0,,4,0,6,1,0,1,1,0,0,0,0,0,0,1,0,,,,Levi H,s,113,28 x 26,Drive under stage and can amp speaker and climb
-2973_28,Drake ,2024alhu,qm,28,2024alhu_qm28,r3,2973,10,5,4,1,3,0,1,1,1,a,0,1,0,0,0,0,,0,0,2,0,0,1,0,0,0,0,0,0,0,1,0,,,Tippy ,Anna,t,78,33  by 27,Low center of gravity
-2481_29,ARR,2024alhu,qm,29,2024alhu_qm29,b2,2481,66,27,38,1,19,0,1,1,0,s,1,5,0,0,0,0,,5,0,9,0,6,0,1,1,1,0,0,0,0,1,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
-34_30,ARR,2024alhu,qm,30,2024alhu_qm30,b2,34,6,2,4,0,1,0,,1,1,l,1,0,0,0,0,0,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stopped at moving,,,ARR,s,85,29 29,Knowledge 8 out of 10
-323_30,Isaiah,2024alhu,qm,30,2024alhu_qm30,b3,323,10,7,2,1,2,0,1,1,0,s,1,1,0,0,0,0,,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,,Played below average defence against 4635 4625,Arm got stuck or broke,Anna,s,80,26 by 26,0
-4020_30,Krit,2024alhu,qm,30,2024alhu_qm30,r2,4020,24,5,18,1,9,1,1,0.888888889,0,l,0,1,0,0,0,0,,1,0,7,1,0,1,0,0,0,0,0,0,0,1,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
-931_30,Shan,2024alhu,qm,30,2024alhu_qm30,b1,931,30,12,18,0,11,1,1,0.9,0,s,1,2,0,0,0,0,,0,0,9,1,0,1,1,0,0,0,0,0,0,0,0,,,Did not park when they had no time,Hayden/Drake,s,98 to100,29 by 29,0
-4265_30,Rekka,2024alhu,qm,30,2024alhu_qm30,r1,4265,13,0,12,1,5,3,0,0.714285714,0,x,0,0,0,1,0,0,,1,2,4,0,0,0,1,0,0,0,0,0,0,1,0,Drives jerky,323 slowed them down ,,Luke,s,123,29.5x30,Shifting swerve
-4635_30,Drake ,2024alhu,qm,30,2024alhu_qm30,r3,4635,36,17,18,1,9,0,1,1,1,s,1,3,0,0,0,0,,3,0,3,0,0,1,0,0,0,0,0,0,0,1,0,,,,Jonah,s,119,24 30,Quick cycles. Said can shoot over and under stage
-9590_31,Liam,2024alhu,qm,31,2024alhu_qm31,r1,9590,0,0,0,0,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Not there,,,Jonah,t,Not avaliable ,27 5 x 31 5,0
-9702_31,Isaiah ,2024alhu,qm,31,2024alhu_qm31,b3,9702,12,7,4,1,3,0,1,1,0,s,1,1,0,0,0,0,,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,,,Connection issues mid speed poor intake,Jonah,s,88,24 by 32,Able to feed and fast
-3824_31,Levi H,2024alhu,qm,31,2024alhu_qm31,b1,3824,0,0,0,0,0,0,,,0,l,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,Defense is not good,,Hayden and Drake ,s,123 point 6,30 by 30,Didn?t really know the answers
-6404_31,Shan,2024alhu,qm,31,2024alhu_qm31,b2,6404,11,0,8,3,4,5,,0.444444444,0,s,0,0,0,0,0,0,,0,1,4,4,0,1,0,0,0,0,0,0,0,3,0,In way of 9702,,Weak shooter,Levi H,s,101,35x35,Only speaker and can climb
-5005_31,Drake ,2024alhu,qm,31,2024alhu_qm31,r3,5005,0,2,-5,3,0,2,0,0,1,l,1,0,0,1,0,0,,0,0,0,1,0,0,0,0,0,1,1,0,0,3,0,,,Mechanical issue ,Luke,s,110,28x28,Only picks up from the source
-7717_31,Rekka,2024alhu,qm,31,2024alhu_qm31,r2,7717,11,7,4,0,3,1,0.5,1,0,s,1,1,0,1,0,0,,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,Died in mid field,"Tower bot defended, kinda slowed them down, but they dodnt do anything to begin woth",Low to no,Hayden and drake,s,93,29 and 3 quarters by 29 and 3 quarters,0
-8624_32,Levi H,2024alhu,qm,32,2024alhu_qm32,b1,8624,0,0,0,0,0,0,,,0,l,0,0,0,0,0,0,No auto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Didn?t move,Levi H,s,49,24.5 x 27,Drive under stage and can score speaker
-8773_32,Liam,2024alhu,qm,32,2024alhu_qm32,r1,8773,0,0,0,0,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,In teammates way ,Basically non existent defense by them,Needs to get out of speaker,Luke,m,45ish,32x27,Nothing but drivetrain
-7725_32,Isaiah ,2024alhu,qm,32,2024alhu_qm32,b3,7725,3,2,0,1,0,0,,,0,l,1,0,0,0,0,0,,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,,,Got note stuck in them bad intake for sorce ,#N/A,#N/A,#N/A,#N/A,#N/A
-3959_32,Shan,2024alhu,qm,32,2024alhu_qm32,b2,3959,10,0,7,3,6,0,,1,1,s,0,0,0,0,0,0,Turn around for some reason,0,0,6,0,0,1,0,0,0,1,0,0,0,3,0,Very awkward driver and trouble lining up shots,,Connectivity issues before match  foul for throwing notes out of bounds,#N/A,#N/A,#N/A,#N/A,#N/A
-6107_32,Drake ,2024alhu,qm,32,2024alhu_qm32,r3,6107,11,2,8,1,2,0,,1,0,l,1,0,0,0,0,0,,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,Bad defense ,Broke ,Jonah,t,73,28 32 with bumpers,Floor and source intake
-4499_32,Rekka,2024alhu,qm,32,2024alhu_qm32,r2,4499,24,20,4,0,11,2,0.8,0.875,0,s,0,4,0,1,0,0,,0,0,7,1,0,1,1,1,0,2,0,0,0,0,0,"In opp stage end match, 2 fouls",,"Note stuck., fairly quick to remedy",Luke,s,123,25x29,0
-8841_33,Isaiah,2024alhu,qm,33,2024alhu_qm33,b3,8841,19,12,4,3,4,0,1,1,0,s,1,2,0,0,0,0,,0,0,2,0,3,1,0,0,0,0,0,0,0,3,0,,,,Levi H,s,116,30 x 30,Drive under stage and speaker amp and climb 
-3140_33,Levi H,2024alhu,qm,33,2024alhu_qm33,b1,3140,19,2,16,1,5,1,0,1,0,s,1,0,0,1,0,0,,3,0,2,0,0,1,0,0,0,0,0,0,0,1,0,,,,ARR,s,110,29 29,Knowledge 5 out of 10. too Manny people in the pit
-9435_33,Shan,2024alhu,qm,33,2024alhu_qm33,b2,9435,0,0,0,0,0,1,0,,0,a,0,0,0,1,0,0,,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,,Decent defense on 2638,Does not shoot notes far enough for feeding,ARR,s,105,27 27,Knowledge 7 out of 10. reliable shot
-9476_33,Liam,2024alhu,f,33,2024alhu_f33,r1,9476,-5,0,-5,0,0,0,,,0,l,0,0,0,0,0,0,Does nothing,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,Awful defense,,,Luke,t,59,30x27,Kit bot
-1466_33,Rekka,2024alhu,qm,33,2024alhu_qm33,r2,1466,33,10,20,3,8,2,1,0.75,0,s,0,2,0,0,0,0,,4,0,2,2,0,1,0,0,0,0,0,0,0,3,0,Forever to line up at speaker,,Very quick climb,Shan,s,95,26 by 26 and half,0
-2638_33,Drake ,2024alhu,qm,33,2024alhu_qm33,r3,2638,20,7,10,3,4,1,1,0.75,0,a,1,1,0,0,0,0,,2,1,1,0,0,1,0,0,0,0,1,0,0,3,0,,8841 defended ,,Luke,s,118,30x30,There selling feature was feeding
-9787_34,Liam,2024alhu,qm,34,2024alhu_qm34,r1,9787,16,5,10,1,4,0,1,1,0,s,0,1,0,0,0,0,,2,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Slow at everything,,To much time at amp,ARR,m,98,26 24,Knowledge 7 out of 10. low CG
-538_34,Krit,2024alhu,qm,34,2024alhu_qm34,r2,538,8,2,6,0,2,0,,1,0,l,1,0,0,0,0,0,,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,,Not very effective ,,Jonah,m,96,27 by 32,Intake destroyed according to them
-5800_34,Levi H,2024alhu,qm,34,2024alhu_qm34,b1,5800,14,7,6,1,4,2,1,0.6,0,s,1,1,0,0,0,0,,0,0,3,2,0,0,0,0,0,0,0,0,0,1,0,,,Tippy and had connection issues at the end,Anna,t,90,39 by 39,0
-7111_34,Shan,2024alhu,qm,34,2024alhu_qm34,b3,7111,9,2,6,1,3,4,0,0.5,0,x,1,0,0,1,0,0,,0,0,3,3,0,1,0,0,0,0,0,0,0,1,0,,,Fed directly from source,Anna,s,106,28 by 28,0
-6517_34,Drake ,2024alhu,qm,34,2024alhu_qm34,r3,6517,52,22,22,8,12,0,1,1,0,s,1,4,0,0,0,0,,4,0,3,0,2,1,0,0,0,0,0,0,1,3,0,,,Great driver ,Jonah,s,111,24.5x27,22 ft per sec
-6517_34,Rekka,2024alhu,qm,34,2024alhu_qm34,r3,6517,54,22,24,8,13,0,1,1,0,s,1,4,0,0,0,0,,4,0,4,0,2,1,0,0,0,0,0,0,1,3,0,Note stuck then unstuck ,,Very speedy,Jonah,s,111,24.5x27,22 ft per sec
-5557_34,ARR,2024alhu,qm,34,2024alhu_qm34,b2,5557,39,12,24,3,13,2,0.5,1,0,s,1,2,0,2,0,0,,1,0,10,0,0,0,1,0,0,0,0,0,0,3,0,,,,Levi H,s,113,28 x 26,Drive under stage and can amp speaker and climb
-3139_35,Levi H,2024alhu,qm,35,2024alhu_qm35,b1,3139,1,0,0,1,0,0,,,0,s,0,0,0,0,0,0,A stop,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,Defense was aweful,Drew a penalty ,Luke,t,64,26x31,Amp no speaker
-34_35,Krit,2024alhu,qm,35,2024alhu_qm35,r2,34,2,2,0,0,0,0,,,1,a,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Connectivity issues,,,ARR,s,85,29 29,Knowledge 8 out of 10
-4256_35,Liam,2024alhu,qm,35,2024alhu_qm35,r1,4256,26,20,6,0,7,4,1,0.428571429,0,x,0,4,0,0,0,0,,0,0,3,4,0,0,0,0,0,0,0,0,0,0,0,Bad accuracy,,,ARR,s,111,28 32,Knowledge 9 out of 10. Can feed. Too many people in pit
-120_35,Shan,2024alhu,qm,35,2024alhu_qm35,b3,120,18,7,10,1,4,1,1,0.75,0,s,1,1,0,0,0,0,,2,0,1,1,6,1,0,0,0,0,0,1,0,1,0,,,Bad placement of fed notes,ARR,s,115,31 28,Knowledge 7 out of 10
-3984_35,ARR,2024alhu,qm,35,2024alhu_qm35,b2,3984,36,22,11,3,12,1,1,0.888888889,0,s,1,4,0,0,0,0,,0,0,8,1,0,1,0,0,0,1,0,0,0,3,0,Controlling more than one note at a time,,,Shan,s,101,29 by 29,0
-4635_35,Rekka,2024alhu,qm,35,2024alhu_qm35,r3,4635,38,7,28,3,9,2,1,0.8,0,l,1,1,0,0,0,0,,6,0,2,2,1,0,1,0,0,0,0,0,0,3,0,"Speaker half accuracy, prefers amp",Can take a hit,Quick climb,Jonah,s,119,24 30,Quick cycles. Said can shoot over and under stage
-2481_36,Shan,2024alhu,qm,36,2024alhu_qm36,b3,2481,47,27,17,3,12,1,0.833333333,1,1,s,1,5,0,1,0,0,,4,0,3,0,4,0,0,0,0,1,0,1,0,3,0,,8772 defended,,#N/A,#N/A,#N/A,#N/A,#N/A
-931_37,Krit,2024alhu,qm,37,2024alhu_qm37,r2,931,39,22,14,3,11,0,1,1,0,s,1,4,0,0,0,0,,0,0,7,0,0,0,0,0,0,0,0,0,0,3,0,,,,Hayden/Drake,s,98 to100,29 by 29,0
-5002_37,Liam,2024alhu,qm,37,2024alhu_qm37,r1,5002,17,0,14,3,4,0,,1,0,a,0,0,0,0,0,0,,3,0,1,0,0,0,0,0,0,0,0,0,0,3,0,,,Slow amp,Shan,s,110,24 by 29,0
-8624_37,Levi H,2024alhu,qm,37,2024alhu_qm37,b1,8624,2,2,0,0,0,0,,,0,a,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,They tired and it was bad,,Levi H,s,49,24.5 x 27,Drive under stage and can score speaker
-3966_37,Anna,2024alhu,qm,37,2024alhu_qm37,b3,3966,5,5,0,0,1,0,1,,0,s,0,1,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stopped moving after 20sec of tele  just sat there,,Not connection issuses,Hayden and Drake ,s,82 point 8,30 by 30,0
-3824_37,Drake ,2024alhu,qm,37,2024alhu_qm37,r3,3824,0,0,-1,1,1,0,,1,0,l,0,0,0,0,0,0,,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,,,,Hayden and Drake ,s,123 point 6,30 by 30,Didn?t really know the answers
-5410_37,ARR,2024alhu,qm,37,2024alhu_qm37,b2,5410,14,10,4,0,3,0,1,1,0,s,0,2,0,0,0,0,,1,0,0,0,3,0,0,0,0,0,0,1,0,0,0,,,,Anna,s,114,24 by 32,0
-2393_38,Krit,2024alhu,qm,38,2024alhu_qm38,r2,2393,28,17,10,1,8,2,1,0.714285714,0,s,1,3,0,0,0,0,,0,0,5,2,0,0,0,0,0,0,0,0,0,1,0,Crippled by source people tardiness ,,,Hayden and Drake,s,119 point 8,28 by 28,0
-8773_38,Drake ,2024alhu,qm,38,2024alhu_qm38,r3,8773,0,0,0,0,0,0,,,1,a,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,,Luke,m,45ish,32x27,Nothing but drivetrain
-7717_38,Levi H,2024alhu,qm,38,2024alhu_qm38,b1,7717,8,5,2,1,2,3,1,0.25,0,s,0,1,0,0,0,0,,0,0,1,3,0,1,0,0,0,0,0,0,0,1,0,,,,Hayden and drake,s,93,29 and 3 quarters by 29 and 3 quarters,0
-9073_38,ARR,2024alhu,qm,38,2024alhu_qm38,b2,9073,24,0,24,0,6,0,,1,0,x,0,0,0,0,0,0,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,Luke,s,66,26x26,Doesnt know much about robot
-4020_38,Anna,2024alhu,qm,38,2024alhu_qm38,b3,4020,16,15,0,1,3,0,1,,0,s,0,3,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,Slow,Poor defence against 2393,Good auto,#N/A,#N/A,#N/A,#N/A,#N/A
-547_38,Liam,2024alhu,qm,38,2024alhu_qm38,r1,547,-14,0,-15,1,0,0,,,0,s,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,3 techs,,They get minus points,Hayden and Drake ,t,59,27 by 33 point 5,Didn?t know answers fully
-5045_39,Levi H,2024alhu,qm,39,2024alhu_qm39,b1,5045,0,0,0,0,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Didn?t show up,Levi H,s,77,28 x 28,Can go under stage 
-5005_39,Krit,2024alhu,qm,39,2024alhu_qm39,r2,5005,5,7,-5,3,1,1,1,0,0,s,1,1,0,0,0,0,,0,1,0,0,0,0,0,0,0,1,0,0,0,3,0,,Got a foul from defending,,Luke,s,110,28x28,Only picks up from the source
-6404_39,Liam,2024alhu,qm,39,2024alhu_qm39,r1,6404,1,0,1,0,3,6,,0.333333333,0,x,0,0,0,0,0,0,,0,0,3,6,0,0,0,0,0,1,0,0,0,0,0,,,,Levi H,s,101,35x35,Only speaker and can climb
-4265_39,Anna,2024alhu,qm,39,2024alhu_qm39,b3,4265,30,15,14,1,10,1,0.75,1,0,a,0,3,0,1,0,0,,0,0,7,0,0,0,1,0,0,0,0,0,0,1,0,Fast  good driver,Was defended by 5005,Tried to climb and failed,Luke,s,123,29.5x30,Shifting swerve
-2973_39,Drake ,2024alhu,qm,39,2024alhu_qm39,r3,2973,12,7,4,1,3,1,1,0.666666667,1,s,1,1,0,0,0,0,,0,0,2,1,0,1,0,0,0,0,0,0,0,1,0,,,,Anna,t,78,33  by 27,Low center of gravity
-4306_39,ARR,2024alhu,qm,39,2024alhu_qm39,b2,4306,42,15,26,1,14,1,0.75,1,0,a,0,3,0,1,0,0,,2,0,9,0,0,0,1,0,0,0,0,0,0,1,0,,,,Levi H,s,100.3,32 x 27,Can go under stage and can climb
-3959_40,Krit,2024alhu,qm,40,2024alhu_qm40,r2,3959,15,5,8,2,5,0,1,1,1,s,0,1,0,0,0,0,,0,0,4,0,0,0,0,0,0,0,0,0,0,1,1,,,,#N/A,#N/A,#N/A,#N/A,#N/A
-9590_40,Shan,2024alhu,qm,40,2024alhu_qm40,b1,9590,2,2,0,0,0,1,,0,0,l,1,0,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,,Broke due to being too tall,Jonah,t,Not avaliable ,27 5 x 31 5,0
-9435_40,Drake ,2024alhu,qm,40,2024alhu_qm40,r3,9435,8,5,2,1,2,0,1,1,0,s,0,1,0,0,0,0,,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,,54,,ARR,s,105,27 27,Knowledge 7 out of 10. reliable shot
-34_40,Anna,2024alhu,qm,40,2024alhu_qm40,b3,34,7,2,4,1,1,0,,1,0,l,1,0,0,0,0,0,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,Connection issues,ARR,s,85,29 29,Knowledge 8 out of 10
-4635_40,Rekka,2024alhu,qm,40,2024alhu_qm40,r1,4635,60,17,42,1,17,2,0.6,1,0,s,1,3,0,2,0,0,,7,0,7,0,4,1,1,1,0,0,0,0,0,1,0,"Speedy, quicker at speaker than amp",,Fed auto middle notes to self ,Jonah,s,119,24 30,Quick cycles. Said can shoot over and under stage
-3984_41,Shan,2024alhu,qm,41,2024alhu_qm41,b1,3984,16,12,4,0,3,0,1,1,0,s,1,2,0,0,0,0,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Died in beginng of match,Shan,s,101,29 by 29,0
-323_41,Krit,2024alhu,qm,41,2024alhu_qm41,r2,323,27,7,20,0,8,7,0.333333333,0.583333333,0,s,1,1,0,2,0,0,,3,0,4,5,0,0,0,0,0,0,0,0,0,0,0,,,,Anna,s,80,26 by 26,0
-6652_41,Anna,2024alhu,qm,41,2024alhu_qm41,b3,6652,0,0,0,0,0,0,,,0,a,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Just sat there,,Connection issues,Shan,t,90,24 by 25,0
-120_41,Drake ,2024alhu,qm,41,2024alhu_qm41,r3,120,10,7,2,1,2,0,1,1,0,a,1,1,0,0,0,0,A stop ,0,0,1,0,9,1,0,0,0,0,0,0,0,1,0,,,,ARR,s,115,31 28,Knowledge 7 out of 10
-6517_41,Luke,2024alhu,qm,41,2024alhu_qm41,b2,6517,39,12,26,1,12,1,0.666666667,1,1,l,1,2,0,1,0,0,,3,0,7,0,0,1,1,0,0,0,1,1,0,1,0,,Was not very effective,,Jonah,s,111,24.5x27,22 ft per sec
-9476_41,Rekka,2024alhu,qm,41,2024alhu_qm41,r1,9476,-15,0,-15,0,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,"Played source zone defense, got pushed into source and got fouls","Terrible defense, gets pushed around, did not slow 6517 at all",DNP,Luke,t,59,30x27,Kit bot
-538_42,Shan,2024alhu,qm,42,2024alhu_qm42,b1,538,3,2,0,1,0,0,,,0,l,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,Could barely move  macum,Jonah,m,96,27 by 32,Intake destroyed according to them
-5557_43,Krit,2024alhu,qm,43,2024alhu_qm43,r2,5557,20,5,12,3,7,1,1,0.857142857,0,s,0,1,0,0,0,0,,0,0,6,1,4,0,0,0,0,0,0,0,0,3,0,,,,Levi H,s,113,28 x 26,Drive under stage and can amp speaker and climb
-4499_42,ARR,2024alhu,qm,42,2024alhu_qm42,b2,4499,23,7,13,3,7,1,0.5,1,0,a,1,1,0,1,0,0,,3,0,3,0,3,0,0,0,0,1,0,0,0,3,0,,,,Luke,s,123,25x29,0
-3139_42,Drake ,2024alhu,qm,42,2024alhu_qm42,r3,3139,5,0,4,1,1,0,,1,0,a,0,0,0,0,0,0,,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,,Luke,t,64,26x31,Amp no speaker
-2638_42,Anna,2024alhu,qm,42,2024alhu_qm42,b3,2638,40,15,22,3,11,3,0.75,0.8,0,s,0,3,0,1,0,0,,3,0,5,2,0,1,0,0,0,0,0,0,0,3,0,Good driver  high mid,,,Luke,s,118,30x30,There selling feature was feeding
-8772_42,Rekka,2024alhu,qm,42,2024alhu_qm42,r1,8772,0,0,0,0,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Very very very tippy bot ,"Tried defense then sat, got pushed around, almost tipped","DNP, literally sat for 70 sec",Luke ,t,75,31x31,Might not pass inspection
-9702_43,Levi H,2024alhu,qm,43,2024alhu_qm43,b1,9702,22,5,16,1,9,1,1,0.888888889,0,s,0,1,0,0,0,0,,0,0,8,1,0,0,0,0,0,0,0,0,0,1,0,,,,Jonah,s,88,24 by 32,Able to feed and fast
-9073_43,Liam,2024alhu,qm,43,2024alhu_qm43,r1,9073,2,2,0,0,0,0,,,0,l,1,0,0,0,0,0,A-stopped,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,Average defense,,,Luke,s,66,26x26,Doesnt know much about robot
-7717_43,Shan,2024alhu,qm,43,2024alhu_qm43,b2,7717,7,0,4,3,2,0,,1,0,l,0,0,0,0,0,0,,0,0,2,0,0,0,0,0,0,0,1,0,0,3,0,,Lost to 9073,,Hayden and drake,s,93,29 and 3 quarters by 29 and 3 quarters,0
-4256_43,Anna,2024alhu,qm,43,2024alhu_qm43,b3,4256,18,5,12,1,6,3,0.5,0.714285714,0,a,0,1,0,1,1,0,1 miss pickup,1,1,4,1,0,0,1,0,0,0,0,0,0,1,0,Fast ish  good driver,,,ARR,s,111,28 32,Knowledge 9 out of 10. Can feed. Too many people in pit
-8624_43,Drake ,2024alhu,qm,43,2024alhu_qm43,r3,8624,0,0,0,0,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,No show ,Levi H,s,49,24.5 x 27,Drive under stage and can score speaker
-5557_43,Rekka,2024alhu,qm,43,2024alhu_qm43,r2,5557,60,20,40,0,18,0,1,1,0,s,0,4,0,0,0,0,,6,0,8,0,1,0,0,0,0,0,0,0,0,0,0,Stole from opp source twice both successf,Can take a hit,"Fed to self, very speedy, def pick them",Levi H,s,113,28 x 26,Drive under stage and can amp speaker and climb
-2481_44,Rekka,2024alhu,qm,44,2024alhu_qm44,r2,2481,35,12,20,3,9,7,0.5,0.583333333,0,s,1,2,0,2,0,0,,3,0,4,5,0,0,0,0,0,0,0,0,0,3,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
-3140_45,Liam,2024alhu,qm,45,2024alhu_qm45,r1,3140,20,0,20,0,10,3,0,0.833333333,0,s,0,0,0,1,0,0,,0,0,10,2,0,1,0,0,0,0,0,0,0,0,0,Solid speaker score ,,,ARR,s,110,29 29,Knowledge 5 out of 10. too Manny people in the pit
-2393_45,Levi H,2024alhu,qm,45,2024alhu_qm45,b1,2393,13,5,8,0,5,1,1,0.8,0,a,0,1,0,0,0,0,,0,0,4,1,1,0,1,0,0,0,0,0,0,0,0,,,,Hayden and Drake,s,119 point 8,28 by 28,0
-8841_45,Shan,2024alhu,qm,45,2024alhu_qm45,b2,8841,41,12,28,1,11,0,1,1,0,s,1,2,0,0,0,0,,5,0,4,0,3,1,1,0,0,0,0,0,0,1,0,,,Carried team,Levi H,s,116,30 x 30,Drive under stage and speaker amp and climb 
-9590_45,Drake ,2024alhu,qm,45,2024alhu_qm45,r3,9590,2,2,0,0,0,0,,,0,l,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,Not good defense ,,Jonah,t,Not avaliable ,27 5 x 31 5,0
-5045_45,Rekka,2024alhu,qm,45,2024alhu_qm45,r2,5045,2,2,0,0,0,1,,0,0,l,1,0,0,0,0,0,Just drove,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,"Slowed a team by like half a sec each cycle, so really didn?t do much","Tried source zone defense, got mostly pushed around",Easily could have parked but didnt,Levi H,s,77,28 x 28,Can go under stage 
-4306_45,Anna,2024alhu,qm,45,2024alhu_qm45,b3,4306,1,0,0,1,0,0,,,0,l,0,0,0,0,0,0,Tried to shoot note,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Slow  bad driver  spent the whole time trying to pick up a note,,Tried to climb and failed,Levi H,s,100.3,32 x 27,Can go under stage and can climb
-547_46,Krit,2024alhu,qm,46,2024alhu_qm46,r2,547,1,0,0,1,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,,,,Hayden and Drake ,t,59,27 by 33 point 5,Didn?t know answers fully
-5002_46,Liam,2024alhu,qm,46,2024alhu_qm46,r1,5002,3,0,0,3,0,0,,,0,s,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,,Average sub defense,,Shan,s,110,24 by 29,0
-6107_46,Levi H,2024alhu,qm,46,2024alhu_qm46,b1,6107,10,2,8,0,2,0,,1,0,a,1,0,0,0,0,0,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Slow ,Jonah,t,73,28 32 with bumpers,Floor and source intake
-6404_46,Shan,2024alhu,qm,46,2024alhu_qm46,b3,6404,18,5,10,3,6,1,1,0.833333333,0,x,0,1,0,0,0,0,,0,0,5,1,0,1,0,0,0,0,0,1,0,3,0,,Missed shot due to 5002,,Levi H,s,101,35x35,Only speaker and can climb
-9067_46,ARR,2024alhu,qm,46,2024alhu_qm46,b2,9067,32,20,12,0,8,0,1,1,0,s,0,4,0,0,0,0,,2,0,2,0,0,1,0,0,0,0,0,0,0,0,0,,,,Anna,s,84,28 by 28,4 note auto
-3966_46,Rekka,2024alhu,qm,46,2024alhu_qm46,r3,3966,7,2,4,1,2,2,0,0.666666667,0,s,1,0,0,1,0,0,,0,0,2,1,0,1,0,0,0,0,1,0,0,1,0,Note stuck in intake switched to defense,"Got pushed around, chased robots instead of holding ground",Take forever to line up at speaker,Hayden and Drake ,s,82 point 8,30 by 30,0
-8773_47,Shan,2024alhu,qm,47,2024alhu_qm47,b3,8773,0,0,0,0,0,0,,,0,l,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Connectivity issues,Luke,m,45ish,32x27,Nothing but drivetrain
-5005_47,ARR,2024alhu,qm,47,2024alhu_qm47,b2,5005,3,0,0,3,0,2,0,0,0,s,0,0,0,1,0,0,,0,0,0,1,0,1,0,0,0,0,0,0,0,3,0,Slow ,,,Luke,s,110,28x28,Only picks up from the source
-5800_47,Krit,2024alhu,qm,47,2024alhu_qm47,r2,5800,6,5,0,1,1,0,1,,0,s,0,1,0,0,0,0,,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,,,,Anna,t,90,39 by 39,0
-7725_47,Levi H,2024alhu,qm,47,2024alhu_qm47,b1,7725,0,0,0,0,0,3,,0,0,a,0,0,0,0,0,0,,0,0,0,3,1,0,1,0,0,0,0,0,0,0,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
-2973_47,Liam,2024alhu,qm,47,2024alhu_qm47,r1,2973,16,7,8,1,5,1,1,0.8,0,s,1,1,0,0,0,0,,0,0,4,1,0,0,0,0,0,0,0,0,0,1,0,Semi fast amp slow intake,,Slow,Anna,t,78,33  by 27,Low center of gravity
-1466_47,Rekka,2024alhu,qm,47,2024alhu_qm47,r3,1466,39,5,34,0,12,2,1,0.846153846,0,s,0,1,0,0,0,0,,6,0,5,2,0,1,1,0,0,0,0,0,0,0,0,Did good at taking opp game pieces on field,Fine until they get the slightest bump by anyone,Kept cycling instead of climb,Shan,s,95,26 by 26 and half,0
-8772_48,Levi H,2024alhu,qm,48,2024alhu_qm48,b1,8772,-10,0,-10,0,0,0,,,0,l,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,,,Was having some issues ,Luke ,t,75,31x31,Might not pass inspection
-3139_48,Krit,2024alhu,qm,48,2024alhu_qm48,r2,3139,1,0,0,1,0,0,,,0,l,0,0,0,0,0,0,A stopped,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,,,,Luke,t,64,26x31,Amp no speaker
-9073_48,ARR,2024alhu,qm,48,2024alhu_qm48,b2,9073,16,0,16,0,4,0,,1,0,x,0,0,0,0,0,0,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,Luke,s,66,26x26,Doesnt know much about robot
-323_48,Shan,2024alhu,qm,48,2024alhu_qm48,b3,323,26,7,16,3,7,4,0.333333333,0.75,1,s,1,1,0,2,0,0,,2,0,4,2,3,1,1,0,0,0,0,0,0,3,0,,,Very solid robot  very high when feeding,Anna,s,80,26 by 26,0
-9435_48,Liam,2024alhu,qm,48,2024alhu_qm48,r1,9435,5,5,0,0,1,0,1,,0,s,0,1,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,Got pushed around,,ARR,s,105,27 27,Knowledge 7 out of 10. reliable shot
-5557_48,Rekka,2024alhu,qm,48,2024alhu_qm48,r3,5557,64,15,46,3,19,0,1,1,0,s,0,3,0,0,0,0,,7,0,9,0,1,0,1,1,0,0,0,0,0,3,0,Stolen from opp source ,,Quick at amp and source,Levi H,s,113,28 x 26,Drive under stage and can amp speaker and climb
-3824_49,ARR,2024alhu,qm,49,2024alhu_qm49,b2,3824,1,0,0,1,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,Very effective ,,Hayden and Drake ,s,123 point 6,30 by 30,Didn?t really know the answers
-4499_49,Isaiah,2024alhu,qm,49,2024alhu_qm49,b3,4499,23,12,8,3,5,3,0.5,0.75,1,s,1,2,0,2,0,0,,1,0,2,1,3,0,1,0,0,0,0,0,0,3,0,,,,Luke,s,123,25x29,0
-3959_49,Drake ,2024alhu,qm,49,2024alhu_qm49,r3,3959,1,0,0,1,0,1,0,,1,a,0,0,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,Brown out and mechanical issue ,#N/A,#N/A,#N/A,#N/A,#N/A
-4635_49,Levi H,2024alhu,qm,49,2024alhu_qm49,b1,4635,39,12,24,3,11,3,0.666666667,0.818181818,0,l,1,2,0,1,0,0,,3,0,6,2,0,0,1,0,0,0,0,0,0,3,0,,,Good driver,Jonah,s,119,24 30,Quick cycles. Said can shoot over and under stage
-7717_49,Liam,2024alhu,qm,49,2024alhu_qm49,r1,7717,20,5,14,1,5,0,1,1,0,s,0,1,0,0,0,0,,3,0,1,0,0,0,0,0,0,0,0,0,0,1,0,,Average ,,Hayden and drake,s,93,29 and 3 quarters by 29 and 3 quarters,0
-6652_49,Krit,2024alhu,qm,49,2024alhu_qm49,r2,6652,1,0,0,1,0,2,0,0,0,s,0,0,0,1,0,0,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,Connectivity issues ,,,Shan,t,90,24 by 25,0
-2481_50,Krit,2024alhu,qm,50,2024alhu_qm50,r2,2481,48,12,32,4,13,1,0.666666667,1,1,s,1,2,0,1,0,0,,5,0,6,0,2,1,1,0,0,0,0,0,0,4,0,,We got defended by basically the whole alliance ,,#N/A,#N/A,#N/A,#N/A,#N/A
-6404_51,Isaiah,2024alhu,qm,51,2024alhu_qm51,b3,6404,8,0,8,0,4,0,,1,0,s,0,0,0,0,0,0,,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,,,Connection issues,Levi H,s,101,35x35,Only speaker and can climb
-538_51,Drake ,2024alhu,qm,51,2024alhu_qm51,r3,538,3,2,0,1,0,1,,0,1,l,1,0,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,,,,Jonah,m,96,27 by 32,Intake destroyed according to them
-9476_51,ARR,2024alhu,qm,51,2024alhu_qm51,b2,9476,2,2,0,0,0,0,,,0,x,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Did nothing,,,Luke,t,59,30x27,Kit bot
-5045_51,Levi H,2024alhu,qm,51,2024alhu_qm51,b1,5045,-5,0,-5,0,0,0,,,0,l,0,0,0,0,0,0,No auto ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,Wheels were spinning but they were not moving ,Levi H,s,77,28 x 28,Can go under stage 
-8624_51,Krit,2024alhu,qm,51,2024alhu_qm51,r2,8624,2,2,0,0,0,0,,,0,x,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,Levi H,s,49,24.5 x 27,Drive under stage and can score speaker
-5005_52,Isaiah,2024alhu,qm,52,2024alhu_qm52,b3,5005,1,0,0,1,0,0,,,0,l,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,Horrible defence,,Luke,s,110,28x28,Only picks up from the source
-9590_52,Krit,2024alhu,qm,52,2024alhu_qm52,r2,9590,0,0,0,0,0,1,,0,0,l,0,0,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,,Purposeless ,,Jonah,t,Not avaliable ,27 5 x 31 5,0
-3984_52,Drake ,2024alhu,qm,52,2024alhu_qm52,r3,3984,38,17,18,3,12,1,1,0.9,1,s,1,3,0,0,0,0,,0,0,9,1,0,1,0,0,0,0,0,0,0,3,0,,,,Shan,s,101,29 by 29,0
-547_52,Shan,2024alhu,qm,52,2024alhu_qm52,b1,547,1,0,0,1,0,0,,,0,a,0,0,0,0,0,0,,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,,,Did nothing for team,Hayden and Drake ,t,59,27 by 33 point 5,Didn?t know answers fully
-4020_51,Liam,2024alhu,qm,51,2024alhu_qm51,r1,4020,42,15,26,1,15,0,1,1,0,s,0,3,0,0,0,0,,1,0,11,0,0,1,0,0,0,0,0,0,0,1,0,Slow but accurate shooter,,Can only hit sub to podium,#N/A,#N/A,#N/A,#N/A,#N/A
-6517_52,ARR,2024alhu,qm,52,2024alhu_qm52,b2,6517,47,20,24,3,13,0,1,1,0,s,0,4,0,0,0,0,,3,0,6,0,0,1,0,0,0,0,0,0,0,3,0,,,,Jonah,s,111,24.5x27,22 ft per sec
-3966_52,Rekka,2024alhu,qm,52,2024alhu_qm52,r1,3966,7,5,2,0,2,1,1,0.5,0,s,0,1,0,0,0,0,,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,Kept running into stage and walls,Kinda gets bumped around,Low to no,Hayden and Drake ,s,82 point 8,30 by 30,0
-7725_53,Isaiah,2024alhu,qm,53,2024alhu_qm53,b3,7725,-5,0,-5,0,0,0,,,0,l,0,0,0,0,0,0,Rammed teamate,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,,Defence was not great but it did slow down by like half to a full second,Connection issues,#N/A,#N/A,#N/A,#N/A,#N/A
-9067_53,Drake ,2024alhu,qm,53,2024alhu_qm53,r3,9067,38,17,18,3,9,1,0.75,1,0,s,1,3,0,1,0,0,,3,0,3,0,0,1,0,0,0,0,0,0,0,3,0,,,,Anna,s,84,28 by 28,4 note auto
-5410_53,Krit,2024alhu,qm,53,2024alhu_qm53,r2,5410,10,5,2,3,2,1,1,0.5,0,s,0,1,0,0,0,0,,0,0,1,1,3,1,0,0,0,0,0,1,0,3,0,,Was defended by 7725,,Anna,s,114,24 by 32,0
-1466_53,Rekka,2024alhu,qm,53,2024alhu_qm53,r1,1466,26,7,16,3,6,2,1,0.714285714,0,s,1,1,0,0,0,0,,3,0,2,2,0,1,1,0,0,0,0,0,0,3,0,Better at amp than speaker,Can,,Shan,s,95,26 by 26 and half,0
-120_53,ARR,2024alhu,qm,53,2024alhu_qm53,b2,120,6,5,0,1,1,0,1,,0,a,0,1,0,0,0,0,,0,0,0,0,15,0,0,0,0,0,0,0,0,1,0,,,,ARR,s,115,31 28,Knowledge 7 out of 10
-4265_53,Shan,2024alhu,qm,53,2024alhu_qm53,b1,4265,28,7,20,1,9,3,0.666666667,0.777777778,0,s,1,2,0,1,0,1,,3,1,4,1,0,0,0,0,0,0,0,0,0,1,0,,,Battery burnt out  super slow,Luke,s,123,29.5x30,Shifting swerve
-8841_54,Krit,2024alhu,qm,54,2024alhu_qm54,r2,8841,19,10,6,3,5,1,1,0.75,0,s,0,2,0,0,0,0,,0,1,3,0,3,1,0,0,0,0,0,0,0,3,0,,,,Levi H,s,116,30 x 30,Drive under stage and speaker amp and climb 
-2973_54,Shan,2024alhu,qm,54,2024alhu_qm54,b1,2973,8,7,0,1,1,2,0.5,0,0,s,1,1,0,1,0,0,,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,,,Very wobbly  could not shoot note but no defense,Anna,t,78,33  by 27,Low center of gravity
-9787_54,Isaiah,2024alhu,qm,54,2024alhu_qm54,b3,9787,20,5,12,3,6,0,1,1,0,s,0,1,0,0,0,0,,1,0,4,0,0,1,0,0,0,0,0,0,0,3,0,,,Slow at shooting and driving,ARR,m,98,26 24,Knowledge 7 out of 10. low CG
-8773_54,ARR,2024alhu,qm,54,2024alhu_qm54,b2,8773,1,0,0,1,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Had connection issues,,,Luke,m,45ish,32x27,Nothing but drivetrain
-34_54,Drake ,2024alhu,qm,54,2024alhu_qm54,r3,34,10,2,8,0,2,0,,1,0,l,1,0,0,0,0,0,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Tippy and note stuck ,ARR,s,85,29 29,Knowledge 8 out of 10
-5002_54,Rekka,2024alhu,qm,54,2024alhu_qm54,r1,5002,21,0,18,3,7,0,,1,0,x,0,0,0,0,0,0,,2,0,5,0,0,1,0,0,0,0,0,0,0,3,0,"Takes a bit to line up, but quick across field",,Almost fell but caught self,Shan,s,110,24 by 29,0
-6107_55,Levi,2024alhu,qm,55,2024alhu_qm55,b1,6107,27,2,24,1,6,1,,0.857142857,0,l,1,0,0,0,0,0,,6,1,0,0,0,0,0,0,0,0,0,0,0,1,0,,,Slow,Jonah,t,73,28 32 with bumpers,Floor and source intake
-9702_55,Rekka,2024alhu,qm,55,2024alhu_qm55,r2,9702,12,12,0,0,2,0,1,,0,a,1,2,0,0,0,0,"I don?t think that?s right, I will have to rescout",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Died in mid field,,I need to rewatch auto,Jonah,s,88,24 by 32,Able to feed and fast
-7111_55,Shan,2024alhu,qm,55,2024alhu_qm55,b2,7111,13,7,6,0,4,3,0.5,0.6,0,s,1,1,0,1,0,0,,0,0,3,2,0,1,0,0,0,0,0,0,0,0,0,,,Note got stuck at the end  fed mostly from source,Anna,s,106,28 by 28,0
-4256_55,Isaiah,2024alhu,qm,55,2024alhu_qm55,b3,4256,19,10,8,1,6,5,0.666666667,0.5,0,a,0,2,0,1,0,0,,0,0,4,4,0,0,1,0,0,0,0,0,0,1,0,,,,ARR,s,111,28 32,Knowledge 9 out of 10. Can feed. Too many people in pit
-3140_55,Drake ,2024alhu,qm,55,2024alhu_qm55,r3,3140,27,7,20,0,11,1,1,0.909090909,0,l,1,1,0,0,0,0,,0,0,10,1,0,1,0,0,0,0,0,1,0,0,0,,7111,,ARR,s,110,29 29,Knowledge 5 out of 10. too Manny people in the pit
-5800_55,Liam,2024alhu,qm,55,2024alhu_qm55,r1,5800,29,10,18,1,8,0,1,1,0,s,0,2,0,0,0,0,,3,0,3,0,0,0,0,0,0,0,0,0,0,1,0,Decent at everything,,Cause traffic at source,Anna,t,90,39 by 39,0
-8772_56,Shan,2024alhu,qm,56,2024alhu_qm56,b2,8772,0,0,0,0,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Did not move  caused fouls due tp starting position,Luke ,t,75,31x31,Might not pass inspection
-6404_56,Isaiah,2024alhu,qm,56,2024alhu_qm56,b3,6404,9,0,8,1,4,3,0,0.666666667,0,s,0,0,0,1,0,0,,0,0,4,2,0,1,0,0,0,0,0,0,0,1,0,,,,Levi H,s,101,35x35,Only speaker and can climb
-4020_56,Levi,2024alhu,qm,56,2024alhu_qm56,b1,4020,43,17,18,8,11,1,0.75,1,0,s,1,3,0,1,0,0,,2,0,5,0,0,0,0,0,0,0,0,0,1,3,0,,,One of the slower bots,#N/A,#N/A,#N/A,#N/A,#N/A
-4306_56,Liam,2024alhu,qm,56,2024alhu_qm56,r1,4306,3,0,2,1,1,1,,0.5,0,s,0,0,0,0,0,0,,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,,Bad defense did not slow down anything,,Levi H,s,100.3,32 x 27,Can go under stage and can climb
-9435_56,Rekka,2024alhu,qm,56,2024alhu_qm56,r2,9435,2,2,0,0,0,2,0,0,0,s,1,0,0,1,0,0,,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,Died in front of speaker,Gets pushed around,"Super flimsy robot, tis not robust",ARR,s,105,27 27,Knowledge 7 out of 10. reliable shot
-9073_56,Drake ,2024alhu,qm,56,2024alhu_qm56,r3,9073,10,2,7,1,3,0,,1,0,a,1,0,0,0,0,0,A stop ,3,0,0,0,0,0,0,0,0,1,0,0,0,1,0,,,,Luke,s,66,26x26,Doesnt know much about robot
-931_57,Isaiah,2024alhu,qm,57,2024alhu_qm57,b3,931,44,20,20,4,13,1,1,0.9,0,s,0,4,0,0,0,0,,1,0,8,1,0,1,0,0,0,0,0,0,0,4,0,,,Didnt let motars spin up so missed once,Hayden/Drake,s,98 to100,29 by 29,0
-3959_57,ARR,2024alhu,qm,57,2024alhu_qm57,b2,3959,14,5,8,1,5,0,1,1,0,a,0,1,0,0,0,0,,0,0,4,0,0,1,0,0,0,0,0,0,0,1,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
-5045_57,Drake ,2024alhu,qm,57,2024alhu_qm57,r3,5045,4,2,2,0,1,0,,1,1,l,1,0,0,0,0,0,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,Mechanical and connection issue ,Levi H,s,77,28 x 28,Can go under stage 
-547_57,Hayden,2024alhu,qm,57,2024alhu_qm57,r2,547,8,5,2,1,2,1,1,0.5,0,s,0,1,0,0,0,0,Slightly moved ,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,,,They took 10 seconds at chain to climb but never did Shot at a weird angle and missed and took about 5 seconds they have a nice intake ,Hayden and Drake ,t,59,27 by 33 point 5,Didn?t know answers fully
-3984_57,Krit ,2024alhu,qm,57,2024alhu_qm57,r1,3984,27,17,10,0,8,1,1,0.833333333,0,s,1,3,0,0,0,0,,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,Connectivity issue,,,Shan,s,101,29 by 29,0
-538_57,Brody,2024alhu,qm,57,2024alhu_qm57,b1,538,5,2,0,3,0,2,,0,0,l,1,0,0,0,0,0,Just leave,0,0,0,2,0,0,0,0,0,0,0,0,0,3,0,,,Very early climb   Wooden intake,Jonah,m,96,27 by 32,Intake destroyed according to them
-2481_58,Jonah,2024alhu,qm,58,2024alhu_qm58,r2,2481,52,32,20,0,13,1,1,0.875,1,a,1,6,0,0,0,0,,3,0,4,1,1,0,1,0,0,0,0,1,0,0,0,,4499 shut us down hard,,#N/A,#N/A,#N/A,#N/A,#N/A
-7717_59,Krit ,2024alhu,qm,59,2024alhu_qm59,r1,7717,11,0,8,3,4,1,0,1,0,a,0,0,0,1,0,0,,0,0,4,0,0,0,0,0,0,0,0,0,0,3,0,Slow,,,Hayden and drake,s,93,29 and 3 quarters by 29 and 3 quarters,0
-5002_59,Levi H,2024alhu,qm,59,2024alhu_qm59,b1,5002,24,0,16,8,6,0,,1,0,a,0,0,0,0,0,0,,3,0,2,0,0,1,0,0,0,0,0,0,1,3,0,,,Early climb so they could climb,Shan,s,110,24 by 29,0
-8773_59,Hayden,2024alhu,qm,59,2024alhu_qm59,r3,8773,2,0,0,2,0,0,,,1,a,0,0,0,0,0,0,Bad connection ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Bad connection at start,,Slow moving and barely did anything made one high note and got it spotlit,Luke,m,45ish,32x27,Nothing but drivetrain
-6517_59,Jonah,2024alhu,qm,59,2024alhu_qm59,r2,6517,58,17,32,9,15,0,1,1,1,s,1,3,0,0,0,0,,5,0,6,0,0,1,1,0,0,0,0,0,1,3,1,,,,Jonah,s,111,24.5x27,22 ft per sec
-2638_59,Brody,2024alhu,qm,59,2024alhu_qm59,b2,2638,19,12,6,1,4,2,0.666666667,0.666666667,0,s,1,2,0,1,0,0,Picked up a fourth,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,Clogged up the amp for 20 sec,,Cant hold on to notes,Luke,s,118,30x30,There selling feature was feeding
-2638_59,ARR,2024alhu,qm,59,2024alhu_qm59,b2,2638,8,5,2,1,2,0,1,1,0,s,0,1,0,0,0,0,,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,,,,Luke,s,118,30x30,There selling feature was feeding
-6652_60,ARR,2024alhu,qm,60,2024alhu_qm60,b2,6652,6,5,0,1,1,0,1,,0,a,0,1,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,In the middle of the match I had connection issues,,,Shan,t,90,24 by 25,0
-6107_60,Hayden,2024alhu,qm,60,2024alhu_qm60,r3,6107,7,7,0,0,1,0,1,,0,l,1,1,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stayed toward the middle most of the match and they are very tippy,,They have a cute parrot stuffed animal on the robot which is cool ,Jonah,t,73,28 32 with bumpers,Floor and source intake
-34_60,Krit ,2024alhu,qm,60,2024alhu_qm60,r1,34,14,2,12,0,3,1,,0.75,0,l,1,0,0,0,0,0,,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,ARR,s,85,29 29,Knowledge 8 out of 10
-8841_60,Levi H,2024alhu,qm,60,2024alhu_qm60,b1,8841,36,17,16,3,9,1,0.75,1,0,s,1,3,0,1,0,0,,2,0,4,0,0,1,0,0,0,0,0,0,0,3,0,,,,Levi H,s,116,30 x 30,Drive under stage and speaker amp and climb 
-5557_60,Jonah,2024alhu,qm,60,2024alhu_qm60,r2,5557,38,12,26,0,12,1,1,0.909090909,0,a,1,2,0,0,0,0,,3,0,7,1,2,1,1,0,0,0,0,0,0,0,0,,,Intake struggled at times,Levi H,s,113,28 x 26,Drive under stage and can amp speaker and climb
-6652_60,Brody,2024alhu,qm,60,2024alhu_qm60,b2,6652,1,0,0,1,0,1,0,,0,s,0,0,0,1,0,0,Brick,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Stopped under stage,,Connection issues during entire match,Shan,t,90,24 by 25,0
-2393_61,ARR,2024alhu,qm,61,2024alhu_qm61,b2,2393,27,12,14,1,9,1,0.666666667,1,0,s,1,2,0,1,0,0,,0,0,7,0,0,1,1,1,0,0,1,0,0,1,0,,,,Hayden and Drake,s,119 point 8,28 by 28,0
-3824_61,Drake ,2024alhu,qm,61,2024alhu_qm61,r3,3824,10,2,8,0,2,0,,1,0,l,1,0,0,0,0,0,,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,They also get notes while playing defense ,Hayden and Drake ,s,123 point 6,30 by 30,Didn?t really know the answers
-9067_61,Krit ,2024alhu,qm,61,2024alhu_qm61,r1,9067,35,17,18,0,10,0,1,1,1,s,1,3,0,0,0,0,,2,0,5,0,0,0,1,0,0,0,0,0,0,0,0,,,,Anna,s,84,28 by 28,4 note auto
-9702_61,Levi H,2024alhu,qm,61,2024alhu_qm61,b1,9702,7,7,0,0,1,1,1,0,0,a,1,1,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,,Connection issues ,Jonah,s,88,24 by 32,Able to feed and fast
-2973_61,Jonah ,2024alhu,qm,61,2024alhu_qm61,r2,2973,8,7,0,1,1,0,1,,0,s,1,1,0,0,0,0,,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,,,They get pushed around very easy,Anna,t,78,33  by 27,Low center of gravity
-7111_61,Isaiah,2024alhu,qm,61,2024alhu_qm61,b3,7111,4,2,2,0,1,1,0,1,0,s,1,0,0,1,0,0,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,,Connection issues ,Anna,s,106,28 by 28,0
-8624_62,Isaiah,2024alhu,qm,62,2024alhu_qm62,b3,8624,0,0,0,0,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,No show,Levi H,s,49,24.5 x 27,Drive under stage and can score speaker
-120_62,ARR,2024alhu,qm,62,2024alhu_qm62,b2,120,8,7,0,1,1,0,1,,0,s,1,1,0,0,0,0,,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,Note to Got jammed,Box defense very effective,,ARR,s,115,31 28,Knowledge 7 out of 10
-9590_62,Drake ,2024alhu,qm,62,2024alhu_qm62,r3,9590,5,2,2,1,1,0,,1,0,l,1,0,0,0,0,0,,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,Note stuck on bot ,Not good defense ,Can not collect note with in 15 seconds ,Jonah,t,Not avaliable ,27 5 x 31 5,0
-9787_62,Levi H,2024alhu,qm,62,2024alhu_qm62,b1,9787,28,5,22,1,9,1,1,0.888888889,0,s,0,1,0,0,0,0,,3,0,5,1,0,0,1,0,0,0,0,0,0,1,0,,,,ARR,m,98,26 24,Knowledge 7 out of 10. low CG
-7725_62,Jonah ,2024alhu,qm,62,2024alhu_qm62,r2,7725,3,2,0,1,0,2,0,0,1,a,1,0,0,1,0,0,,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,,Not very good. Defended after getting defended,,#N/A,#N/A,#N/A,#N/A,#N/A
-3139_62,Krit ,2024alhu,qm,62,2024alhu_qm62,r1,3139,10,2,8,0,2,0,,1,0,l,1,0,0,0,0,0,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Kirby,Luke,t,64,26x31,Amp no speaker
-5800_63,Drake ,2024alhu,qm,63,2024alhu_qm63,r3,5800,22,5,16,1,6,2,1,0.714285714,0,a,0,1,0,0,0,0,,3,0,2,2,2,1,0,0,0,0,0,0,0,1,0,,,,Anna,t,90,39 by 39,0
-9073_63,Isaiah,2024alhu,qm,63,2024alhu_qm63,b3,9073,2,2,0,0,0,0,,,0,l,1,0,0,0,0,0,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,,,Got hit and lost connection ,Luke,s,66,26x26,Doesnt know much about robot
-3140_63,ARR,2024alhu,qm,63,2024alhu_qm63,b2,3140,28,7,18,3,9,0,1,1,0,a,1,1,0,0,0,0,,1,0,7,0,0,1,0,0,0,0,0,0,0,3,0,,,,ARR,s,110,29 29,Knowledge 5 out of 10. too Manny people in the pit
-5005_63,Jonah ,2024alhu,qm,63,2024alhu_qm63,r2,5005,5,7,-3,1,2,0,1,1,0,s,1,1,0,0,0,0,,0,0,1,0,0,1,0,0,0,1,1,0,0,1,0,,Slowed 3140 and 9073 slightly ,,Luke,s,110,28x28,Only picks up from the source
-4499_63,Krit ,2024alhu,qm,63,2024alhu_qm63,r1,4499,21,7,6,8,4,7,0.2,0.4,1,s,1,1,0,4,0,0,,1,0,1,3,2,0,0,0,0,0,0,0,1,3,0,,,,Luke,s,123,25x29,0
-4635_63,Levi H,2024alhu,qm,63,2024alhu_qm63,b1,4635,59,22,36,1,16,1,1,0.923076923,0,s,1,4,0,0,0,0,,6,0,6,1,3,0,1,0,0,0,0,0,0,1,0,,,Fast and good accuracy ,Jonah,s,119,24 30,Quick cycles. Said can shoot over and under stage
-3984_64,Isaiah,2024alhu,qm,64,2024alhu_qm64,b3,3984,13,0,10,3,5,0,,1,0,a,0,0,0,0,0,0,,0,0,5,0,0,1,0,0,0,0,0,0,0,3,0,,,,Shan,s,101,29 by 29,0
-6517_64,Drake ,2024alhu,qm,64,2024alhu_qm64,r3,6517,29,12,14,3,7,1,1,0.833333333,0,l,1,2,0,0,0,0,,2,1,3,0,1,1,0,0,0,0,0,0,0,3,0,,,,Jonah,s,111,24.5x27,22 ft per sec
-6404_64,ARR,2024alhu,qm,64,2024alhu_qm64,b2,6404,19,5,10,4,6,2,1,0.714285714,0,a,0,1,0,0,0,0,,0,0,5,2,0,1,0,0,0,0,0,0,0,4,0,,,,Levi H,s,101,35x35,Only speaker and can climb
-4306_64,Brody,2024alhu,qm,64,2024alhu_qm64,b1,4306,1,0,0,1,0,1,,0,0,a,0,0,0,0,0,0,Brick,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,In way of own alliance at times,Attempted to block source from 323 and 6517 failure,Attempted climb but did not have enough time,Levi H,s,100.3,32 x 27,Can go under stage and can climb
-1466_64,Hayden,2024alhu,qm,64,2024alhu_qm64,r1,1466,18,5,10,3,4,0,1,1,0,s,0,1,0,0,0,0,Slight connection issues ,2,0,1,0,0,0,0,0,0,0,0,0,0,3,0,,,Meh robot but it was kinda hard to see because people were standing in front of me ,Shan,s,95,26 by 26 and half,0
-323_64,Jonah ,2024alhu,qm,64,2024alhu_qm64,r2,323,12,5,4,3,2,2,0.5,0.5,0,s,0,1,0,1,0,0,,1,0,0,1,4,0,0,0,0,0,0,0,0,3,0,Lime light hooked on to blue Amp robot almost scored in blue,,,Anna,s,80,26 by 26,0
-3966_65,Drake ,2024alhu,qm,65,2024alhu_qm65,r3,3966,7,7,0,0,1,0,1,,0,s,1,1,0,0,0,0,A stop ,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,,, connection issue ,Hayden and Drake ,s,82 point 8,30 by 30,0
-4256_65,ARR,2024alhu,qm,65,2024alhu_qm65,b2,4256,18,12,6,0,5,1,1,0.75,0,a,1,2,0,0,0,0,,0,0,3,1,3,1,1,0,0,0,0,0,0,0,0,Broke a note in the intake,,,ARR,s,111,28 32,Knowledge 9 out of 10. Can feed. Too many people in pit
-8841_65,Hayden,2024alhu,qm,65,2024alhu_qm65,r1,8841,23,7,16,0,7,1,0.5,1,0,s,1,1,0,1,0,0,,2,0,4,0,1,0,0,0,0,0,0,0,0,0,0,Takes 5 seconds at the amp,,,Levi H,s,116,30 x 30,Drive under stage and speaker amp and climb 
-3959_65,Isaiah,2024alhu,qm,65,2024alhu_qm65,b3,3959,9,0,8,1,4,1,,0.8,0,a,0,0,0,0,0,0,,0,0,4,1,0,1,0,0,0,0,0,0,0,1,0,,,New confused driver,#N/A,#N/A,#N/A,#N/A,#N/A
-538_65,Jonah ,2024alhu,qm,65,2024alhu_qm65,r2,538,3,2,0,1,0,0,,,0,l,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Veeeeerrry slow this match.,,Did literally nothing ,Jonah,m,96,27 by 32,Intake destroyed according to them
-4020_65,Brody,2024alhu,qm,65,2024alhu_qm65,b1,4020,51,22,28,1,14,0,1,1,0,s,1,4,0,0,0,0,,4,0,6,0,0,0,1,0,0,0,0,0,0,1,0,Not in way good driver,,,#N/A,#N/A,#N/A,#N/A,#N/A
-6652_66,Isaiah,2024alhu,qm,66,2024alhu_qm66,b3,6652,1,0,0,1,0,1,0,,0,s,0,0,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,Connection issues ,Shan,t,90,24 by 25,0
-5002_66,Jonah ,2024alhu,qm,66,2024alhu_qm66,r2,5002,26,5,18,3,6,1,1,0.833333333,0,s,0,1,0,0,0,0,,4,0,1,1,0,1,0,0,0,0,0,0,0,3,0,,,,Shan,s,110,24 by 29,0
-7111_66,Drake ,2024alhu,qm,66,2024alhu_qm66,r3,7111,12,7,4,1,3,2,0.5,0.666666667,0,s,1,1,0,1,0,0,,0,0,2,1,0,1,0,0,0,0,0,0,0,1,0,,,Lost connection but recovered ,Anna,s,106,28 by 28,0
-547_66,ARR,2024alhu,qm,66,2024alhu_qm66,b2,547,6,5,0,1,1,5,1,0,0,a,0,1,0,0,0,0,,0,0,0,5,0,1,0,0,0,0,0,0,0,1,0,,,,Hayden and Drake ,t,59,27 by 33 point 5,Didn?t know answers fully
-2638_66,Brody,2024alhu,qm,66,2024alhu_qm66,b1,2638,51,17,34,0,15,0,1,1,0,s,1,3,0,0,0,0,,5,0,7,0,0,1,0,0,0,0,0,0,0,0,0,,,They are fast,Luke,s,118,30x30,There selling feature was feeding
-4265_66,Hayden,2024alhu,qm,66,2024alhu_qm66,r1,4265,26,12,14,0,7,0,1,1,0,s,1,2,0,0,0,0,,2,0,3,0,1,0,0,0,0,0,0,0,0,0,0,,,Really fast robot they have a good intake and can are good at any field component ,Luke,s,123,29.5x30,Shifting swerve
-7725_67,Krit ,2024alhu,qm,67,2024alhu_qm67,r1,7725,1,0,0,1,0,0,,,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Slow and choppy movement,,Possibly broke intake ,#N/A,#N/A,#N/A,#N/A,#N/A
-34_67,Drake ,2024alhu,qm,67,2024alhu_qm67,r3,34,2,2,0,0,0,1,,0,0,l,1,0,0,0,0,0,A stop ,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,,Mechanical issue ,ARR,s,85,29 29,Knowledge 8 out of 10
-9702_67,Hayden,2024alhu,qm,67,2024alhu_qm67,r2,9702,18,5,12,1,7,2,1,0.75,0,s,0,1,0,0,0,0,,0,0,6,2,0,0,0,0,0,0,0,1,0,1,0,,2393 defended them,Mid speed,Jonah,s,88,24 by 32,Able to feed and fast
-9476_67,Isaiah,2024alhu,qm,67,2024alhu_qm67,b3,9476,2,2,0,0,0,0,,,0,l,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Could not get note from sorce and cloged it,,New driver defended their own amp for most the match,Luke,t,59,30x27,Kit bot
-2393_67,Brody,2024alhu,qm,67,2024alhu_qm67,b2,2393,14,5,8,1,5,0,1,1,0,s,0,1,0,0,0,0,Brick,0,0,4,0,2,0,1,0,0,0,0,0,0,1,0,Hovered around the source while feeding,,Missed two feeds,Hayden and Drake,s,119 point 8,28 by 28,0
-5557_67,Levi H,2024alhu,qm,67,2024alhu_qm67,b1,5557,48,17,28,3,13,1,0.75,1,0,s,1,3,0,1,0,0,,4,0,6,0,0,0,1,0,0,0,0,0,0,3,0,,,,Levi H,s,113,28 x 26,Drive under stage and can amp speaker and climb
-2481_68,Levi H,2024alhu,qm,68,2024alhu_qm68,b1,2481,64,12,48,4,17,3,0.5,0.9375,1,s,1,2,0,2,0,0,,9,1,6,0,1,0,1,1,0,0,0,1,0,4,0,,,Cracked ,#N/A,#N/A,#N/A,#N/A,#N/A
-931_69,Krit ,2024alhu,qm,69,2024alhu_qm69,r1,931,30,5,22,3,10,2,1,0.818181818,1,s,0,1,0,0,0,0,,2,0,7,2,0,0,0,0,0,0,0,0,0,3,0,,,,Hayden/Drake,s,98 to100,29 by 29,0
-9067_69,Hayden,2024alhu,qm,69,2024alhu_qm69,r2,9067,32,22,10,0,7,0,1,1,0,s,1,4,0,0,0,0,,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Drove against wall caused them to slow down DRASTICALLY,,Dropped note ,Anna,s,84,28 by 28,4 note auto
-3139_69,Levi H,2024alhu,qm,69,2024alhu_qm69,b1,3139,17,0,16,1,4,0,,1,0,s,0,0,0,0,0,0,,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,,Luke,t,64,26x31,Amp no speaker
-5800_69,Brody,2024alhu,qm,69,2024alhu_qm69,b2,5800,11,7,4,0,2,0,1,1,0,s,1,1,0,0,0,0,Meant to shoot more but disconnected,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stuck in front of subwoofer,,Disconnected in auto came back in endgame,Anna,t,90,39 by 39,0
-7717_69,Isaiah,2024alhu,qm,69,2024alhu_qm69,b3,7717,9,5,4,0,3,2,1,0.5,0,s,0,1,0,0,0,0,,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,,,,Hayden and drake,s,93,29 and 3 quarters by 29 and 3 quarters,0
-5045_69,Drake ,2024alhu,qm,69,2024alhu_qm69,r3,5045,1,0,0,1,0,1,,0,0,a,0,0,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,,,,Levi H,s,77,28 x 28,Can go under stage 
-3140_70,Hayden,2024alhu,qm,70,2024alhu_qm70,r3,3140,17,7,10,0,6,1,0.5,1,0,s,1,1,0,1,0,0,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,,,Pretty good speed ,ARR,s,110,29 29,Knowledge 5 out of 10. too Manny people in the pit
-9787_70,ARR,2024alhu,qm,70,2024alhu_qm70,b2,9787,24,5,16,3,7,0,1,1,0,s,0,1,0,0,0,0,,2,0,4,0,0,1,0,0,0,0,0,0,0,3,0,,,,ARR,m,98,26 24,Knowledge 7 out of 10. low CG
-8772_70,Levi H,2024alhu,qm,70,2024alhu_qm70,b1,8772,3,2,0,1,0,0,,,0,l,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,They tried I think,,Luke ,t,75,31x31,Might not pass inspection
-9590_70,Brody,2024alhu,qm,70,2024alhu_qm70,b3,9590,4,2,2,0,1,1,,0.5,0,s,1,0,0,0,0,0,,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,Slow,,Kit bot with tank drive,Jonah,t,Not avaliable ,27 5 x 31 5,0
-8773_70,Jonah ,2024alhu,qm,70,2024alhu_qm70,r2,8773,1,0,0,1,0,0,,,0,l,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,Defense was useless ,Very slow turns,Luke,m,45ish,32x27,Nothing but drivetrain
-3824_70,Krit ,2024alhu,qm,70,2024alhu_qm70,r1,3824,-4,0,-5,1,0,3,,0,0,x,0,0,0,0,0,0,,0,3,0,0,0,0,0,0,0,1,0,0,0,1,0,,,,Hayden and Drake ,s,123 point 6,30 by 30,Didn?t really know the answers
-547_71,Hayden,2024alhu,qm,71,2024alhu_qm71,r3,547,7,0,6,1,3,2,0,0.75,0,a,0,0,0,1,0,0,Sat still,0,0,3,1,0,0,0,0,0,0,0,0,0,1,0,,,KitBot,Hayden and Drake ,t,59,27 by 33 point 5,Didn?t know answers fully
-6652_71,Levi H,2024alhu,qm,71,2024alhu_qm71,b1,6652,1,0,0,1,0,5,0,0,0,s,0,0,0,1,0,0,,0,0,0,4,0,1,0,0,0,0,0,0,0,1,0,,,,Shan,t,90,24 by 25,0
-4635_71,ARR,2024alhu,qm,71,2024alhu_qm71,b2,4635,45,0,44,1,14,6,0,0.875,0,s,0,0,0,4,0,0,,8,0,6,2,0,1,1,1,0,0,0,0,0,1,0,,,Had connection issues before the match,Jonah,s,119,24 30,Quick cycles. Said can shoot over and under stage
-2973_71,Krit ,2024alhu,qm,71,2024alhu_qm71,r1,2973,10,5,4,1,3,1,1,0.666666667,0,s,0,1,0,0,0,0,,0,0,2,1,0,1,0,0,0,0,0,0,0,1,0,,,,Anna,t,78,33  by 27,Low center of gravity
-1466_71,Brody,2024alhu,qm,71,2024alhu_qm71,b3,1466,14,7,6,1,3,0,1,1,0,l,1,1,0,0,0,0,,1,0,1,0,0,1,0,0,0,0,1,0,0,1,0,,Too slow did nothing,,Shan,s,95,26 by 26 and half,0
-4020_72,ARR,2024alhu,qm,72,2024alhu_qm72,b2,4020,22,5,16,1,7,0,1,1,0,s,0,1,0,0,0,0,,2,0,4,0,0,1,1,0,0,0,0,0,0,1,0,Note got jammed in them,,,#N/A,#N/A,#N/A,#N/A,#N/A
-3984_72,Jonah ,2024alhu,qm,72,2024alhu_qm72,r2,3984,30,17,10,3,8,1,1,0.833333333,1,s,1,3,0,0,0,0,,0,0,5,1,0,1,0,0,0,0,0,1,0,3,0,,Defended by 7725.,,Shan,s,101,29 by 29,0
-7725_72,Brody,2024alhu,qm,72,2024alhu_qm72,b3,7725,1,0,0,1,0,0,,,0,x,0,0,0,0,0,0,Brick,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Pushed around a lot,Bots just pushed them out of the way,,#N/A,#N/A,#N/A,#N/A,#N/A
-7111_72,Krit ,2024alhu,qm,72,2024alhu_qm72,r1,7111,15,5,10,0,6,0,1,1,0,s,0,1,0,0,0,0,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,Connectivity issues ,,,Anna,s,106,28 by 28,0
-2638_72,Hayden,2024alhu,qm,72,2024alhu_qm72,b3,2638,26,12,14,0,8,0,1,1,0,s,1,2,0,0,0,0,,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,,7725 and 4020 defended them,Took too long on last note score so couldnt make it to speaker,Luke,s,118,30x30,There selling feature was feeding
-5557_72,Levi H,2024alhu,qm,72,2024alhu_qm72,b1,5557,28,2,26,0,8,1,0,1,0,l,1,0,0,1,0,0,A stop,5,0,3,0,1,0,1,1,0,0,0,0,0,0,0,,,,Levi H,s,113,28 x 26,Drive under stage and can amp speaker and climb
-5410_73,ARR,2024alhu,qm,73,2024alhu_qm73,b1,5410,26,5,18,3,6,6,1,0.454545455,0,a,0,1,0,0,0,0,,4,1,1,5,0,1,0,0,0,0,0,0,0,3,0,,,,Anna,s,114,24 by 32,0
+2412_96,ARR,2024cur,qm,96,2024cur_qm96,b2,2412,12,5,4,3,3,0,1,1,,a,0,1,0,0,0,0,,0,0,2,0,0,1,0,0,0,0,1,0,0,3,0,Broke after a hard impact,,,Anna,s,115,27 by 27,"Can pick up note from any side, unique wheels"
+2412_6,ARR,2024cur,qm,6,2024cur_qm6,r1,2412,19,5,14,0,8,0,1,1,,a,0,1,0,0,0,0,,0,0,7,0,0,0,0,0,0,0,1,0,0,0,0,,,,Anna,s,115,27 by 27,"Can pick up note from any side, unique wheels"
+2472_1,ARR,2024cur,de,1,2024cur_de1,r3,2472,34,5,28,1,9,1,1,0.888888889,,a,0,1,0,0,0,0,,6,0,2,1,0,1,0,0,0,0,0,0,0,1,0,,,,Anna,s,108,27 by 30,Can maybe feed
+2472_5,ARR,2024cur,de,5,2024cur_de5,r3,2472,27,0,24,3,8,1,0,1,,a,0,0,0,1,0,0,,4,0,4,0,0,1,0,0,0,0,0,0,0,3,0,,,,Anna,s,108,27 by 30,Can maybe feed
+2472_3,ARR,2024cur,qm,3,2024cur_qm3,b3,2472,28,5,22,1,9,0,1,1,,a,0,1,0,0,0,0,,3,0,5,0,0,1,0,0,0,0,0,0,0,1,0,,,,Anna,s,108,27 by 30,Can maybe feed
+2472_4,ARR,2024cur,qm,4,2024cur_qm4,b2,2472,35,2,30,3,9,3,0,0.9,,s,1,0,0,2,0,0,,6,0,3,1,0,1,0,0,0,0,0,0,0,3,0,,,,Anna,s,108,27 by 30,Can maybe feed
+2485_4,ARR,2024cur,de,4,2024cur_de4,r1,2485,12,7,4,1,2,0,1,1,,l,1,1,0,0,0,0,,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,Got a note stuck on the robot,,,Anna,s,100,25 by 30,Good Odometry
+2458_5,ARR,2024cur,de,5,2024cur_de5,r1,2458,31,2,26,3,9,2,0,0.9,,l,1,0,0,1,0,0,Meme Auto,4,0,5,1,0,1,0,0,0,0,0,0,0,3,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+2458_6,ARR,2024cur,de,6,2024cur_de6,r2,2458,53,12,38,3,15,3,0.5,0.928571429,,s,1,2,0,2,0,0,,6,1,7,0,2,1,1,0,0,0,0,0,0,3,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+2458_70,ARR,2024cur,qm,70,2024cur_qm70,b1,2458,40,7,30,3,11,0,1,1,,x,1,1,0,0,0,0,,5,0,5,0,0,1,1,0,0,0,0,0,0,3,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+2521_1,ARR,2024cur,f,1,2024cur_f1,b2,2521,47,12,32,3,13,0,1,1,,a,1,2,0,0,0,0,,5,0,6,0,0,1,1,0,0,0,0,0,0,3,0,,,,Anna,s,123.6,26.5 by 35.5,Adaptable robot
+2521_3,ARR,2024cur,de,3,2024cur_de3,r2,2521,26,7,16,3,6,1,0.5,1,,a,1,1,0,1,0,0,,3,0,2,0,0,1,1,0,0,0,0,0,0,3,0,,,,Anna,s,123.6,26.5 by 35.5,Adaptable robot
+_5,ARR,2024cur,qm,5,2024cur_qm5,b3,,35,12,20,3,10,2,0.5,1,,s,1,2,0,2,0,0,,2,0,6,0,2,1,1,0,0,0,0,0,0,3,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+2521_97,ARR,2024cur,qm,97,2024cur_qm97,r1,2521,40,17,20,3,11,0,1,1,,a,1,3,0,0,0,0,,2,0,6,0,0,1,1,0,0,0,0,0,0,3,0,,,,Anna,s,123.6,26.5 by 35.5,Adaptable robot
+2530_9,ARR,2024cur,qm,9,2024cur_qm9,r2,2530,42,17,22,3,13,2,0.75,0.909090909,,s,1,3,0,1,0,0,,1,0,9,1,0,1,1,0,0,0,0,0,0,3,0,,,,Anna,s,118.7,25 by 30,Double sided intake
+2530_87,ARR,2024cur,qm,87,2024cur_qm87,r2,2530,43,22,18,3,13,1,0.8,1,,l,1,4,0,1,0,0,,0,0,9,0,0,1,1,0,0,0,0,0,0,3,0,,,Driver is very good has a fine control over the robot,Anna,s,118.7,25 by 30,Double sided intake
+2530_1,ARR,2024cur,de,1,2024cur_de1,r1,2530,53,22,28,3,14,1,1,0.909090909,,a,1,4,0,0,0,0,,4,0,6,1,0,1,1,0,0,0,0,0,0,3,0,,,,Anna,s,118.7,25 by 30,Double sided intake
+2530_2,ARR,2024cur,f,2,2024cur_f2,b3,2530,54,17,34,3,15,0,1,1,,a,1,3,0,0,0,0,,5,0,7,0,0,1,1,0,0,0,0,0,0,3,0,,,,Anna,s,118.7,25 by 30,Double sided intake
+2539_102,Levi H,2024cur,qm,102,2024cur_qm102,b1,2539,19,2,14,3,5,2,0,0.833333333,,s,1,0,0,1,0,0,,2,0,3,1,9,1,0,0,0,0,0,0,0,3,0,,,Good note feeds,Anna,s,124,28 by 28,Good feeding  trap
+2539_116,Levi H,2024cur,qm,116,2024cur_qm116,r2,2539,14,7,4,3,3,0,1,1,,s,1,1,0,0,0,0,,0,0,2,0,15,1,0,0,0,0,0,0,0,3,0,,,Really good note feeder,Anna,s,124,28 by 28,Good feeding  trap
+2539_117,Levi H,2024cur,de,117,2024cur_de117,b3,2539,15,5,2,8,3,0,1,1,,s,0,1,0,0,0,0,,0,0,1,0,17,1,0,0,0,0,0,0,1,3,0,,,Holy cowzerz they soo good at feeding ,Anna,s,124,28 by 28,Good feeding  trap
+2539_12,Levi H,2024cur,de,12,2024cur_de12,r1,2539,28,12,8,8,7,0,1,1,,s,1,2,0,0,0,0,,0,0,4,0,12,0,1,0,0,0,0,0,1,3,0,,,Very good 3rd pick,Anna,s,124,28 by 28,Good feeding  trap
+2590_109,Levi H,2024cur,de,109,2024cur_de109,r2,2590,21,12,6,3,5,0,1,1,,a,1,2,0,0,0,0,,0,0,3,0,10,0,1,0,0,0,0,0,0,3,0,,,Note feeder,Anna,s,127,24 by 29,Can do everthing
+2590_118,Levi H,2024cur,de,118,2024cur_de118,b1,2590,21,5,8,8,5,1,0.5,1,,a,0,1,0,1,0,0,,1,0,2,0,12,0,1,0,0,0,0,0,1,3,0,,,,Anna,s,127,24 by 29,Can do everthing
+2590_8,Levi H,2024cur,de,8,2024cur_de8,b2,2590,16,5,10,1,6,0,1,1,,l,0,1,0,0,0,0,,0,0,5,0,9,0,1,0,0,0,0,0,0,1,0,,,,Anna,s,127,24 by 29,Can do everthing
+2590_10,Levi H,2024cur,de,10,2024cur_de10,b3,2590,12,5,4,3,3,1,0.5,1,,l,0,1,0,1,0,0,,0,0,2,0,2,1,1,0,0,0,1,0,0,3,0,,Defense like Sids,They got a note stuck,Anna,s,127,24 by 29,Can do everthing
+3179_66,Levi H,2024cur,qm,66,2024cur_qm66,b1,3179,18,12,6,0,5,0,1,1,,s,1,2,0,0,0,0,,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,,,They broke,Anna,s,112,28 by 32,Could feed maybe
+3179_70,Levi H,2024cur,qm,70,2024cur_qm70,r3,3179,28,0,28,0,11,2,0,0.916666667,,s,0,0,0,1,0,0,,3,0,8,1,0,1,0,0,0,0,0,0,0,0,0,,,,Anna,s,112,28 by 32,Could feed maybe
+3179_8,Levi H,2024cur,de,8,2024cur_de8,r3,3179,19,2,16,1,5,3,0,0.714285714,,s,1,0,0,1,0,0,,3,0,2,2,0,1,0,0,0,0,0,0,0,1,0,,,,Anna,s,112,28 by 32,Could feed maybe
+3179_10,Levi H,2024cur,de,10,2024cur_de10,r3,3179,6,0,6,0,3,4,0,0.5,,s,0,0,0,1,0,0,,0,0,3,3,0,1,0,0,0,0,0,0,0,0,0,,,,Anna,s,112,28 by 32,Could feed maybe
+3181_66,Levi H,2024cur,qm,66,2024cur_qm66,b1,3181,30,5,24,1,10,0,1,1,,s,0,1,0,0,0,0,,3,0,6,0,0,0,1,0,0,0,0,0,0,1,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+3171_71,Levi H,2024cur,qm,71,2024cur_qm71,r3,3171,13,2,8,3,4,1,0,1,,s,1,0,0,1,0,0,,0,0,4,0,0,1,0,0,0,0,0,0,0,3,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+3181_1,Levi H,2024cur,qm,1,2024cur_qm1,r1,3181,2,0,2,0,1,1,0,1,,s,0,0,0,1,0,0,Note got shot out of the field,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,,Very not good,They broke and did defense ,#N/A,#N/A,#N/A,#N/A,#N/A
+2412_87,Levi H,2024cur,qm,87,2024cur_qm87,r2,2412,22,7,14,1,8,0,1,1,,s,1,1,0,0,0,0,Missed picking up notes ,0,0,7,0,0,1,0,0,0,0,0,0,0,1,0,,,Bad intake,Anna,s,115,27 by 27,"Can pick up note from any side, unique wheels"
+2472_74,Levi H,2024cur,qm,74,2024cur_qm74,r2,2472,28,5,22,1,9,0,1,1,,s,0,1,0,0,0,0,,3,0,5,0,0,1,0,0,0,0,0,0,0,1,0,,,,Anna,s,108,27 by 30,Can maybe feed
+2530_80,Levi H,2024cur,qm,80,2024cur_qm80,b1,2530,31,10,20,1,9,0,1,1,,s,0,2,0,0,0,0,,3,0,4,0,0,1,0,0,0,0,0,0,0,1,0,,,,Anna,s,118.7,25 by 30,Double sided intake
+2539_81,Levi H,2024cur,qm,81,2024cur_qm81,b3,2539,23,7,8,8,4,0,1,1,,s,1,1,0,0,0,0,,2,0,0,0,11,0,0,0,0,0,0,0,1,3,0,,,,Anna,s,124,28 by 28,Good feeding  trap
+3181_49,Levi H,2024cur,qm,49,2024cur_qm49,r1,3181,41,17,24,0,14,0,1,1,,s,1,3,0,0,0,0,,1,0,10,0,0,0,1,0,0,0,0,0,0,0,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+2521_85,Anna,2024cur,qm,85,2024cur_qm85,b2,2521,43,22,20,1,11,1,1,0.875,,s,1,4,0,0,0,0,,3,1,4,0,0,0,1,0,0,0,0,0,0,1,0,Good driver,,Tried to climb,Anna,s,123.6,26.5 by 35.5,Adaptable robot
+2590_109,Anna,2024cur,qm,109,2024cur_qm109,r2,2590,21,7,6,8,5,1,0.5,1,,a,1,1,0,1,0,0,Tried to pick up one and failed,0,0,3,0,10,1,0,0,0,0,0,0,1,3,0,Feeder  good driver,,,Anna,s,127,24 by 29,Can do everthing
+3179_66,Anna,2024cur,qm,66,2024cur_qm66,b1,3179,20,5,14,1,6,1,1,0.833333333,,s,0,1,0,0,0,0,,2,0,3,1,0,1,0,0,0,0,0,0,0,1,0,Mid,,It took a while to shoot the first time,Anna,s,112,28 by 32,Could feed maybe
+2485_63,Anna,2024cur,qm,63,2024cur_qm63,r3,2485,40,17,22,1,10,0,1,1,,s,1,3,0,0,0,0,Tried to pick up and score one more note,4,0,3,0,1,0,1,0,0,0,0,0,0,1,0,Good driver,,,Anna,s,100,25 by 30,Good Odometry
+3950_67,Drake,2024cur,qm,67,2024cur_qm67,b2,3950,34,12,22,0,9,2,0.666666667,0.875,,s,1,2,0,1,0,0,1,4,0,3,1,0,1,0,0,0,0,0,0,0,0,0,Okay driving  took a while to get the first amp note,,Went for a last instead of parking,Drake Luke g,s,121,27 by 30,0
+3950_76,Drake,2024cur,qm,76,2024cur_qm76,b2,3950,34,7,26,1,9,2,0.333333333,1,,s,1,1,0,2,0,0,Tried to pick up and score a note,5,0,3,0,0,1,0,0,0,0,0,1,0,1,0,Okay driver,Was defended by 28,,Drake Luke g,s,121,27 by 30,0
+3284_4,Isaiah and Luke,2024cur,de,4,2024cur_de4,b1,3284,-7,-3,-5,1,0,0,,,,l,1,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,,Not great,Shooter broke,#N/A,#N/A,#N/A,#N/A,#N/A
+3284_4,Isaiah and Luke,2024cur,de,4,2024cur_de4,b1,3284,-7,-3,-5,1,0,0,,,,l,1,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,,Not great,Shooter broke,#N/A,#N/A,#N/A,#N/A,#N/A
+3284_6,Isaiah and Luke,2024cur,de,6,2024cur_de6,b1,3284,-2,2,-5,1,0,0,,,,l,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,,Ok,,#N/A,#N/A,#N/A,#N/A,#N/A
+3847_1,Isaiah and Luke,2024cur,f,1,2024cur_f1,r2,3847,17,20,-6,3,6,0,1,1,,s,0,4,0,0,0,0,Lost race to middle,0,0,2,0,5,0,0,0,0,2,0,0,0,3,0,,,,Drake Luke g,s,124,29half 29half,0
+3874_2,Isaiah and Luke,2024cur,f,2,2024cur_f2,r2,3874,34,22,4,8,7,1,1,0.666666667,,s,1,4,0,0,0,0,Lost middle race,0,0,2,1,6,0,0,0,0,0,0,0,1,3,0,,,Waisted time thinking they had a note,#N/A,#N/A,#N/A,#N/A,#N/A
+3950_1,Isaiah and Luke,2024cur,f,1,2024cur_f1,r1,3950,13,0,10,3,5,2,0,1,,s,0,0,0,2,0,0,,0,0,5,0,1,0,0,0,0,0,0,0,0,3,0,,,Feed was bad,Drake Luke g,s,121,27 by 30,0
+3950_2,Isaiah and Luke,2024cur,f,2,2024cur_f2,r1,3950,15,0,12,3,6,2,0,1,,s,0,0,0,2,0,0,,0,0,6,0,0,1,0,0,0,0,0,0,0,3,0,,,,Drake Luke g,s,121,27 by 30,0
+9564_62,Isaiah,2024cur,f,62,2024cur_f62,b1,9564,1,0,0,1,0,0,,,,s,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,Did nothing just drove around,Isaiah ,s,35,28 28,Cant speak English 
+9564_67,Isaiah,2024cur,f,67,2024cur_f67,,9564,-4,0,-5,1,0,0,,,,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,,,did nothing,Isaiah ,s,35,28 28,Cant speak English 
+9564_68,Isaiah,2024cur,f,68,2024cur_f68,,9564,0,0,0,0,0,0,,,,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,awful defense,possible subwoofer defense,Isaiah ,s,35,28 28,Cant speak English 
+9564_69,Isaiah,2024cur,f,69,2024cur_f69,,9564,-50,0,-50,0,0,0,,,,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,10,1,0,0,0,0,,played midline defence did not stop anything,got stuck in source,Isaiah ,s,35,28 28,Cant speak English 
+9610_70,Isaiah,2024cur,f,70,2024cur_f70,,9610,11,7,3,1,3,0,1,1,,x,1,1,0,0,0,0,,2,0,0,0,0,0,0,0,0,1,0,0,0,1,0,slow source,,get pushed easily ,#N/A,#N/A,#N/A,#N/A,#N/A
+9610_71,Isaiah,2024cur,f,71,2024cur_f71,,9610,3,2,0,1,0,0,,,,x,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,Bad subwoofer defense,,#N/A,#N/A,#N/A,#N/A,#N/A
+9610_71,Isaiah,2024cur,f,71,2024cur_f71,,9610,3,2,0,1,0,0,,,,x,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,Bad subwoofer defense,,#N/A,#N/A,#N/A,#N/A,#N/A
+9610_72,Isaiah,2024cur,f,72,2024cur_f72,,9610,2,2,0,0,0,1,0,,,x,1,0,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,drive train broke stayed on own side whole watch,#N/A,#N/A,#N/A,#N/A,#N/A
+9610_73,Isaiah,2024cur,f,73,2024cur_f73,,9610,3,2,0,1,0,2,0,0,,x,1,0,0,1,0,0,,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+9709_74,Isaiah,2024cur,de,74,2024cur_de74,,9709,29,12,16,1,10,3,0.5,0.888888889,,s,1,2,0,2,0,0,,0,0,8,1,0,0,0,0,0,0,0,0,0,1,0,,good strength,solid speaker scorer fairly fast,Isaiah ,s,120,29 29,0
+9709_74,Isaiah,2024cur,de,74,2024cur_de74,,9709,29,12,16,1,10,3,0.5,0.888888889,,s,1,2,0,2,0,0,,0,0,8,1,0,0,0,0,0,0,0,0,0,1,0,,good strength,solid speaker scorer fairly fast,Isaiah ,s,120,29 29,0
+9709_75,Isaiah,2024cur,de,75,2024cur_de75,,9709,25,10,14,1,9,2,1,0.777777778,,x,0,2,0,0,0,0,,0,0,7,2,0,0,0,0,0,0,0,0,0,1,0,,,very fast speaker,Isaiah ,s,120,29 29,0
+9709_75,Isaiah,2024cur,de,75,2024cur_de75,,9709,25,10,14,1,9,2,1,0.777777778,,x,0,2,0,0,0,0,,0,0,7,2,0,0,0,0,0,0,0,0,0,1,0,,,very fast speaker,Isaiah ,s,120,29 29,0
+9709_76,Isaiah,2024cur,de,76,2024cur_de76,,9709,18,7,10,1,6,2,0.5,0.833333333,,x,1,1,0,1,0,0,,0,0,5,1,0,1,0,0,0,0,0,0,0,1,0,,,failed harmony,Isaiah ,s,120,29 29,0
+9709_77,Isaiah,2024cur,de,77,2024cur_de77,,9709,20,12,4,4,4,0,1,1,,x,1,2,0,0,0,0,,0,0,2,0,0,1,0,0,0,0,1,0,0,4,0,,ok but not good and would be better as a off bot,note stuck in intake intake broke,Isaiah ,s,120,29 29,0
+9752_78,Isaiah,2024cur,de,78,2024cur_de78,,9752,15,15,0,0,3,0,1,,,x,0,3,0,0,0,0,potential for 5 piece,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,good wing line defense,intake broke,Isaiah,s,75,28 35,0
+9752_79,Isaiah,2024cur,de,79,2024cur_de79,,9752,57,25,32,0,16,0,1,1,,x,0,5,0,0,0,0,2nd piece is center line,5,0,6,0,0,0,0,0,0,0,0,0,0,0,0,fast amp shooter angle able to get over walls,,jerky driver fast intake to shoot,Isaiah,s,75,28 35,0
+9752_80,Isaiah,2024cur,de,80,2024cur_de80,,9752,41,10,28,3,10,1,0.666666667,1,,l,0,2,0,1,0,0,they get to center in 3 seconds on source side,6,0,2,0,3,0,0,0,0,0,0,0,0,3,0,bad intake,,shot 2 fed notes out of bounds,Isaiah,s,75,28 35,0
+9752_81,Isaiah,2024cur,de,81,2024cur_de81,,9752,56,15,38,3,15,1,1,0.923076923,,a,0,3,0,0,0,0,got to center line in 5 sec ampside,7,0,5,1,0,0,1,0,0,0,0,0,0,3,0,,,very good all around robot,Isaiah,s,75,28 35,0
+9787_82,Isaiah,2024cur,de,82,2024cur_de82,,9787,17,0,14,3,6,0,,1,,x,0,0,0,0,0,0,,1,0,5,0,0,1,0,0,0,0,0,0,0,3,0,last second climb,,Slow at everything,Isaiah,m,91,28 26,0
+9787_83,Isaiah,2024cur,de,83,2024cur_de83,,9787,30,5,24,1,10,1,1,0.9,,x,0,1,0,0,0,0,,3,0,6,1,0,0,0,0,0,0,0,0,0,1,0,,,,Isaiah,m,91,28 26,0
+9787_84,Isaiah,2024cur,de,84,2024cur_de84,,9787,30,5,22,3,9,0,1,1,,x,0,1,0,0,0,0,,3,0,5,0,0,0,0,0,0,0,0,0,0,3,0,,,very slow,Isaiah,m,91,28 26,0
+9787_85,Isaiah,2024cur,de,85,2024cur_de85,,9787,18,7,10,1,5,2,1,0.666666667,,x,1,1,0,0,0,0,,1,1,3,1,0,0,0,0,0,0,0,0,0,1,0,,,,Isaiah,m,91,28 26,0
+9416_19,Liam,2024cur,qm,19,2024cur_qm19,r2,9416,1,0,0,1,0,0,,,,s,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3 source drop of misses,Bad defense at mid,,Isaiah ,t,82,32 27,0
+9416_18,Liam,2024cur,qm,18,2024cur_qm18,r2,9416,2,0,2,0,1,1,,0.5,,x,0,0,0,0,0,0,,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,A lot of time at source,,,Isaiah ,t,82,32 27,0
+9416_17,Liam,2024cur,qm,17,2024cur_qm17,b1,9416,7,0,6,1,3,2,,0.6,,s,0,0,0,0,0,0,,0,0,3,2,0,0,0,0,0,0,0,0,0,1,0,Takes a lot of time to line up,,,Isaiah ,t,82,32 27,0
+9416_16,Liam,2024cur,qm,16,2024cur_qm16,r1,9416,3,0,2,1,1,1,,0.5,,s,0,0,0,0,0,0,,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0,Semi fast drop in intake at source,Average defense get your pushed around,,Isaiah ,t,82,32 27,0
+9403_15,Liam,2024cur,qm,15,2024cur_qm15,r1,9403,21,2,16,3,4,0,,1,,s,1,0,0,0,0,0,,4,0,0,0,0,0,0,0,0,0,0,0,0,3,0,,,,Isaiah,s,62,35x26,0
+9043_14,Liam,2024cur,qm,14,2024cur_qm14,r1,9043,22,2,16,4,4,0,,1,,x,1,0,0,0,0,0,,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,Omni or mecanum and get pushed very easily,,Poor amp score ,#N/A,#N/A,#N/A,#N/A,#N/A
+9403_13,Liam,2024cur,qm,13,2024cur_qm13,,9403,22,2,20,0,5,0,,1,,l,1,0,0,0,0,0,Was in teammates way,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Slow amp but it?s the only thing they do,Isaiah,s,62,35x26,0
+9403_12,Liam,2024cur,qm,12,2024cur_qm12,r1,9403,18,2,16,0,4,0,,1,,s,1,0,0,0,0,0,,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Get easily pushed around,No tork  and they get pushed around,Fast drive train slow amp score,Isaiah,s,62,35x26,0
+9016_11,Liam,2024cur,qm,11,2024cur_qm11,r1,9016,41,22,18,1,13,0,1,1,,x,1,4,0,0,0,0,,0,0,9,0,0,0,0,0,0,0,0,0,0,1,0,Good at harmony,,Cant amp,Isaiah ,s,97,28 28,0
+9016_10,Liam,2024cur,qm,10,2024cur_qm10,r1,9016,29,15,10,4,8,3,0.75,0.714285714,,l,0,3,0,1,0,0,,0,0,5,2,0,0,0,0,0,0,0,0,0,4,0,No auto Aline and they use the subwoofer for line up,,,Isaiah ,s,97,28 28,0
+9016_10,Liam,2024cur,qm,10,2024cur_qm10,r1,9016,29,15,10,4,8,3,0.75,0.714285714,,l,0,3,0,1,0,0,,0,0,5,2,0,0,0,0,0,0,0,0,0,4,0,No auto Aline and they use the subwoofer for line up,,,Isaiah ,s,97,28 28,0
+9016_9,Liam,2024cur,qm,9,2024cur_qm9,r1,9016,17,10,4,3,4,1,0.666666667,1,,s,0,2,0,1,0,0,,0,0,2,0,0,0,0,0,0,0,1,0,0,3,0,Can cause traffic ,Good defense but bad placement,,Isaiah ,s,97,28 28,0
+9016_8,Liam,2024cur,qm,8,2024cur_qm8,r1,9016,35,15,16,4,11,1,1,0.888888889,,x,0,3,0,0,0,0,,0,0,8,1,0,0,0,0,0,0,0,0,0,4,0,Have to shoot subwoofer but fast,,Very fast and fast speaker,Isaiah ,s,97,28 28,0
+9008_7,Liam,2024cur,qm,7,2024cur_qm7,r1,9008,11,2,6,3,2,0,,1,,l,1,0,0,0,0,0,,1,0,1,0,0,0,0,0,0,0,0,0,0,3,0,No source auto ,,Poor defense,Isaiah,s,123,24x24,Good at amp
+9008_6,Liam,2024cur,qm,6,2024cur_qm6,r1,9008,4,2,2,0,1,2,,0.333333333,,x,1,0,0,0,0,0,,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,Extremely bad source pickup,Defended at mid line really badly,,Isaiah,s,123,24x24,Good at amp
+9008_5,Liam,2024cur,qm,5,2024cur_qm5,r1,9008,31,10,20,1,10,1,0.666666667,1,,s,0,2,0,1,0,0,,2,0,6,0,0,0,0,0,0,0,0,0,0,1,0,Only two cycles,,Slow speaker score,Isaiah,s,123,24x24,Good at amp
+9008_4,Liam,2024cur,qm,4,2024cur_qm4,b1,9008,38,10,28,0,10,0,1,1,,l,0,2,0,0,0,0,Hit teammate,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,Slow speaker score,,Only sub shoots,Isaiah,s,123,24x24,Good at amp
+3284_76,Drake ,2024cur,qm,76,2024cur_qm76,r1,3284,22,2,20,0,5,6,0,0.5,,l,1,0,0,1,0,0,,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,,,Note got stuck ,#N/A,#N/A,#N/A,#N/A,#N/A
+3284_70,Drake ,2024cur,qm,70,2024cur_qm70,b2,3284,45,12,32,1,10,3,1,0.727272727,,l,1,2,0,0,0,0,,8,0,0,3,0,0,0,0,0,0,0,0,0,1,0,,,Could not score speaker ,#N/A,#N/A,#N/A,#N/A,#N/A
+3847_58,Drake ,2024cur,qm,58,2024cur_qm58,,3847,37,12,16,9,11,1,0.666666667,1,,s,1,2,0,1,0,0,,0,0,8,0,5,1,0,0,0,0,0,0,1,3,1,,,,Drake Luke g,s,124,29half 29half,0
+3847_49,Drake ,2024cur,qm,49,2024cur_qm49,r3,3847,79,32,38,9,20,0,1,1,,s,1,6,0,0,0,0,,6,0,7,0,1,0,1,0,0,0,0,0,1,3,1,,,,Drake Luke g,s,124,29half 29half,0
+3284_58,Drake ,2024cur,qm,58,2024cur_qm58,,3284,37,2,34,1,10,1,0,1,,l,1,0,0,1,0,0,,7,0,3,0,0,0,1,0,0,0,0,0,0,1,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+3950_60,Drake ,2024cur,qm,60,2024cur_qm60,r1,3950,29,12,16,1,10,3,0.5,0.888888889,,a,1,2,0,2,0,0,,0,0,8,1,0,1,0,0,0,0,0,0,0,1,0,,,,Drake Luke g,s,121,27 by 30,0
+624_625,Logan ,2024cur,qm,625,2024cur_qm625,r3,624,18,7,8,3,5,4,0.333333333,0.666666667,,s,1,1,0,2,0,0,,0,0,4,2,7,1,0,0,0,0,0,0,0,3,0,,,,Shan,s,116,25 by 20,L3 gear ratio
+624_624,Logan ,2024cur,qm,624,2024cur_qm624,r3,624,23,0,22,1,7,2,0,1,,a,0,0,0,2,0,0,,4,0,3,0,3,1,0,0,0,0,0,0,0,1,0,,,,Shan,s,116,25 by 20,L3 gear ratio
+624_70,Logan,2024cur,qm,70,2024cur_qm70,r3,624,10,7,0,3,1,3,0.5,0,,a,1,1,0,1,0,0,,0,0,0,2,1,1,0,0,0,0,0,1,0,3,0,,,Defended by 5892,Shan,s,116,25 by 20,L3 gear ratio
+624_69,Logan,2024cur,qm,69,2024cur_qm69,r3,624,10,5,2,3,2,2,0.333333333,1,,a,0,1,0,2,0,0,,0,0,1,0,18,0,0,0,0,0,0,0,0,3,0,,,,Shan,s,116,25 by 20,L3 gear ratio
+346_57,Logan,2024cur,qm,57,2024cur_qm57,r3,346,28,7,18,3,7,0,1,1,,x,1,1,0,0,0,0,,3,0,3,0,0,1,0,0,0,0,0,0,0,3,0,,,,Shan,s,123.2,31 by 27,Steel frame  very durable
+190_56,Logan,2024cur,qm,56,2024cur_qm56,r3,190,20,5,14,1,8,1,1,0.875,,s,0,1,0,0,0,0,,0,0,7,1,3,1,0,0,0,0,0,0,0,1,0,,,,Shan,s,125,28 by 28,No amp
+190_6,Logan ,2024cur,qm,6,2024cur_qm6,r3,190,9,2,4,3,3,1,0.5,1,,s,1,1,0,1,0,1,,0,0,2,0,6,1,0,0,0,0,0,0,0,3,0,Intake is wobbly fast climb ,,,Shan,s,125,28 by 28,No amp
+190_5,Logan ,2024cur,qm,5,2024cur_qm5,r3,190,20,10,6,4,5,1,1,0.75,,s,0,2,0,0,0,0,,0,0,3,1,6,1,1,0,0,0,0,0,0,4,0,Note got stuck easily good at feeding ,,,Shan,s,125,28 by 28,No amp
+144_77,Logan,2024cur,qm,77,2024cur_qm77,r3,144,38,17,18,3,10,3,0.75,0.777777778,,a,1,3,0,1,0,0,,2,1,5,1,0,1,0,0,0,0,0,1,0,3,0,,,,Shan,s,115,29 by 30,Can climb now
+144_76,Logan,2024cur,qm,76,2024cur_qm76,r3,144,33,12,18,3,8,4,0.666666667,0.666666667,,a,1,2,0,1,0,0,,3,1,3,2,0,1,0,0,0,0,0,0,0,3,0,,,Not me stuck in robot for first 15 sec defended by 8222,Shan,s,115,29 by 30,Can climb now
+144_75,Logan,2024cur,qm,75,2024cur_qm75,r2,144,21,12,8,1,6,6,0.5,0.5,,a,1,2,0,2,0,0,,0,1,4,3,0,1,0,0,0,0,0,0,0,1,0,,,Inconsistent shooting risky driving at end of match ,Shan,s,115,29 by 30,Can climb now
+144_74,Logan,2024cur,qm,74,2024cur_qm74,r3,144,23,12,8,3,5,0,1,1,,a,1,2,0,0,0,0,,1,0,2,0,0,1,0,0,0,0,0,0,0,3,0,,,Climbed early 45 sec early ,Shan,s,115,29 by 30,Can climb now
+125_73,Logan,2024cur,qm,73,2024cur_qm73,r2,125,40,25,14,1,12,3,0.833333333,0.777777778,,s,0,5,0,1,0,0,,0,0,7,2,3,0,0,1,0,0,0,1,0,1,0,,,,Shan,s,124,28 by 26,0
+125_72,Logan,2024cur,qm,72,2024cur_qm72,r3,125,28,20,8,0,6,0,1,1,,s,0,4,0,0,0,0,,2,0,0,0,1,1,0,0,0,0,1,1,0,0,0,,,They died,Shan,s,124,28 by 26,0
+125_71,Logan,2024cur,qm,71,2024cur_qm71,r3,125,49,20,26,3,13,1,1,0.9,,s,0,4,0,0,0,0,,4,1,5,0,0,1,0,0,0,0,0,0,0,3,0,,,,Shan,s,124,28 by 26,0
+125_70,Logan,2024cur,qm,70,2024cur_qm70,r3,125,48,17,28,3,12,0,1,1,,s,1,3,0,0,0,0,,5,0,4,0,0,1,0,0,0,0,0,0,0,3,0,,,,Shan,s,124,28 by 26,0
+45_69,Logan,2024cur,qm,69,2024cur_qm69,r3,45,39,12,24,3,11,0,1,1,,l,1,2,0,0,0,0,,3,0,6,0,0,1,0,0,0,0,0,0,0,3,0,,,,Shan,s,Do not know,Height is 26  31 by 31,Was not informed
+45_68,Logan,2024cur,qm,68,2024cur_qm68,r3,45,26,5,18,3,7,2,0.666666667,0.833333333,,l,0,2,0,1,0,1,,4,0,1,1,0,1,0,0,0,0,0,0,0,3,0,,,,Shan,s,Do not know,Height is 26  31 by 31,Was not informed
+45_67,Logan,2024cur,qm,67,2024cur_qm67,r3,45,23,2,18,3,9,2,0.5,0.888888889,,l,1,1,0,1,0,1,,1,0,7,1,0,1,0,0,0,0,0,0,0,3,0,,,,Shan,s,Do not know,Height is 26  31 by 31,Was not informed
+45_61,Logan,2024cur,qm,61,2024cur_qm61,r3,45,25,12,10,3,7,3,1,0.625,,s,1,2,0,0,0,0,,0,0,5,3,0,0,0,0,0,0,0,0,0,3,0,,,,Shan,s,Do not know,Height is 26  31 by 31,Was not informed
+7531_52,Krit,2024cur,qm,52,2024cur_qm52,r3,7531,22,5,14,3,5,1,1,0.8,,s,0,1,0,0,0,0,,3,1,1,0,0,1,0,0,0,0,0,0,0,3,0,,,,Krit,t,100,32 5 27 5,0
+9008_9008,Isaiah,2024cur,qm,9008,2024cur_qm9008,b1,9008,0,0,0,0,0,1,0,,,x,0,0,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Robot broke drive train,Isaiah,s,123,24x24,Good at amp
+9016_,Isaiah,2024cur,qm,,2024cur_qm,b1,9016,31,12,18,1,11,1,0.666666667,1,,x,1,2,0,1,0,0,,0,0,9,0,0,1,0,0,0,0,0,0,0,1,0,,,,Isaiah ,s,97,28 28,0
+9403_,Isaiah,2024cur,qm,,2024cur_qm,b2,9403,18,2,12,4,3,0,,1,,x,1,0,0,0,0,0,,3,0,0,0,1,0,0,0,0,0,0,0,0,4,0,,,,Isaiah,s,62,35x26,0
+9403_,Isaiah,2024cur,qm,,2024cur_qm,b2,9403,18,2,12,4,3,0,,1,,x,1,0,0,0,0,0,,3,0,0,0,1,0,0,0,0,0,0,0,0,4,0,,,,Isaiah,s,62,35x26,0
+9416_,Isaiah,2024cur,qm,,2024cur_qm,b2,9416,4,0,4,0,2,2,0,0.666666667,,x,0,0,0,1,0,0,,0,0,2,1,2,1,0,0,0,0,0,0,0,0,0,,,,Isaiah ,t,82,32 27,0
+9564_,Isaiah,2024cur,qm,,2024cur_qm,b2,9564,1,0,0,1,0,0,,,,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,Was the saddest thing Ive ever watched,,Isaiah ,s,35,28 28,Cant speak English 
+9610_,Isaiah,2024cur,qm,,2024cur_qm,b3,9610,0,0,0,0,0,1,0,,,x,0,0,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Drive train broke,#N/A,#N/A,#N/A,#N/A,#N/A
+9709_,Isaiah,2024cur,qm,,2024cur_qm,b1,9709,37,22,12,3,10,0,1,1,,x,1,4,0,0,0,0,,0,0,6,0,0,0,0,0,0,0,0,0,0,3,0,,,No Amp good 3rd robot,Isaiah ,s,120,29 29,0
+9787_,Isaiah,2024cur,qm,,2024cur_qm,b1,9787,28,5,22,1,9,1,1,0.888888889,,x,0,1,0,0,0,0,,3,0,5,1,0,0,0,0,0,0,0,1,0,1,0,,Got defended by a kitbot,,Isaiah,m,91,28 26,0
+9787_,Isaiah,2024cur,qm,,2024cur_qm,b1,9787,28,5,22,1,9,1,1,0.888888889,,x,0,1,0,0,0,0,,3,0,5,1,0,0,0,0,0,0,0,1,0,1,0,,Got defended by a kitbot,,Isaiah,m,91,28 26,0
+5987_83,Rekka,2024cur,qm,83,2024cur_qm83,b2,5987,27,2,22,3,11,2,0,0.916666667,,l,1,0,0,1,0,0,Missed two picked ups,0,1,11,0,0,0,1,0,0,0,0,0,0,3,0,"Cant do amp, fairly quick to line up for speaker",When gets bumped messes up line up,,Rekka,s,113.6,30 by 30,Under construction
+5987_76,Rekka,2024cur,qm,76,2024cur_qm76,r1,5987,39,12,24,3,11,4,1,0.692307692,,l,1,2,0,0,0,0,,3,2,6,2,0,0,1,0,0,0,0,0,0,3,0,,,,Rekka,s,113.6,30 by 30,Under construction
+5907_74,Rekka,2024cur,qm,74,2024cur_qm74,r3,5907,38,12,22,4,11,1,0.666666667,1,,a,1,2,0,1,0,0,,2,0,7,0,0,1,0,0,0,0,0,0,0,4,0,,,,Rekka,s,124.5,30 by 30,0
+5907_75,Rekka,2024cur,qm,75,2024cur_qm75,r3,5907,23,12,10,1,7,0,1,1,,s,1,3,0,0,0,1,Drove across center line ,1,0,3,0,0,1,1,0,0,0,1,0,0,1,0,,"Intake stopped so switched to defense, then switched back to scoring",,Rekka,s,124.5,30 by 30,0
+5687_76,Rekka,2024cur,qm,76,2024cur_qm76,r2,5687,40,10,30,0,13,0,1,1,,l,0,2,0,0,0,0,Missed two pick ups,4,0,7,0,0,0,1,1,0,0,0,1,0,0,0,"Smart driver, drew three fouls ",Source defense slows them down,,Rekka,s,106,28 by 30,0
+5687_77,Rekka,2024cur,qm,77,2024cur_qm77,b1,5687,43,7,36,0,14,0,1,1,,s,1,1,0,0,0,0,Partner messed up part of auto,5,0,8,0,0,0,1,1,0,0,0,1,0,0,0,Got foul at end under stage,Source defense on them,,Rekka,s,106,28 by 30,0
+5667_84,Rekka,2024cur,qm,84,2024cur_qm84,b3,5667,22,7,14,1,7,5,0.25,0.75,,s,1,1,0,3,0,0,,1,0,5,2,4,0,1,0,0,0,0,0,0,1,0,,,,Rekka,s,122.5,31 by 28,0
+5667_78,Rekka,2024cur,qm,78,2024cur_qm78,r1,5667,18,12,6,0,4,3,0.5,0.666666667,,s,1,2,0,2,0,0,,1,0,1,1,5,0,0,0,0,0,0,0,0,0,0,"Something with robot broke, just sat and small spasms",,Good feeder,Rekka,s,122.5,31 by 28,0
+5409_79,Rekka,2024cur,qm,79,2024cur_qm79,r3,5409,57,12,32,13,12,0,1,1,,a,1,0,2,0,0,0,,8,0,0,0,1,0,0,0,0,0,0,0,2,3,0,"Score in trap, I climb, score in trap again",,,Rekka,s,124.8,32 by 28,0
+5409_89,Rekka,2024cur,qm,89,2024cur_qm89,r1,5409,51,7,36,8,11,1,1,0.9,,a,1,0,1,0,1,0,,9,1,0,0,1,0,0,0,0,0,0,0,1,3,0,Speedy solid trap,,,Rekka,s,124.8,32 by 28,0
+5152_78,Rekka,2024cur,qm,78,2024cur_qm78,b1,5152,41,12,26,3,10,0,1,1,,s,1,2,0,0,0,0,,5,0,3,0,0,1,0,0,0,0,0,0,0,3,0,Tippy cannot go under stage,,,Rekka,s,117,24 by 26,0
+5152_79,Rekka,2024cur,qm,79,2024cur_qm79,b2,5152,32,5,24,3,9,2,1,0.8,,s,0,1,0,0,0,0,,4,1,4,1,0,1,0,0,0,0,0,0,0,3,0,,,,Rekka,s,117,24 by 26,0
+4476_97,Rekka,2024cur,qm,97,2024cur_qm97,b3,4476,60,22,34,4,16,1,1,0.923076923,,s,1,4,0,0,0,0,,5,0,7,1,3,0,0,0,0,0,0,0,0,4,0,"Quick harmony, drove to their own wing line before shooting feed piece",,,Rekka,s,124,29.5 by 30,0
+4476_87,Rekka,2024cur,qm,87,2024cur_qm87,b2,4476,43,22,18,3,11,2,0.8,0.875,,s,1,4,0,1,0,0,,2,1,5,0,6,0,1,1,0,0,0,0,0,3,0,Real quick climb,,,Rekka,s,124,29.5 by 30,0
+7531_69,Jonah,2024cur,qm,69,2024cur_qm69,b2,7531,39,12,26,1,12,2,1,0.833333333,,s,1,2,0,0,0,0,,3,1,7,1,0,1,0,0,0,0,0,0,0,1,0,,,Stole from opposite source ,Krit,t,100,32 5 27 5,0
+7531_63,Jonah,2024cur,qm,63,2024cur_qm63,b1,7531,21,7,10,4,6,3,1,0.625,,s,1,1,0,0,0,0,,0,2,5,1,0,1,0,0,0,0,0,0,0,4,0,,,Slow bot,Krit,t,100,32 5 27 5,0
+7531_74,Jonah,2024cur,qm,74,2024cur_qm74,r2,7531,22,7,12,3,7,0,1,1,,s,1,1,0,0,0,0,,0,0,6,0,0,1,0,0,0,0,0,0,0,3,0,,,,Krit,t,100,32 5 27 5,0
+7531_84,Jonah,2024cur,qm,84,2024cur_qm84,r3,7531,9,7,2,0,2,0,1,1,,s,1,1,0,0,0,0,,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,,,Note stuck in bot is why broke ,Krit,t,100,32 5 27 5,0
+7567_64,Jonah,2024cur,qm,64,2024cur_qm64,r3,7567,0,0,0,0,0,5,0,0,,s,0,0,0,1,0,0,,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,,,Shooter seems weaker,Krit,s,110,22 27,Their marketing team knew what they were talking about
+7567_74,Jonah,2024cur,qm,74,2024cur_qm74,b1,7567,4,2,2,0,1,3,0,0.333333333,,s,1,0,0,1,0,0,,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,Very slow at source,,,Krit,s,110,22 27,Their marketing team knew what they were talking about
+7567_10,Jonah,2024cur,de,10,2024cur_de10,r3,7567,1,0,0,1,0,0,,,,s,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,Defense wasnt amazing but slowed some bots down,,Krit,s,110,22 27,Their marketing team knew what they were talking about
+7567_12,Jonah,2024cur,de,12,2024cur_de12,r3,7567,1,0,0,1,0,1,0,,,s,0,0,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,Bed defense ,Wad at source most of the match even though it was defense bot,Krit,s,110,22 27,Their marketing team knew what they were talking about
+7660_71,Jonah,2024cur,qm,71,2024cur_qm71,r1,7660,5,2,0,3,0,0,,,,s,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,,Slowed some bots down a little ,,#N/A,#N/A,#N/A,#N/A,#N/A
+7660_78,Jonah,2024cur,qm,78,2024cur_qm78,b1,7660,1,0,0,1,0,0,,,,s,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,Pretty decent,,#N/A,#N/A,#N/A,#N/A,#N/A
+7660_5,Jonah,2024cur,de,5,2024cur_de5,r2,7660,10,7,0,3,1,0,1,,,s,1,1,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,,Decent defense,,#N/A,#N/A,#N/A,#N/A,#N/A
+7848_67,Jonah,2024cur,qm,67,2024cur_qm67,b2,7848,18,7,8,3,5,2,1,0.666666667,,s,1,1,0,0,0,0,,0,0,4,2,0,1,0,0,0,0,0,0,0,3,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+7848_80,Jonah,2024cur,qm,80,2024cur_qm80,r1,7848,36,17,16,3,9,0,1,1,,s,1,3,0,0,0,0,,2,0,4,0,0,1,0,0,0,0,0,0,0,3,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+8513_90,Jonah,2024cur,qm,90,2024cur_qm90,b1,8513,33,22,8,3,8,0,1,1,,s,1,4,0,0,0,0,,0,0,4,0,0,1,0,0,0,0,0,0,0,3,0,,,Note broke in its intake,Krit,s,123,27 51,0
+8513_118,Jonah,2024cur,qm,118,2024cur_qm118,b2,8513,51,22,26,3,12,5,1,0.615384615,,s,1,4,0,0,0,0,,5,3,3,2,0,0,1,0,0,0,0,0,0,3,0,,,,Krit,s,123,27 51,0
+8575_87,Jonah ,2024cur,qm,87,2024cur_qm87,b3,8575,18,7,8,3,5,0,1,1,,s,1,1,0,0,0,0,,0,0,4,0,0,1,0,0,0,0,1,0,0,3,0,,Slowed a bot down a little,Note got stuck in intake ,Krit,s,90,30 30,Shrimple
+8575_93,Jonah ,2024cur,qm,93,2024cur_qm93,b2,8575,17,5,12,0,7,1,1,0.857142857,,s,0,1,0,0,0,0,,0,0,6,1,0,1,0,0,0,0,0,0,0,0,0,Connection issues,,,Krit,s,90,30 30,Shrimple
+8575_94,Jonah ,2024cur,f,94,2024cur_f94,r1,8575,29,22,4,3,6,2,1,0.5,,s,1,4,0,0,0,0,,0,0,2,2,1,1,0,0,0,0,0,0,0,3,0,,,Note stuck in intake ,Krit,s,90,30 30,Shrimple
+8575_2,Jonah ,2024cur,f,2,2024cur_f2,r1,8575,26,22,4,0,6,2,1,0.5,,s,1,4,0,0,0,0,,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,Took very long at source because of intake ,,,Krit,s,90,30 30,Shrimple
+8608_71,Jonah ,2024cur,qm,71,2024cur_qm71,b3,8608,52,22,29,1,15,0,1,1,,s,1,4,0,0,0,0,,6,0,5,0,0,1,1,0,0,1,0,0,0,1,0,,,Foul for accidental Two notes ,Krit,s,124,27 30,Special climber can climb in around 10 seconds
+8608_78,Jonah ,2024cur,qm,78,2024cur_qm78,r2,8608,43,22,20,1,13,0,1,1,,s,1,4,0,0,0,0,,1,0,8,0,0,1,0,0,0,0,0,0,0,1,0,,,,Krit,s,124,27 30,Special climber can climb in around 10 seconds
+8608_2,Jonah ,2024cur,de,2,2024cur_de2,r2,8608,48,22,18,8,12,3,1,0.7,,s,1,4,0,0,0,0,,2,3,5,0,0,1,0,0,0,0,0,0,1,3,0,,,,Krit,s,124,27 30,Special climber can climb in around 10 seconds
+8608_5,Jonah ,2024cur,de,5,2024cur_de5,b1,8608,45,22,22,1,11,0,1,1,,s,1,4,0,0,0,0,,4,0,3,0,0,0,1,0,0,0,0,0,0,1,0,,,,Krit,s,124,27 30,Special climber can climb in around 10 seconds
+8727_70,Jonah ,2024cur,de,70,2024cur_de70,b2,8727,38,17,20,1,10,2,1,0.777777778,,s,1,3,0,0,0,0,Auto got messed up. Bumped by another robot,3,1,4,1,0,1,0,0,0,0,0,0,0,1,0,,,,Krit,s,111,26 26,New intake apparently more reliable 
+8727_74,Jonah ,2024cur,de,74,2024cur_de74,b3,8727,18,7,10,1,5,1,1,0.8,,s,1,1,0,0,0,0,Auto stop,1,0,3,1,0,1,1,0,0,0,0,1,0,1,0,,,Bumper broke ,Krit,s,111,26 26,New intake apparently more reliable 
+8727_10,Jonah ,2024cur,de,10,2024cur_de10,r2,8727,36,27,6,3,8,0,1,1,,s,1,5,0,0,0,0,,0,0,3,0,0,1,1,0,0,0,1,0,0,3,0,,Played so so defence,Switched to defense because something broke ,Krit,s,111,26 26,New intake apparently more reliable 
+8727_12,Jonah ,2024cur,de,12,2024cur_de12,r2,8727,38,27,8,3,7,0,1,1,,s,1,5,0,0,0,0,,2,0,0,0,0,0,0,0,0,0,1,0,0,3,0,,Played Decent defense ,,Krit,s,111,26 26,New intake apparently more reliable 
+8882_64,Jonah ,2024cur,qm,64,2024cur_qm64,r2,8882,25,7,18,0,10,2,1,0.818181818,,s,1,1,0,0,0,0,,0,0,9,2,0,1,0,0,0,0,0,0,0,0,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+8882_73,Jonah ,2024cur,qm,73,2024cur_qm73,r1,8882,16,5,10,1,6,1,1,0.833333333,,a,0,1,0,0,0,0,,0,0,5,1,0,1,1,0,0,0,0,0,0,1,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+8882_1,Jonah ,2024cur,f,1,2024cur_f1,r1,8882,8,5,2,1,2,0,1,1,,s,0,1,0,0,0,0,,0,0,1,0,6,1,0,0,0,0,0,0,0,1,0,Drove across the field to feed,,,#N/A,#N/A,#N/A,#N/A,#N/A
+8882_2,Jonah ,2024cur,f,2,2024cur_f2,r1,8882,7,5,2,0,2,2,1,0.333333333,,s,0,1,0,0,0,0,,0,0,1,2,5,1,0,0,0,0,0,0,0,0,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+1279_6,Brody,2024cur,de,6,2024cur_de6,r2,1279,19,7,12,0,7,1,1,0.857142857,,s,1,1,0,0,0,0,Intake missed two notes,0,0,6,1,0,1,0,0,0,0,0,0,0,0,0,,,Driver thought he had note but didn?t,Jonas,s,26 x 31,104,Good at clean up 
+1279_3,Brody,2024cur,de,3,2024cur_de3,b2,1279,18,12,6,0,10,0,1,1,,s,1,2,0,0,0,0,Intake missed one,0,0,8,0,0,1,0,0,0,2,0,0,0,0,0,Lots of fouls from bad driving,,,Jonas,s,26 x 31,104,Good at clean up 
+1279_103,Brody,2024cur,qm,103,2024cur_qm103,b1,1279,13,5,8,0,5,1,1,0.8,,s,0,1,0,0,0,0,,0,0,4,1,0,1,0,0,0,0,0,0,0,0,0,,,,Jonas,s,26 x 31,104,Good at clean up 
+1279_94,Brody,2024cur,qm,94,2024cur_qm94,b3,1279,21,5,12,4,7,0,1,1,,s,0,1,0,0,0,0,,0,0,6,0,0,1,0,0,0,0,0,0,0,4,0,,,Climb at 19 sec,Jonas,s,26 x 31,104,Good at clean up 
+1561_3,Brody,2024cur,f,3,2024cur_f3,r3,1561,35,7,28,0,9,7,0.5,0.571428571,,l,1,1,0,1,0,0,Intake missed two,6,3,2,3,1,0,1,0,0,0,0,0,0,0,0,,,Unique intake that works sometimes,Brody,s,84,24 x 24,Compact and simple
+1279_114,Brody,2024cur,f,114,2024cur_f114,r1,1279,21,7,10,4,6,0,1,1,,s,1,1,0,0,0,0,,0,0,5,0,0,1,0,0,0,0,0,0,0,4,0,,,Climbed at 40 sec got ensemble ,Jonas,s,26 x 31,104,Good at clean up 
+1561_2,Brody,2024cur,f,2,2024cur_f2,r3,1561,51,17,34,0,14,2,1,0.846153846,,l,1,3,0,0,0,0,Attempted 3 centerline,6,1,5,1,0,0,1,0,0,0,0,0,0,0,0,,,Pretty quick amp,Brody,s,84,24 x 24,Compact and simple
+1561_74,Brody,2024cur,f,74,2024cur_f74,r1,1561,51,22,28,1,13,2,0.8,0.9,,a,1,4,0,1,0,0,1 centerline missed ,5,0,4,1,0,0,1,0,0,0,0,0,0,1,0,Waiting at source for note,,Fast amp score,Brody,s,84,24 x 24,Compact and simple
+1561_67,Brody,2024cur,qm,67,2024cur_qm67,b1,1561,53,15,38,0,17,2,0.6,1,,a,0,3,0,2,0,0,1 centerline,5,0,9,0,0,0,1,0,0,0,0,0,0,0,0,Waiting for notes,,,Brody,s,84,24 x 24,Compact and simple
+1561_57,Brody,2024cur,qm,57,2024cur_qm57,r2,1561,52,22,29,1,14,2,1,0.833333333,,a,1,4,0,0,0,0,Attempted 1 centerline but it was already taken by 2122,7,1,3,1,0,0,1,0,0,1,0,0,0,1,0,,,,Brody,s,84,24 x 24,Compact and simple
+5409_5,eli,2024cur,qm,5,2024cur_qm5,,5409,37,2,20,15,8,1,0,1,,a,1,0,0,1,0,0,died midfield,5,0,0,0,1,0,0,0,0,0,0,1,3,0,0,scored in the trap three times automatic ranking points ,was defended once but they won pushing match,shooter only shoots down cant score in speaker only in amp or trap,Rekka,s,124.8,32 by 28,0
+5409_4,eli,2024cur,qm,4,2024cur_qm4,,5409,33,2,16,15,7,1,0,1,,a,1,0,0,1,0,0,,4,0,0,0,1,0,0,0,0,0,0,0,3,0,0,scored trap three times and only did amp,,madmen,Rekka,s,124.8,32 by 28,0
+5152_3,eli,2024cur,qm,3,2024cur_qm3,,5152,37,10,24,3,11,0,1,1,,a,0,2,0,0,0,0,very slow ineffective,3,0,6,0,0,1,0,0,0,0,0,0,0,3,0,,,mediocre robot,Rekka,s,117,24 by 26,0
+5152_2,eli,2024cur,qm,2,2024cur_qm2,,5152,30,5,22,3,9,0,1,1,,x,0,1,0,0,0,0,very slow all 15s are used for one note,3,0,5,0,0,0,0,0,0,0,0,0,0,3,0,slow robot,,poor pick,Rekka,s,117,24 by 26,0
+4476_2,eli,2024cur,qm,2,2024cur_qm2,b3,4476,28,7,18,3,6,1,1,0.833333333,,a,1,1,0,0,0,0,quickly grab notes and throw them ,4,0,1,1,2,1,0,0,0,0,0,0,0,3,0,definetly not the strongest bot on their team,,multi tool bot good at pretty much everything.,Rekka,s,124,29.5 by 30,0
+4476_1,eli,2024cur,qm,1,2024cur_qm1,b1,4476,18,7,8,3,4,0,1,1,,a,1,1,0,0,0,0,very fast but doesn?t score much,1,0,2,0,3,0,1,0,0,0,1,1,0,3,0,likely would have lost but other team suffered multiple failures,poor defense gave up almost immediatly,,Rekka,s,124,29.5 by 30,0
+4043_7,Luke G,2024cur,de,7,2024cur_de7,b1,4043,55,22,30,3,14,3,1,0.769230769,,s,1,4,0,0,0,0,,5,0,5,3,0,1,0,0,0,0,0,0,0,3,0,,,Amp arm pushes on the amp could get cards,Drake Luke g,s,113,31by25,0
+4043_9,Luke G,2024cur,de,9,2024cur_de9,r3,4043,56,17,34,5,14,0,1,1,,s,1,3,0,0,0,0,,6,0,5,0,0,1,0,0,0,0,0,0,0,4,1,,,,Drake Luke g,s,113,31by25,0
+4099_11,Luke G,2024cur,de,11,2024cur_de11,b3,4099,33,17,16,0,7,0,1,1,,s,1,3,0,0,0,0,,4,0,0,0,1,0,0,0,0,0,0,1,0,0,0,,was very effective against 2 bots at once,parts on robot fall of easily,Drake Luke G,s,124,26by30,0
+4099_13,Luke G,2024cur,de,13,2024cur_de13,r1,4099,7,2,4,1,1,2,0,0.5,,s,1,0,0,1,0,0,missed picking up center notes,1,0,0,1,1,0,0,0,0,0,1,0,0,1,0,broke very easily,prevented 3136 from entering or leaving source,fed straight to opponents,Drake Luke G,s,124,26by30,0
+4131_98,Luke G,2024cur,qm,98,2024cur_qm98,r2,4131,29,2,26,1,7,3,0,0.875,,s,1,0,0,2,0,0,,6,0,1,1,0,1,0,0,0,0,0,0,0,1,0,,,fairly fast,#N/A,#N/A,#N/A,#N/A,#N/A
+4131_87,Luke G,2024cur,qm,87,2024cur_qm87,b2,4131,21,2,18,1,5,3,0,0.833333333,,s,1,0,0,2,0,0,,4,0,1,1,1,0,0,0,0,0,0,1,0,1,0,,was shut down at the speaker by 9036,drew fouls,#N/A,#N/A,#N/A,#N/A,#N/A
+4159_81,Luke G,2024cur,qm,81,2024cur_qm81,b3,4159,7,0,6,1,3,2,0,0.75,,s,0,0,0,1,0,0,,0,0,3,1,0,1,0,0,0,0,0,0,0,1,0,,,,Drake Luke G ,s,122,27by27,0
+4159_74,Luke G,2024cur,qm,74,2024cur_qm74,r2,4159,23,7,16,0,9,1,1,0.888888889,,s,1,1,0,0,0,0,,0,1,8,0,0,1,0,0,0,0,0,0,0,0,0,,,stole 2 notes from opponents source,Drake Luke G ,s,122,27by27,0
+4362_1,Luke G,2024cur,f,1,2024cur_f1,b3,4362,43,12,28,3,11,2,0.666666667,0.9,,l,1,2,0,1,0,0,,5,1,4,0,1,0,1,1,0,0,0,0,0,3,0,,,pretty fast at shooting,Drake Luke G,s,104,25by25,0
+4362_2,Luke G,2024cur,f,2,2024cur_f2,b3,4362,30,7,20,3,9,2,1,0.8,,l,1,1,0,0,0,0,hit the stage 3 times,2,2,6,0,2,1,1,1,0,0,0,0,0,3,0,,,,Drake Luke G,s,104,25by25,0
+4043_96,Drake ,2024cur,qm,96,2024cur_qm96,r2,4043,42,17,22,3,11,2,1,0.8,,s,1,3,0,0,0,0,,3,1,5,1,0,1,0,0,0,0,0,0,0,3,0,,,,Drake Luke g,s,113,31by25,0
+4043_91,Drake ,2024cur,qm,91,2024cur_qm91,r1,4043,32,7,22,3,8,4,0.5,0.7,,s,1,1,0,1,0,0,,4,1,3,2,0,1,0,0,0,0,0,0,0,3,0,,,,Drake Luke g,s,113,31by25,0
+4043_82,Drake ,2024cur,qm,82,2024cur_qm82,b1,4043,46,17,28,1,12,0,1,1,,s,1,3,0,0,0,0,,5,0,4,0,0,1,0,0,0,0,0,0,0,1,0,,,,Drake Luke g,s,113,31by25,0
+4099_102,Drake ,2024cur,qm,102,2024cur_qm102,b3,4099,22,7,14,1,6,4,0.5,0.625,,s,1,1,0,1,0,0,,2,0,3,3,0,1,0,0,0,0,0,0,0,1,0,,,,Drake Luke G,s,124,26by30,0
+4099_95,Drake ,2024cur,qm,95,2024cur_qm95,r2,4099,45,17,24,4,11,1,0.75,1,,s,1,3,0,1,0,0,,4,0,4,0,0,0,1,0,0,0,0,0,0,4,0,,,,Drake Luke G,s,124,26by30,0
+4099_88,Drake ,2024cur,qm,88,2024cur_qm88,r1,4099,18,7,8,3,4,1,1,0.75,,a,1,1,0,0,0,0,A stop ,1,0,2,1,7,0,1,0,0,0,0,0,0,3,0,,,,Drake Luke G,s,124,26by30,0
+4131_79,Drake ,2024cur,qm,79,2024cur_qm79,r2,4131,29,2,24,3,7,2,0,1,,s,1,0,0,2,0,0,,5,0,2,0,0,1,0,0,0,0,0,0,0,3,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+4362_75,Drake ,2024cur,qm,75,2024cur_qm75,r1,4362,12,7,4,1,3,4,0.333333333,0.5,,l,1,1,0,2,0,0,,0,1,2,1,0,0,1,0,0,0,1,0,0,1,0,Note stuck in robot ,Great defense ,,Drake Luke G,s,104,25by25,0
+4362_70,Drake ,2024cur,qm,70,2024cur_qm70,r1,4362,20,7,12,1,5,0,1,1,,x,1,1,0,0,0,0,A stop ,2,0,2,0,0,1,0,0,0,0,0,1,0,1,0,,Defended by 6081,,Drake Luke G,s,104,25by25,0
+4362_66,Drake ,2024cur,qm,66,2024cur_qm66,b2,4362,37,12,22,3,11,3,0.5,0.9,,l,1,2,0,2,0,0,,2,0,7,1,0,0,1,0,0,0,0,0,0,3,0,,,,Drake Luke G,s,104,25by25,0
+7567_42,Krit,2024cur,qm,42,2024cur_qm42,r2,7567,13,2,10,1,5,4,0,0.625,,s,1,0,0,1,0,0,,0,0,5,3,0,0,1,0,0,0,0,0,0,1,0,,,,Krit,s,110,22 27,Their marketing team knew what they were talking about
+7660_54,Krit,2024cur,qm,54,2024cur_qm54,r2,7660,9,2,6,1,3,3,0,0.6,,s,1,0,0,1,0,0,,0,0,3,2,0,0,1,0,0,0,0,0,0,1,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+7848_28,Krit,2024cur,qm,28,2024cur_qm28,r3,7848,41,22,16,3,9,0,1,1,,s,1,4,0,0,0,0,,3,0,2,0,0,1,1,0,0,0,0,0,0,3,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+8513_77,Krit,2024cur,qm,77,2024cur_qm77,r1,8513,22,5,16,1,6,0,1,1,,s,0,1,0,0,0,0,,3,0,2,0,0,1,0,0,0,0,0,0,0,1,0,,,,Krit,s,123,27 51,0
+8575_75,Krit,2024cur,qm,75,2024cur_qm75,b1,8575,28,7,18,3,10,4,0.5,0.75,,s,1,1,0,1,0,0,A stopped ,0,0,9,3,0,1,0,0,0,0,0,0,0,3,0,,,,Krit,s,90,30 30,Shrimple
+8608_76,Krit,2024cur,qm,76,2024cur_qm76,r2,8608,37,7,22,8,9,0,1,1,,s,1,1,0,0,0,0,,4,0,3,0,0,0,0,0,0,0,0,0,1,3,0,,,,Krit,s,124,27 30,Special climber can climb in around 10 seconds
+8727_66,Krit,2024cur,qm,66,2024cur_qm66,b3,8727,18,17,0,1,4,2,1,0,,s,1,4,0,0,0,1,,0,0,0,2,0,1,0,0,0,0,0,0,0,1,0,,,,Krit,s,111,26 26,New intake apparently more reliable 
+1622_58,Brody,2024cur,de,58,2024cur_de58,r3,1622,1,0,0,1,0,0,,,,s,0,0,0,0,0,0,Brick,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,Very good opponent was denied the source for long periods of time,Played defense immediately ,Brody,s,28 x 31,113,Can right itself if tipped over
+1622_7,Brody,2024cur,de,7,2024cur_de7,b1,1622,34,5,26,3,10,1,1,0.9,,s,0,1,0,0,0,0,2 centerline but intake missed,4,0,5,1,1,1,0,0,0,0,0,0,0,3,0,,,Capable of feeding,Brody,s,28 x 31,113,Can right itself if tipped over
+1622_68,Brody,2024cur,qm,68,2024cur_qm68,r1,1622,53,22,30,1,14,0,1,1,,s,1,4,0,0,0,0,No centerline,5,0,5,0,2,1,0,0,0,0,0,0,0,1,0,Struggled to pick up notes,,Fed self pretty well 2 notes,Brody,s,28 x 31,113,Can right itself if tipped over
+1622_60,Brody,2024cur,qm,60,2024cur_qm60,r1,1622,42,22,17,3,11,0,1,1,,s,1,4,0,0,0,0,No centerline,4,0,3,0,3,1,0,0,0,1,0,0,0,3,0,Fouled for two notes at once,,Good feeding,Brody,s,28 x 31,113,Can right itself if tipped over
+1640_3,Brody,2024cur,f,3,2024cur_f3,b2,1640,20,5,12,3,6,0,1,1,,s,0,1,0,0,0,0,,1,0,4,0,4,1,0,0,0,0,0,0,0,3,0,,,Good feeder,Brody,s,113,27.9 x 27.9,Traps from ground
+1640_2,Brody,2024cur,f,2,2024cur_f2,b2,1640,20,5,14,1,7,0,1,1,,s,0,1,0,0,0,0,,1,0,5,0,5,0,1,0,0,0,0,0,0,1,0,,,Good feeder,Brody,s,113,27.9 x 27.9,Traps from ground
+1640_114,Brody,2024cur,qm,114,2024cur_qm114,b1,1640,42,12,26,4,12,0,1,1,,l,1,2,0,0,0,0,1 centerline,3,0,7,0,0,0,1,0,0,0,0,0,0,4,0,,,Overall good bot,Brody,s,113,27.9 x 27.9,Traps from ground
+1640_101,Brody,2024cur,qm,101,2024cur_qm101,r1,1640,47,22,22,3,11,0,1,1,,s,1,4,0,0,0,0,No centerline,4,0,3,0,0,0,1,0,0,0,0,0,0,3,0,,,Climbed at 30 sec for no reason,Brody,s,113,27.9 x 27.9,Traps from ground
+1640_93,Brody,2024cur,qm,93,2024cur_qm93,b3,1640,23,7,16,0,6,0,1,1,,l,1,1,0,0,0,0,,3,0,2,0,2,0,1,0,0,0,0,0,0,0,0,Was in way when broke down,,Bot broke in the middle of the match,Brody,s,113,27.9 x 27.9,Traps from ground
+8727_66,Jonah ,2024cur,qm,66,2024cur_qm66,b3,8727,52,27,24,1,16,2,1,0.846153846,,s,1,5,0,0,0,0,,1,0,10,2,0,1,0,0,0,0,0,0,0,1,0,,,,Krit,s,111,26 26,New intake apparently more reliable 
+8882_40,Jonah ,2024cur,qm,40,2024cur_qm40,b3,8882,17,7,10,0,6,1,1,0.833333333,,s,1,1,0,0,0,0,,0,0,5,1,0,1,0,0,0,0,0,0,0,0,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+6045_3,Hayden,2024cur,qm,3,2024cur_qm3,b1,6045,37,17,16,4,11,0,1,1,,s,1,3,0,0,0,0,,0,0,8,0,0,1,0,0,0,0,0,0,0,4,0,,,Dropped note,Hayden ,s,119,28 by 28,129 wheels
+6045_19,Hayden,2024cur,qm,19,2024cur_qm19,b3,6045,24,17,4,3,5,0,1,1,,s,1,3,0,0,0,0,,0,0,2,0,0,0,0,0,0,0,0,1,0,3,0,,Whole red alliance defended,,Hayden ,s,119,28 by 28,129 wheels
+6045_27,Hayden,2024cur,qm,27,2024cur_qm27,r2,6045,7,7,0,0,1,0,1,,,s,1,1,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Connection issues for whole teleop,,,Hayden ,s,119,28 by 28,129 wheels
+6988_3,Hayden,2024cur,qm,3,2024cur_qm3,,6988,5,5,0,0,1,2,1,0,,s,0,1,0,0,0,0,,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,Slow ,Defended by 7466,Bad intake ,Hayden ,t,42 kilograms , 72 by 72 centimeters,0
+6988_3,Hayden,2024cur,qm,3,2024cur_qm3,,6988,5,5,0,0,1,2,1,0,,s,0,1,0,0,0,0,,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,Slow ,Defended by 7466,Bad intake ,Hayden ,t,42 kilograms , 72 by 72 centimeters,0
+6988_10,Hayden,2024cur,qm,10,2024cur_qm10,b1,6988,1,0,0,1,0,1,0,,,s,0,0,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Caught on side wall,,,Hayden ,t,42 kilograms , 72 by 72 centimeters,0
+6988_24,Hayden,2024cur,qm,24,2024cur_qm24,b1,6988,5,5,0,0,1,2,1,0,,s,0,1,0,0,0,0,,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,,,This was a horrible match oh my gosh,Hayden ,t,42 kilograms , 72 by 72 centimeters,0
+7028_1,Hayden,2024cur,qm,1,2024cur_qm1,r3,7028,3,2,0,1,0,0,,,,s,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,Defense against 3058,Didn,Hayden,s,117, 27 by 32 and a half ,0
+6988_24,Hayden,2024cur,qm,24,2024cur_qm24,b1,6988,5,5,0,0,1,2,1,0,,s,0,1,0,0,0,0,,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,,,This was a horrible match oh my gosh,Hayden ,t,42 kilograms , 72 by 72 centimeters,0
+7028_1,Hayden,2024cur,qm,1,2024cur_qm1,r3,7028,3,2,0,1,0,0,,,,s,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,Defense against 3058,Didn,Hayden,s,117, 27 by 32 and a half ,0
+6988_24,Hayden,2024cur,qm,24,2024cur_qm24,b1,6988,5,5,0,0,1,2,1,0,,s,0,1,0,0,0,0,,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,,,This was a horrible match oh my gosh,Hayden ,t,42 kilograms , 72 by 72 centimeters,0
+7028_1,Hayden,2024cur,qm,1,2024cur_qm1,r3,7028,3,2,0,1,0,0,,,,s,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,Defense against 3058,Didn,Hayden,s,117, 27 by 32 and a half ,0
+7028_11,Hayden,2024cur,qm,11,2024cur_qm11,,7028,9,2,6,1,3,4,0,0.5,,l,1,0,0,1,0,0,,0,0,3,3,0,1,1,0,0,0,0,0,0,1,0,,,Missed speaker three times in a row ,Hayden,s,117, 27 by 32 and a half ,0
+7028_28,Hayden,2024cur,qm,28,2024cur_qm28,b1,7028,17,7,10,0,4,4,0.5,0.5,,s,1,1,0,1,0,0,,2,0,1,3,0,0,0,1,0,0,0,0,0,0,0,,,Tried to score amp but didn?t have a note,Hayden,s,117, 27 by 32 and a half ,0
+7166_3,Hayden,2024cur,qm,3,2024cur_qm3,r3,7166,12,5,6,1,4,1,1,0.75,,s,0,1,0,0,0,0,,0,0,3,1,0,0,0,0,0,0,0,0,0,1,0,,,Hard to see because it was kinda blurry footage,Hayden,s,120,26 and a half by 32 and a half ,0
+7166_12,Hayden,2024cur,qm,12,2024cur_qm12,r1,7166,14,5,6,3,4,1,1,0.75,,s,0,1,0,0,0,0,,0,0,3,1,0,0,0,0,0,0,0,0,0,3,0,,,,Hayden,s,120,26 and a half by 32 and a half ,0
+7166_16,Hayden,2024cur,qm,16,2024cur_qm16,r2,7166,9,7,1,1,4,2,0.5,0.75,,s,1,1,0,1,0,0,,0,0,3,1,0,0,0,0,0,1,0,0,0,1,0,,,Fouled for having two notes Started climbing at 40 seconds,Hayden,s,120,26 and a half by 32 and a half ,0
+7197_5,Hayden,2024cur,qm,5,2024cur_qm5,b3,7197,11,7,4,0,2,5,0.5,0.2,,s,1,1,0,1,0,0,,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Takes 10 seconds at amp and shoots it like a speaker,Hayden,s,113,26 by 26,0
+7197_13,Hayden,2024cur,qm,13,2024cur_qm13,b1,7197,21,2,18,1,6,4,0,0.75,,s,1,0,0,2,0,0,,3,2,3,0,0,1,0,0,0,0,0,0,0,1,0,,,More accurate at speaker Dropped notes,Hayden,s,113,26 by 26,0
+7179_18,Hayden,2024cur,qm,18,2024cur_qm18,b3,7179,11,7,4,0,2,2,1,0.333333333,,s,1,1,0,0,0,0,,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,,,Eh match ,#N/A,#N/A,#N/A,#N/A,#N/A
+7226_1,Hayden,2024cur,qm,1,2024cur_qm1,b2,7226,35,22,12,1,10,0,1,1,,s,1,4,0,0,0,0,,0,0,6,0,0,1,1,0,0,0,0,0,0,1,0,,,Good at speaker,Hayden,s,107 and a half ,26 by 26,0
+7226_13,Hayden,2024cur,qm,13,2024cur_qm13,r3,7226,0,0,0,0,0,0,,,,s,0,0,0,0,0,0,Didn,,,,,,,,,,,,,,,,,,,Hayden,s,107 and a half ,26 by 26,0
+7226_13,Hayden,2024cur,qm,13,2024cur_qm13,r3,7226,0,0,0,0,0,0,,,,s,0,0,0,0,0,0,Didn,,,,,,,,,,,,,,,,,,,Hayden,s,107 and a half ,26 by 26,0
+7226_19,Hayden,2024cur,qm,19,2024cur_qm19,r2,7226,30,17,12,1,9,2,0.75,0.857142857,,s,1,3,0,1,0,0,,0,0,6,1,0,1,1,0,0,0,0,0,0,1,0,,,Tried to climb not enough time,Hayden,s,107 and a half ,26 by 26,0
+7421_1,Hayden,2024cur,qm,1,2024cur_qm1,r2,7421,53,12,38,3,13,3,0.5,0.916666667,,s,1,2,0,2,0,0,,8,0,3,1,0,1,1,0,0,0,0,0,0,3,0,,,Might be slightly inaccurate because video had weird angles ,#N/A,#N/A,#N/A,#N/A,#N/A
+7421_7,Hayden,2024cur,qm,7,2024cur_qm7,b1,7421,33,12,18,3,8,3,0.666666667,0.75,,s,1,2,0,1,0,0,,3,0,3,2,0,1,0,0,0,0,0,0,0,3,0,,,Video had weird angles so might be off,#N/A,#N/A,#N/A,#N/A,#N/A
+7421_21,Hayden,2024cur,qm,21,2024cur_qm21,b2,7421,29,12,14,3,6,0,1,1,,s,1,2,0,0,0,0,,3,0,1,0,0,0,0,0,0,0,0,0,0,3,0,,,Video had weird angles so might be slightly off ,#N/A,#N/A,#N/A,#N/A,#N/A
+7426_5,Hayden,2024cur,qm,5,2024cur_qm5,b1,7426,33,12,18,3,8,0,1,1,,s,1,2,0,0,0,0,,3,0,3,0,0,1,1,0,0,0,0,0,0,3,0,,,,Hayden ,s,121 point 3,28 by 28,0
+7426_9,Hayden,2024cur,qm,9,2024cur_qm9,r1,7426,31,12,16,3,10,4,0.666666667,0.727272727,,s,1,2,0,1,0,0,,0,0,8,3,0,1,1,0,0,0,0,0,0,3,0,,,,Hayden ,s,121 point 3,28 by 28,0
+7426_29,Hayden,2024cur,qm,29,2024cur_qm29,r2,7426,25,7,14,4,5,0,1,1,,s,1,1,0,0,0,0,,3,0,1,0,0,0,0,0,0,0,0,0,0,4,0,Got caught on chain at start of teleop,,,Hayden ,s,121 point 3,28 by 28,0
+7028_1,Hayden,2024cur,qm,1,2024cur_qm1,r3,7028,3,2,0,1,0,0,,,,s,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,Defense against 3058,Didn,Hayden,s,117, 27 by 32 and a half ,0
+1912_2,Brody,2024cur,f,2,2024cur_f2,r2,1912,23,5,18,0,9,0,1,1,,s,0,1,0,0,0,0,,1,0,7,0,0,1,0,0,0,0,0,0,0,0,0,,,Tried for last sec cycle,Brody,s,109.4,28 x 31 ,Shoots on the move
+1912_1,Brody,2024cur,f,1,2024cur_f1,r2,1912,22,5,16,1,8,0,1,1,,a,0,1,0,0,0,0,,1,0,6,0,0,1,0,0,0,0,0,1,0,1,0,,Blocked from source but got around,Slow amp,Brody,s,109.4,28 x 31 ,Shoots on the move
+1912_70,Brody,2024cur,qm,70,2024cur_qm70,r3,1912,20,5,12,3,7,0,1,1,,s,0,1,0,0,0,0,,0,0,6,0,0,1,0,0,0,0,0,1,0,3,0,,Was blocked from source but got around,Made quick decisions to avoid collision,Brody,s,109.4,28 x 31 ,Shoots on the move
+1912_64,Brody,2024cur,qm,64,2024cur_qm64,r1,1912,30,7,22,1,12,2,0.5,0.916666667,,s,1,1,0,1,0,0,,0,0,11,1,0,1,0,0,0,0,0,0,0,1,0,,,Good speaker cycles,Brody,s,109.4,28 x 31 ,Shoots on the move
+1912_64,Brody,2024cur,qm,64,2024cur_qm64,r1,1912,30,7,22,1,12,2,0.5,0.916666667,,s,1,1,0,1,0,0,,0,0,11,1,0,1,0,0,0,0,0,0,0,1,0,,,Good speaker cycles,Brody,s,109.4,28 x 31 ,Shoots on the move
+1912_58,Brody,2024cur,qm,58,2024cur_qm58,b2,1912,33,12,20,1,12,2,1,0.833333333,,s,1,2,0,0,0,0,Picked up another no center,0,0,10,2,0,1,0,0,0,0,0,0,0,1,0,,,Attempted climb,Brody,s,109.4,28 x 31 ,Shoots on the move
+365_3,Shan,2024cur,de,3,2024cur_de3,b1,365,18,12,6,0,4,2,0.666666667,0.666666667,,s,1,2,0,1,0,0,,1,1,1,0,0,1,0,0,0,0,1,0,0,0,0,Had 3 notes by speaker but did not go after them and wasted time,Was kinda mid  played in weird spot,Intake stopped working  could not pick up without wall  pretty slow  string shooter,Shan,s,122.5,28 by 28,0
+365_6,Shan,2024cur,qm,6,2024cur_qm6,r3,365,42,12,27,3,11,2,1,0.818181818,,s,1,2,0,0,0,0,,7,1,2,1,0,1,0,0,0,1,0,0,0,3,0,,,Almost got under stage foul  powerful shooter and good amp  intake a but wobbly,Shan,s,122.5,28 by 28,0
+365_113,Shan,2024cur,qm,113,2024cur_qm113,b1,365,19,7,8,4,5,3,0.5,0.666666667,,s,1,1,0,1,0,0,,0,0,4,2,0,1,0,0,0,0,0,0,0,4,0,,,Left without note four times,Shan,s,122.5,28 by 28,0
+365_102,Shan,2024cur,qm,102,2024cur_qm102,r1,365,38,17,18,3,8,1,1,0.833333333,,s,1,3,0,0,0,0,,4,0,1,1,1,1,0,0,0,0,0,0,0,3,0,,,Tried to feed but got stuck a lot  intake a little wobbly and not that fast,Shan,s,122.5,28 by 28,0
+503_1,Shab,2024cur,de,1,2024cur_de1,b2,503,32,17,14,1,8,4,0.75,0.625,,s,1,3,0,1,0,0,,2,0,3,3,1,1,1,0,0,0,0,0,0,1,0,,,Tried to feed but note got stuck  decent speed  bad amp mechanism  wobbly transition to shooter ,Shan,s,106,31 by 36 ,0
+503_5,Shab,2024cur,de,5,2024cur_de5,r2,503,4,2,2,0,2,2,0.5,0.5,,s,1,1,0,1,0,1,,0,0,1,1,9,1,1,0,0,0,0,0,0,0,0,Teammates could not score,,Great feeder when on a role,Shan,s,106,31 by 36 ,0
+68_6,Shab,2024cur,qm,6,2024cur_qm6,b3,68,41,12,26,3,10,3,0.5,0.888888889,,s,1,2,0,2,0,0,Teammate messed up shots,5,1,3,0,0,1,1,0,0,0,0,0,0,3,0,,,Missed trap  amp scorer much better  decently fast,#N/A,#N/A,#N/A,#N/A,#N/A
+503_80,Shan,2024cur,qm,80,2024cur_qm80,r1,503,32,17,12,3,8,1,1,0.833333333,,s,1,3,0,0,0,0,,1,0,4,1,0,1,1,0,0,0,0,0,0,3,0,,,Still pretty decent  good potential for defense and feeding,Shan,s,106,31 by 36 ,0
+624_1,Shan,2024cur,f,1,2024cur_f1,b3,624,7,7,-3,3,2,2,1,0.333333333,,a,1,1,0,0,0,0,,0,0,1,2,1,1,0,0,0,1,1,1,0,3,0,,Bad with defense from 5892  play ok defense on 3005,Very good swerve  shooter broke so switched to defense,Shan,s,116,25 by 20,L3 gear ratio
+624_2,Shan,2024cur,f,2,2024cur_f2,b3,624,12,7,2,3,2,2,0.333333333,1,,a,1,1,0,2,0,0,,0,0,1,0,15,1,0,0,0,0,0,1,0,3,0,,Could not get past 5892 defense,Note feeds were consistent but could not go far due to defense ,Shan,s,116,25 by 20,L3 gear ratio
+624_2,Shan,2024cur,f,2,2024cur_f2,b3,624,12,7,2,3,2,2,0.333333333,1,,a,1,1,0,2,0,0,,0,0,1,0,15,1,0,0,0,0,0,1,0,3,0,,Could not get past 5892 defense,Note feeds were consistent but could not go far due to defense ,Shan,s,116,25 by 20,L3 gear ratio
+930_2,Shan,2024cur,de,2,2024cur_de2,r1,930,6,7,-2,1,5,5,0.333333333,0.571428571,,a,1,1,0,2,0,0,,0,0,4,3,3,1,1,1,0,2,0,0,0,1,0,,,Innaccurate shooter  feeding was accurate,Shan,s,114,28 by 28,0
+930_5,Shan,2024cur,de,5,2024cur_de5,b3,930,33,12,20,1,10,1,0.666666667,1,,a,1,2,0,1,0,0,,2,0,6,0,5,1,1,1,0,0,0,0,0,1,0,,,Feeding is really good  but still inconsistent shooter and transition from intake,Shan,s,114,28 by 28,0
+930_76,Shan,2024cur,qm,76,2024cur_qm76,r1,930,17,12,4,1,4,3,1,0.4,,a,1,2,0,0,0,0,,0,0,2,3,3,1,1,1,0,0,0,1,0,1,0,,9654 played horrible defense on them  just pushed through them,Shooting is still bad,Shan,s,114,28 by 28,0
+930_68,Shan,2024cur,qm,68,2024cur_qm68,,930,33,12,20,1,10,0,1,1,,s,1,2,0,0,0,0,Teammate was in the way,2,0,6,0,4,0,1,1,0,0,0,0,0,1,0,,,Shooting 10 times better,Shan,s,114,28 by 28,0
+2068_105,Jonas,2024cur,qm,105,2024cur_qm105,b3,2068,1,0,0,1,0,1,0,,,s,0,0,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Slowed down other team a little bit ,They were not good at defense ,,Brody,s,90 ish,30 x 26,Can climb and trap not very knowledged
+2068_99,Jonas,2024cur,qm,99,2024cur_qm99,b1,2068,-2,0,-3,1,1,2,0,0.5,,s,0,0,0,1,0,0,,0,0,1,1,0,1,0,0,0,1,1,0,0,1,0,Stayed out of the way,Slowed other team down but didn,,Brody,s,90 ish,30 x 26,Can climb and trap not very knowledged
+2068_90,Jonas,2024cur,qm,90,2024cur_qm90,r1,2068,9,0,6,3,3,2,0,0.75,,s,0,0,0,1,0,0,,0,0,3,1,0,1,0,0,0,0,0,0,0,3,0,,,Was slow,Brody,s,90 ish,30 x 26,Can climb and trap not very knowledged
+2129_64,Jonas,2024cur,qm,64,2024cur_qm64,r3,2129,39,10,28,1,11,4,0.5,0.818181818,,s,0,2,0,2,0,0,,5,1,4,1,0,1,0,0,0,0,0,0,0,1,0,,,,Brody,s,123,27 x 30,Shoots on the move
+2129_73,Jonas,2024cur,qm,73,2024cur_qm73,r1,2129,41,10,30,1,11,2,1,0.818181818,,s,0,2,0,0,0,0,,6,1,3,1,0,1,1,0,0,0,0,0,0,1,0,,,,Brody,s,123,27 x 30,Shoots on the move
+2129_85,Jonas,2024cur,qm,85,2024cur_qm85,b1,2129,34,10,24,0,10,4,0.666666667,0.727272727,,s,0,2,0,1,0,0,,4,2,4,1,1,1,1,0,0,0,0,0,0,0,0,,,,Brody,s,123,27 x 30,Shoots on the move
+2137_62,Jonas,2024cur,qm,62,2024cur_qm62,b3,2137,11,0,8,3,4,1,,0.8,,x,0,0,0,0,0,0,,0,0,4,1,2,1,1,0,0,0,0,0,0,3,0,,,Did nothing during auto,Brody,s,123.7,28 x 28 ,Can trap well
+2137_68,Jonas,2024cur,qm,68,2024cur_qm68,b2,2137,16,0,8,8,5,2,0,0.8,,s,0,0,0,1,0,0,Did nothing ,0,0,4,1,0,1,0,0,0,0,0,0,1,3,0,,,,Brody,s,123.7,28 x 28 ,Can trap well
+2137_74,Jonas,2024cur,qm,74,2024cur_qm74,b3,2137,22,5,14,3,6,1,1,0.833333333,,s,0,1,0,0,0,0,,2,0,3,1,0,1,0,0,0,0,0,0,0,3,0,,,,Brody,s,123.7,28 x 28 ,Can trap well
+2137_2137,Jonas,2024cur,f,2137,2024cur_f2137,r2,2137,6,5,0,1,1,0,1,,,s,0,1,0,0,0,0,,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,,,Intake was not working ,Brody,s,123.7,28 x 28 ,Can trap well
+2137_7,Jonas,2024cur,f,7,2024cur_f7,r2,2137,6,5,0,1,1,0,1,,,s,0,1,0,0,0,0,,0,0,0,0,5,1,0,0,0,0,0,0,0,1,0,,,,Brody,s,123.7,28 x 28 ,Can trap well
+2145_62,Jonas,2024cur,qm,62,2024cur_qm62,r3,2145,38,10,24,4,10,1,0.666666667,1,,s,0,2,0,1,0,0,,4,0,4,0,0,1,0,0,0,0,0,0,0,4,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+2145_68,Jonas,2024cur,qm,68,2024cur_qm68,,2145,30,7,20,3,8,0,1,1,,s,1,1,0,0,0,0,,3,0,4,0,0,1,0,0,0,0,0,0,0,3,0,Ran into their own team ,,,#N/A,#N/A,#N/A,#N/A,#N/A
+2145_80,Jonas,2024cur,qm,80,2024cur_qm80,b1,2145,29,10,18,1,8,3,1,0.666666667,,s,0,2,0,0,0,0,,3,0,3,3,0,1,0,0,0,0,0,0,0,1,0,Multiple collisions with their own teammate,,,#N/A,#N/A,#N/A,#N/A,#N/A
+4145_81,Jonas,2024cur,f,81,2024cur_f81,b2,4145,45,7,34,4,13,0,1,1,,s,1,1,0,0,0,0,,5,0,7,0,0,1,0,0,0,0,0,0,0,4,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+2145_4,Jonas,2024cur,f,4,2024cur_f4,b2,2145,34,7,26,1,10,0,1,1,,s,1,1,0,0,0,0,,4,0,5,0,0,1,0,0,0,0,0,0,0,1,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+2200_76,Jonas,2024cur,qm,76,2024cur_qm76,b2,2200,55,22,30,3,15,1,1,0.916666667,,x,1,4,0,0,0,0,,4,0,7,1,1,1,1,0,0,0,0,0,0,3,0,,,Was slowed down by teammates.,Brody,s,110,26 x 30,Can trap from the ground
+2200_84,Jonas,2024cur,qm,84,2024cur_qm84,r2,2200,40,12,20,8,9,7,0.666666667,0.5,,s,1,2,0,1,0,0,,4,1,2,5,0,1,1,0,0,0,0,1,1,3,0,,They were easily defended ,,Brody,s,110,26 x 30,Can trap from the ground
+2200_93,Jonas,2024cur,qm,93,2024cur_qm93,b1,2200,60,22,30,8,16,0,1,1,,s,1,4,0,0,0,0,,4,0,7,0,0,1,1,0,0,0,0,0,1,3,0,,,,Brody,s,110,26 x 30,Can trap from the ground
+2200_6,Jonas,2024cur,f,6,2024cur_f6,b1,2200,64,12,44,8,18,1,0.666666667,1,,a,1,2,0,1,0,0,,7,0,8,0,0,1,1,0,0,0,0,0,1,3,0,,,Was fed,Brody,s,110,26 x 30,Can trap from the ground
+2200_9,Jonas,2024cur,f,9,2024cur_f9,b1,2200,62,7,52,3,19,1,0.5,1,,a,1,1,0,1,0,0,,8,0,10,0,0,1,1,0,0,0,0,0,0,3,0,,,Was fed notes ,Brody,s,110,26 x 30,Can trap from the ground
