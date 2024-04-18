@@ -48,3 +48,21 @@ TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumbe
 503_9,Rekka,2024cur,qm,9,2024cur_qm9,r2,503,29,12,14,3,7,4,0.5,0.714285714,,l,1,2,0,2,0,0,,2,1,3,1,2,1,1,0,0,0,0,0,0,3,0,"Does not feed well, shoots out of field",,,Shan,s,106,31 by 36 ,0
 5667_9,Drake ,2024cur,qm,9,2024cur_qm9,r1,5667,15,22,-7,0,6,1,1,0.666666667,,s,1,4,0,0,0,0,,2,1,0,0,0,0,0,0,0,3,0,0,0,0,0,,,E stop ,Rekka,s,122.5,31 by 28,0
 1014_9,ARR,2024cur,qm,9,2024cur_qm9,r3,1014,12,5,4,3,3,0,1,1,,s,0,1,0,0,0,0,,0,0,2,0,0,1,0,0,0,0,0,0,0,3,0,,,,Shan ,s,107,30 by 30,0
+346_10,Isaiah ,2024cur,qm,10,2024cur_qm10,b1,346,35,5,22,8,8,1,1,0.857142857,,a,0,1,0,0,0,0,,5,0,1,1,0,1,0,0,0,0,0,0,1,3,0,,,,Shan,s,123.2,31 by 27,Steel frame  very durable
+7531_10,Levi H,2024cur,qm,10,2024cur_qm10,b3,7531,8,5,0,3,1,0,1,,,s,0,1,0,0,0,0,,0,0,0,0,8,0,0,0,0,0,0,0,0,3,0,,,,Krit,t,100,32 5 27 5,0
+6672_10,Shan,2024cur,qm,10,2024cur_qm10,b2,6672,44,12,32,0,12,2,0.666666667,0.909090909,,l,1,2,0,1,0,0,,6,0,4,1,0,1,1,0,0,0,0,0,0,0,0,,,Very speedy with a good swerve  solid robot,Hayden,s,118,26 by 32,0
+1561_10,Drake ,2024cur,qm,10,2024cur_qm10,r1,1561,8,2,6,0,3,1,0,1,,l,1,0,0,1,0,0,,0,0,3,0,10,0,1,0,0,0,0,0,0,0,0,,,,Brody,s,84,24 x 24,Compact and simple
+2530_10,Rekka,2024cur,qm,10,2024cur_qm10,r2,2530,57,12,44,1,16,1,1,0.933333333,,s,1,2,0,0,0,0,,8,1,6,0,0,1,1,0,0,0,0,0,0,1,0,"Accurate speaker shots, auto is non compatible ",,,Anna,s,118.7,25 by 30,Double sided intake
+5987_10,ARR,2024cur,qm,10,2024cur_qm10,r3,5987,11,10,0,1,2,1,1,0,,x,0,2,0,0,0,0,,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,,,,Rekka,s,113.6,30 by 30,Under construction
+4635_11,Shan,2024cur,qm,11,2024cur_qm11,b2,4635,39,7,31,1,14,2,1,0.857142857,,l,1,2,0,0,0,1,Team bumped into them,6,0,6,2,1,1,1,0,0,1,0,0,0,1,0,,,Very speedy  stole from opposing source  threw a note outside of field,Rekka,s,124,24 by 30,0
+8575_11,Isaiah ,2024cur,qm,11,2024cur_qm11,b1,8575,21,17,1,3,6,1,1,0.75,,s,1,3,0,0,0,0,,0,0,3,1,0,0,0,0,0,1,1,0,0,3,0,,Ok defence ,Pushed around easily ,Krit,s,90,30 30,Shrimple
+2068_11,Levi H,2024cur,qm,11,2024cur_qm11,b3,2068,11,0,8,3,2,1,0,1,,s,0,0,0,1,0,0,,2,0,0,0,3,0,0,0,0,0,0,0,0,3,0,,,,Brody,s,90 ish,30 x 26,Can climb and trap not very knowledged
+2472_11,Rekka,2024cur,qm,11,2024cur_qm11,r2,2472,11,2,8,1,3,3,0,0.75,,s,1,0,0,2,0,0,,1,0,2,1,0,1,0,0,0,0,0,1,0,1,0,Takes forever to line up and still misses ,Gets shoved around,DNP,Anna,s,108,27 by 30,Can maybe feed
+2412_11,Drake ,2024cur,qm,11,2024cur_qm11,r1,2412,28,12,16,0,10,0,1,1,,s,1,2,0,0,0,0,,0,0,8,0,0,0,1,0,0,0,0,1,0,0,0,, defended by 8575,,Anna,s,115,27 by 27,"Can pick up note from any side, unique wheels"
+4131_11,ARR,2024cur,qm,11,2024cur_qm11,r3,4131,18,7,8,3,5,0,1,1,,x,1,1,0,0,0,0,,0,0,4,0,0,1,0,0,0,0,0,0,0,3,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+2145_12,ARR,2024cur,qm,12,2024cur_qm12,r3,2145,36,15,18,3,10,4,0.6,0.777777778,,s,0,3,0,2,0,0,,2,1,5,1,0,1,0,0,0,0,0,0,0,3,0,,,,Jonas,s,86,24 x 24,Small and light
+8882_12,Drake ,2024cur,qm,12,2024cur_qm12,r1,8882,-13,2,-15,0,0,0,,,,s,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,,,E stop broke ,Krit,s,78lbs,25 25,0
+4476_12,Shan,2024cur,qm,12,2024cur_qm12,b2,4476,45,17,24,4,11,0,1,1,,s,1,3,0,0,0,0,,4,0,4,0,0,1,1,0,0,0,0,0,0,4,0,,,Very bulky build  will not far apart  medium speed,Rekka,s,124,29.5 by 30,0
+2068_12,Levi H,2024cur,qm,12,2024cur_qm12,b3,2068,14,7,6,1,4,0,1,1,,s,1,1,0,0,0,0,,0,0,3,0,0,1,0,0,0,0,0,0,0,1,0,,,,Brody,s,90 ish,30 x 26,Can climb and trap not very knowledged
+7166_12,Isaiah ,2024cur,qm,12,2024cur_qm12,b1,7166,25,7,14,4,8,1,0.5,1,,s,1,1,0,1,0,0,,0,0,7,0,0,0,1,0,0,0,0,0,0,4,0,,,Possible feeder,Hayden,s,120,26 and a half by 32 and a half ,0
+7567_12,Rekka,2024cur,qm,12,2024cur_qm12,r2,7567,19,7,12,0,6,4,1,0.555555556,,l,1,1,0,0,0,0,,1,0,4,4,0,1,1,0,0,0,0,0,0,0,0,Low speaker accuracy,,Bad auto,Krit,s,110,22 27,Their marketing team knew what they were talking about
