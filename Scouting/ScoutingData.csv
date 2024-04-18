@@ -59,7 +59,7 @@ TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumbe
 2068_11,Levi H,2024cur,qm,11,2024cur_qm11,b3,2068,11,0,8,3,2,1,0,1,,s,0,0,0,1,0,0,,2,0,0,0,3,0,0,0,0,0,0,0,0,3,0,,,,Brody,s,90 ish,30 x 26,Can climb and trap not very knowledged
 2472_11,Rekka,2024cur,qm,11,2024cur_qm11,r2,2472,11,2,8,1,3,3,0,0.75,,s,1,0,0,2,0,0,,1,0,2,1,0,1,0,0,0,0,0,1,0,1,0,Takes forever to line up and still misses ,Gets shoved around,DNP,Anna,s,108,27 by 30,Can maybe feed
 2412_11,Drake ,2024cur,qm,11,2024cur_qm11,r1,2412,28,12,16,0,10,0,1,1,,s,1,2,0,0,0,0,,0,0,8,0,0,0,1,0,0,0,0,1,0,0,0,, defended by 8575,,Anna,s,115,27 by 27,"Can pick up note from any side, unique wheels"
-4131_11,ARR,2024cur,qm,11,2024cur_qm11,r3,4131,18,7,8,3,5,0,1,1,,x,1,1,0,0,0,0,,0,0,4,0,0,1,0,0,0,0,0,0,0,3,0,,,,#N/A,#N/A,#N/A,#N/A,#N/A
+4131_11,ARR,2024cur,qm,11,2024cur_qm11,r3,4131,18,7,8,3,5,0,1,1,,x,1,1,0,0,0,0,,0,0,4,0,0,1,0,0,0,0,0,0,0,3,0,,,,Drake Luke G ,s,94,26 by 30,0
 2145_12,ARR,2024cur,qm,12,2024cur_qm12,r3,2145,36,15,18,3,10,4,0.6,0.777777778,,s,0,3,0,2,0,0,,2,1,5,1,0,1,0,0,0,0,0,0,0,3,0,,,,Jonas,s,86,24 x 24,Small and light
 8882_12,Drake ,2024cur,qm,12,2024cur_qm12,r1,8882,-13,2,-15,0,0,0,,,,s,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,,,E stop broke ,Krit,s,78lbs,25 25,0
 4476_12,Shan,2024cur,qm,12,2024cur_qm12,b2,4476,45,17,24,4,11,0,1,1,,s,1,3,0,0,0,0,,4,0,4,0,0,1,1,0,0,0,0,0,0,4,0,,,Very bulky build  will not far apart  medium speed,Rekka,s,124,29.5 by 30,0
@@ -126,5 +126,29 @@ _19,Krit,2024cur,qm,19,2024cur_qm19,r2,,8,22,-14,0,6,0,1,1,,s,1,4,0,0,0,0,Missed
 2539_23,Krit,2024cur,qm,23,2024cur_qm23,r2,2539,-11,10,-29,8,6,0,1,1,,x,0,2,0,0,0,0,,0,0,3,0,0,1,0,0,0,7,0,0,1,3,0,,,,Anna,s,124,28 by 28,Good feeding  trap
 4476_23,Levi H,2024cur,qm,23,2024cur_qm23,b3,4476,30,17,12,1,11,0,1,1,,s,1,3,0,0,0,0,,3,0,5,0,2,0,1,1,0,2,0,0,0,1,0,,,,Rekka,s,124,29.5 by 30,0
 365_23,Shan,2024cur,qm,23,2024cur_qm23,b1,365,14,7,4,3,7,3,0.5,0.75,,s,1,1,0,1,0,0,,1,2,5,0,0,1,0,0,0,2,0,0,0,3,0,Pretty slow but only shoots well on speaker,,Very bully and take hits  not powerful shot far away ,Shan,s,122.5,28 by 28,0
-4131_23,Jonas ,2024cur,qm,23,2024cur_qm23,b2,4131,14,7,4,3,2,0,1,1,,s,1,1,0,0,0,0,,1,0,0,0,6,0,0,0,0,0,0,0,0,3,0,,,DNP,#N/A,#N/A,#N/A,#N/A,#N/A
+4131_23,Jonas ,2024cur,qm,23,2024cur_qm23,b2,4131,14,7,4,3,2,0,1,1,,s,1,1,0,0,0,0,,1,0,0,0,6,0,0,0,0,0,0,0,0,3,0,,,DNP,Drake Luke G ,s,94,26 by 30,0
 5667_23,Eli,2024cur,qm,23,2024cur_qm23,r1,5667,15,7,5,3,5,2,0.333333333,1,,s,1,1,0,2,0,0,Inaccurate ,1,0,3,0,0,0,0,0,0,1,1,0,0,3,0,Note got stuck,Mediocre defense,Maybe a second pick,Rekka,s,122.5,31 by 28,0
+9787_24,Shan,2024cur,qm,24,2024cur_qm24,b1,9787,8,0,8,0,4,1,0,1,,a,0,0,0,1,0,0,,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,,,Terrible intake and shooter  DNP,Isaiah,m,91,28 26,0
+45_24,Luke G,2024cur,qm,24,2024cur_qm24,r3,45,17,7,6,4,4,1,0.5,1,,s,1,1,0,1,0,0,,0,0,3,0,7,1,0,0,0,0,0,0,0,4,0,,,Fed,Shan,s,Do not know,Height is 26  31 by 31,Was not informed
+3284_24,Levi H,2024cur,qm,24,2024cur_qm24,b3,3284,20,2,18,0,6,2,0,0.857142857,,l,1,0,0,1,0,0,,3,0,3,1,0,1,0,0,0,0,0,0,0,0,0,,,,Drake Luke G,s,117,31 by 27,0
+9008_24,Krit,2024cur,qm,24,2024cur_qm24,r2,9008,44,10,30,4,11,1,1,0.9,,s,0,2,0,0,0,0,,6,0,3,1,0,1,0,0,0,0,0,0,0,4,0,,,,Isaiah,s,123,24x24,Good at amp
+2412_24,Eli,2024cur,qm,24,2024cur_qm24,r1,2412,18,7,10,1,6,3,1,0.625,,a,1,1,0,0,0,0,Missed notes in the middle,0,0,5,3,0,1,0,0,0,0,0,0,0,1,0,Start was good but went downhill,,Inaccurate  mid pick,Anna,s,115,27 by 27,"Can pick up note from any side, unique wheels"
+1912_24,Jonas ,2024cur,qm,24,2024cur_qm24,b2,1912,10,0,10,0,4,2,,0.666666667,,s,0,0,0,0,0,0,Did not see it,1,2,3,0,1,1,1,0,0,0,0,0,0,0,0,,,DNP ,Brody,s,109.4,28 x 31 ,Shoots on the move
+7567_25,Krit,2024cur,qm,25,2024cur_qm25,r2,7567,8,2,6,0,3,5,0,0.428571429,,s,1,0,0,1,0,0,,0,0,3,4,0,1,0,0,0,0,0,0,0,0,0,,,,Krit,s,110,22 27,Their marketing team knew what they were talking about
+4362_25,Levi H,2024cur,qm,25,2024cur_qm25,b3,4362,36,7,28,1,10,0,1,1,,l,1,1,0,0,0,0,A stoped,5,0,4,0,4,1,1,0,0,0,0,0,0,1,0,,,,Drake Luke G,s,104,25by25,0
+5409_25,Luke G,2024cur,qm,25,2024cur_qm25,r3,5409,43,7,28,8,9,0,1,1,,a,1,1,0,0,0,0,,7,0,0,0,2,0,0,0,0,0,0,0,1,3,0,,,,Rekka,s,124.8,32 by 28,0
+3654_25,Logan ,2024cur,qm,25,2024cur_qm25,b2,3654,22,7,12,3,7,1,0.5,1,,s,1,1,0,1,0,0,,0,0,6,0,0,1,0,0,0,0,0,0,0,3,0,,,They were a good robot but the driver was not that good ,Drake Luke g ,s,117,26by 26,0
+7567_25,Eli,2024cur,qm,25,2024cur_qm25,r2,7567,15,7,8,0,5,3,1,0.571428571,,l,1,1,0,0,0,0,They just hit the wall,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,,,Dnp intake only works with a wall,Krit,s,110,22 27,Their marketing team knew what they were talking about
+3181_25,Isaiah,2024cur,qm,25,2024cur_qm25,b1,3181,24,7,14,3,6,0,1,1,,a,1,1,0,0,0,0,,2,0,3,0,0,1,0,0,0,0,0,0,0,3,0,,,,Anna,s,117,28 by 28,Can feed maybe
+9564_26,Levi H,2024cur,qm,26,2024cur_qm26,b3,9564,1,0,0,1,0,0,,,,l,0,0,0,0,0,0,A stoped,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,They tried it was not good but they tried,,Isaiah ,s,35,28 28,Cant speak English 
+9016_26,Logan ,2024cur,qm,26,2024cur_qm26,b2,9016,7,0,4,3,2,3,0,0.5,,s,0,0,0,1,0,0,,0,0,2,2,6,1,0,0,0,0,0,1,0,3,0,,,They were defended by 2481 and there driver was bad ,Isaiah ,s,97,28 28,0
+144_26,Eli,2024cur,qm,26,2024cur_qm26,r2,144,24,7,16,1,7,1,0.5,1,,l,1,1,0,1,0,0,Works with us missed one middle note,2,0,4,0,2,0,1,0,0,0,0,0,0,1,0,,,Speaker bot decent first pick,Shan,s,115,29 by 30,Can climb now
+1014_26,Hayden,2024cur,qm,26,2024cur_qm26,r3,1014,4,0,4,0,2,0,,1,,s,0,0,0,0,0,0,Did nothing ,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,,Hung around the blue wing for most of the match looking to defend blue alliance ,Onstage harmony spotlit with 2481,Shan ,s,107,30 by 30,0
+144_26,Krit,2024cur,qm,26,2024cur_qm26,r2,144,20,7,12,1,5,0,1,1,,s,1,1,0,0,0,0,,2,0,2,0,0,1,0,0,0,0,0,0,0,1,0,,,,Shan,s,115,29 by 30,Can climb now
+2481_26,Luke G,2024cur,qm,26,2024cur_qm26,r1,2481,2,2,0,0,0,2,0,,,s,1,0,0,2,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Note stuck in arm Drew foul for rp ,#N/A,#N/A,#N/A,#N/A,#N/A
+8575_27,Luke G,2024cur,qm,27,2024cur_qm27,r1,8575,11,2,8,1,3,2,0,0.75,,x,1,0,0,1,0,0,,1,0,2,1,0,1,0,0,0,0,1,0,0,1,0,,Played really good d against 3847,,Krit,s,90,30 30,Shrimple
+3847_27,Levi H,2024cur,qm,27,2024cur_qm27,b3,3847,14,12,1,1,5,1,0.666666667,1,,s,1,2,0,1,0,0,,0,0,3,0,8,0,1,0,0,1,0,0,0,1,0,,,,Drake Luke g,s,124,29half 29half,0
+7028_27,Logan ,2024cur,qm,27,2024cur_qm27,b2,7028,10,7,2,1,2,0,1,1,,l,1,1,0,0,0,0,,0,0,1,0,14,1,0,1,0,0,0,0,0,1,0,,,They were a good feeding robot ,Hayden,s,117, 27 by 32 and a half ,0
+930_27,Eli,2024cur,qm,27,2024cur_qm27,r2,930,15,7,8,0,5,1,0.5,1,,a,1,1,0,1,0,0,Doesn?t work with our auto,0,0,4,0,7,0,0,1,0,0,0,1,0,0,0,,We,,Shan,s,114,28 by 28,0
+5687_27,Hayden,2024cur,qm,27,2024cur_qm27,r3,5687,17,2,12,3,3,1,,0.75,,l,1,0,0,0,0,0,,3,0,0,1,0,1,0,0,0,0,0,0,0,3,0,,,,Rekka,s,106,28 by 30,0
+6672_27,Isaiah,2024cur,qm,27,2024cur_qm27,b1,6672,35,12,22,1,11,1,1,0.9,,x,1,2,0,0,0,0,,2,0,7,1,0,0,0,0,0,0,0,0,0,1,0,,,,Hayden,s,118,26 by 32,0
