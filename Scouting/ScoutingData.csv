@@ -293,7 +293,6 @@ _19,Krit,2024cur,qm,19,2024cur_qm19,r2,,8,22,-14,0,6,0,1,1,,s,1,4,0,0,0,0,Missed
 1640_52,Levi H,2024cur,qm,52,2024cur_qm52,b3,1640,32,7,22,3,8,1,0.5,1,,s,1,1,0,1,0,0,,4,0,3,0,0,1,0,0,0,0,0,0,0,3,0,,,,Brody,s,113,27.9 x 27.9,Traps from ground
 930_52,Luke G,2024cur,qm,52,2024cur_qm52,r1,930,20,7,12,1,7,3,0.333333333,0.857142857,,a,1,1,0,2,0,0,,0,0,6,1,9,1,1,1,0,0,0,0,0,1,0,,,Cannot climb,Shan,s,114,28 by 28,0
 5907_52,Krit,2024cur,qm,52,2024cur_qm52,r2,5907,27,20,4,3,6,1,1,0.666666667,,s,0,4,0,0,0,0,,0,0,2,1,6,1,0,0,0,0,0,0,0,3,0,,,Inefficient feed,Rekka,s,124.5,30 by 30,0
-7531_52,Isaiah,2024cur,qm,52,2024cur_qm52,b1,7531,9,5,0,4,1,0,1,,,s,0,1,0,0,0,0,,0,0,0,0,4,0,0,0,0,0,0,0,0,4,0,,,,Krit,t,100,32 5 27 5,0
 4635_52,ARR,2024cur,qm,52,2024cur_qm52,r3,4635,68,15,50,3,20,2,1,0.894736842,,l,0,3,0,0,0,0,,8,0,9,2,0,1,1,1,0,0,0,0,0,3,0,,,,Rekka,s,124,24 by 30,0
 7531_52,Liam,2024cur,qm,52,2024cur_qm52,b1,7531,9,5,0,4,1,0,1,,,s,0,1,0,0,0,0,,0,0,0,0,3,0,0,0,0,0,0,0,0,4,0,,,,Krit,t,100,32 5 27 5,0
 3181_52,Brody,2024cur,qm,52,2024cur_qm52,b2,3181,27,7,16,4,6,0,1,1,,s,1,1,0,0,0,0,No centerline,3,0,2,0,0,0,0,0,0,0,0,0,0,4,0,,,Not the best possible DNP,Anna,s,117,28 by 28,Can feed maybe
@@ -322,24 +321,20 @@ _19,Krit,2024cur,qm,19,2024cur_qm19,r2,,8,22,-14,0,6,0,1,1,,s,1,4,0,0,0,0,Missed
 45_57,Anna,2024cur,qm,57,2024cur_qm57,b3,45,28,7,18,3,7,0,1,1,,s,1,1,0,0,0,0,Missed pick up on 2,3,0,3,0,0,1,0,0,0,0,0,0,0,3,0,Meh,,,Shan,s,Do not know,Height is 26  31 by 31,Was not informed
 6988_57,Jonas,2024cur,qm,57,2024cur_qm57,b2,6988,0,0,0,0,0,1,0,,,x,0,0,0,1,0,0,,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,,,DNP,Hayden ,t,42 kilograms , 72 by 72 centimeters,0
 2539_57,Drake ,2024cur,qm,57,2024cur_qm57,r1,2539,32,17,6,9,7,1,1,0.75,,a,1,3,0,0,0,0,,0,0,3,1,5,1,0,0,0,0,0,0,1,4,0,,,,Anna,s,124,28 by 28,Good feeding  trap
-6988_57,Shan,2024cur,qm,57,2024cur_qm57,b2,6988,35,17,14,4,10,1,0.75,1,,s,1,3,0,1,0,0,,0,0,7,0,0,1,0,0,0,0,0,0,0,4,0,,,Have slight wobbly shooter  speedy  intake rolls up wall ,Hayden ,t,42 kilograms , 72 by 72 centimeters,0
 7226_57,Isaiah,2024cur,qm,57,2024cur_qm57,b1,7226,31,17,10,4,8,1,0.75,1,,x,1,3,0,1,0,0,,0,0,5,0,0,1,0,0,0,0,0,0,0,4,0,,,,Hayden,s,107 and a half ,26 by 26,0
 2590_58,Drake ,2024cur,qm,58,2024cur_qm58,r1,2590,35,17,10,8,9,0,1,1,,a,1,3,0,0,0,0,,0,0,5,0,5,1,0,0,0,0,0,0,1,3,0,,,,Anna,s,127,24 by 29,Can do everthing
 9008_58,Anna,2024cur,qm,58,2024cur_qm58,b3,9008,4,0,0,4,0,1,0,,,l,0,0,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,Slow ish,Okay defense  nothing worth noting,,Isaiah,s,123,24x24,Good at amp
 5687_58,ARR,2024cur,qm,58,2024cur_qm58,r3,5687,48,15,30,3,13,0,1,1,,l,0,3,0,0,0,0,,5,0,5,0,0,0,1,1,0,0,0,0,0,3,0,,,,Rekka,s,106,28 by 30,0
 8882_58,Shan,2024cur,qm,58,2024cur_qm58,b2,8882,-18,2,-21,1,2,1,0,1,,a,1,0,0,1,0,0,,0,0,2,0,6,1,1,0,0,5,0,0,0,1,0,,,Did not understand you cannot feed across the field  wobbly but actually very speedy,Krit,s,78lbs,25 25,0
 8608_58,Rekka,2024cur,qm,58,2024cur_qm58,r2,8608,62,22,32,8,16,0,1,1,,s,1,4,0,0,0,0,,5,0,6,0,0,1,1,0,0,0,0,0,1,3,0,Really good clean up bot,,"If left, should pick",Krit,s,124,27 30,Special climber can climb in around 10 seconds
-8882_58,Jonas,2024cur,qm,58,2024cur_qm58,b2,8882,14,5,8,1,4,0,1,1,,l,0,1,0,0,0,0,,1,0,2,0,3,1,0,0,0,0,0,0,0,1,0,,,Bad at feeding ,Krit,s,78lbs,25 25,0
 2129_59,Drake ,2024cur,qm,59,2024cur_qm59,r1,2129,19,17,2,0,4,0,1,1,,a,1,3,0,0,0,0,,0,0,1,0,12,0,0,0,0,0,0,0,0,0,0,,,,Brody,s,123,27 x 30,Shoots on the move
 6045_59,Shan,2024cur,qm,59,2024cur_qm59,b2,6045,13,12,0,1,2,1,0.666666667,,,l,1,2,0,1,0,0,,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,Was onstage but teammate ruined that,,Got tapped by robot and then died  never pulls intake in  medium speed,Hayden ,s,119,28 by 28,129 wheels
 7028_59,ARR,2024cur,qm,59,2024cur_qm59,r3,7028,20,5,14,1,6,4,0.333333333,0.714285714,,l,0,1,0,2,0,0,,2,0,3,2,9,1,1,0,0,0,0,0,0,1,0,,,,Hayden,s,117, 27 by 32 and a half ,0
-7426_59,Rekka,2024cur,qm,59,2024cur_qm59,r2,7426,67,22,42,3,18,1,1,0.933333333,,s,1,4,0,0,0,0,,7,0,7,1,0,1,0,0,0,0,0,0,0,3,0,Did really well as clean up ,,"Smart driver, stole when safe",Hayden ,s,121 point 3,28 by 28,0
 7426_59,Rekka,2024cur,qm,59,2024cur_qm59,r2,7426,67,22,42,3,18,1,1,0.933333333,,s,1,4,0,0,0,0,,7,0,7,1,0,1,0,0,0,0,0,0,0,3,0,Did really well as clean up ,,"Smart driver, stole when safe",Hayden ,s,121 point 3,28 by 28,0
 7848_59,Anna,2024cur,qm,59,2024cur_qm59,b3,7848,41,22,18,1,13,0,1,1,,s,1,4,0,0,0,0,,0,0,9,0,0,1,0,0,0,0,0,1,0,1,0,Okay driver,Was defended by 7028,Tried to climb,Krit,s,110,26 30,0
 6045_59,Jonas,2024cur,qm,59,2024cur_qm59,b2,6045,13,10,0,3,2,0,1,,,s,0,2,0,0,0,0,,0,0,0,0,2,0,0,0,0,0,0,0,0,3,0,,,,Hayden ,s,119,28 by 28,129 wheels
 7421_60,Drake ,2024cur,qm,60,2024cur_qm60,r1,7421,25,12,12,1,6,1,0.666666667,1,,s,1,2,0,1,0,0,,2,0,2,0,0,1,0,0,0,0,0,0,0,1,0,,,,Hayden ,s,125 point 2,33 by 27,6 note auto
 3950_60,Shan,2024cur,qm,60,2024cur_qm60,b2,3950,7,7,0,0,1,0,1,,,l,1,1,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,I do not think they could climb due to the the note in their robot,Played good defense on 7421 and 7557   Pinned them often,Note got stuck on robot arm,Drake Luke g,s,121,27 by 30,0
-3950_60,Jonas,2024cur,qm,60,2024cur_qm60,b2,3950,16,7,6,3,4,3,1,0.5,,s,1,1,0,0,0,0,Intake missed 2 centerline,0,1,3,2,4,0,0,0,0,0,0,0,0,3,0,,,Very fast climb,Drake Luke g,s,121,27 by 30,0
 9787_60,Rekka,2024cur,qm,60,2024cur_qm60,r2,9787,19,2,14,3,6,1,0,1,,s,1,0,0,1,0,0,,1,0,5,0,0,1,0,0,0,0,0,0,0,3,0,,Very defendable ,DNP,Isaiah,m,91,28 26,0
 4043_60,Liam,2024cur,qm,60,2024cur_qm60,b1,4043,40,15,24,1,11,2,0.75,0.888888889,,a,0,3,0,1,0,0,,4,0,4,1,0,0,0,0,0,0,0,0,0,1,0,Very good amp,,,Drake Luke g,s,113,31by25,0
 7567_60,ARR,2024cur,qm,60,2024cur_qm60,r3,7567,8,5,0,3,1,0,1,,,a,0,1,0,0,0,0,,0,0,0,0,6,0,0,0,0,0,0,0,0,3,0,,,,Krit,s,110,22 27,Their marketing team knew what they were talking about
@@ -348,13 +343,34 @@ _19,Krit,2024cur,qm,19,2024cur_qm19,r2,,8,22,-14,0,6,0,1,1,,s,1,4,0,0,0,0,Missed
 2485_61,Luke G,2024cur,qm,61,2024cur_qm61,r1,2485,13,0,10,3,4,3,,0.571428571,,a,0,0,0,0,0,0,Did not move,1,0,3,3,0,1,0,0,0,0,0,1,0,3,0,,Was defended by 1014 effectively ,,Anna,s,100,25 by 30,Good Odometry
 1014_61,Isaiah,2024cur,qm,61,2024cur_qm61,b1,1014,5,5,0,0,1,0,1,,,x,0,1,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,Defence didnt stop much,,Shan ,s,107,30 by 30,0
 3284_61,Rekka,2024cur,qm,61,2024cur_qm61,r3,3284,16,0,16,0,4,5,,0.444444444,,x,0,0,0,0,0,0,,4,0,0,5,0,1,0,0,0,0,0,1,0,0,0,,Defense by robot parked in front of speaker shut them down,,Drake Luke G,s,117,31 by 27,0
-3284_61,Hayden,2024cur,qm,61,2024cur_qm61,r3,3284,22,2,20,0,6,2,,0.75,,a,1,0,0,0,0,0,Did not move,4,0,2,2,0,1,1,0,0,0,0,0,0,0,0,,,Pretty fast,Drake Luke G,s,117,31 by 27,0
 346_61,Krit,2024cur,qm,61,2024cur_qm61,r2,346,25,12,12,1,5,0,1,1,,s,1,2,0,0,0,0,Missed a few,3,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,Decent defense against 4099,Intake broke,Shan,s,123.2,31 by 27,Steel frame  very durable
 4099_61,Jonas,2024cur,qm,61,2024cur_qm61,b2,4099,32,7,24,1,8,3,0.333333333,0.875,,s,1,1,0,2,0,0,,5,1,2,0,1,1,0,0,0,0,0,1,0,1,0,,Was defended by 346 by the source and blue amp,,Drake Luke G,s,124,26by30,0
 1279_62,Luke G,2024cur,qm,62,2024cur_qm62,r1,1279,20,7,12,1,7,2,0.333333333,1,,s,1,1,0,2,0,0,,0,0,6,0,0,1,0,0,0,0,0,0,0,1,0,,,,Jonas,s,26 x 31,104,Good at clean up 
 4131_62,Krit,2024cur,qm,62,2024cur_qm62,r2,4131,5,2,0,3,0,2,0,,,s,1,0,0,2,0,0,,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,Intake broke,Decent against 8727,There are better options for defense,Drake Luke G ,s,94,26 by 30,0
-2068_62,Hayden,2024cur,qm,62,2024cur_qm62,r3,2068,10,5,4,1,3,1,1,0.666666667,,s,0,1,0,0,0,0,Sat still ,0,1,2,0,0,1,0,0,0,0,0,0,0,1,0,Got caught on blue alliance stage chain,,,Brody,s,90 ish,30 x 26,Can climb and trap not very knowledged
 8727_62,Shan,2024cur,qm,62,2024cur_qm62,b3,8727,24,17,4,3,5,0,1,1,,s,1,3,0,0,0,0,,0,0,2,0,7,1,0,0,0,0,0,0,0,3,0,,,Very fast climb  fast  very good feeder and drvies while shooting,Krit,s,111,26 26,New intake apparently more reliable 
 2068_62,Rekka,2024cur,qm,62,2024cur_qm62,r3,2068,0,0,0,0,3,3,0,0.6,,s,0,0,0,1,0,0,,2,2,1,0,0,1,0,0,0,2,0,0,0,0,0,"Got caught on blue alliance stage, two fouls on endgame",,"Not that great, slow at amp and often misses ",Brody,s,90 ish,30 x 26,Can climb and trap not very knowledged
 9752_62,Liam,2024cur,qm,62,2024cur_qm62,b1,9752,60,15,44,1,18,0,1,1,,x,0,3,0,0,0,0,,7,0,8,0,0,0,0,0,0,0,0,0,0,1,0,,,Very solid cleanup bot,Isaiah,s,75,28 35,0
 1561_62,Jonas,2024cur,qm,62,2024cur_qm62,b2,1561,17,7,10,0,5,0,1,1,,a,1,1,0,0,0,0,Three centerline,1,0,3,0,8,0,1,0,0,0,0,0,0,0,0,,,Intake struggled to hold on to notes,Brody,s,84,24 x 24,Compact and simple
+5667_63,Logan,2024cur,qm,63,2024cur_qm63,b2,5667,15,2,10,3,5,2,0,0.833333333,,a,1,0,0,1,0,0,,0,0,5,1,8,1,0,0,0,0,0,0,0,3,0,,,Good feeder bot,Rekka,s,122.5,31 by 28,0
+9016_63,Jonah,2024cur,qm,63,2024cur_qm63,r2,9016,20,7,10,3,6,5,0.5,0.555555556,,s,1,1,0,1,0,0,,0,0,5,4,0,1,1,0,0,0,0,0,0,3,0,Intake struggled at source ,,,Isaiah ,s,97,28 28,0
+5907_63,Jonas,2024cur,qm,63,2024cur_qm63,b3,5907,23,2,20,1,8,2,0,1,,l,1,0,0,2,0,0,,2,0,6,0,2,1,0,0,0,0,0,0,0,1,0,,,Consistent but not fast,Rekka,s,124.5,30 by 30,0
+5667_63,Logan,2024cur,qm,63,2024cur_qm63,b2,5667,15,2,10,3,5,2,0,0.833333333,,a,1,0,0,1,0,0,,0,0,5,1,8,1,0,0,0,0,0,0,0,3,0,,,Good feeder bot,Rekka,s,122.5,31 by 28,0
+2137_63,Eli,2024cur,qm,63,2024cur_qm63,r3,2137,41,7,26,8,10,3,0.5,0.8,,a,1,1,0,1,0,0,,5,0,3,2,0,0,1,0,0,0,0,0,1,3,0,,,Slow amp medium,Brody,s,123.7,28 x 28 ,Can trap well
+930_64,Drake ,2024cur,qm,64,2024cur_qm64,r1,930,19,12,6,1,5,3,1,0.5,,l,1,2,0,0,0,0,,0,0,3,3,9,0,1,0,0,0,0,1,0,1,0,,Defended by 4362,,Shan,s,114,28 by 28,0
+5152_64,Logan,2024cur,qm,64,2024cur_qm64,b2,5152,43,17,22,4,11,0,1,1,,s,1,3,0,0,0,0,,3,0,5,0,0,1,0,0,0,0,0,0,0,4,0,,,Good robot overall ,Rekka,s,117,24 by 26,0
+4362_64,Isaiah,2024cur,qm,64,2024cur_qm64,b1,4362,22,10,9,3,8,1,0.666666667,1,,l,0,2,0,1,0,0,,1,0,5,0,0,1,1,0,0,1,1,0,0,3,0,,Slowed down 930 by like 1 or 2 sec,Had 2 notes at once,Drake Luke G,s,104,25by25,0
+503_64,Eli,2024cur,qm,64,2024cur_qm64,r3,503,60,22,30,8,15,2,1,0.833333333,,a,1,4,0,0,0,0,Very good auto ,5,1,5,1,0,0,1,0,0,0,0,0,1,3,0,,, Strong pick very good bot,Shan,s,106,31 by 36 ,0
+5152_64,Jonas,2024cur,qm,64,2024cur_qm64,b2,5152,41,15,22,4,11,0,1,1,,s,0,3,0,0,0,0,,3,0,5,0,0,1,1,0,0,0,0,0,0,4,0,,,Not fast but good at what he does,Rekka,s,117,24 by 26,0
+1912_64,Jonah,2024cur,qm,64,2024cur_qm64,r2,1912,10,7,2,1,2,2,0.5,0.5,,s,1,1,0,1,0,0,A stop,0,0,1,1,2,0,1,0,0,0,0,0,0,1,0,,,Unreliable intake,Brody,s,109.4,28 x 31 ,Shoots on the move
+9709_65,Drake ,2024cur,qm,65,2024cur_qm65,r1,9709,33,17,12,4,9,4,1,0.6,,s,1,3,0,0,0,0,,0,0,6,4,0,1,0,0,0,0,0,0,0,4,0,,,,Isaiah ,s,120,29 29,0
+7531_65,Isaiah,2024cur,qm,65,2024cur_qm65,b1,7531,19,5,10,4,6,1,1,0.833333333,,s,0,1,0,0,0,0,,0,0,5,1,0,0,0,0,0,0,0,0,0,4,0,,,Slow,Krit,t,100,32 5 27 5,0
+9564_65,Jonah,2024cur,qm,65,2024cur_qm65,r2,9564,2,2,0,0,0,0,,,,l,1,0,0,0,0,0,A stop,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Connection issues,They are fast but light and can get pushed with big impacts. ,,Isaiah ,s,35,28 28,Cant speak English 
+9403_65,Hayden,2024cur,qm,65,2024cur_qm65,r3,9403,13,5,4,4,2,1,1,0.5,,s,0,0,1,0,0,0,,1,1,0,0,0,0,0,0,0,0,0,0,0,4,0,,,Poor intake Slow moving,Isaiah,s,62,35x26,0
+45_65,Anna,2024cur,qm,65,2024cur_qm65,b3,45,38,7,28,3,11,1,0.666666667,1,,s,1,2,0,1,0,1,,5,0,4,0,0,1,0,0,0,0,0,0,0,3,0,Okay driver,,,Shan,s,Do not know,Height is 26  31 by 31,Was not informed
+2521_65,Logan,2024cur,qm,65,2024cur_qm65,b2,2521,34,12,18,4,9,0,1,1,,s,1,2,0,0,0,0,,2,0,5,0,9,1,0,0,0,0,0,0,0,4,0,,,They shot note out of field in auto ,Anna,s,123.6,26.5 by 35.5,Adaptable robot
+6988_66,Jonah,2024cur,qm,66,2024cur_qm66,r2,6988,7,0,4,3,2,2,0,0.666666667,,s,0,0,0,1,0,0,,0,0,2,1,0,0,1,0,0,0,0,0,0,3,0,Slow time for speaker ,,,Hayden ,t,42 kilograms , 72 by 72 centimeters,0
+2145_66,Logan,2024cur,qm,66,2024cur_qm66,b2,2145,42,17,22,3,13,0,1,1,,s,1,3,0,0,0,0,,1,0,9,0,0,1,0,0,0,0,0,0,0,3,0,,,They were good ,Jonas,s,86,24 x 24,Small and light
+1640_66,Drake ,2024cur,qm,66,2024cur_qm66,r1,1640,48,17,28,3,11,5,0.6,0.727272727,,s,1,3,0,2,0,0,,6,0,2,3,0,1,0,0,0,0,0,0,0,3,0,,,,Brody,s,113,27.9 x 27.9,Traps from ground
+2590_66,Hayden,2024cur,qm,66,2024cur_qm66,r3,2590,24,12,4,8,5,2,0.666666667,0.666666667,,s,1,2,0,1,0,0,,0,0,2,1,4,1,0,0,0,0,0,0,1,3,0,,,Really fast and smooth intake Fast climb,Anna,s,127,24 by 29,Can do everthing
+5409_66,Isaiah,2024cur,qm,66,2024cur_qm66,b1,5409,36,0,32,4,8,0,,1,,a,0,0,0,0,0,0,Good a stop timing,8,0,0,0,3,0,0,0,0,0,0,0,0,3,1,,,,Rekka,s,124.8,32 by 28,0
+7226_66,Anna,2024cur,qm,66,2024cur_qm66,b3,7226,22,5,14,3,8,0,1,1,,s,0,1,0,0,0,0,,0,0,7,0,3,1,0,0,0,0,0,0,0,3,0,Okay ish driver,,When notes go in speaker at weird angle,Hayden,s,107 and a half ,26 by 26,0
