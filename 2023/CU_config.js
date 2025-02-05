@@ -141,22 +141,6 @@ var config_data = `
       "code": "tf",
       "type": "counter"
     },
-    { "name": "Scored Speaker Against Subwoofer?",
-      "code": "tsas",
-      "type": "bool"
-    },
-    { "name": "Scored Speaker Between Subwoofer and Podium?",
-      "code": "tssp",
-      "type": "bool"
-    },
-    { "name": "Scored Speaker Between Podium and Wing Line?",
-      "code": "tspw",
-      "type": "bool"
-    },
-    { "name": "Scored Speaker Beyond Wing Line?",
-      "code": "tsbw",
-      "type": "bool"
-    },
     { "name": "Played Defense?",
       "code": "tpd",
       "type": "bool"
