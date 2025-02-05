@@ -74,8 +74,12 @@ var config_data = `
     }
   ],
   "auton": [
-    { "name": "Auto Speaker",
-      "code": "as",
+   { "name": "Leave Bonus?",
+      "code": "al",
+      "type": "bool"
+    },
+    { "name": "L4",
+      "code": "ah",
       "text-color": "red",
       "type": "counter"
     },
@@ -94,10 +98,6 @@ var config_data = `
     { "name": "Auto Fouls",
       "code": "af",
       "type": "counter"
-    },
-    { "name": "Leave Bonus?",
-      "code": "al",
-      "type": "bool"
     },
     { "name": "Comments: Auto",
       "code": "aco",
