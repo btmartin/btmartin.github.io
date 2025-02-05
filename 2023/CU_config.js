@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "2481 Match Scouting",
-  "page_title": "2025 Arkansas ",
+  "page_title": "2025 Arkansas 2",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter",
