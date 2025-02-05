@@ -164,23 +164,11 @@ var config_data = `
       "code": "tes",
       "type": "bool"
     },
-    { "name": "Comments: Match Flow Issues",
-      "code": "cof",
-      "type": "text",
-      "size": 25,
-      "maxSize": 1000
-    },
-    { "name": "Comments: Defense",
-      "code": "cod",
-      "type": "text",
-      "size": 25,
-      "maxSize": 1000
-    },
-    { "name": "Comments: Other",
+    { "name": "Comments",
       "code": "coo",
       "type": "text",
       "size": 25,
-      "maxSize": 1000
+      "maxSize": 200
     }
   ]
 }`;
