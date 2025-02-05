@@ -149,24 +149,20 @@ var config_data = `
       "code": "twd",
       "type": "bool"
     },
-    { "name": "Traps",
-      "code": "et",
-      "type": "counter"
-    },
     { "name": "Final Status",
       "code": "ef",
       "type":"radio",
       "choices": {
         "1": "Parked<br>",
-        "3": "Onstage<br>",
-        "4": "Onstage Harmony<br>",
+        "3": "Shallow Cage<br>",
+        "4": "Deep Cage<br>",
         "0": "No points"
       },
       "defaultValue": "0"
     },
-    { "name": "Scored Microphone?",
-      "code": "em",
-      "type": "bool"
+     { "name": "E-Stop",
+      "code": "es",
+      "type": "counter"
     },
     { "name": "Comments: Match Flow Issues",
       "code": "cof",
