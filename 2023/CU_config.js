@@ -99,26 +99,30 @@ var config_data = `
       "code": "af",
       "type": "counter"
     },
+    { "name": "A-Stop",
+      "code": "aas",
+      "type": "bool"
+    },
     { "name": "Comments: Auto",
       "code": "aco",
       "type": "text",
       "size": 25,
       "maxSize": 1000
     },
-    { "name": "Teleop Speaker Scores",
-      "code": "ts",
+    { "name": "Teleop L4",
+      "code": "th",
       "type": "counter"
     },
-    { "name": "Teleop Speaker Misses",
-      "code": "tsm",
+    { "name": "Teleop L3",
+      "code": "tm",
       "type": "counter"
     },
-    { "name": "Teleop Amp Scores",
-      "code": "ta",
+    { "name": "Teleop L2",
+      "code": "tl",
       "type": "counter"
     },
-    { "name": "Teleop Amp Misses",
-      "code": "tam",
+    { "name": "Teleop Trough",
+      "code": "tt",
       "type": "counter"
     },
     { "name": "Note Feed",
