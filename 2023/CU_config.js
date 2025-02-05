@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "2481 Match Scouting",
-  "page_title": "2025 Arkansas 2",
+  "page_title": "2025 Arkansas",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter",
@@ -125,8 +125,16 @@ var config_data = `
       "code": "tt",
       "type": "counter"
     },
-    { "name": "Note Feed",
-      "code": "tnf",
+    { "name": "Processor",
+      "code": "tp",
+      "type": "counter"
+    },
+     { "name": "Net",
+      "code": "tn",
+      "type": "counter"
+    },
+     { "name": "Algae Removal",
+      "code": "tar",
       "type": "counter"
     },
     { "name": "Teleoperated Fouls",
