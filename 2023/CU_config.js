@@ -107,7 +107,7 @@ var config_data = `
       "code": "aco",
       "type": "text",
       "size": 25,
-      "maxSize": 1000
+      "maxSize": 100
     },
     { "name": "Teleop L4",
       "code": "th",
@@ -160,9 +160,9 @@ var config_data = `
       },
       "defaultValue": "0"
     },
-     { "name": "E-Stop",
-      "code": "es",
-      "type": "counter"
+      { "name": "E-Stop",
+      "code": "tes",
+      "type": "bool"
     },
     { "name": "Comments: Match Flow Issues",
       "code": "cof",
