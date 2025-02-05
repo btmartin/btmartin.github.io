@@ -78,20 +78,20 @@ var config_data = `
       "code": "al",
       "type": "bool"
     },
-    { "name": "L4",
+    { "name": "Auto L4",
       "code": "ah",
       "text-color": "red",
       "type": "counter"
     },
-    { "name": "Auto Speaker Missed",
-      "code": "asm",
+    { "name": "Auto L3",
+      "code": "am",
       "type": "counter"
     },
-    { "name": "Auto Amp",
-      "code": "aa",
+    { "name": "Auto L2",
+      "code": "al",
       "type": "counter"
     },
-    { "name": "Auto Amp Missed",
+    { "name": "Auto Trough",
       "code": "aam",
       "type": "counter"
     },
