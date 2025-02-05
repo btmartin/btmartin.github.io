@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "2481 Match Scouting",
-  "page_title": "2024 Worlds",
+  "page_title": "2025 Arkansas",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter",
@@ -65,10 +65,9 @@ var config_data = `
       "code": "rsl",
       "type":"radio",
       "choices": {
-        "a": "Amp Side<br>",
-        "l": "Source Side<br>",
-        "s": "Against Speaker<br>",
-        "x": "Out of the way"
+        "p": "Coral Station Processor Side<br>",
+        "c": "Center<br>",
+        "o": "Coral Station Other<br>"
       },
       "defaultValue": "x"
     }
