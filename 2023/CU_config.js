@@ -67,7 +67,8 @@ var config_data = `
       "choices": {
         "p": "Coral Station Processor Side<br>",
         "c": "Center<br>",
-        "o": "Coral Station Other<br>"
+        "o": "Coral Station Other<br>",
+        "x": "Out of the way"
       },
       "defaultValue": "x"
     }
