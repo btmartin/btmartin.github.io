@@ -141,9 +141,9 @@ var config_data = `
       "code": "tpd",
       "type": "bool"
     },   
-    { "name": "Was Defended?",
-      "code": "twd",
-      "type": "bool"
+    { "name": "Was Defended - 0 no defense 10 shut down",
+      "code": "tm",
+      "type": "counter"
     },
     { "name": "Final Status",
       "code": "ef",
