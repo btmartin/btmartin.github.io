@@ -166,5 +166,32 @@ var config_data = `
       "size": 25,
       "maxSize": 200
     }
-  ]
+  ],
+ "Post Match Evaluation": [ 
+ { "name": "Feeder 0 vs Ground 10",
+      "code": "fg",
+      "type": "counter"
+    },
+    { "name": "Remove Algae Time 0 slow 10 fast",
+      "code": "rat",
+      "type": "counter"
+    },
+    { "name": "Time to Net 0 slow 10 fast",
+      "code": "ttn",
+      "type": "counter"
+    },
+    { "name": "Proccessor Score Time 0 slow 10 fast",
+      "code": "pst",
+      "type": "counter"
+    },
+    { "name": "Coral Scoring 0 slow 10 fast",
+      "code": "cs",
+      "type": "counter"
+    },
+    { "name": "Climb Time 0 slow 10 fast",
+      "code": "ct",
+      "type": "counter"
+    },
+ 
+ ]
 }`;
