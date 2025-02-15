@@ -135,16 +135,16 @@ h2{
 }
 
 .half-button-l{
-    width: 48%;
+    width: 78%;
     margin: 1vw;
-    height: 100%;
+    height: 150%;
     font: roboto;
 }
 
 .half-button-r{
     flex-grow: 1;
-    height: 100%;
-    width: 48%;
+    height: 150%;
+    width: 78%;
     margin: 1vw;
     font: roboto;
 }
