@@ -140,59 +140,6 @@ function addTimer(table, idx, name, data) {
   return idx + 1;
 }
 
-function addSlider(table, idx, name, data) {
-  var row = table.insertRow(idx);
-  var cell1 = row.insertCell(0);
-  cell1.classList.add("title");
-  if (!data.hasOwnProperty('code')) {
-    cell1.innerHTML = `Error: No code specified for ${name}`;
-    return idx + 1;
-  }
-  var cell2 = row.insertCell(1);
-  cell1.innerHTML = name + '&nbsp;';
-  if (data.hasOwnProperty('tooltip')) {
-    cell1.setAttribute("title", data.tooltip);
-  }
-  cell2.classList.add("field");
-
-  var inp = document.createElement("input");
-  inp.classList.add("slider");
-  inp.setAttribute("id", "input_" + data.code);
-  inp.setAttribute("type", "range");
-  if (enableGoogleSheets && data.hasOwnProperty('gsCol')) {
-    inp.setAttribute("name", data.gsCol);
-  } else {
-    inp.setAttribute("name", data.code);
-  }
-  inp.setAttribute("style", "background-color: black; color: white;border: none; text-align: center;");
-  inp.setAttribute("disabled", "");
-  inp.setAttribute("value", 0);
-  /*inp.setAttribute("size", 2);
-  inp.setAttribute("maxLength", 2);*/
-  cell2.appendChild(inp);
-
-
-  if (data.hasOwnProperty('cycleTimer')) {
-    if (data.cycleTimer != "") {
-      inp = document.createElement('input');
-      inp.setAttribute("hidden", "");
-      inp.setAttribute("id", "cycleTimer_" + data.code);
-      inp.setAttribute("value", data.cycleTimer);
-      cell.appendChild(inp);
-    }
-  }
-
-  if (data.hasOwnProperty('defaultValue')) {
-    var def = document.createElement("input");
-    def.setAttribute("id", "default_" + data.code)
-    def.setAttribute("type", "hidden");
-    def.setAttribute("value", data.defaultValue);
-    cell2.appendChild(def);
-  }
-
-  return idx + 1;
-}
-
 function addCounter(table, idx, name, data) {
   var row = table.insertRow(idx);
   var cell1 = row.insertCell(0);
@@ -662,9 +609,6 @@ function addElement(table, idx, data) {
   }
   if (type == 'counter') {
     idx = addCounter(table, idx, name, data);
-  } else if (type == "slider"){
-    idx = addSlider(table, idx, name, data);
-  }
   } else if ((data.type == 'scouter') ||
     (data.type == 'event') ||
     (data.type == 'text')
@@ -690,8 +634,6 @@ function addElement(table, idx, data) {
     idx = addCheckbox(table, idx, name, data);
   } else if (data.type == 'counter') {
     idx = addCounter(table, idx, name, data);
-  } else if (data.type == 'counter') {
-    idx = addSlider(table, idx, name, data);
   } else if ((data.type == 'timer') ||
 	     (data.type == 'cycle')) {
     idx = addTimer(table, idx, name, data);
