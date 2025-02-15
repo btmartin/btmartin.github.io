@@ -169,10 +169,8 @@ var config_data = `
       "type": "text",
       "size": 25,
       "maxSize": 200
-    }
-  ],
- "Post Match Evaluation": [ 
- { "name": "Feeder 0 vs Ground 10",
+    },
+     { "name": "Feeder 0 vs Ground 10",
       "code": "fg",
       "type": "counter"
     },
@@ -195,7 +193,7 @@ var config_data = `
     { "name": "Climb Time 0 slow 10 fast",
       "code": "ct",
       "type": "counter"
-    },
- 
- ]
+    }
+  ]
+
 }`;
