@@ -160,6 +160,10 @@ var config_data = `
       },
       "defaultValue": "0"
     },
+    { "name": "Did they Break?",
+      "code": "dtb",
+      "type": "bool"
+    },   
     { "name": "Comments",
       "code": "coo",
       "type": "text",
