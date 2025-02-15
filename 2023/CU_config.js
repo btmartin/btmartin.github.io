@@ -140,11 +140,7 @@ var config_data = `
     { "name": "Played Defense?",
       "code": "tpd",
       "type": "bool"
-    },
-    { "name": "Sliders",
-      "code": "ssss",
-      "type": "slider"
-    },    
+    },   
     { "name": "Was Defended?",
       "code": "twd",
       "type": "bool"
