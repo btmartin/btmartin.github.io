@@ -142,7 +142,11 @@ var config_data = `
       "type": "bool"
     },   
     { "name": "Was Defended 0 no defense 10 shut down",
-      "code": "tm",
+      "code": "ws",
+      "type": "counter"
+    },
+    { "name": "Driver Ability 0 Bad 10 Amazing",
+      "code": "da",
       "type": "counter"
     },
     { "name": "Final Status",
