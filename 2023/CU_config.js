@@ -156,10 +156,6 @@ var config_data = `
       },
       "defaultValue": "0"
     },
-      { "name": "E-Stop",
-      "code": "tes",
-      "type": "bool"
-    },
     { "name": "Comments",
       "code": "coo",
       "type": "text",
