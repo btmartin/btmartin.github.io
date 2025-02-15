@@ -141,6 +141,10 @@ var config_data = `
       "code": "tpd",
       "type": "bool"
     },
+    { "name": "Slider",
+      "code": "ssss",
+      "type": "slider"
+    },    
     { "name": "Was Defended?",
       "code": "twd",
       "type": "bool"
