@@ -141,7 +141,7 @@ var config_data = `
       "code": "tpd",
       "type": "bool"
     },
-    { "name": "Slider",
+    { "name": "Sliders",
       "code": "ssss",
       "type": "slider"
     },    
