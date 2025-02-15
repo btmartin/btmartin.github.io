@@ -99,10 +99,6 @@ var config_data = `
       "code": "af",
       "type": "counter"
     },
-    { "name": "A-Stop",
-      "code": "aas",
-      "type": "bool"
-    },
     { "name": "Comments: Auto",
       "code": "aco",
       "type": "text",
