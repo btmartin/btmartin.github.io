@@ -141,14 +141,6 @@ var config_data = `
       "code": "tpd",
       "type": "bool"
     },   
-    { "name": "Was Defended 0 no defense 10 shut down",
-      "code": "ws",
-      "type": "counter"
-    },
-    { "name": "Driver Ability 0 Bad 10 Amazing",
-      "code": "da",
-      "type": "counter"
-    },
     { "name": "Final Status",
       "code": "ef",
       "type":"radio",
@@ -169,6 +161,14 @@ var config_data = `
       "type": "text",
       "size": 25,
       "maxSize": 200
+    },
+     { "name": "Was Defended 0 no defense 10 shut down",
+      "code": "ws",
+      "type": "counter"
+    },
+    { "name": "Driver Ability 0 Bad 10 Amazing",
+      "code": "da",
+      "type": "counter"
     },
      { "name": "Feeder 0 vs Ground 10",
       "code": "fg",
