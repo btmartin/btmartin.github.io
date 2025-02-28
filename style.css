@@ -8,14 +8,14 @@
 }
 
 body {
-  background: #FFFFFF;
+  background: #FAF9F6;
    
 }
 
 .container {
   display: flex;
   align-items: center;
-  background: #fff;
+  background: #FAF9F6;
   padding: 1.5rem 3rem;
   border-radius: 5px;
   margin: 5rem auto;
@@ -28,7 +28,7 @@ body {
   appearance: none;  /* Override default CSS styles */
   width: 100%; /* Full-width */
   height: 3px; /* Specified height */
-  background: #ebe9e7; /* Grey background */
+  background: #FAF9F6; /* Grey background */
   outline: none; /* Remove outline */
   border-radius: 3px;
 }
@@ -38,7 +38,7 @@ body {
   appearance: none; /* Override default look */
   width: 10px; /* Set a specific slider handle width */
   height: 10px; /* Slider handle height */
-  background: #8758FF; /* Green background */
+  background: #FAF9F6; /* Green background */
   border-radius: 50%;
   cursor: pointer; /* Cursor on hover */
 }
@@ -47,7 +47,7 @@ body {
   appearance: none; /* Override default look */
   width: 20px; /* Set a specific slider handle width */
   height: 20px; /* Slider handle height */
-  background: #8758FF; /* Green background */
+  background: #FAF9F6; /* Green background */
   border-radius: 50%;
   cursor: pointer; /* Cursor on hover */
 }
@@ -58,7 +58,7 @@ body {
   align-items: center;
   font-size: 20px;
   margin-left: 1rem;
-  background: #FFFFFF;
+  background: #FAF9F6;
   color: white;
   width: 80px;
   height: 40px;
