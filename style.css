@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins';
+}
+
+body {
+  background: #8758FF;
+   
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  background: #fff;
+  padding: 1.5rem 3rem;
+  border-radius: 5px;
+  margin: 5rem auto;
+  width: 50%; /* Width of the outside container */
+  box-shadow: 0px 32px 40px -19px rgba(0,0,0,0.25);
+}
+
+/* The slider itself */
+.slider {
+  appearance: none;  /* Override default CSS styles */
+  width: 100%; /* Full-width */
+  height: 6px; /* Specified height */
+  background: #ebe9e7; /* Grey background */
+  outline: none; /* Remove outline */
+  border-radius: 5px;
+}
+
+/* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
+.slider::-webkit-slider-thumb {
+  appearance: none; /* Override default look */
+  width: 20px; /* Set a specific slider handle width */
+  height: 20px; /* Slider handle height */
+  background: #8758FF; /* Green background */
+  border-radius: 50%;
+  cursor: pointer; /* Cursor on hover */
+}
+
+.slider::-moz-range-thumb {
+  appearance: none; /* Override default look */
+  width: 20px; /* Set a specific slider handle width */
+  height: 20px; /* Slider handle height */
+  background: #8758FF; /* Green background */
+  border-radius: 50%;
+  cursor: pointer; /* Cursor on hover */
+}
+
+.value {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  margin-left: 1rem;
+  background: #8758FF;
+  color: white;
+  width: 80px;
+  height: 40px;
+  border-radius: 5px;
+}
