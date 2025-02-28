@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #FAF9F6;
+  background:  #ADD8E6;
    
 }
 
@@ -28,7 +28,7 @@ body {
   appearance: none;  /* Override default CSS styles */
   width: 100%; /* Full-width */
   height: 3px; /* Specified height */
-  background: #FAF9F6; /* Grey background */
+  background: #A9A9A9; /* Grey background */
   outline: none; /* Remove outline */
   border-radius: 3px;
 }
@@ -38,7 +38,7 @@ body {
   appearance: none; /* Override default look */
   width: 10px; /* Set a specific slider handle width */
   height: 10px; /* Slider handle height */
-  background: #FAF9F6; /* Green background */
+  background: #000000; /* Green background */
   border-radius: 50%;
   cursor: pointer; /* Cursor on hover */
 }
