@@ -1,1 +1,11 @@
+const slider = document.getElementById("Slider");
+const output = document.getElementById("sliderValue");
+
+// Display the initial value
+output.textContent = slider.value;
+
+// Update the current slider value (each time you drag the slider handle)
+slider.oninput = function() {
+  output.textContent = this.value;
+}
 
