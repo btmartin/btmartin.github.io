@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #8758FF;
+  background: #FFFFFF;
    
 }
 
@@ -27,17 +27,17 @@ body {
 .slider {
   appearance: none;  /* Override default CSS styles */
   width: 100%; /* Full-width */
-  height: 6px; /* Specified height */
+  height: 3px; /* Specified height */
   background: #ebe9e7; /* Grey background */
   outline: none; /* Remove outline */
-  border-radius: 5px;
+  border-radius: 3px;
 }
 
 /* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
 .slider::-webkit-slider-thumb {
   appearance: none; /* Override default look */
-  width: 20px; /* Set a specific slider handle width */
-  height: 20px; /* Slider handle height */
+  width: 10px; /* Set a specific slider handle width */
+  height: 10px; /* Slider handle height */
   background: #8758FF; /* Green background */
   border-radius: 50%;
   cursor: pointer; /* Cursor on hover */
