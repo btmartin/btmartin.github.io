@@ -137,10 +137,6 @@ var config_data = `
       "code": "tf",
       "type": "counter"
     },
-    { "name": "Played Defense?",
-      "code": "tpd",
-      "type": "bool"
-    },   
     { "name": "Final Status",
       "code": "ef",
       "type":"radio",
@@ -156,43 +152,59 @@ var config_data = `
       "code": "dtb",
       "type": "bool"
     },   
+    { "name": "De-Algify <= 3 sec?",
+      "code": "das",
+      "type":"radio",
+      "choices": {
+        "1": "yes<br>",
+        "0": "no<br>",
+        "n": "N/A"
+      },
+      "defaultValue": "n"
+    },
+    { "name": "Pick Algae off ground <= 5 sec?",
+      "code": "pag",
+      "type":"radio",
+      "choices": {
+        "1": "yes<br>",
+        "0": "no<br>",
+        "n": "N/A"
+      },
+      "defaultValue": "n"
+    },
+     { "name": "Ground Coral Pickup | 0 = N/A | How long to pick up coral off ground (1-10 sec)",
+      "code": "fgc",
+      "type": "counter"
+    },
+    { "name": "Coral Station | 0 = N/A | How much time spent at coral station (1-10 sec)",
+      "code": "fcs",
+      "type": "counter"
+    },
+     { "name": "Time to Score Coral | 0 = N/A | Time from entering to leaving reef when scoring (1-10 sec)",
+      "code": "fts",
+      "type": "counter"
+    },
+    { "name": "Time to Net Score | 0 = N/A | Time from line-up back to original position or driving away (1-10 sec)",
+      "code": "ftn",
+      "type": "counter"
+    },
+    { "name": "Climb | 0 = N/A | Time from entering barge zone to being off ground (1-10 sec)",
+      "code": "fcc",
+      "type": "counter"
+    },
+    { "name": "Robot Was Defended (>50% of match) | 0 = N/A | Score 1-5 | 1 -> Robot slowed 10% | 3 -> Robot slowed 50% | 5 -> Robot shut down 100%",
+      "code": "fwd",
+      "type": "counter"
+    },
+    { "name": "Robot Played Defense (>50% of match) | 0 = N/A | Score 1-5 | 1 -> Robot slowed 10% | 3 -> Robot slowed 50% | 5 -> Robot shut down 100%",
+      "code": "fpd",
+      "type": "counter"
+    },
     { "name": "Comments",
       "code": "coo",
       "type": "text",
       "size": 25,
       "maxSize": 200
-    },
-     { "name": "Was Defended 0 no defense 10 shut down",
-      "code": "ws",
-      "type": "counter"
-    },
-    { "name": "Driver Ability 0 Bad 10 Amazing",
-      "code": "da",
-      "type": "counter"
-    },
-     { "name": "Feeder 0 vs Ground 10",
-      "code": "fg",
-      "type": "counter"
-    },
-    { "name": "Remove Algae Time 0 slow 10 fast",
-      "code": "rat",
-      "type": "counter"
-    },
-    { "name": "Time to Net 0 slow 10 fast",
-      "code": "ttn",
-      "type": "counter"
-    },
-    { "name": "Proccessor Score Time 0 slow 10 fast",
-      "code": "pst",
-      "type": "counter"
-    },
-    { "name": "Coral Scoring 0 slow 10 fast",
-      "code": "cs",
-      "type": "counter"
-    },
-    { "name": "Climb Time 0 slow 10 fast",
-      "code": "ct",
-      "type": "counter"
     }
   ]
 
