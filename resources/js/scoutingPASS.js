@@ -140,6 +140,72 @@ function addTimer(table, idx, name, data) {
   return idx + 1;
 }
 
+function addSlider(table, idx, name, data) {
+  var row = table.insertRow(idx);
+  var cell1 = row.insertCell(0);
+  cell1.classList.add("title");
+  if (!data.hasOwnProperty('code')) {
+    cell1.innerHTML = `Error: No code specified for ${name}`;
+    return idx + 1;
+  }
+  var cell2 = row.insertCell(1);
+  cell1.innerHTML = name + '&nbsp;';
+  if (data.hasOwnProperty('tooltip')) {
+    cell1.setAttribute("title", data.tooltip);
+  }
+  cell2.classList.add("field");
+
+  var button1 = document.createElement("input");
+  button1.setAttribute("type", "button");
+  button1.setAttribute("id", "minus_" + data.code);
+  button1.setAttribute("onclick", "counter(this.parentElement, -1)");
+  button1.setAttribute("value", "-");
+  cell2.appendChild(button1);
+
+  var inp = document.createElement("input");
+  inp.classList.add("counter");
+  inp.setAttribute("id", "input_" + data.code);
+  inp.setAttribute("type", "text");
+  if (enableGoogleSheets && data.hasOwnProperty('gsCol')) {
+    inp.setAttribute("name", data.gsCol);
+  } else {
+    inp.setAttribute("name", data.code);
+  }
+  inp.setAttribute("style", "background-color: black; color: white;border: none; text-align: center;");
+  inp.setAttribute("disabled", "");
+  inp.setAttribute("value", 0);
+  inp.setAttribute("size", 2);
+  inp.setAttribute("maxLength", 2);
+  cell2.appendChild(inp);
+
+  var button2 = document.createElement("input");
+  button2.setAttribute("type", "button");
+  button2.setAttribute("id", "plus_" + data.code);
+  button2.setAttribute("onclick", "counter(this.parentElement, 1)");
+  button2.setAttribute("value", "+");
+  cell2.appendChild(button2);
+
+  if (data.hasOwnProperty('cycleTimer')) {
+    if (data.cycleTimer != "") {
+      inp = document.createElement('input');
+      inp.setAttribute("hidden", "");
+      inp.setAttribute("id", "cycleTimer_" + data.code);
+      inp.setAttribute("value", data.cycleTimer);
+      cell.appendChild(inp);
+    }
+  }
+
+  if (data.hasOwnProperty('defaultValue')) {
+    var def = document.createElement("input");
+    def.setAttribute("id", "default_" + data.code)
+    def.setAttribute("type", "hidden");
+    def.setAttribute("value", data.defaultValue);
+    cell2.appendChild(def);
+  }
+
+  return idx + 1;
+}
+
 function addCounter(table, idx, name, data) {
   var row = table.insertRow(idx);
   var cell1 = row.insertCell(0);
