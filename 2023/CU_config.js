@@ -88,7 +88,7 @@ var config_data = `
       "type": "counter"
     },
     { "name": "Auto L2",
-      "code": "al",
+      "code": "all",
       "type": "counter"
     },
     { "name": "Auto Trough",
