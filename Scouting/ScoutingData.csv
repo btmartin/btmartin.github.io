@@ -1,3 +1,3 @@
 TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumber,approxPoints,autoPoints,telePoints,endgamePoints,autoGamePieces,totalGamePieces,robotStartLocation,leave,autoL4,autoL3,autoL2,autoL1,autoFouls,autoComments,teleL4,teleL3,teleL2,teleL1,processor,net,algaeRemoval,teleFouls,endgame,break,deAlgifyRating,pickUpAlgaeRating,coralStationTime,groundCoralTime,coralScoreTime,netScoreTime,climbTime,wasDRating,playedDRating,comments,pitScouter,drivetrainType,weightNoBumpers,dimensionsNoBumpers,intakeType,pitComments
-2481_1,Btm,2025ark,qm,1,2025ark_qm1,r1,2481,73,26,35,12,5,17,p,1,1,1,1,2,1,Hi,2,1,1,4,3,1,2,2,12,1,1,1,2,1,1,1,6,4,5,Hello,Btm,0,0,0,,0
+2481_1,Btm,2025ark,qm,1,2025ark_qm1,r1,2481,73,26,35,12,5,17,p,1,1,1,1,2,1,Hi,2,1,1,4,3,1,2,2,12,1,1,1,2,1,1,1,6,4,5,Hello,Btm,s,3,5,,0
 2_1,Btm,2025ark,qm,1,2025ark_qm1,r1,2,74,26,36,12,5,15,x,1,1,1,1,2,2,,2,2,2,1,1,2,1,1,12,1,0,0,1,1,1,3,1,1,1,Testing,#N/A,#N/A,#N/A,#N/A,,#N/A
