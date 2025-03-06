@@ -88,7 +88,7 @@ var config_data = `
       "type": "counter"
     },
     { "name": "Auto L2",
-      "code": "al",
+      "code": "all",
       "type": "counter"
     },
     { "name": "Auto Trough",
@@ -141,9 +141,9 @@ var config_data = `
       "code": "ef",
       "type":"radio",
       "choices": {
-        "1": "Parked<br>",
-        "3": "Shallow Cage<br>",
-        "4": "Deep Cage<br>",
+        "2": "Parked<br>",
+        "6": "Shallow Cage<br>",
+        "12": "Deep Cage<br>",
         "0": "No points"
       },
       "defaultValue": "0"

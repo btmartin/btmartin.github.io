@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "2481 Scouting - Pit",
-  "page_title": "2024 Worlds - Pit",
+  "page_title": "2025 Arkansas - Pit",
   "checkboxAs": "10",
   "pit": [
     { "name": "Scouter",
