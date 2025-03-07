@@ -99,7 +99,6 @@ TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumbe
 10101_19,Anastasia,2025ark,qm,19,2025ark_qm19,r2,10101,6,3,3,0,0,1,c,1,0,0,0,0,0,,0,0,1,0,0,0,0,0,0,0,n,n,0,0,0,0,0,0,3,E stoped part way threw okay defense actually stoped the robots,Jake Whitfield,s,114,28x28,,"Specializing in coral, no auto, ground coral, cannot score algae "
 16_19,Anika,2025ark,qm,19,2025ark_qm19,b2,16,31,0,29,2,0,6,p,0,0,0,0,0,0,,5,0,0,0,0,1,2,0,2,0,1,n,2,0,2,4,0,1,0,,ARR,s,114.6,28in 30in,,Pick up algae off the ground. 
 2481_20,Anastasia,2025ark,qm,20,2025ark_qm20,b1,2481,93,24,57,12,3,19,c,1,3,0,0,0,0,,4,5,3,4,0,0,0,0,12,0,n,n,0,0,0,0,0,0,0,,Btm,s,3,5,,0
-2481_20,Anika,2025ark,qm,20,2025ark_qm20,b1,2481,91,24,55,12,3,19,o,1,3,0,0,0,0,,3,5,4,4,0,0,0,0,12,0,1,n,0,1,2,0,6,0,0,,Btm,s,3,5,,0
 118_21,Anika,2025ark,qm,21,2025ark_qm21,b1,118,82,17,53,12,2,17,o,1,2,0,0,0,0,,3,5,4,3,0,0,0,0,12,0,1,n,0,2,2,0,4,0,0,,ARR,s,113,29.5in 295in,,auto align Used to be able to pick algae off the ground. 
 5437_21,Elijah Kunz,2025ark,qm,21,2025ark_qm21,b3,5437,5,3,0,2,0,0,o,1,0,0,0,0,0,Did nothing ,0,0,0,0,0,0,0,0,2,0,n,n,0,0,0,0,0,0,2,Algae stuck below the robot no foul was given,Anna,s,73,27 1/2 by 29,,Have an intake to mount for station but maybe just a defense bot
 5002_21,Luke ,2025ark,qm,21,2025ark_qm21,r3,5002,13,3,8,2,0,2,c,1,0,0,0,0,0,,1,0,1,0,0,0,2,0,2,0,0,n,0,0,0,0,0,2,0,,Anna,s,113,28 by 28,,Very average robot all around
@@ -193,3 +192,16 @@ TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumbe
 323_38,Nolan Koch,2025ark,qm,38,2025ark_qm38,b2,323,18,3,13,2,0,3,c,1,0,0,0,0,0,,1,0,0,0,0,2,4,0,2,0,0,n,5,0,5,0,0,0,0,,ARR,s,110 lb,26in 16in,,Can pick up algae off the reef. 
 10358_38,Nolan McKenna ,2025ark,qm,38,2025ark_qm38,r1,10358,3,3,0,0,0,0,c,1,0,0,0,0,0,,0,0,0,0,0,0,0,1,0,1,n,n,0,0,0,0,0,0,0,,Jake Whitfield ,t,75 lbs,2 feet by 32 inches,,"Rookie year, no climb, leave in auto but nothing else, not tested much, no de-algae"
 1108_38,Elijah Kunz,2025ark,qm,38,2025ark_qm38,b3,1108,63,10,41,12,1,10,p,1,1,0,0,0,0,Missed L4,6,2,1,0,0,0,1,0,12,0,1,n,4,0,6,0,13,1,1,,Luke,s,98.4,25x25,,Made own climer
+6186_39,Nolan Koch,2025ark,qm,39,2025ark_qm39,b2,6186,3,3,0,0,0,0,c,1,0,0,0,0,0,,0,0,0,0,0,0,0,5,0,1,n,n,0,0,0,0,0,0,0,,Anna,t, lighter than 77,32 by 26,,Algae only uses processor
+8044_39,Malachi,2025ark,qm,39,2025ark_qm39,r2,8044,61,17,32,12,2,13,p,1,2,0,0,0,0,,0,3,4,2,2,0,2,0,12,0,n,n,4,0,3,0,6,0,0,,Brody,s,113.85,29x29,,0
+7525_39,ARR,2025ark,qm,39,2025ark_qm39,b1,7525,33,10,21,2,1,6,x,1,1,0,0,0,0,,2,2,1,0,0,0,0,0,2,0,n,n,7,0,9,0,0,0,0,,Brody,s,75,27.5x27.5,,0
+6424_39,Nolan McKenna ,2025ark,qm,39,2025ark_qm39,r1,6424,50,10,28,12,1,8,o,1,1,0,0,0,0,,2,3,2,0,0,0,1,0,12,0,1,n,2,0,3,0,5,0,0,,Elijah k,s,114.3,26-32,,"15 sec Deep climb, better with coral, has replacements, all reef levels"
+3937_39,Elijah Kunz,2025ark,qm,39,2025ark_qm39,b3,3937,61,17,42,2,2,14,p,1,2,0,0,0,0,Descent speed,2,4,4,0,2,0,3,0,2,0,n,n,4,2,2,0,12,0,0,,Anika,s,114.5,29 and 3 quarters squared ,,0
+6586_39,Luke Tucker,2025ark,qm,39,2025ark_qm39,r3,6586,26,6,8,12,1,5,c,1,0,0,0,1,0,,0,0,0,4,0,0,0,0,12,0,n,n,5,0,4,0,7,0,0,,Elijah k,s,71.7,27 by 27,,True to scoring on troph  shallow cage staying out of the way
+2481_40,Elijah Kunz,2025ark,qm,40,2025ark_qm40,b3,2481,101,24,75,2,3,20,o,1,3,0,0,0,0,Great auto,9,6,2,0,0,0,4,0,2,0,1,n,0,2,3,0,8,0,0,Wouldve climbed if robot wasn?t in the way,Btm,s,3,5,,0
+16_41,Elijah Kunz,2025ark,qm,41,2025ark_qm41,b3,16,17,0,17,0,0,4,p,0,0,0,0,0,0,A-stop,3,0,0,0,1,0,1,0,0,0,n,n,3,0,5,0,7,0,0,Stuck under algae needs to work on alignment ,ARR,s,114.6,28in 30in,,Pick up algae off the ground. 
+5002_41,Malachi,2025ark,qm,41,2025ark_qm41,r2,5002,20,3,15,2,0,4,c,1,0,0,0,0,0,,1,2,0,1,0,0,2,0,2,0,n,n,4,0,5,0,0,0,0,,Anna,s,113,28 by 28,,Very average robot all around
+179_41,Nolan Koch,2025ark,qm,41,2025ark_qm41,b2,179,22,3,17,2,0,4,o,1,0,0,0,0,0,,3,0,0,1,0,0,1,0,2,0,1,1,4,0,3,0,0,2,0,,ARR,s,92,25in 26in ,,If  picked off the ground can only score in trough.
+323_41,Luke Tucker,2025ark,qm,41,2025ark_qm41,r3,323,9,3,4,2,0,2,o,1,0,0,0,0,0,,0,0,0,0,2,0,2,1,2,0,1,n,0,0,0,0,0,0,3,Popped algae,ARR,s,110 lb,26in 16in,,Can pick up algae off the reef. 
+10101_41,Anika,2025ark,qm,41,2025ark_qm41,b1,10101,9,7,0,2,1,1,c,1,0,0,1,0,0,,0,0,0,0,0,0,0,0,2,0,n,n,0,0,0,0,0,0,3,,Jake Whitfield,s,114,28x28,,"Specializing in coral, no auto, ground coral, cannot score algae "
+4500_41,Anastasia,2025ark,qm,41,2025ark_qm41,r1,4500,52,10,30,12,1,7,p,1,1,0,0,0,0,,6,0,0,0,0,0,0,0,12,0,n,n,1,0,4,0,0,0,0,Very tippy wit arm out almost fell over several times they doubled scored with coral on a L4 branch,Anna,s,113,28 by 36,,Claimed to have 7 sec cycles
