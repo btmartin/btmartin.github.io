@@ -1,3 +1,52 @@
 TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumber,approxPoints,autoPoints,telePoints,endgamePoints,autoGamePieces,totalGamePieces,robotStartLocation,leave,autoL4,autoL3,autoL2,autoL1,autoFouls,autoComments,teleL4,teleL3,teleL2,teleL1,processor,net,algaeRemoval,teleFouls,endgame,break,deAlgifyRating,pickUpAlgaeRating,coralStationTime,groundCoralTime,coralScoreTime,netScoreTime,climbTime,wasDRating,playedDRating,comments,pitScouter,drivetrainType,weightNoBumpers,dimensionsNoBumpers,intakeType,pitComments
 2481_1,Btm,2025ark,qm,1,2025ark_qm1,r1,2481,73,26,35,12,5,17,p,1,1,1,1,2,1,Hi,2,1,1,4,3,1,2,2,12,1,1,1,2,1,1,1,6,4,5,Hello,Btm,s,3,5,,0
 2_1,Btm,2025ark,qm,1,2025ark_qm1,r1,2,74,26,36,12,5,15,x,1,1,1,1,2,2,,2,2,2,1,1,2,1,1,12,1,0,0,1,1,1,3,1,1,1,Testing,#N/A,#N/A,#N/A,#N/A,,#N/A
+7817_1,ARR,2025ark,qm,1,2025ark_qm1,b1,7817,3,3,0,0,0,0,c,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,n,1,0,0,0,0,0,0,0,,#N/A,#N/A,#N/A,#N/A,,#N/A
+1108_1,Luke Tucker,2025ark,qm,1,2025ark_qm1,r3,1108,30,10,18,2,1,7,p,1,1,0,0,0,0,Human player missed feed,1,1,1,1,2,0,2,0,2,0,1,1,5,0,6,0,0,0,0,Started climbing at 30 seconds but couldnt,Luke,s,98.4,25x25,,Made own climer
+1781_1,Malachi ,2025ark,qm,1,2025ark_qm1,r2,1781,15,0,15,0,0,3,c,0,0,0,0,0,0,,3,0,0,0,0,0,0,0,0,0,n,n,4,0,4,0,0,0,0,,Luke G,s,116,28/31,,Deep clime and can get 6ft off ground
+7483_1,Elijah Kunz,2025ark,qm,1,2025ark_qm1,b3,7483,9,3,4,2,0,1,p,1,0,0,0,0,0,Drove forward ,0,1,0,0,0,0,0,0,2,0,n,n,5,0,6,0,0,0,0,Tried to climb last 30 sec didn,Elijah K,t,115,26-27 106 all around,,Deep cage
+2399_1,Nolan Koch,2025ark,qm,1,2025ark_qm1,b2,2399,50,6,44,0,1,11,o,1,0,0,0,1,0,,6,2,2,0,0,0,2,0,0,0,0,n,6,0,6,0,0,0,0,,Anika,s,114,28x30x47,,0
+4500_1,Jake Whitfield ,2025ark,qm,1,2025ark_qm1,r1,4500,59,3,44,12,0,10,o,1,0,0,0,0,0,Missed 3cin auto,5,4,1,0,0,0,3,0,12,0,1,n,2,0,4,0,6,0,0,High scorer with a good L4 scoring. Quick cycle time.,Anna,s,113,28 by 36,,Claimed to have 7 sec cycles
+5002_2,Luke Tucker,2025ark,qm,2,2025ark_qm2,r3,5002,5,3,0,2,0,0,c,1,0,0,0,0,0,Ran into other robot,0,0,0,0,0,0,0,0,2,0,n,n,0,0,0,0,0,0,0,Did nothing whole match tried climbing but failed ,Anna,s,113,28 by 28,,Very average robot all around
+6424_2,ARR,2025ark,qm,2,2025ark_qm2,b1,6424,58,17,29,12,2,10,o,1,2,0,0,0,0,,2,3,1,0,2,0,2,0,12,0,1,n,3,0,4,0,5,0,0,,Elijah k,s,114.3,26-32,,"15 sec Deep climb, better with coral, has replacements, all reef levels"
+3201_2,Nolan Koch,2025ark,qm,2,2025ark_qm2,b2,3201,39,17,10,12,2,5,p,1,2,0,0,0,0,,0,1,2,0,0,0,1,0,12,0,n,n,8,0,5,0,7,0,0,,Anika,s,113,31 x28,,0
+5437_2,Jake Whitfield ,2025ark,qm,2,2025ark_qm2,r1,5437,2,0,0,2,0,0,o,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,2,0,n,n,0,0,0,0,0,0,4,Robot played great defense shutting down processor and coral station,Anna,s,73,27 1/2 by 29,,Have an intake to mount for station but maybe just a defense bot
+10358_2,Malachi ,2025ark,qm,2,2025ark_qm2,r2,10358,3,3,0,0,0,0,p,1,0,0,0,0,0,,0,0,0,0,0,0,2,0,0,0,0,n,0,0,0,0,0,0,0,,Jake Whitfield ,t,75 lbs,2 feet by 32 inches,,"Rookie year, no climb, leave in auto but nothing else, not tested much, no de-algae"
+5437_2,Jake Whitfield ,2025ark,qm,2,2025ark_qm2,r1,5437,2,0,0,2,0,0,o,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,2,0,n,n,0,0,0,0,0,0,4,Robot played great defense shutting down processor and coral station,Anna,s,73,27 1/2 by 29,,Have an intake to mount for station but maybe just a defense bot
+7525_2,Elijah Kunz,2025ark,qm,2,2025ark_qm2,b3,7525,6,6,0,0,1,1,c,1,0,0,0,1,0,,0,0,0,0,0,0,0,0,0,0,n,1,5,0,7,0,0,3,0,Couldn?t do much because defense bad attempts at scoring ,Brody,s,75,27.5x27.5,,0
+2481_3,ARR,2025ark,qm,3,2025ark_qm3,b1,2481,76,13,61,2,2,16,o,1,1,0,0,1,0,,7,5,2,0,0,0,0,0,2,0,1,0,0,2,3,0,0,0,0,,Btm,s,3,5,,0
+8044_4,Luke Tucker,2025ark,qm,4,2025ark_qm4,r3,8044,38,3,23,12,0,10,c,1,0,0,0,0,0,,0,0,3,5,2,0,2,0,12,0,1,n,2,0,4,0,10,0,0,Smart scoring,Brody,s,113.85,29x29,,0
+9429_4,Nolan Koch,2025ark,qm,4,2025ark_qm4,b2,9429,3,3,0,0,0,0,p,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,1,n,n,0,0,0,0,0,0,0,,Nolan Koch,s,68,29 x 29,,100 hours robot
+9608_4,Elijah Kunz,2025ark,qm,4,2025ark_qm4,b3,9608,2,0,2,0,0,1,c,0,0,0,0,0,0,No auto,0,0,0,1,0,0,0,0,0,0,n,n,0,0,10,0,0,0,0,Didn?t do much was really slow,Nolan McKenna ,s,95,27.25 by 22.5,,"No auto, park, no algae, non working climb"
+10101_3,Anastasia,2025ark,qm,3,2025ark_qm3,r1,10101,5,3,0,2,0,0,p,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,2,0,n,n,0,0,0,0,0,0,1,Supper slow did nothing tried to score on coral on L4 and failed went to park 10 sec early,Jake Whitfield,s,114,28x28,,"Specializing in coral, no auto, ground coral, cannot score algae "
+9067_4,Anika,2025ark,qm,4,2025ark_qm4,b1,9067,23,3,20,0,0,4,o,1,0,0,0,0,0,,4,0,0,0,0,0,2,0,0,0,0,n,5,0,7,0,0,0,0,,Nolan Koch ,s,113.8,30 x 30,,Ground algae
+4499_4,Malachi ,2025ark,qm,4,2025ark_qm4,r2,4499,75,17,46,12,2,13,o,1,2,0,0,0,0,,4,5,2,0,0,0,3,0,12,0,1,n,2,6,3,0,6,0,0,,Anika,s,113,26.5 x 26.5,,0
+6186_5,Hayden,2025ark,qm,5,2025ark_qm5,b1,6186,5,3,0,2,0,0,o,1,0,0,0,0,0,,0,0,0,0,0,0,3,0,2,0,0,n,0,0,0,0,0,0,0,,Anna,t, lighter than 77,32 by 26,,Algae only uses processor
+7255_5,Malachi ,2025ark,qm,5,2025ark_qm5,r2,7255,0,0,0,0,0,0,o,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,n,n,0,0,0,0,0,0,3,,Elijah K,t,120,28 1/8 by 28 1/8 all around,,N/A
+9073_5,Nolan Koch,2025ark,qm,5,2025ark_qm5,b2,9073,5,3,0,2,0,0,c,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,2,0,n,n,0,0,0,0,0,0,1,,Nolan Koch,t,60.4,29x29,,"Cardboard box intake, only trough."
+16_5,Luke Tucker,2025ark,qm,5,2025ark_qm5,r3,16,50,17,31,2,2,11,p,1,2,0,0,0,0,,3,0,4,0,2,0,2,0,2,0,0,0,4,0,6,0,0,0,0,,ARR,s,114.6,28in 30in,,Pick up algae off the ground. 
+2341_5,Elijah Kunz,2025ark,qm,5,2025ark_qm5,b3,2341,14,0,12,2,0,3,p,0,0,0,0,0,0,No auto,2,0,0,0,1,0,1,0,2,0,1,n,6,0,10,0,9,0,0,Missed coral near the end of match ,Luke G,s,93.4,26.5/26.5,,Good all around can score net
+6586_5,Anastasia,2025ark,qm,5,2025ark_qm5,r1,6586,8,0,6,2,0,3,c,0,0,0,0,0,0,Had connectivity issues,0,0,0,3,0,0,0,0,2,0,n,n,2,0,10,0,0,2,0,Human play put coral into robot when they already got coral stuck in robot supper slow very clunky driving missed trough twice,Elijah k,s,71.7,27 by 27,,True to scoring on troph  shallow cage staying out of the way
+2481_6,Malachi ,2025ark,qm,6,2025ark_qm6,r2,2481,100,17,71,12,2,18,c,1,2,0,0,0,0,,7,9,0,0,0,0,4,0,12,0,n,n,0,3,3,0,6,0,0,,Btm,s,3,5,,0
+1781_7,ARR,2025ark,qm,7,2025ark_qm7,b1,1781,13,3,10,0,0,2,c,1,0,0,0,0,0,,2,0,0,0,0,0,0,0,0,1,n,n,4,0,10,0,0,0,0,,Luke G,s,116,28/31,,Deep clime and can get 6ft off ground
+9429_7,Anika,2025ark,qm,7,2025ark_qm7,b2,9429,0,0,0,0,0,0,p,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,n,n,0,0,0,0,0,0,0,,Nolan Koch,s,68,29 x 29,,100 hours robot
+10101_6,Elijah Kunz,2025ark,qm,6,2025ark_qm6,b3,10101,5,3,0,2,0,0,o,1,0,0,0,0,0,A stop,0,0,0,0,0,0,0,0,2,0,n,n,0,0,0,0,0,0,1,Bad Defense ,Jake Whitfield,s,114,28x28,,"Specializing in coral, no auto, ground coral, cannot score algae "
+4500_7,Luke Tucker,2025ark,qm,7,2025ark_qm7,r3,4500,29,10,17,2,1,6,c,1,1,0,0,0,0,,1,1,2,1,0,0,0,0,2,0,n,n,8,0,10,0,0,0,0,,Anna,s,113,28 by 36,,Claimed to have 7 sec cycles
+4499_7,Nolan McKenna ,2025ark,qm,7,2025ark_qm7,r1,4499,33,10,11,12,1,6,p,1,1,0,0,0,0,,0,0,1,4,0,0,0,0,12,0,1,n,0,1,2,0,6,2,0,"Good with trough but had difficulty with other levels, missed a lot ",Anika,s,113,26.5 x 26.5,,0
+118_7,Anastasia,2025ark,qm,7,2025ark_qm7,r2,118,64,17,35,12,2,14,o,1,2,0,0,0,0,Missed 1 L4,0,4,3,1,4,0,4,0,12,0,1,1,0,1,4,0,10,0,0,Went to climb early,ARR,s,113,29.5in 295in,,auto align Used to be able to pick algae off the ground. 
+7525_8,Luke Tucker,2025ark,qm,8,2025ark_qm8,r3,7525,47,6,39,2,1,10,o,1,0,0,0,1,0,,7,0,0,2,0,0,1,0,2,0,0,n,4,0,8,0,0,0,0,,Brody,s,75,27.5x27.5,,0
+7917_8,Anastasia,2025ark,qm,8,2025ark_qm8,r2,7917,3,3,0,0,0,0,c,1,0,0,0,0,0,Missed 1 trough,0,0,0,0,0,0,0,0,0,0,n,n,3,0,5,0,0,0,0,Had connectivity the basically whole match,Brody,s,75,31.5x27.5,,0
+1108_8,ARR,2025ark,qm,8,2025ark_qm8,b1,1108,37,3,32,2,0,8,p,1,0,0,0,0,0,,2,4,2,0,0,0,1,0,2,0,0,n,3,0,3,0,0,0,0,,Luke,s,98.4,25x25,,Made own climer
+2341_8,Elijah Kunz,2025ark,qm,8,2025ark_qm8,b3,2341,3,3,0,0,0,0,c,1,0,0,0,0,0,Got stuck under algae ,0,0,0,0,0,0,0,0,0,0,n,n,8,0,0,0,0,0,0,Coral stuck in bot and did nothing after ,Luke G,s,93.4,26.5/26.5,,Good all around can score net
+3937_8,Anika,2025ark,qm,8,2025ark_qm8,b2,3937,48,10,36,2,1,12,o,1,1,0,0,0,0,,3,2,1,5,0,0,1,0,2,0,1,n,0,2,4,0,0,0,0,,Anika,s,114.5,29 and 3 quarters squared ,,0
+9073_8,Nolan McKenna ,2025ark,qm,8,2025ark_qm8,r1,9073,5,3,0,2,0,0,p,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,2,1,n,n,0,0,0,0,0,0,5,Left early to go attempt a hang,Nolan Koch,t,60.4,29x29,,"Cardboard box intake, only trough."
+5002_9,Anika,2025ark,qm,9,2025ark_qm9,b2,5002,26,3,21,2,0,5,c,1,0,0,0,0,0,,2,2,1,0,0,0,0,0,2,0,n,n,3,0,5,0,0,0,0,,Anna,s,113,28 by 28,,Very average robot all around
+9608_9,Nolan McKenna ,2025ark,qm,9,2025ark_qm9,r1,9608,4,0,2,2,0,1,c,0,0,0,0,0,0,,0,0,0,1,0,0,0,0,2,0,n,n,10,0,10,0,0,0,0,Dropped a coral into the bot and was out of commission ,Nolan McKenna ,s,95,27.25 by 22.5,,"No auto, park, no algae, non working climb"
+_,,,,,_,,,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#N/A,#N/A,#N/A,#N/A,,#N/A
+179_10,Malachi,2025ark,qm,10,2025ark_qm10,r2,179,23,3,8,12,0,3,o,1,0,0,0,0,0,,0,0,0,0,2,1,1,0,12,0,1,0,0,0,0,4,5,0,0,,ARR,s,92,25in 26in ,,If  picked off the ground can only score in trough.
+5438_10,ARR,2025ark,qm,10,2025ark_qm10,b1,5438,0,0,0,0,0,0,x,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,n,n,0,0,0,0,0,0,2,,#N/A,#N/A,#N/A,#N/A,,#N/A
+7255_10,Anastasia,2025ark,qm,10,2025ark_qm10,r3,7255,2,0,0,2,0,0,c,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,2,0,n,n,0,0,0,0,0,0,1,Was a little tippy slow wire hanging outside of robot,Elijah K,t,120,28 1/8 by 28 1/8 all around,,N/A
+7483_10,Nolan Koch,2025ark,qm,10,2025ark_qm10,b2,7483,24,3,9,12,0,3,p,1,0,0,0,0,0,,0,1,1,1,0,0,0,0,12,0,n,n,6,0,7,0,10,0,0,,Elijah K,t,115,26-27 106 all around,,Deep cage
+3201_10,Nolan McKenna ,2025ark,qm,10,2025ark_qm10,r1,3201,7,3,2,2,0,1,p,1,0,0,0,0,0,,0,0,0,0,1,0,0,0,2,0,0,1,0,0,0,0,0,5,0,They had trouble in teleop moving around- looks like driver issues,Anika,s,113,31 x28,,0
+8044_10,Hayden,2025ark,qm,10,2025ark_qm10,b3,8044,39,3,34,2,0,7,c,1,0,0,0,0,0,,6,0,0,0,0,1,2,0,2,0,1,1,2,2,3,3,0,0,0,,Brody,s,113.85,29x29,,0
+2481_11,Nolan McKenna ,2025ark,qm,11,2025ark_qm11,r1,2481,85,24,49,12,3,17,o,1,3,0,0,0,0,,3,4,4,3,0,0,2,0,12,0,1,1,0,1,2,0,5,0,0,,Btm,s,3,5,,0
