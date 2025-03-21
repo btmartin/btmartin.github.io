@@ -219,3 +219,9 @@ TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumbe
 5442_44,Malachi ,2025ilpe,qm,44,2025ilpe_qm44,r2,5442,7,3,4,0,0,1,c,1,0,0,0,0,0,1 algae in barge,0,0,0,0,0,1,1,0,0,0,n,n,0,0,0,6,0,0,0,Brody,s,112,32x28,32x28,0
 4655_44,Levi H,2025ilpe,qm,44,2025ilpe_qm44,b3,4655,80,17,51,12,2,14,o,1,2,0,0,0,0,,6,3,3,0,0,0,2,0,12,0,1,n,3,0,3,0,0,0,0,Brody,s,114,29x29,29x29,0
 8880_44,Nolan McKenna ,2025ilpe,qm,44,2025ilpe_qm44,r1,8880,37,3,22,12,0,5,o,1,0,0,0,0,0,,2,3,0,0,0,0,1,0,12,0,1,n,4,0,5,0,6,0,0,Nolan McKenna ,s,114.5,30x30,30x30,"More suited for station but can ground pickup they can score algae in the barge, can hold two game pieces at once"
+4143_45,Grayson,2025ilpe,qm,45,2025ilpe_qm45,r3,4143,68,14,52,2,2,16,p,0,2,0,0,0,0,,3,5,5,0,1,0,1,0,2,0,n,n,4,0,4,0,0,0,0,Luke,s,110,28x28,28x28,Cycle efficiently 5sec climb
+4096_45,Hayden ,2025ilpe,qm,45,2025ilpe_qm45,b2,4096,40,3,37,0,0,9,p,1,0,0,0,0,0,,3,4,2,0,0,0,0,0,0,0,n,n,2,0,2,0,0,0,0,Luke,s,109,29x29,29x29,Linear slide 
+6421_45,Anika,2025ilpe,qm,45,2025ilpe_qm45,b1,6421,52,10,30,12,1,7,c,1,1,0,0,0,0,,6,0,0,0,0,0,0,0,12,0,n,n,4,0,4,0,8,0,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+7417_45,Levi H,2025ilpe,qm,45,2025ilpe_qm45,b3,7417,9,3,4,2,0,2,c,1,0,0,0,0,0,,0,0,0,0,2,0,5,0,2,0,n,n,0,0,0,0,0,0,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+3596_45,Malachi ,2025ilpe,qm,45,2025ilpe_qm45,r2,3596,7,3,2,2,0,1,o,1,0,0,0,0,0,,0,0,0,0,1,0,1,0,2,0,n,n,0,0,0,0,0,0,0,Luke,s,115,27x27x42,27x27x42,Custom made elevator 
+4314_45,Nolan McKenna ,2025ilpe,qm,45,2025ilpe_qm45,r1,4314,5,3,0,2,0,0,o,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,2,0,n,n,0,0,0,0,0,0,1,Elijah kunz,s,No data above 100,30-30,30-30,Arm
