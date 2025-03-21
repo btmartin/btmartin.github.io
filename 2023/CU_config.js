@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "2481 Match Scouting",
-  "page_title": "2025 Arkansas",
+  "page_title": "2025 CIR",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter",
@@ -16,7 +16,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2025ark",
+      "defaultValue": "2025ilpe",
       "required": "true",
       "disabled": "true"
     },
@@ -192,19 +192,13 @@ var config_data = `
       "code": "fcc",
       "type": "counter"
     },
-    { "name": "Robot Was Defended (>50% of match) | 0 = N/A | Score 1-5 | 1 -> Robot slowed 10% | 3 -> Robot slowed 50% | 5 -> Robot shut down 100%",
+    { "name": "Robot Was Defended (>50% of match) | 0 = N/A | Score 1-10 | 1 -> Robot slowed 10% | 5 -> Robot slowed 50% | 10 -> Robot shut down 100%",
       "code": "fwd",
       "type": "counter"
     },
-    { "name": "Robot Played Defense (>50% of match) | 0 = N/A | Score 1-5 | 1 -> Robot slowed 10% | 3 -> Robot slowed 50% | 5 -> Robot shut down 100%",
+    { "name": "Robot Played Defense (>50% of match) | 0 = N/A | Score 1-10 | 1 -> Robot slowed 10% | 5 -> Robot slowed 50% | 10 -> Robot shut down 100%",
       "code": "fpd",
       "type": "counter"
-    },
-    { "name": "Comments",
-      "code": "coo",
-      "type": "text",
-      "size": 25,
-      "maxSize": 200
     }
   ]
 
