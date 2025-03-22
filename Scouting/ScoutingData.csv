@@ -280,3 +280,15 @@ TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumbe
 2704_55,Grayson,2025ilpe,qm,55,2025ilpe_qm55,r3,2704,32,10,22,0,1,6,c,1,1,0,0,0,0,,4,0,0,1,0,0,0,0,0,0,n,n,3,0,4,0,0,0,0,Nolan Koch,s,109,28x28,28x28,Neo swerve
 3596_55,ARR,2025ilpe,qm,55,2025ilpe_qm55,b1,3596,5,3,0,2,0,0,x,1,0,0,0,0,1,,0,0,0,0,0,0,0,0,2,0,n,n,0,0,0,0,0,7,0,Luke,s,115,27x27x42,27x27x42,Custom made elevator 
 4645_55,Elijah K,2025ilpe,qm,55,2025ilpe_qm55,b3,4645,5,3,0,2,0,0,o,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,2,1,n,n,0,0,0,0,0,0,0,Elijah Kunz ,s,106,30 by 30,30 by 30,Algae from reef or ground not tested processes score pretty good defense
+3488_56,Anika,2025ilpe,qm,56,2025ilpe_qm56,b2,3488,43,10,31,2,1,10,c,1,1,0,0,0,0,,3,0,4,2,0,0,1,0,2,0,1,n,2,0,3,0,0,0,0,Nolan Koch ,s,111.9,28x28,28x28,Protection of electronics via net
+4213_56,ARR,2025ilpe,qm,56,2025ilpe_qm56,b1,4213,44,10,32,2,1,9,c,1,1,0,0,0,0,,3,2,3,0,0,0,0,0,2,0,n,n,4,0,4,0,0,0,0,Elijah Kunz,s,114.6,26-28,26-28,Deep
+4143_56,Elijah K,2025ilpe,qm,56,2025ilpe_qm56,b3,4143,68,17,39,12,2,12,p,1,2,0,0,0,0,,3,5,0,0,2,0,2,0,12,0,1,n,3,0,5,0,7,0,0,Luke,s,110,28x28,28x28,Cycle efficiently 5sec climb
+2861_56,Anastasia,2025ilpe,qm,56,2025ilpe_qm56,r2,2861,56,10,34,12,1,10,c,1,1,0,0,0,0,Scored algae in the processor,4,1,2,1,1,0,1,0,12,0,1,n,1,0,6,0,7,0,0,Nolan Koch ,s,113.3,24x33,24x33,"Neo swerve, double funnel station intake, with led indicators for which side to load it into."
+6237_56,Grayson,2025ilpe,qm,56,2025ilpe_qm56,r3,6237,42,7,23,12,1,7,p,1,0,0,1,0,0,,0,5,1,0,0,0,0,0,12,0,n,n,4,0,6,0,10,0,0,Brody,s,102,30x30,30x30,0
+5442_56,Jake,2025ilpe,qm,56,2025ilpe_qm56,r1,5442,10,3,7,0,0,2,o,1,0,0,0,0,0,,0,0,1,0,0,1,1,0,0,1,1,1,4,0,5,5,0,0,0,Brody,s,112,32x28,32x28,0
+8880_57,Nolan McKenna ,2025ilpe,qm,57,2025ilpe_qm57,r1,8880,41,3,26,12,0,7,p,1,0,0,0,0,0,,0,5,2,0,0,0,3,0,12,0,0,n,3,0,4,0,6,0,0,Nolan McKenna ,s,114.5,30x30,30x30,"More suited for station but can ground pickup they can score algae in the barge, can hold two game pieces at once"
+1208_57,Anika,2025ilpe,qm,57,2025ilpe_qm57,b2,1208,29,10,17,2,1,5,c,1,1,0,0,0,0,,2,1,1,0,0,0,0,0,2,0,n,n,2,0,5,0,0,0,0,ARR,s,110,33in 29in,33in 29in,"they pick up coral off, the ground but scoreds inin L1"
+4423_57,Grayson,2025ilpe,qm,57,2025ilpe_qm57,r3,4423,23,3,20,0,0,4,c,1,0,0,0,0,0,,4,0,0,0,0,0,0,0,0,0,n,n,4,0,5,0,0,0,0,Elijah,s,107,28 by 28,28 by 28,Score Algae  in net and processor theoretically shallow climb 
+4096_57,Elijah K,2025ilpe,qm,57,2025ilpe_qm57,b3,4096,32,17,13,2,2,5,p,1,2,0,0,0,0,,1,2,0,0,0,0,1,1,2,0,0,n,3,0,5,0,0,3,3,Luke,s,109,29x29,29x29,Linear slide 
+1756_57,ARR,2025ilpe,qm,57,2025ilpe_qm57,b1,1756,82,6,64,12,1,19,o,1,0,0,0,1,0,,5,5,3,5,0,0,2,0,12,0,n,n,0,2,3,0,6,0,0,Hayden and Anika,s,106,34/25,34/25,0
+8096_57,Anastasia,2025ilpe,qm,57,2025ilpe_qm57,r2,8096,15,3,0,12,0,0,o,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,12,0,n,n,0,0,0,0,7,0,6,Nolan mckenna,s,113,26x26,26x26,"L4 scoring capable, doesn"
