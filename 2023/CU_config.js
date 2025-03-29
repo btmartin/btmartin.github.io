@@ -129,7 +129,7 @@ var config_data = `
       "code": "tn",
       "type": "counter"
     },
-     { "name": "Algae Removal",
+     { "name": "De-Algify",
       "code": "tar",
       "type": "counter"
     },
@@ -147,10 +147,6 @@ var config_data = `
         "0": "No points"
       },
       "defaultValue": "0"
-    },
-    { "name": "Did they Break?",
-      "code": "dtb",
-      "type": "bool"
     },   
     { "name": "De-Algify <= 3 sec?",
       "code": "das",
@@ -188,10 +184,17 @@ var config_data = `
       "code": "ftn",
       "type": "counter"
     },
-    { "name": "Climb | 0 = N/A | Time from entering barge zone to being off ground (1-10 sec)",
+   { "name": "Climb Time",
       "code": "fcc",
-      "type": "counter"
-    },
+      "type":"radio",
+      "choices": {
+        "0": "Less than 10 sec<br>",
+        "1": "Between 10 and 20 sec<br>",
+        "2": "More than 20 sec<br>",
+        "n": "Didnt Climb"
+      },
+      "defaultValue": "n"
+    },   
     { "name": "Robot Was Defended (>50% of match) | 0 = N/A | Score 1-10 | 1 -> Robot slowed 10% | 5 -> Robot slowed 50% | 10 -> Robot shut down 100%",
       "code": "fwd",
       "type": "counter"
