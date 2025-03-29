@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "2481 Match Scouting",
-  "page_title": "2025 CIR",
+  "page_title": "2025 WORLDS",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter",
