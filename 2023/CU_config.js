@@ -16,7 +16,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2025ilpe",
+      "defaultValue": "2025arc",
       "required": "true",
       "disabled": "true"
     },
