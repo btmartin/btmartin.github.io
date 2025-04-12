@@ -44,7 +44,7 @@ var config_data = `
       "maxSize": 1000
     },
     { "name": "Coral Intake Type",
-      "code": "it",
+      "code": "cit",
       "type":"radio",
       "choices": {
         "s": "Station<br>",
@@ -55,7 +55,7 @@ var config_data = `
       "defaultValue": "n"
     },
     { "name": "Algae Intake Type",
-      "code": "it",
+      "code": "ait",
       "type":"radio",
       "choices": {
         "r": "Reef<br>",
