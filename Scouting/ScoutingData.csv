@@ -1,1 +1,7 @@
 TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumber,approxPoints,autoPoints,telePoints,endgamePoints,autoGamePieces,totalGamePieces,robotStartLocation,leave,autoL4,autoL3,autoL2,autoL1,autoFouls,autoComments,teleL4,teleL3,teleL2,teleL1,processor,net,algaeRemoval,teleFouls,endgame,deAlgifyRating,pickUpAlgaeRating,coralStationTime,groundCoralTime,coralScoreTime,netScoreTime,climbTime,wasDRating,playedDRating,pitScouter,drivetrainType,weightNoBumpers,dimensionsNoBumpers,coralIntakeType,algaeIntakeType,pitComments
+2637_1,Nolan Koch,2025arc,qm,1,2025arc_qm1,b2,2637,34,24,8,2,3,5,p,1,3,0,0,0,0,,0,2,0,0,0,0,1,0,2,1,n,3,0,3,0,n,0,4,Jake Whitfield ,s,114.6,29x29,s,r,Deep climb within 11 sec
+4788_1,Jake,2025arc,qm,1,2025arc_qm1,r1,4788,55,3,50,2,0,14,c,1,0,0,0,0,0,,0,8,6,0,0,0,3,0,2,1,n,2,0,2,0,n,0,0,Jonah ,s,85,22 23,s,r,Chassis is one big solid block that is milled out 
+6340_1,Elijah Kunz,2025arc,qm,1,2025arc_qm1,b3,6340,70,10,48,12,1,14,o,1,1,0,0,0,0,,3,5,3,0,2,0,3,0,12,1,n,5,0,6,0,0,0,0,ARR,s,115,28in 28in,s,b,0
+4391_1,Luke ,2025arc,qm,1,2025arc_qm1,r3,4391,80,17,51,12,2,18,c,1,2,0,0,0,0,,3,2,6,1,4,0,1,0,12,1,1,3,0,3,0,0,1,0,Luke,s,113,28x28,s,g,L4 lob is unique. 
+4585_1,ARR,2025arc,qm,1,2025arc_qm1,b1,4585,5,3,0,2,0,0,c,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,2,n,n,0,0,0,0,n,0,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+6548_1,Malachi ,2025arc,qm,1,2025arc_qm1,r2,6548,63,24,37,2,3,12,p,1,3,0,0,0,0,,5,2,0,2,0,0,0,0,2,n,n,3,0,4,0,n,1,0,Luke,s,115,29x29,s,n,Intake is fast
