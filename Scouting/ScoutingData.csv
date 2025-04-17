@@ -78,3 +78,21 @@ TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumbe
 5801_14,Elijah Kunz,2025arc,qm,14,2025arc_qm14,b3,5801,74,6,56,12,1,14,p,1,0,0,0,1,0,,6,5,2,0,0,0,1,0,12,1,n,0,4,6,0,0,0,0,Jonah ,s,113.8,28 28,g,b,0
 117_14,ARR,2025arc,qm,14,2025arc_qm14,b1,117,36,6,28,2,1,9,c,1,0,0,0,1,0,,0,0,0,0,2,6,4,1,2,1,1,0,0,0,0,n,0,0,Luke,t,97,20x32x41,n,b,Only algae
 5951_14,Anna,2025arc,qm,14,2025arc_qm14,r2,5951,76,17,47,12,2,14,p,1,2,0,0,0,0,,4,3,5,0,0,0,3,0,12,1,n,1,0,2,0,0,0,0,Brody,s,113,27.5 x 27.5,s,r,0
+6369_15,Luke ,2025arc,qm,15,2025arc_qm15,r3,6369,61,3,46,12,0,10,p,1,0,0,0,0,0,,7,2,1,0,0,0,0,0,12,n,n,2,0,2,0,0,0,0,Jake Whitfield ,s,114.7,29.5x29.5,s,r,Auto align L2-L4 fast climb
+1114_15,ARR,2025arc,qm,15,2025arc_qm15,b1,1114,106,27,67,12,4,20,p,1,3,0,0,1,0,,4,8,1,0,0,3,3,0,12,1,n,1,0,2,2,0,0,0,Jknah,s,105-110,30 24,s,r,Gets algae from lollipops
+4391_15,Anika,2025arc,qm,15,2025arc_qm15,b2,4391,80,17,51,12,2,17,o,1,2,0,0,0,0,,2,5,5,0,3,0,0,0,12,n,1,2,0,3,0,1,0,0,Luke,s,113,28x28,s,g,L4 lob is unique. 
+10120_15,Elijah Kunz,2025arc,qm,15,2025arc_qm15,b3,10120,33,3,28,2,0,10,c,1,0,0,0,0,0,,1,2,1,6,0,0,1,0,2,1,n,3,0,5,0,n,0,0,Rekka,s,50 kg,700x700 mm,b,b,Testing algae said they can do it but don?t believe
+3182_15,Anna,2025arc,qm,15,2025arc_qm15,r2,3182,54,7,35,12,1,11,o,1,0,0,1,0,0,,0,5,5,0,0,0,0,0,12,n,n,0,2,3,0,1,0,0,Jake Whitfield ,s,113,30x30,g,r,"Good defense, strong drivetrain"
+2341_15,Nolan M,2025arc,qm,15,2025arc_qm15,r1,2341,14,0,12,2,0,4,o,0,0,0,0,0,2,,0,0,0,0,2,2,5,0,2,0,n,0,0,0,4,n,0,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+4143_16,Luke ,2025arc,qm,16,2025arc_qm16,r3,4143,78,17,59,2,2,17,o,1,2,0,0,0,0,,4,6,5,0,0,0,0,0,2,n,n,0,1,3,0,n,0,0,Luke,s,115,28x28,b,r,They have coral projection
+2338_16,Malachi,2025arc,qm,16,2025arc_qm16,r2,2338,90,24,54,12,3,17,p,1,3,0,0,0,0,,3,6,5,0,0,0,3,0,12,1,n,3,0,4,0,1,0,0,Luke,s,115,32x28,s,n,System and of cam is unique and have a consistent 4 piece L4
+2638_16,ARR,2025arc,qm,16,2025arc_qm16,b1,2638,32,0,20,12,0,5,c,0,0,0,0,0,0,,0,3,0,0,0,2,4,0,12,1,n,3,0,2,4,1,0,0,Jonah,s,114,24 24,s,r,Auto align almost everything 
+2851_16,Nolan M,2025arc,qm,16,2025arc_qm16,r1,2851,33,3,28,2,0,8,c,1,0,0,0,0,0,,0,0,0,0,2,6,4,0,2,1,1,0,0,0,3,n,0,2,hayden and anika,s,will be 115,26x26,b,b,0
+7522_16,Anika,2025arc,qm,16,2025arc_qm16,b3,7522,73,17,54,2,2,15,o,1,2,0,0,0,0,,6,4,2,1,0,0,0,0,2,n,n,0,2,3,0,n,0,0,Jake Whitfield ,s,87,25x30,g,r,0
+5216_16,Nolan Koch,2025arc,qm,16,2025arc_qm16,b2,5216,77,17,54,6,2,18,p,1,2,0,0,0,0,,2,5,6,1,2,0,2,0,6,1,n,3,0,2,0,0,1,0,Elijah Kunz ,s,114.7,27 by 27,s,b,Prefer reef but can put it against wall to pick up
+1629_17,ARR,2025arc,qm,17,2025arc_qm17,b1,1629,38,10,28,0,1,8,o,1,1,0,0,0,0,,2,3,2,0,0,0,0,0,0,n,n,2,0,3,0,n,0,0,Luke,s,111,29x29,s,b,Path planning is a strength 
+1701_17,Nolan M,2025arc,qm,17,2025arc_qm17,r1,1701,59,24,33,2,3,13,p,1,3,0,0,0,0,,0,4,3,0,2,1,2,0,2,1,1,3,0,3,4,n,0,0,Luke,s,115,30x30x38,b,b,Adaptability is a strength
+4400_17,Malachi,2025arc,qm,17,2025arc_qm17,r2,4400,58,24,32,2,3,11,o,1,3,0,0,0,0,,0,4,0,0,0,4,4,0,2,1,n,4,0,3,4,n,0,0,Luke,s,114,30x37,s,r,0
+2052_17,Nolan Koch,2025arc,qm,17,2025arc_qm17,b2,2052,84,17,55,12,2,21,o,1,2,0,0,0,0,,2,3,3,8,2,1,3,0,12,1,n,0,2,0,5,0,0,0,Jake Whitfield ,s,114.7,29.5x29.5,g,r,Very consistent L1
+9234_17,Anastasia,2025arc,qm,17,2025arc_qm17,r3,9234,34,6,26,2,1,7,c,1,0,0,0,1,0,,4,0,2,0,0,0,0,0,2,n,n,2,0,4,0,n,0,0,Rekka,s,96,28 by 31,s,r,0
+1987_17,Anika,2025arc,qm,17,2025arc_qm17,b3,1987,86,17,67,2,2,19,p,1,2,0,0,0,0,,5,6,6,0,0,0,1,0,2,1,n,2,0,4,0,n,0,0,Brody,s,113.9,27.5 x 27.5 ,s,r,0
