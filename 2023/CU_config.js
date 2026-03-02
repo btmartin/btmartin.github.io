@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "2481 Match Scouting",
-  "page_title": "2025 WORLDS",
+  "page_title": "2026 CIR",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter",
@@ -16,7 +16,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2025arc",
+      "defaultValue": "2026ilpe",
       "required": "true",
       "disabled": "true"
     },
