@@ -82,12 +82,12 @@ var config_data = `
     },
     { "name": "Where did they pick up from",
       "code": "am",
-      "type": "checkboxes"
+      "type": "radio"
       "choices": {
-         "Depot": "Depot",
-         "Outpost": "Outpost",
-         "Center of Field": "Neutral Zone"
-     }
+         "Depot": "Depot<br>",
+         "Outpost": "Outpost<br>",
+         "Center of Field": "Neutral Zone<br>"
+     },
    },
     { "name": "Auto L2",
       "code": "all",
