@@ -69,6 +69,7 @@ var config_data = `
     { "name": "Can They Go Under the Trench",
       "code": "cgt",
       "type": "checkbox",
+      "defaultValue": "0"
     },
     { "name": "Comments",
       "code": "coo",
