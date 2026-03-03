@@ -83,7 +83,7 @@ var config_data = `
     { 
       "name": "Pickup Locations", 
       "code": "am", 
-      "type": "multi-select",
+      "type": "checkbox",
       "choices": {
         "op": "Outpost<br>",
         "de": "Depot<br>",
