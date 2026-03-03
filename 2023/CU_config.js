@@ -76,7 +76,7 @@ var config_data = `
   ],
   "auton": [
     { "name": "Auto Climb",
-      "code": "cl",
+      "code": "ac",
       "text-color": "red",
       "type": "checkbox"
     },
@@ -91,7 +91,14 @@ var config_data = `
       }
     },
    { 
-      "name": "Fuel Scored", 
+      "name": "Auto Fuel Scored", 
+      "code": "fsh", 
+      "type": "text", 
+      "size": 3, 
+      "maxSize": 50 
+    },
+   { 
+      "name": "Teleop Fuel Scored", 
       "code": "fsh", 
       "type": "text", 
       "size": 3, 
@@ -136,12 +143,12 @@ var config_data = `
       "code": "egc", 
       "type": "radio",
       "choices": {
-        "L3c": "L3<br>",
-        "L2c": "L2<br>",
-        "L1c": "L1<br>",
-        "dnc": "Did not climb"
+        "30": "L3<br>",
+        "20": "L2<br>",
+        "10": "L1<br>",
+        "0": "Did not climb"
       },
-      "defaultValue": "dnc"
+      "defaultValue": "0"
     },
     
      { "name": "Ground Fuel Pickup | 0 = N/A | How long to pick up fuel off ground (1-10 sec)",
