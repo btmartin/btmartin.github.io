@@ -87,7 +87,7 @@ var config_data = `
       "choices": {
         "op": "Outpost<br>",
         "de": "Depot<br>",
-        "nz": "Neutral Zone"
+        "nz": "Neutral Zone<br>"
       }
     },
     { "name": "Auto L2",
