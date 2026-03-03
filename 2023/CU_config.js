@@ -121,9 +121,10 @@ var config_data = `
       "choices": {
         "dfs": "Defense<br>",
         "puf": "Pickup Fuel<br>",
-        "pss": "Pass"
+        "pss": "Passing"
+        "nota": "none of the above"
       },
-      "defaultValue": "pss"
+      "defaultValue": "nota"
     },
     { 
       "name": "Teleop Fouls", 
@@ -142,61 +143,7 @@ var config_data = `
       },
       "defaultValue": "dnc"
     },
-    { "name": "Teleop L2",
-      "code": "tl",
-      "type": "counter"
-    },
-    { "name": "Teleop Trough",
-      "code": "tt",
-      "type": "counter"
-    },
-    { "name": "Processor",
-      "code": "tp",
-      "type": "counter"
-    },
-     { "name": "Net",
-      "code": "tn",
-      "type": "counter"
-    },
-     { "name": "De-Algify",
-      "code": "tar",
-      "type": "counter"
-    },
-    { "name": "Teleoperated Fouls",
-      "code": "tf",
-      "type": "counter"
-    },
-    { "name": "Final Status",
-      "code": "ef",
-      "type":"radio",
-      "choices": {
-        "2": "Parked<br>",
-        "6": "Shallow Cage<br>",
-        "12": "Deep Cage<br>",
-        "0": "No points"
-      },
-      "defaultValue": "0"
-    },   
-    { "name": "De-Algify <= 3 sec?",
-      "code": "das",
-      "type":"radio",
-      "choices": {
-        "1": "yes<br>",
-        "0": "no<br>",
-        "n": "N/A"
-      },
-      "defaultValue": "n"
-    },
-    { "name": "Pick Algae off ground <= 5 sec?",
-      "code": "pag",
-      "type":"radio",
-      "choices": {
-        "1": "yes<br>",
-        "0": "no<br>",
-        "n": "N/A"
-      },
-      "defaultValue": "n"
-    },
+    
      { "name": "Ground Coral Pickup | 0 = N/A | How long to pick up coral off ground (1-10 sec)",
       "code": "fgc",
       "type": "counter"
