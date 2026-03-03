@@ -80,10 +80,15 @@ var config_data = `
       "text-color": "red",
       "type": "checkbox"
     },
-    { "name": "Auto L3",
+    { "name": "Where did they pick up from",
       "code": "am",
-      "type": "counter"
-    },
+      "type": "radio"
+      "choices": {
+         "Depot": "Depot",
+         "Outpost": "Outpost",
+         "Center of Field": "Neutral Zone"
+    }
+  },
     { "name": "Auto L2",
       "code": "all",
       "type": "counter"
