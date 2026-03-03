@@ -80,14 +80,14 @@ var config_data = `
       "text-color": "red",
       "type": "checkbox"
     },
-    { "name": "Where did they pick up from",
+    { "name": "Pickup Locations",
       "code": "am",
-      "type": "checkbox",
+      "type": "checkboxes",
       "choices": {
          "Depot": "Depot<br>",
          "Outpost": "Outpost<br>",
          "Center of Field": "Neutral Zone<br>"
-   }
+    }
    },
     { "name": "Auto L2",
       "code": "all",
