@@ -122,9 +122,9 @@ var config_data = `
         "dfs": "Defense<br>",
         "puf": "Pickup Fuel<br>",
         "pss": "Passing"
-        "nota": "none of the above"
+        "noa": "none of the above"
       },
-      "defaultValue": "nota"
+      "defaultValue": "noa"
     },
     { 
       "name": "Teleop Fouls", 
