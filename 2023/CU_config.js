@@ -75,10 +75,10 @@ var config_data = `
     }
   ],
   "auton": [
-    { "name": "Auto L4",
-      "code": "ah",
+    { "name": "Climb",
+      "code": "cl",
       "text-color": "red",
-      "type": "counter"
+      "type": "checkbox"
     },
     { "name": "Auto L3",
       "code": "am",
