@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "2481 Scouting - Pit",
-  "page_title": "2025 Arkansas - Pit",
+  "page_title": "2026 Alabama - Pit",
   "checkboxAs": "10",
   "pit": [
     { "name": "Scouter",
@@ -43,12 +43,12 @@ var config_data = `
       "size": 25,
       "maxSize": 1000
     },
-    { "name": "Coral Intake Type",
+    { "name": "Fuel Intake Type",
       "code": "cit",
       "type":"radio",
       "choices": {
-        "s": "Station<br>",
-        "g": "Ground<br>",
+        "oo": "Outpost only<br>",
+        "go": "Ground only<br>",
         "b": "Both<br>",
         "n": "N/A"
       },
