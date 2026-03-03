@@ -72,7 +72,7 @@ var config_data = `
       "defaultValue": "0"
     },
     { "name": "How Does Their Feeder to Shooter Work",
-      "code": "fts",
+      "code": "sts",
       "type": "text",
       "size": 25,
       "maxSize": 1000
