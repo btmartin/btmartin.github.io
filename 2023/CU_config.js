@@ -152,8 +152,8 @@ var config_data = `
       "code": "fcs",
       "type": "counter"
     },
-     { "name": "Cycle Time (1-20 sec)",
-      "code": "cts",
+     { "name": "Cycle Time During Active Period",
+      "code": "cap",
       "type":"radio",
       "choices": {
         "0": "Less than 10 sec<br>",
