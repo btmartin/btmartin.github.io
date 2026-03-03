@@ -150,7 +150,11 @@ var config_data = `
       },
       "defaultValue": "0"
     },
-    
+    { 
+      "name": "Endgame Fouls", 
+      "code": "ef", 
+      "type": "counter" 
+    },
      { "name": "Ground Fuel Pickup | 0 = N/A | How long to pick up fuel off ground (1-10 sec)",
       "code": "fgc",
       "type": "counter"
