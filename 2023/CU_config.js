@@ -65,9 +65,9 @@ var config_data = `
       "code": "rsl",
       "type":"radio",
       "choices": {
-        "p": "Coral Station - Processor Side<br>",
+        "p": "Depost Side<br>",
         "c": "Center<br>",
-        "o": "Coral Station - Other<br>",
+        "o": "Outpost Side<br>",
         "x": "Out of the way"
       },
       "defaultValue": "x"
