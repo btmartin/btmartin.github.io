@@ -111,7 +111,8 @@ var config_data = `
         "fd": "In Front of Depot<br>",
         "ut": "Under Trench<br>",
         "nps": "No Preferred Spot"
-      }
+      },
+      "DefaultValue": "nps"
     },
     { "name": "Comments: Auto",
       "code": "aco",
