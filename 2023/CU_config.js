@@ -84,9 +84,9 @@ var config_data = `
       "code": "am",
       "type": "checkboxes",
       "choices": {
-         "Depot": "Depot<br>",
-         "Outpost": "Outpost<br>",
-         "Center of Field": "Neutral Zone<br>"
+         "dp": "Depot<br>",
+         "otp": "Outpost<br>",
+         "cof": "Neutral Zone<br>"
     }
    },
     { "name": "Auto L2",
