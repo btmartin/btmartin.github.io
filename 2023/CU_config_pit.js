@@ -31,6 +31,12 @@ var config_data = `
       },
       "defaultValue": "s"
     },
+    { "name": "Wheel Width (in inches)",
+      "code": "ww",
+      "type": "text",
+      "size": 3
+      "maxSize": 250
+    },
     { "name": "Weight Without Bumpers",
       "code": "wwb",
       "type": "text",
@@ -49,17 +55,6 @@ var config_data = `
       "choices": {
         "oo": "Outpost only<br>",
         "go": "Ground only<br>",
-        "b": "Both<br>",
-        "n": "N/A"
-      },
-      "defaultValue": "n"
-    },
-    { "name": "Algae Intake Type",
-      "code": "ait",
-      "type":"radio",
-      "choices": {
-        "r": "Reef<br>",
-        "g": "Ground<br>",
         "b": "Both<br>",
         "n": "N/A"
       },
