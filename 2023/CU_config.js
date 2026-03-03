@@ -90,12 +90,12 @@ var config_data = `
         "nz": "Neutral Zone"
       }
     },
-    { "name": "Fuel Scored",
-      "code": "fs",
-      "gsCol": "Fuel Scored",
-      "type": "Fuel scored",
-      "size": 15,
-      "maxSize": 50
+   { 
+      "name": "Fuel Scored", 
+      "code": "fsh", 
+      "type": "text", 
+      "size": 3, 
+      "maxSize": 50 
     },
     { "name": "Auto Trough",
       "code": "aam",
