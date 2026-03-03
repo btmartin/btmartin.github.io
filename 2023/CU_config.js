@@ -83,7 +83,7 @@ var config_data = `
     { 
       "name": "Pickup Locations", 
       "code": "am", 
-      "type": "checkboxes",
+      "type": "multi-select",
       "choices": {
         "op": "Outpost<br>",
         "de": "Depot<br>",
@@ -91,7 +91,7 @@ var config_data = `
       }
     },
     { "name": "Auto L2",
-      "code": "all",
+      "code": "al2",
       "type": "counter"
     },
     { "name": "Auto Trough",
