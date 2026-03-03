@@ -71,6 +71,12 @@ var config_data = `
       "type": "checkbox",
       "defaultValue": "0"
     },
+    { "name": "How Does Their Feeder to Shooter Work",
+      "code": "fts",
+      "type": "text",
+      "size": 25,
+      "maxSize": 1000
+    },
     { "name": "Comments",
       "code": "coo",
       "type": "text",
