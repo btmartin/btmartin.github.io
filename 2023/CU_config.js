@@ -144,21 +144,24 @@ var config_data = `
       "defaultValue": "dnc"
     },
     
-     { "name": "Ground Coral Pickup | 0 = N/A | How long to pick up coral off ground (1-10 sec)",
+     { "name": "Ground Fuel Pickup | 0 = N/A | How long to pick up coral off ground (1-10 sec)",
       "code": "fgc",
       "type": "counter"
     },
-    { "name": "Coral Station | 0 = N/A | How much time spent at coral station (1-10 sec)",
+    { "name": "Outpost fillup | 0 = N/A | How much time spent at the outpost (1-10 sec)",
       "code": "fcs",
       "type": "counter"
     },
-     { "name": "Time to Score Coral | 0 = N/A | Time from entering to leaving reef when scoring (1-10 sec)",
+     { "name": "Time to Cycle | 0 = N/A | Time from entering to leaving reef when scoring (1-10 sec)",
       "code": "fts",
-      "type": "counter"
-    },
-    { "name": "Time to Net Score | 0 = N/A | Time from line-up back to original position or driving away (1-10 sec)",
-      "code": "ftn",
-      "type": "counter"
+      "type":"radio",
+      "choices": {
+        "0": "Less than 10 sec<br>",
+        "1": "Between 10 and 20 sec<br>",
+        "2": "More than 20 sec<br>",
+        "n": "only played defense"
+      },
+      "defaultValue": "1"
     },
    { "name": "Climb Time",
       "code": "fcc",
@@ -171,11 +174,11 @@ var config_data = `
       },
       "defaultValue": "n"
     },   
-    { "name": "Robot Was Defended (>50% of match) | 0 = N/A | Score 1-10 | 1 -> Robot slowed 10% | 5 -> Robot slowed 50% | 10 -> Robot shut down 100%",
+    { "name": "Robot Was Defended | 0 = N/A | Score 1-10 | 1 -> Robot slowed 10% | 5 -> Robot slowed 50% | 10 -> Robot shut down 100%",
       "code": "fwd",
       "type": "counter"
     },
-    { "name": "Robot Played Defense (>50% of match) | 0 = N/A | Score 1-10 | 1 -> Robot slowed 10% | 5 -> Robot slowed 50% | 10 -> Robot shut down 100%",
+    { "name": "Robot Played Defense | 0 = N/A | Score 1-10 | 1 -> Robot slowed 10% | 5 -> Robot slowed 50% | 10 -> Robot shut down 100%",
       "code": "fpd",
       "type": "counter"
     }
