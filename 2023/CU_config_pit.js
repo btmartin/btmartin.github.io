@@ -60,6 +60,12 @@ var config_data = `
       },
       "defaultValue": "n"
     },
+    { "name": "Max Hopper Capacity",
+      "code": "mhc",
+      "type": "text",
+      "size": 1,
+      "maxSize": 250
+    },
     { "name": "Comments",
       "code": "coo",
       "type": "text",
