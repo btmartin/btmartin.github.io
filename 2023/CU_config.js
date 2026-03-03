@@ -152,7 +152,7 @@ var config_data = `
       "code": "fcs",
       "type": "counter"
     },
-     { "name": "Time to Cycle | 0 = N/A | Time between scoring to scoring with a different hopper of fuel (1-10 sec)",
+     { "name": "Time to Cycle | 0 = N/A | Time between cycles (1-20 sec)",
       "code": "fts",
       "type":"radio",
       "choices": {
