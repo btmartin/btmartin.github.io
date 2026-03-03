@@ -34,7 +34,7 @@ var config_data = `
     { "name": "Wheel Width (in inches)",
       "code": "ww",
       "type": "text",
-      "size": 3
+      "size": 3,
       "maxSize": 250
     },
     { "name": "Weight Without Bumpers",
