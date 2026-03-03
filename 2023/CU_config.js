@@ -65,9 +65,11 @@ var config_data = `
       "code": "rsl",
       "type":"radio",
       "choices": {
-        "d": "Depost Side<br>",
+        "dt": "Depost Side Trench<br>",
+        "db": "Depost Side Bump<br>",
         "c": "Center<br>",
-        "o": "Outpost Side<br>",
+        "ob": "Outpost Side Bump<br>",
+        "ot": "Outpost Side Trench<br>",
         "x": "Out of the way"
       },
       "defaultValue": "x"
