@@ -71,13 +71,13 @@ var config_data = `
       "type": "checkbox",
       "defaultValue": "0"
     },
-    { "name": "How Does Their Feeder to Shooter Work",
+    { "name": "How Does Their Feeder to Shooter Work (Do NOT Use ANY Punctuation)",
       "code": "sts",
       "type": "text",
       "size": 25,
       "maxSize": 1000
     },
-    { "name": "Comments",
+    { "name": "Comments (Do NOT Use ANY Punctuation)",
       "code": "coo",
       "type": "text",
       "size": 25,
