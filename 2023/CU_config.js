@@ -75,7 +75,7 @@ var config_data = `
     }
   ],
   "auton": [
-    { "name": "Climb",
+    { "name": "Auto Climb",
       "code": "cl",
       "text-color": "red",
       "type": "checkbox"
@@ -98,8 +98,8 @@ var config_data = `
       "maxSize": 50 
     },
    { 
-      "name": "Fouls", 
-      "code": "f0r", 
+      "name": "Auto Fouls", 
+      "code": "af", 
       "type": "counter" 
     },
     { 
@@ -120,13 +120,22 @@ var config_data = `
       "size": 25,
       "maxSize": 100
     },
-    { "name": "Teleop L4",
-      "code": "th",
-      "type": "counter"
+    { 
+      "name": "Teleop Fouls", 
+      "code": "tf", 
+      "type": "counter" 
     },
-    { "name": "Teleop L3",
-      "code": "tm",
-      "type": "counter"
+    { 
+      "name": "Endgame Climb", 
+      "code": "egc", 
+      "type": "radio",
+      "choices": {
+        "L3c": "L3<br>",
+        "L2c": "L2<br>",
+        "L1c": "L1<br>",
+        "dnc": "Did not climb"
+      },
+      "defaultValue": "dnc"
     },
     { "name": "Teleop L2",
       "code": "tl",
