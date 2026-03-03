@@ -144,7 +144,7 @@ var config_data = `
       "defaultValue": "dnc"
     },
     
-     { "name": "Ground Fuel Pickup | 0 = N/A | How long to pick up coral off ground (1-10 sec)",
+     { "name": "Ground Fuel Pickup | 0 = N/A | How long to pick up fuel off ground (1-10 sec)",
       "code": "fgc",
       "type": "counter"
     },
@@ -152,7 +152,7 @@ var config_data = `
       "code": "fcs",
       "type": "counter"
     },
-     { "name": "Time to Cycle | 0 = N/A | Time from entering to leaving reef when scoring (1-10 sec)",
+     { "name": "Time to Cycle | 0 = N/A | Time between scoring to scoring with a different hopper of fuel (1-10 sec)",
       "code": "fts",
       "type":"radio",
       "choices": {
