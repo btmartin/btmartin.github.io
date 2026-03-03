@@ -65,8 +65,8 @@ var config_data = `
       "code": "rsl",
       "type":"radio",
       "choices": {
-        "dt": "Depost Trench<br>",
-        "db": "Depost Bump<br>",
+        "dt": "Depot Trench<br>",
+        "db": "Depot Bump<br>",
         "c": "Center<br>",
         "ob": "Outpost Bump<br>",
         "ot": "Outpost Trench<br>"
@@ -88,7 +88,7 @@ var config_data = `
          "Outpost": "Outpost<br>",
          "Center of Field": "Neutral Zone<br>"
    }
-  },
+   },
     { "name": "Auto L2",
       "code": "all",
       "type": "counter"
