@@ -66,7 +66,7 @@ var config_data = `
       "size": 1,
       "maxSize": 250
     },
-    { "name": "Can They Go Under the Trench",
+    { "name": "Can They Go Under the Trench - check=yes",
       "code": "cgt",
       "type": "checkbox",
       "defaultValue": "0"
