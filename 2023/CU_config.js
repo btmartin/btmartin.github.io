@@ -85,9 +85,9 @@ var config_data = `
       "code": "am", 
       "type": "radio",
       "choices": {
-        "cor": "Coral Station<br>",
-        "pro": "Processor Area<br>",
-        "gnd": "Ground/Floor"
+        "op": "Outpost<br>",
+        "de": "Depot<br>",
+        "nz": "Neutral Zone"
       }
     },
     { "name": "Auto L2",
