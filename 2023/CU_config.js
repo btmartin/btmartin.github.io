@@ -97,9 +97,10 @@ var config_data = `
       "size": 3, 
       "maxSize": 50 
     },
-    { "name": "Auto Trough",
-      "code": "aam",
-      "type": "counter"
+   { 
+      "name": "Fouls", 
+      "code": "f0r", 
+      "type": "counter" 
     },
     { "name": "Auto Fouls",
       "code": "af",
