@@ -83,7 +83,7 @@ var config_data = `
     { 
       "name": "Pickup Locations", 
       "code": "am", 
-      "type": "checkboxes",
+      "type": "radio",
       "choices": {
         "cor": "Coral Station<br>",
         "pro": "Processor Area<br>",
