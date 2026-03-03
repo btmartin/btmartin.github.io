@@ -87,8 +87,8 @@ var config_data = `
          "Depot": "Depot<br>",
          "Outpost": "Outpost<br>",
          "Center of Field": "Neutral Zone<br>"
-     },
-   },
+      },
+    },
     { "name": "Auto L2",
       "code": "all",
       "type": "counter"
