@@ -83,11 +83,11 @@ var config_data = `
     { 
       "name": "Pickup Locations", 
       "code": "am", 
-      "type": "multi-select",
+      "type": "checkboxes",
       "choices": {
         "op": "Outpost<br>",
         "de": "Depot<br>",
-        "nz": "Neutral Zone<br>"
+        "nz": "Neutral Zone"
       }
     },
     { "name": "Auto L2",
