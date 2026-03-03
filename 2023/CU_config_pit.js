@@ -66,6 +66,10 @@ var config_data = `
       "size": 1,
       "maxSize": 250
     },
+    { "name": "Can They Go Under the Trench",
+      "code": "cgt",
+      "type": "checkbox",
+    },
     { "name": "Comments",
       "code": "coo",
       "type": "text",
