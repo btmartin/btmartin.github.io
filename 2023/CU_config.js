@@ -112,7 +112,7 @@ var config_data = `
         "ut": "Under Trench<br>",
         "nps": "No Preferred Spot"
       },
-      "DefaultValue": "nps"
+      "defaultValue": "nps"
     },
     { "name": "Comments: Auto",
       "code": "aco",
