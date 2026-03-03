@@ -82,7 +82,7 @@ var config_data = `
     },
     { "name": "Where did they pick up from",
       "code": "am",
-      "type": "radio",
+      "type": "checkbox",
       "choices": {
          "Depot": "Depot<br>",
          "Outpost": "Outpost<br>",
