@@ -114,11 +114,16 @@ var config_data = `
       },
       "defaultValue": "nps"
     },
-    { "name": "Comments: Auto",
-      "code": "aco",
-      "type": "text",
-      "size": 25,
-      "maxSize": 100
+    { 
+      "name": "Inactive Strategy", 
+      "code": "ias", 
+      "type": "radio",
+      "choices": {
+        "dfs": "Defense<br>",
+        "puf": "Pickup Fuel<br>",
+        "pss": "Pass"
+      },
+      "defaultValue": "pss"
     },
     { 
       "name": "Teleop Fouls", 
