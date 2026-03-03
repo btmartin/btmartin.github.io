@@ -102,9 +102,16 @@ var config_data = `
       "code": "f0r", 
       "type": "counter" 
     },
-    { "name": "Auto Fouls",
-      "code": "af",
-      "type": "counter"
+    { 
+      "name": "Preferred shooting location", 
+      "code": "psl", 
+      "type": "radio",
+      "choices": {
+        "fo": "In Front of Outpost<br>",
+        "fd": "In Front of Depot<br>",
+        "ut": "Under Trench<br>",
+        "nps": "No Preferred Spot"
+      }
     },
     { "name": "Comments: Auto",
       "code": "aco",
