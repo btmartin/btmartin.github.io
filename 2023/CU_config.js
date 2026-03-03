@@ -152,7 +152,7 @@ var config_data = `
       "code": "fcs",
       "type": "counter"
     },
-     { "name": "Cycle Times (1-20 sec)",
+     { "name": "Cycle Time (1-20 sec)",
       "code": "cts",
       "type":"radio",
       "choices": {
@@ -163,8 +163,8 @@ var config_data = `
       },
       "defaultValue": "1"
     },
-   { "name": "Climb Time",
-      "code": "fcc",
+   { "name": "Time to Climb",
+      "code": "ttc",
       "type":"radio",
       "choices": {
         "0": "Less than 10 sec<br>",
