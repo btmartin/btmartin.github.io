@@ -80,15 +80,16 @@ var config_data = `
       "text-color": "red",
       "type": "checkbox"
     },
-    { "name": "Pickup Locations",
-      "code": "am",
+    { 
+      "name": "Pickup Locations", 
+      "code": "am", 
       "type": "checkboxes",
       "choices": {
-         "dp": "Depot<br>",
-         "otp": "Outpost<br>",
-         "cof": "Neutral Zone<br>"
-    }
-   },
+        "cor": "Coral Station<br>",
+        "pro": "Processor Area<br>",
+        "gnd": "Ground/Floor"
+      }
+    },
     { "name": "Auto L2",
       "code": "all",
       "type": "counter"
