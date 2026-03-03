@@ -65,7 +65,7 @@ var config_data = `
       "code": "rsl",
       "type":"radio",
       "choices": {
-        "p": "Depost Side<br>",
+        "d": "Depost Side<br>",
         "c": "Center<br>",
         "o": "Outpost Side<br>",
         "x": "Out of the way"
