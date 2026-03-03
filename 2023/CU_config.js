@@ -98,40 +98,16 @@ var config_data = `
       "maxSize": 50 
     },
    { 
-      "name": "Teleop Fuel Scored", 
-      "code": "fsh", 
-      "type": "text", 
-      "size": 3, 
-      "maxSize": 50 
-    },
-   { 
       "name": "Auto Fouls", 
       "code": "af", 
       "type": "counter" 
     },
     { 
-      "name": "Preferred shooting location", 
-      "code": "psl", 
-      "type": "radio",
-      "choices": {
-        "fo": "In Front of Outpost<br>",
-        "fd": "In Front of Depot<br>",
-        "ut": "Under Trench<br>",
-        "nps": "No Preferred Spot"
-      },
-      "defaultValue": "nps"
-    },
-    { 
-      "name": "Inactive Strategy", 
-      "code": "ias", 
-      "type": "radio",
-      "choices": {
-        "dfs": "Defense<br>",
-        "puf": "Pickup Fuel<br>",
-        "pss": "Passing<br>",
-        "noa": "none of the above"
-      },
-      "defaultValue": "noa"
+      "name": "Teleop Fuel Scored", 
+      "code": "fsh", 
+      "type": "text", 
+      "size": 3, 
+      "maxSize": 50 
     },
     { 
       "name": "Teleop Fouls", 
@@ -162,6 +138,30 @@ var config_data = `
     { "name": "Outpost fillup | 0 = N/A | How much time spent at the outpost (1-10 sec)",
       "code": "fcs",
       "type": "counter"
+    },
+    { 
+      "name": "Preferred shooting location", 
+      "code": "psl", 
+      "type": "radio",
+      "choices": {
+        "fo": "In Front of Outpost<br>",
+        "fd": "In Front of Depot<br>",
+        "ut": "Under Trench<br>",
+        "nps": "No Preferred Spot"
+      },
+      "defaultValue": "nps"
+    },
+    { 
+      "name": "Inactive Strategy", 
+      "code": "ias", 
+      "type": "radio",
+      "choices": {
+        "dfs": "Defense<br>",
+        "puf": "Pickup Fuel<br>",
+        "pss": "Passing<br>",
+        "noa": "none of the above"
+      },
+      "defaultValue": "noa"
     },
      { "name": "Cycle Time During Active Period",
       "code": "cap",
