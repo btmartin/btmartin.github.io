@@ -75,10 +75,6 @@ var config_data = `
     }
   ],
   "auton": [
-   { "name": "Leave Bonus?",
-      "code": "al",
-      "type": "bool"
-    },
     { "name": "Auto L4",
       "code": "ah",
       "text-color": "red",
