@@ -81,9 +81,9 @@ var config_data = `
       "type": "checkbox"
     },
     { 
-      "name": "Pickup Locations", 
+      "name": "Main Pickup Location", 
       "code": "am", 
-      "type": "checkbox",
+      "type": "radio",
       "choices": {
         "op": "Outpost<br>",
         "de": "Depot<br>",
