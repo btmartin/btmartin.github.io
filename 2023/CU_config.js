@@ -90,9 +90,12 @@ var config_data = `
         "nz": "Neutral Zone"
       }
     },
-    { "name": "Auto L2",
-      "code": "al2",
-      "type": "counter"
+    { "name": "Fuel Scored",
+      "code": "fs",
+      "gsCol": "Fuel Scored",
+      "type": "Fuel scored",
+      "size": 15,
+      "maxSize": 50
     },
     { "name": "Auto Trough",
       "code": "aam",
