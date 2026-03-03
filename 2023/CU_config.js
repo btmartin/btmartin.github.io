@@ -152,8 +152,8 @@ var config_data = `
       "code": "fcs",
       "type": "counter"
     },
-     { "name": "Time to Cycle | 0 = N/A | Time between cycles (1-20 sec)",
-      "code": "fts",
+     { "name": "Cycle Times (1-20 sec)",
+      "code": "cts",
       "type":"radio",
       "choices": {
         "0": "Less than 10 sec<br>",
