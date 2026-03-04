@@ -4,7 +4,7 @@ var config_data = `
   "page_title": "2026 Alabama - Pit",
   "checkboxAs": "10",
   "pit": [
-    { "name": "Scouter",
+    { "name": "Scouter (First Name + Last Initial)",
       "code": "s",
       "gsCol": "scouter",
       "type": "scouter",
