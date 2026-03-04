@@ -4,7 +4,7 @@ var config_data = `
   "page_title": "2026 CIR",
   "checkboxAs": "10",
   "prematch": [
-    { "name": "Scouter (First name + last initial",
+    { "name": "Scouter (First name + last initial)",
       "code": "s",
       "gsCol": "scouter",
       "type": "scouter",
