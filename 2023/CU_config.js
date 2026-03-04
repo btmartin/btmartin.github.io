@@ -4,7 +4,7 @@ var config_data = `
   "page_title": "2026 CIR",
   "checkboxAs": "10",
   "prematch": [
-    { "name": "Scouter",
+    { "name": "Scouter (First name + last initial",
       "code": "s",
       "gsCol": "scouter",
       "type": "scouter",
@@ -91,27 +91,22 @@ var config_data = `
       }
     },
    { 
-      "name": "Auto Fuel Scored", 
-      "code": "fsh", 
-      "type": "text", 
-      "size": 3, 
-      "maxSize": 50 
-    },
-   { 
-      "name": "Auto Fouls", 
-      "code": "af", 
-      "type": "counter" 
-    },
-    { 
-      "name": "Teleop Fuel Scored", 
+      "name": "Total Auto Fuel Scored", 
       "code": "fsh", 
       "type": "text", 
       "size": 3, 
       "maxSize": 50 
     },
     { 
-      "name": "Teleop Fouls", 
-      "code": "tf", 
+      "name": "Total Teleop Fuel Scored", 
+      "code": "fsh", 
+      "type": "text", 
+      "size": 3, 
+      "maxSize": 50 
+    },
+    { 
+      "name": "Total Fouls", 
+      "code": "ef", 
       "type": "counter" 
     },
     { 
@@ -125,11 +120,6 @@ var config_data = `
         "0": "Did not climb<br>"
       },
       "defaultValue": "0"
-    },
-    { 
-      "name": "Endgame Fouls", 
-      "code": "ef", 
-      "type": "counter" 
     },
      { "name": "Ground Fuel Pickup | 0 = N/A | How long to pick up fuel off ground (1-10 sec)",
       "code": "fgc",
@@ -162,17 +152,6 @@ var config_data = `
         "noa": "none of the above"
       },
       "defaultValue": "noa"
-    },
-     { "name": "Cycle Time During Active Period",
-      "code": "cap",
-      "type":"radio",
-      "choices": {
-        "0": "Less than 10 sec<br>",
-        "1": "Between 10 and 20 sec<br>",
-        "2": "More than 20 sec<br>",
-        "n": "only played defense"
-      },
-      "defaultValue": "1"
     },
    { "name": "Time to Climb",
       "code": "ttc",
