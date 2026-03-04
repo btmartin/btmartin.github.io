@@ -125,10 +125,6 @@ var config_data = `
       "code": "fgc",
       "type": "counter"
     },
-    { "name": "Outpost fillup | 0 = N/A | How much time spent at the outpost (1-10 sec)",
-      "code": "fcs",
-      "type": "counter"
-    },
     { 
       "name": "Preferred shooting location", 
       "code": "psl", 
@@ -148,7 +144,7 @@ var config_data = `
       "choices": {
         "dfs": "Defense<br>",
         "puf": "Pickup Fuel<br>",
-        "pss": "Passing<br>",
+        "pss": "Feeding<br>",
         "noa": "none of the above"
       },
       "defaultValue": "noa"
