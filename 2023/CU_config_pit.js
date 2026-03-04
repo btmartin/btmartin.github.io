@@ -43,6 +43,12 @@ var config_data = `
       "size": 25,
       "maxSize": 1000
     },
+    { "name": "Weight With Bumpers",
+      "code": "bwp",
+      "type": "text",
+      "size": 25,
+      "maxSize": 1000
+    },
     { "name": "Dimensions No Bumpers",
       "code": "dnb",
       "type": "text",
