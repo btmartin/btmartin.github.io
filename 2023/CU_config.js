@@ -121,8 +121,8 @@ var config_data = `
       },
       "defaultValue": "0"
     },
-     { "name": "Ground Fuel Pickup | 0 = N/A | How long to pick up fuel off ground (1-10 sec)",
-      "code": "fgc",
+     { "name": "Number of Cycles",
+      "code": "noc",
       "type": "counter"
     },
     { 
