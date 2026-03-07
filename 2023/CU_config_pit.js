@@ -77,6 +77,11 @@ var config_data = `
       "type": "checkbox",
       "defaultValue": "0"
     },
+    { "name": "Can They Shoot on the Move (check=yes)",
+      "code": "som",
+      "type": "checkbox",
+      "defaultValue": "0"
+    },
     { "name": "How Does Their Feeder to Shooter Work (Do NOT Use ANY Punctuation)",
       "code": "sts",
       "type": "text",
