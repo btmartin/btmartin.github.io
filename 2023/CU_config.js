@@ -157,7 +157,8 @@ var config_data = `
         "de": "Depot Area<br>",
         "az": "Alliance Zone<br>",
         "nz": "Neutral Zone"
-      }
+      },
+      "defaultValue": "nz"
     },
     { 
       "name": "Inactive Strategy", 
