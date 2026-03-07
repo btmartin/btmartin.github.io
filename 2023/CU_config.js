@@ -133,10 +133,6 @@ var config_data = `
       },
       "defaultValue": "0"
     },
-     { "name": "Number of Cycles",
-      "code": "noc",
-      "type": "counter"
-    },
     { 
       "name": "Preferred shooting location", 
       "code": "psl", 
