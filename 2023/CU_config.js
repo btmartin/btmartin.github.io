@@ -126,7 +126,7 @@ var config_data = `
       "defaultValue": "0"
     },
     { 
-      "name": "Scoring Shift 2", 
+      "name": "Fuel Scored During Shift 2", 
       "code": "ss2", 
       "type": "radio",
       "choices": {
