@@ -80,26 +80,51 @@ var config_data = `
       "text-color": "red",
       "type": "checkbox"
     },
-    { 
-      "name": "Main Pickup Location", 
-      "code": "am", 
-      "type": "radio",
-      "choices": {
-        "op": "Outpost<br>",
-        "de": "Depot<br>",
-        "nz": "Neutral Zone"
-      }
-    },
    { 
-      "name": "Total Auto Fuel Scored", 
-      "code": "fsh", 
+      "name": "Fuel Scored During Auto", 
+      "code": "fsa", 
       "type": "text", 
       "size": 3, 
       "maxSize": 50 
     },
     { 
-      "name": "Total Teleop Fuel Scored", 
-      "code": "fsh", 
+      "name": "Fuel Scored During Transition Phase", 
+      "code": "fst", 
+      "type": "text", 
+      "size": 3, 
+      "maxSize": 50 
+    },
+    { 
+      "name": "Fuel Scored During Shift 1", 
+      "code": "fs1", 
+      "type": "text", 
+      "size": 3, 
+      "maxSize": 50 
+    },
+    { 
+      "name": "Fuel Scored During Shift 2", 
+      "code": "fs2", 
+      "type": "text", 
+      "size": 3, 
+      "maxSize": 50 
+    },
+    { 
+      "name": "Fuel Scored During Shift 3", 
+      "code": "fs3", 
+      "type": "text", 
+      "size": 3, 
+      "maxSize": 50 
+    },
+    { 
+      "name": "Fuel Scored During Shirt 4", 
+      "code": "fs4", 
+      "type": "text", 
+      "size": 3, 
+      "maxSize": 50 
+    },
+    { 
+      "name": "Fuel Scored During Endgame", 
+      "code": "fse", 
       "type": "text", 
       "size": 3, 
       "maxSize": 50 
@@ -136,6 +161,16 @@ var config_data = `
         "nps": "No Preferred Spot"
       },
       "defaultValue": "nps"
+    },
+    { 
+      "name": "Main Pickup Location", 
+      "code": "am", 
+      "type": "radio",
+      "choices": {
+        "op": "Outpost<br>",
+        "de": "Depot<br>",
+        "nz": "Neutral Zone"
+      }
     },
     { 
       "name": "Inactive Strategy", 
