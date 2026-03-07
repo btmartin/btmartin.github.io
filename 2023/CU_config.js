@@ -143,7 +143,7 @@ var config_data = `
         "ut": "Under Trench<br>",
         "ah": "Against Hub<br>",
         "ab": "Against Bump<br>",
-        "at": "Against Tower<br>
+        "at": "Against Tower<br>",
         "nps": "No Preferred Spot"
       },
       "defaultValue": "nps"
