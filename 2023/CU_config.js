@@ -179,6 +179,7 @@ var config_data = `
       "choices": {
         "fo": "In Front of Outpost<br>",
         "fd": "Near Depot<br>",
+        "aaw": "Against Alliance Wall",
         "ut": "Under Trench<br>",
         "ah": "Against Hub<br>",
         "ab": "Against Bump<br>",
