@@ -83,16 +83,32 @@ var config_data = `
    { 
       "name": "Fuel Scored During Auto", 
       "code": "fsa", 
-      "type": "text", 
-      "size": 3, 
-      "maxSize": 50 
+      "type": "radio",
+      "choices": {
+        "100": "100+<br>",
+        "75": "75-100<br>",
+        "50": "50-74<br>",
+        "25": "25-49<br>",
+        "10": "10-24<br>",
+        "5": "1-9<br>",
+        "0": "Did Not Score<br>"
+      },
+      "defaultValue": "0"
     },
     { 
       "name": "Fuel Scored During Transition Phase", 
       "code": "fst", 
-      "type": "text", 
-      "size": 3, 
-      "maxSize": 50 
+      "type": "radio",
+      "choices": {
+        "100": "100+<br>",
+        "75": "75-100<br>",
+        "50": "50-74<br>",
+        "25": "25-49<br>",
+        "10": "10-24<br>",
+        "5": "1-9<br>",
+        "0": "Did Not Score<br>"
+      },
+      "defaultValue": "0"
     },
     { 
       "name": "Fuel Scored For Shift 1", 
@@ -112,17 +128,32 @@ var config_data = `
     { 
       "name": "Scoring Shift 2", 
       "code": "ss2", 
-      "type": "text", 
-      "size": 3, 
-      "maxSize": 50 
+      "type": "radio",
+      "choices": {
+        "100": "100+<br>",
+        "75": "75-100<br>",
+        "50": "50-74<br>",
+        "25": "25-49<br>",
+        "10": "10-24<br>",
+        "5": "1-9<br>",
+        "0": "Did Not Score<br>"
+      },
+      "defaultValue": "0"
     },
-   
     { 
       "name": "Fuel Scored During Endgame", 
       "code": "fse", 
-      "type": "text", 
-      "size": 3, 
-      "maxSize": 50 
+      "type": "radio",
+      "choices": {
+        "100": "100+<br>",
+        "75": "75-100<br>",
+        "50": "50-74<br>",
+        "25": "25-49<br>",
+        "10": "10-24<br>",
+        "5": "1-9<br>",
+        "0": "Did Not Score<br>"
+      },
+      "defaultValue": "0"
     },
     { 
       "name": "Total Fouls", 
