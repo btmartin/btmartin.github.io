@@ -95,33 +95,20 @@ var config_data = `
       "maxSize": 50 
     },
     { 
-      "name": "Fuel Scored During Shift 1", 
-      "code": "fs1", 
+      "name": "Scoring Shift 1", 
+      "code": "ss1", 
       "type": "text", 
       "size": 3, 
       "maxSize": 50 
     },
     { 
-      "name": "Fuel Scored During Shift 2", 
-      "code": "fs2", 
+      "name": "Scoring Shift 2", 
+      "code": "ss2", 
       "type": "text", 
       "size": 3, 
       "maxSize": 50 
     },
-    { 
-      "name": "Fuel Scored During Shift 3", 
-      "code": "fs3", 
-      "type": "text", 
-      "size": 3, 
-      "maxSize": 50 
-    },
-    { 
-      "name": "Fuel Scored During Shirt 4", 
-      "code": "fs4", 
-      "type": "text", 
-      "size": 3, 
-      "maxSize": 50 
-    },
+   
     { 
       "name": "Fuel Scored During Endgame", 
       "code": "fse", 
