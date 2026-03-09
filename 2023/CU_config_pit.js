@@ -66,7 +66,7 @@ var config_data = `
       },
       "defaultValue": "n"
     },
-    { "name": "Max Hopper Capacity",
+    { "name": "Hopper Capacity",
       "code": "mhc",
       "type": "text",
       "size": 5
