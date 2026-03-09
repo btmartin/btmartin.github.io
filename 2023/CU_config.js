@@ -184,7 +184,8 @@ var config_data = `
         "ah": "Against Hub<br>",
         "ab": "Against Bump<br>",
         "at": "Against Tower<br>",
-        "nps": "No Preferred Spot"
+        "anw": "Anywhere<br>",
+        "nps": "Didnt Shoot"
       },
       "defaultValue": "nps"
     },
