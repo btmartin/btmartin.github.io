@@ -177,9 +177,9 @@ var config_data = `
       "code": "psl", 
       "type": "radio",
       "choices": {
-        "fo": "In Front of Outpost<br>",
+        "fo": "Front of Outpost<br>",
         "fd": "Near Depot<br>",
-        "aaw": "Against Alliance Wall<br>",
+        "aaw": "On Alliance Wall<br>",
         "ut": "Under Trench<br>",
         "ah": "Against Hub<br>",
         "ab": "Against Bump<br>",
@@ -223,11 +223,11 @@ var config_data = `
       },
       "defaultValue": "n"
     },   
-    { "name": "Robot Was Defended | 0 = N/A | Score 1-5 | 1 -> Robot slowed 10% | 3 -> Robot slowed 50% | 5 -> Robot shut down 100%",
+    { "name": "Robot Was Defended (0 = N/A)",
       "code": "fwd",
       "type": "counter"
     },
-    { "name": "Robot Played Defense | 0 = N/A | Score 1-5 | 1 -> Robot slowed 10% | 3 -> Robot slowed 50% | 5 -> Robot shut down 100%",
+    { "name": "Robot Played Defense (0 = N/A)",
       "code": "fpd",
       "type": "counter"
     }
