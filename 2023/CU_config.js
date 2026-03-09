@@ -223,11 +223,11 @@ var config_data = `
       },
       "defaultValue": "n"
     },   
-    { "name": "Robot Was Defended (0 = N/A)",
+    { "name": "Robot Was Defended |Scale of 0-5| (0 = N/A)",
       "code": "fwd",
       "type": "counter"
     },
-    { "name": "Robot Played Defense (0 = N/A)",
+    { "name": "Robot Played Defense |Scale of 0-5| (0 = N/A)",
       "code": "fpd",
       "type": "counter"
     }
