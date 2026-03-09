@@ -69,7 +69,8 @@ var config_data = `
     { "name": "Max Hopper Capacity",
       "code": "mhc",
       "type": "text",
-      "size": 1,
+      "size": 5
+      ,
       "maxSize": 250
     },
     { "name": "Can They Go Under the Trench (check=yes)",
