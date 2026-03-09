@@ -216,9 +216,9 @@ var config_data = `
       "code": "ttc",
       "type":"radio",
       "choices": {
-        "0": "Less than 10 sec<br>",
-        "1": "Between 10 and 20 sec<br>",
-        "2": "More than 20 sec<br>",
+        "0": "<10 sec<br>",
+        "1": "10-20 sec<br>",
+        "2": ">20 sec<br>",
         "n": "Didnt Climb"
       },
       "defaultValue": "n"
