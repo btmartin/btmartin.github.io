@@ -183,7 +183,7 @@ var config_data = `
         "ut": "Under Trench<br>",
         "ah": "Against Hub<br>",
         "ab": "Against Bump<br>",
-        "at": "Against Tower<br>",
+        "at": "In front of Tower<br>",
         "anw": "Anywhere<br>",
         "nps": "Didnt Shoot"
       },
