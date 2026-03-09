@@ -172,6 +172,17 @@ var config_data = `
       },
       "defaultValue": "0"
     },
+    { "name": "Time to Climb",
+      "code": "ttc",
+      "type":"radio",
+      "choices": {
+        "0": "Less than 10 sec<br>",
+        "1": "Between 10 and 20 sec<br>",
+        "2": "More than 20 sec<br>",
+        "n": "Didnt Climb"
+      },
+      "defaultValue": "n"
+    },   
     { 
       "name": "Preferred shooting location", 
       "code": "psl", 
@@ -213,17 +224,6 @@ var config_data = `
       },
       "defaultValue": "noa"
     },
-   { "name": "Time to Climb",
-      "code": "ttc",
-      "type":"radio",
-      "choices": {
-        "0": "Less than 10 sec<br>",
-        "1": "Between 10 and 20 sec<br>",
-        "2": "More than 20 sec<br>",
-        "n": "Didnt Climb"
-      },
-      "defaultValue": "n"
-    },   
     { "name": "Robot Was Defended |Scale of 0-5| (0 = N/A)",
       "code": "fwd",
       "type": "counter"
