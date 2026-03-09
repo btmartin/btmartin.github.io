@@ -208,7 +208,7 @@ var config_data = `
       "choices": {
         "dfs": "Defense<br>",
         "puf": "Pickup Fuel<br>",
-        "pss": "Feeding<br>",
+        "pss": "Feeding/Pushing<br>",
         "noa": "none of the above"
       },
       "defaultValue": "noa"
