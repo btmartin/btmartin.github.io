@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "2481 Scouting - Pit",
-  "page_title": "2026 Alabama - Pit",
+  "page_title": "2026 CIR - Pit",
   "checkboxAs": "10",
   "pit": [
     { "name": "Scouter (First Name + Last Initial)",
