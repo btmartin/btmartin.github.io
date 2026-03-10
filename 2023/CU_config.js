@@ -189,16 +189,16 @@ var config_data = `
       "type": "radio",
       "choices": {
         "fo": "In Front of Outpost<br>",
-        "fd": "Near Depot<br>",
-        "aaw": "Against Alliance Wall<br>",
+        "nd": "Near Depot<br>",
+        "aw": "Against Alliance Wall<br>",
         "ut": "Under Trench<br>",
         "ah": "Against Hub<br>",
         "ab": "Against Bump<br>",
-        "at": "In front of Tower<br>",
-        "anw": "Anywhere<br>",
-        "nps": "Didnt Shoot"
+        "ft": "In front of Tower<br>",
+        "all": "Anywhere<br>",
+        "ds": "Didnt Shoot"
       },
-      "defaultValue": "nps"
+      "defaultValue": "ds"
     },
     { 
       "name": "Main Pickup Location", 
