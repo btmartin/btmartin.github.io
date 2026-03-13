@@ -206,14 +206,15 @@ var config_data = `
       "defaultValue": "ds"
     },
     { 
-      "name": "Main Pickup Location", 
+      "name": "Main Pickup Location (Teleop Only)", 
       "code": "am", 
       "type": "radio",
       "choices": {
         "op": "Outpost Area<br>",
         "de": "Depot Area<br>",
         "az": "Alliance Zone<br>",
-        "nz": "Neutral Zone"
+        "nz": "Neutral Zone<br>",
+        "dp": "Didnt Pickup"
       },
       "defaultValue": "nz"
     },
