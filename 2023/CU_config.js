@@ -219,8 +219,7 @@ var config_data = `
         "trc": "Trench<br>",
         "bth": "Both"
     },
-    { 
-      "name": "Main Pickup Location (Teleop Only)", 
+    { "name": "Main Pickup Location (Teleop Only)", 
       "code": "am", 
       "type": "radio",
       "choices": {
