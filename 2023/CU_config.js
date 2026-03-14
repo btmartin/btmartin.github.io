@@ -75,14 +75,14 @@ var config_data = `
     }
   ],
   "auton": [
-    { "name": "Seconds to Center (Auto)",
-      "code": "stc",
-      "type": "counter",
-    },
     { "name": "Auto Climb",
       "code": "ac",
       "text-color": "red",
       "type": "checkbox"
+    },
+    { "name": "Seconds to Center (Auto)",
+      "code": "stc",
+      "type": "counter",
     },
    { 
       "name": "Fuel Scored During Auto", 
