@@ -211,11 +211,10 @@ var config_data = `
       "defaultValue": "ds"
     },
     { 
-      "name": "Main Pickup Location (Teleop Only)", 
+      "name": "How Did They Get to the Neutral Zone", 
       "code": "am", 
       "type": "radio",
       "choices": {
-        "op": "Outpost Area<br>
         "bup": "Bump<br>",
         "trc": "Trench<br>",
         "bth": "Both"
