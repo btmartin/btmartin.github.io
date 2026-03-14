@@ -82,7 +82,7 @@ var config_data = `
     },
     { 
       "name": "Seconds to Center (Auto)", 
-      "code": "ef", 
+      "code": "stc", 
       "type": "counter" 
     },
    { 
