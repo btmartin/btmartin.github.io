@@ -78,7 +78,7 @@ var config_data = `
     { "name": "Auto Climb",
       "code": "ac",
       "text-color": "red",
-      "type": "checkbox"
+      "type": "checkbox",
     },
     { "name": "Seconds to Center (Auto)",
       "code": "stc",
