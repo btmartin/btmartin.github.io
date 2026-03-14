@@ -219,6 +219,7 @@ var config_data = `
         "trc": "Trench<br>",
         "bth": "Both"
     },
+    "defaultValue": "bup"
   },
   { 
     "name": "Main Pickup Location (Teleop Only)", 
