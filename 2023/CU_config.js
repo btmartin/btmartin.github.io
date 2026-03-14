@@ -224,7 +224,7 @@ var config_data = `
       "code": "am", 
       "type": "radio",
       "choices": {
-        "op": "Outpost Area<br>",
+        "op": "Outpost Area<br>
         "de": "Depot Area<br>",
         "az": "Alliance Zone<br>",
         "nz": "Neutral Zone<br>",
