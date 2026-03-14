@@ -75,13 +75,12 @@ var config_data = `
     }
   ],
   "auton": [
-    { 
-      "name": "Auto Climb",
+    { "name": "Auto Climb",
       "code": "ac",
       "text-color": "red",
-      "type": "checkbox",
+      "type": "checkbox"
     },
-    {
+  {
       "name": "Seconds to Center (Auto)",
       "code": "stc",
       "type": "counter",
