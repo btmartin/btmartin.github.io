@@ -80,10 +80,10 @@ var config_data = `
       "text-color": "red",
       "type": "checkbox"
     },
-    {
-      "name": "Seconds to Center (Auto)",
-      "code": "stc",
-      "type": "counter",
+    { 
+      "name": "Seconds to Center (Auto)", 
+      "code": "ef", 
+      "type": "counter" 
     },
    { 
       "name": "Fuel Scored During Auto", 
