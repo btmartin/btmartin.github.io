@@ -219,31 +219,32 @@ var config_data = `
         "trc": "Trench<br>",
         "bth": "Both"
     },
-    { 
-      "name": "Main Pickup Location (Teleop Only)", 
-      "code": "am", 
-      "type": "radio",
-      "choices": {
-        "op": "Outpost Area<br>
-        "de": "Depot Area<br>",
-        "az": "Alliance Zone<br>",
-        "nz": "Neutral Zone<br>",
-        "dp": "Didnt Pickup"
-     },
-      "defaultValue": "nz"
+  },
+  { 
+    "name": "Main Pickup Location (Teleop Only)", 
+    "code": "am", 
+    "type": "radio",
+    "choices": {
+      "op": "Outpost Area<br>",
+      "de": "Depot Area<br>",
+      "az": "Alliance Zone<br>",
+      "nz": "Neutral Zone<br>",
+      "dp": "Didnt Pickup"
     },
-    { 
-      "name": "Inactive Strategy", 
-      "code": "ias", 
-      "type": "radio",
-      "choices": {
-        "dfs": "Defense<br>",
-        "puf": "Pickup Fuel<br>",
-        "pss": "Feeding/Pushing<br>",
-        "noa": "none of the above"
-      },
-      "defaultValue": "noa"
+    "defaultValue": "nz"
+  },
+  { 
+    "name": "Inactive Strategy", 
+    "code": "ias", 
+    "type": "radio",
+    "choices": {
+      "dfs": "Defense<br>",
+      "puf": "Pickup Fuel<br>",
+      "pss": "Feeding/Pushing<br>",
+      "noa": "none of the above"
     },
+    "defaultValue": "noa"
+  },
     { "name": "Robot Was Defended |Scale of 0-5| (0 = N/A)",
       "code": "fwd",
       "type": "counter"
