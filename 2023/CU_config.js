@@ -80,7 +80,7 @@ var config_data = `
       "text-color": "red",
       "type": "checkbox"
     },
-  {
+    {
       "name": "Seconds to Center (Auto)",
       "code": "stc",
       "type": "counter",
