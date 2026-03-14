@@ -217,7 +217,8 @@ var config_data = `
       "choices": {
         "bup": "Bump<br>",
         "trc": "Trench<br>",
-        "bth": "Both"
+        "bth": "Both<br>",
+        "tdn": "They Didnt Go to the Center"
     },
     "defaultValue": "bup"
   },
