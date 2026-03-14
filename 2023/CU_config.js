@@ -233,7 +233,7 @@ var config_data = `
       "nz": "Neutral Zone<br>",
       "dp": "Didnt Pickup"
     },
-    "defaultValue": "nz"
+    "defaultValue": "dp"
   },
   { 
     "name": "Inactive Strategy", 
