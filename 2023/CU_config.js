@@ -209,6 +209,15 @@ var config_data = `
       },
       "defaultValue": "ds"
     },
+    {
+      "name": "How Did They Get to the Neutral Zone",
+      "code": "tbb",
+      "type": "radio",
+      "choices": {
+        "bup": "Bump<br>",
+        "trc": "Trench<br>",
+        "bth": "Both"
+      },
     { 
       "name": "Main Pickup Location (Teleop Only)", 
       "code": "am", 
