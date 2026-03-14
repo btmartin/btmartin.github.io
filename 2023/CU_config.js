@@ -212,7 +212,7 @@ var config_data = `
     },
     { 
       "name": "How Did They Get to the Neutral Zone", 
-      "code": "am", 
+      "code": "nzp", 
       "type": "radio",
       "choices": {
         "bup": "Bump<br>",
