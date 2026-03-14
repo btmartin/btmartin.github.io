@@ -229,7 +229,7 @@ var config_data = `
         "az": "Alliance Zone<br>",
         "nz": "Neutral Zone<br>",
         "dp": "Didnt Pickup"
-      },
+     },
       "defaultValue": "nz"
     },
     { 
