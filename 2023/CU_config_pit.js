@@ -1,10 +1,10 @@
 var config_data = `
 {
   "title": "2481 Scouting - Pit",
-  "page_title": "2025 Arkansas - Pit",
+  "page_title": "2026 CIR - Pit",
   "checkboxAs": "10",
   "pit": [
-    { "name": "Scouter",
+    { "name": "Scouter (First Name + Last Initial)",
       "code": "s",
       "gsCol": "scouter",
       "type": "scouter",
@@ -31,8 +31,20 @@ var config_data = `
       },
       "defaultValue": "s"
     },
+    { "name": "Wheel Width (in inches)",
+      "code": "ww",
+      "type": "text",
+      "size": 1,
+      "maxSize": 250
+    },
     { "name": "Weight Without Bumpers",
       "code": "wwb",
+      "type": "text",
+      "size": 25,
+      "maxSize": 1000
+    },
+    { "name": "Weight With Bumpers",
+      "code": "bwp",
       "type": "text",
       "size": 25,
       "maxSize": 1000
@@ -43,29 +55,41 @@ var config_data = `
       "size": 25,
       "maxSize": 1000
     },
-    { "name": "Coral Intake Type",
+    { "name": "Fuel Intake Type",
       "code": "cit",
       "type":"radio",
       "choices": {
-        "s": "Station<br>",
-        "g": "Ground<br>",
+        "oo": "Outpost only<br>",
+        "go": "Ground only<br>",
         "b": "Both<br>",
         "n": "N/A"
       },
       "defaultValue": "n"
     },
-    { "name": "Algae Intake Type",
-      "code": "ait",
-      "type":"radio",
-      "choices": {
-        "r": "Reef<br>",
-        "g": "Ground<br>",
-        "b": "Both<br>",
-        "n": "N/A"
-      },
-      "defaultValue": "n"
+    { "name": "Hopper Capacity",
+      "code": "mhc",
+      "type": "text",
+      "size": 5
+      ,
+      "maxSize": 250
     },
-    { "name": "Comments",
+    { "name": "Can They Go Under the Trench (check=yes)",
+      "code": "cgt",
+      "type": "checkbox",
+      "defaultValue": "0"
+    },
+    { "name": "Can They Shoot on the Move (check=yes)",
+      "code": "som",
+      "type": "checkbox",
+      "defaultValue": "0"
+    },
+    { "name": "How Does Their Feeder to Shooter Work (Do NOT Use ANY Punctuation)",
+      "code": "sts",
+      "type": "text",
+      "size": 25,
+      "maxSize": 1000
+    },
+    { "name": "Comments (Do NOT Use ANY Punctuation)",
       "code": "coo",
       "type": "text",
       "size": 25,

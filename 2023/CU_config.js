@@ -1,10 +1,10 @@
 var config_data = `
 {
   "title": "2481 Match Scouting",
-  "page_title": "2025 WORLDS",
+  "page_title": "2026 CIR",
   "checkboxAs": "10",
   "prematch": [
-    { "name": "Scouter",
+    { "name": "Scouter (First name + last initial)",
       "code": "s",
       "gsCol": "scouter",
       "type": "scouter",
@@ -16,7 +16,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2025arc",
+      "defaultValue": "2026ilpe",
       "required": "true",
       "disabled": "true"
     },
@@ -65,127 +65,125 @@ var config_data = `
       "code": "rsl",
       "type":"radio",
       "choices": {
-        "p": "Coral Station - Processor Side<br>",
+        "dt": "Depot Trench<br>",
+        "db": "Depot Bump<br>",
         "c": "Center<br>",
-        "o": "Coral Station - Other<br>",
-        "x": "Out of the way"
+        "ob": "Outpost Bump<br>",
+        "ot": "Outpost Trench<br>"
       },
-      "defaultValue": "x"
+      "defaultValue": "c"
     }
   ],
   "auton": [
-   { "name": "Leave Bonus?",
-      "code": "al",
-      "type": "bool"
-    },
-    { "name": "Auto L4",
-      "code": "ah",
+    { "name": "Auto Climb",
+      "code": "ac",
       "text-color": "red",
-      "type": "counter"
+      "type": "checkbox"
     },
-    { "name": "Auto L3",
-      "code": "am",
-      "type": "counter"
+    { 
+      "name": "Seconds to Center (Auto)", 
+      "code": "stc", 
+      "type": "counter" 
     },
-    { "name": "Auto L2",
-      "code": "all",
-      "type": "counter"
-    },
-    { "name": "Auto Trough",
-      "code": "aam",
-      "type": "counter"
-    },
-    { "name": "Auto Fouls",
-      "code": "af",
-      "type": "counter"
-    },
-    { "name": "Comments: Auto",
-      "code": "aco",
-      "type": "text",
-      "size": 25,
-      "maxSize": 100
-    },
-    { "name": "Teleop L4",
-      "code": "th",
-      "type": "counter"
-    },
-    { "name": "Teleop L3",
-      "code": "tm",
-      "type": "counter"
-    },
-    { "name": "Teleop L2",
-      "code": "tl",
-      "type": "counter"
-    },
-    { "name": "Teleop Trough",
-      "code": "tt",
-      "type": "counter"
-    },
-    { "name": "Processor",
-      "code": "tp",
-      "type": "counter"
-    },
-     { "name": "Net",
-      "code": "tn",
-      "type": "counter"
-    },
-     { "name": "De-Algify",
-      "code": "tar",
-      "type": "counter"
-    },
-    { "name": "Teleoperated Fouls",
-      "code": "tf",
-      "type": "counter"
-    },
-    { "name": "Final Status",
-      "code": "ef",
-      "type":"radio",
+   { 
+      "name": "Fuel Scored During Auto", 
+      "code": "fsa", 
+      "type": "radio",
       "choices": {
-        "2": "Parked<br>",
-        "6": "Shallow Cage<br>",
-        "12": "Deep Cage<br>",
-        "0": "No points"
+        "150": "150+<br>",
+        "125": "100-149<br>",
+        "85": "75-100<br>",
+        "60": "50-74<br>",
+        "35": "25-49<br>",
+        "15": "10-24<br>",
+        "5": "1-9<br>",
+        "0": "Did Not Score<br>"
       },
       "defaultValue": "0"
-    },   
-    { "name": "De-Algify <= 3 sec?",
-      "code": "das",
-      "type":"radio",
+    },
+    { 
+      "name": "Fuel Scored During Transition Phase", 
+      "code": "fst", 
+      "type": "radio",
       "choices": {
-        "1": "yes<br>",
-        "0": "no<br>",
-        "n": "N/A"
+        "150": "150+<br>",
+        "125": "100-149<br>",
+        "85": "75-100<br>",
+        "60": "50-74<br>",
+        "35": "25-49<br>",
+        "15": "10-24<br>",
+        "5": "1-9<br>",
+        "0": "Did Not Score<br>"
       },
-      "defaultValue": "n"
+      "defaultValue": "0"
     },
-    { "name": "Pick Algae off ground <= 5 sec?",
-      "code": "pag",
-      "type":"radio",
+    { 
+      "name": "Fuel Scored For Shift 1", 
+      "code": "ss1", 
+      "type": "radio",
       "choices": {
-        "1": "yes<br>",
-        "0": "no<br>",
-        "n": "N/A"
+        "150": "150+<br>",
+        "125": "100-149<br>",
+        "85": "75-100<br>",
+        "60": "50-74<br>",
+        "35": "25-49<br>",
+        "15": "10-24<br>",
+        "5": "1-9<br>",
+        "0": "Did Not Score<br>"
       },
-      "defaultValue": "n"
+      "defaultValue": "0"
     },
-     { "name": "Ground Coral Pickup | 0 = N/A | How long to pick up coral off ground (1-10 sec)",
-      "code": "fgc",
-      "type": "counter"
+    { 
+      "name": "Fuel Scored During Shift 2", 
+      "code": "ss2", 
+      "type": "radio",
+      "choices": {
+        "150": "150+<br>",
+        "125": "100-149<br>",
+        "85": "75-100<br>",
+        "60": "50-74<br>",
+        "35": "25-49<br>",
+        "15": "10-24<br>",
+        "5": "1-9<br>",
+        "0": "Did Not Score<br>"
+      },
+      "defaultValue": "0"
     },
-    { "name": "Coral Station | 0 = N/A | How much time spent at coral station (1-10 sec)",
-      "code": "fcs",
-      "type": "counter"
+    { 
+      "name": "Fuel Scored During Endgame", 
+      "code": "fse", 
+      "type": "radio",
+      "choices": {
+        "150": "150+<br>",
+        "125": "100-149<br>",
+        "85": "75-100<br>",
+        "60": "50-74<br>",
+        "35": "25-49<br>",
+        "15": "10-24<br>",
+        "5": "1-9<br>",
+        "0": "Did Not Score<br>"
+      },
+      "defaultValue": "0"
     },
-     { "name": "Time to Score Coral | 0 = N/A | Time from entering to leaving reef when scoring (1-10 sec)",
-      "code": "fts",
-      "type": "counter"
+    { 
+      "name": "Total Fouls", 
+      "code": "ef", 
+      "type": "counter" 
     },
-    { "name": "Time to Net Score | 0 = N/A | Time from line-up back to original position or driving away (1-10 sec)",
-      "code": "ftn",
-      "type": "counter"
+    { 
+      "name": "Endgame Climb", 
+      "code": "egc", 
+      "type": "radio",
+      "choices": {
+        "30": "L3<br>",
+        "20": "L2<br>",
+        "10": "L1<br>",
+        "0": "Did not climb<br>"
+      },
+      "defaultValue": "0"
     },
-   { "name": "Climb Time",
-      "code": "fcc",
+    { "name": "Time to Climb",
+      "code": "ttc",
       "type":"radio",
       "choices": {
         "0": "Less than 10 sec<br>",
@@ -195,11 +193,65 @@ var config_data = `
       },
       "defaultValue": "n"
     },   
-    { "name": "Robot Was Defended (>50% of match) | 0 = N/A | Score 1-10 | 1 -> Robot slowed 10% | 5 -> Robot slowed 50% | 10 -> Robot shut down 100%",
+    { 
+      "name": "Preferred shooting location", 
+      "code": "psl", 
+      "type": "radio",
+      "choices": {
+        "fo": "In Front of Outpost<br>",
+        "nd": "Near Depot<br>",
+        "aw": "Against Alliance Wall<br>",
+        "ut": "Under Trench<br>",
+        "ah": "Against Hub<br>",
+        "ab": "Against Bump<br>",
+        "ft": "In front of Tower<br>",
+        "all": "Anywhere<br>",
+        "ds": "Didnt Shoot"
+      },
+      "defaultValue": "ds"
+    },
+    { 
+      "name": "How Did They Get to the Neutral Zone", 
+      "code": "nzp", 
+      "type": "radio",
+      "choices": {
+        "bup": "Bump<br>",
+        "trc": "Trench<br>",
+        "bth": "Both<br>",
+        "tdn": "They Didnt Go to the Center"
+    },
+    "defaultValue": "bup"
+  },
+  { 
+    "name": "Main Pickup Location (Teleop Only)", 
+    "code": "am", 
+    "type": "radio",
+    "choices": {
+      "op": "Outpost Area<br>",
+      "de": "Depot Area<br>",
+      "az": "Alliance Zone<br>",
+      "nz": "Neutral Zone<br>",
+      "dp": "Didnt Pickup"
+    },
+    "defaultValue": "dp"
+  },
+  { 
+    "name": "Inactive Strategy", 
+    "code": "ias", 
+    "type": "radio",
+    "choices": {
+      "dfs": "Defense<br>",
+      "puf": "Pickup Fuel<br>",
+      "pss": "Feeding/Pushing<br>",
+      "noa": "none of the above"
+    },
+    "defaultValue": "noa"
+  },
+    { "name": "Robot Was Defended |Scale of 0-5| (0 = N/A)",
       "code": "fwd",
       "type": "counter"
     },
-    { "name": "Robot Played Defense (>50% of match) | 0 = N/A | Score 1-10 | 1 -> Robot slowed 10% | 5 -> Robot slowed 50% | 10 -> Robot shut down 100%",
+    { "name": "Robot Played Defense |Scale of 0-5| (0 = N/A)",
       "code": "fpd",
       "type": "counter"
     }
