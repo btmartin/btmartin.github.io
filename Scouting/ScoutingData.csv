@@ -55,3 +55,9 @@ TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumbe
 3488_13,Malachi B,2026ilpe,qm,13,2026ilpe_qm13,b3,3488,25,25,0,0,1,0,ob,0,0,0,5,15,5,0,2,0,ah,bup,nz,dfs,n,0,1,Bryce F,114,30x23x28,s,0,35,b,128,0,1,Polybelt pushes fuel to shooter,4
 4213_13,Xander L,2026ilpe,qm,13,2026ilpe_qm13,r1,4213,0,0,0,0,1,0,ot,0,0,0,0,0,0,0,0,0,ds,bth,dp,pss,n,0,1,Mac,110.4,26x28,s,0,50,b,122.4,1,1,Over the bumper intake to a turret,2
 2022_13,Parker S,2026ilpe,qm,13,2026ilpe_qm13,,2022,0,0,0,0,1,0,dt,0,2,0,0,0,0,0,0,0,ds,trc,dp,noa,n,0,1,Cooper Sharpe,0,27x27,s,0,25,b,0,1,0,Spindexer to shooter,15
+3284_14,Nick R,2026ilpe,qm,14,2026ilpe_qm14,r2,3284,35,35,0,0,1,0,dt,0,0,15,5,15,0,0,0,0,nd,trc,az,puf,n,0,1,Elijah M,110,32 32,s,0,30,b,115,1,1,Belts,4 75
+6237_14,Elijah G.,2026ilpe,qm,14,2026ilpe_qm14,b1,6237,115,115,0,0,0,0,ot,0,0,15,15,15,35,35,0,0,nd,bup,nz,pss,n,0,0,Bryce F,103,25x27x30,s,Not very well on the move shooting,50,b,123,0,1,Use belts to move fuel to shooter,2
+4423_14,Malachi B,2026ilpe,qm,14,2026ilpe_qm14,b3,4423,20,20,0,0,0,1,ob,0,0,5,0,15,0,0,0,0,ft,bup,nz,pss,n,1,0,Luke G,93,27x27,s,Feeding ,25,go,103,0,1,Indexer ,1 5
+4787_14,Parker S,2026ilpe,qm,14,2026ilpe_qm14,,4787,15,15,0,0,0,0,c,0,0,5,0,0,5,5,0,0,fo,trc,dp,puf,n,0,0,Jake R,84.6,27 x 27,s,Passing   Auto aim   Shooting on move is in progress,35,go,90.9,1,0,Conveyor straight to shooter,1
+1756_14,Cooper S,2026ilpe,qm,14,2026ilpe_qm14,b2,1756,30,30,0,0,0,0,db,0,10,15,15,0,0,0,0,0,nd,bup,nz,pss,n,0,0,Jake W,104,26x28,s,0,45,b,116 12,0,1,Intake to spindexer to single turret,1 12
+4156_14,Xander L,2026ilpe,qm,14,2026ilpe_qm14,r1,4156,0,0,0,0,0,0,ob,0,0,0,0,0,0,0,0,0,ds,tdn,dp,noa,n,0,0,Brody K,92.5,26x26,s,Unconfident in weight,50,b,105,0,0,Conveyor Belts,2.5
