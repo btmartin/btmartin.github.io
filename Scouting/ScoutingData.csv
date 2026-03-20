@@ -126,3 +126,10 @@ _,,,,,_,,,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#
 6651_26,Jake R,2026ilpe,qm,26,2026ilpe_qm26,r1,6651,20,20,0,0,0,0,dt,0,0,5,15,0,0,0,1,0,ds,trc,nz,puf,n,0,0,Jake W,106,27x27,s,0,10,go,116,0,1,Intake to two wheel single ball tower shooter,1 12
 7472_26,Bryce F,2026ilpe,qm,26,2026ilpe_qm26,r2,7472,20,20,0,0,1,0,c,0,0,5,0,15,0,0,0,0,ut,trc,nz,puf,n,0,1,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
 2022_1,Luke G,2026ilpe,qm,1,2026ilpe_qm1,b1,2022,0,0,0,0,1,0,c,0,0,0,0,0,0,0,0,0,ds,trc,dp,dfs,n,0,1,Cooper Sharpe,0,27x27,s,0,25,b,0,1,0,Spindexer to shooter,15
+8096_27,Ryan S,2026ilpe,qm,27,2026ilpe_qm27,b3,8096,30,30,0,0,0,0,dt,0,0,5,0,5,15,5,0,0,ft,bup,nz,pss,n,0,0,Parker S,104,108 perimeter,s,Untested shoot on move unsure about bumper weighted ,35,b,115,1,0,Spinder to kicker,2
+4655_27,Mackenzie J,2026ilpe,qm,27,2026ilpe_qm27,b1,4655,115,115,0,0,0,1,ot,0,2,35,15,15,35,15,0,0,nd,bth,nz,pss,n,1,0,Elizabeth P,107,29x25.5,s,0,55,b,118.5,1,1,spindexer,4
+8029_27,Jake R,2026ilpe,qm,27,2026ilpe_qm27,r1,8029,10,10,0,0,0,0,c,0,4,5,5,0,0,0,1,0,ds,bup,nz,dfs,n,0,0,Parker,103,27x27,s,Unsure about shoot on move,15,b,110,1,0,Indexer,4
+5442_27,Elizabeth,2026ilpe,qm,27,2026ilpe_qm27,b2,5442,70,70,0,0,0,0,db,0,0,15,0,35,15,5,0,0,fo,bup,nz,puf,n,0,0,Jake R,114,26 x 28,s,0,60,go,130   roughly,0,0,Conveyor belt to elevator,2
+648_27,Jaxon C,2026ilpe,qm,27,2026ilpe_qm27,r3,648,10,10,0,0,0,0,c,0,0,0,0,0,5,5,0,0,fo,trc,nz,puf,n,0,0,Luke G,106,28x28,s,L1 climb,27,go,120,1,1,Slanted slope to push balls to shooter,1 5
+4423_27,Bryce F,2026ilpe,qm,27,2026ilpe_qm27,r2,4423,50,50,0,0,0,0,ot,0,0,5,0,15,15,15,0,0,all,bup,nz,puf,n,0,0,Luke G,93,27x27,s,Feeding ,25,go,103,0,1,Indexer ,1 5
+9082_1,Luke G,2026ilpe,qm,1,2026ilpe_qm1,b3,9082,15,15,0,0,1,0,dt,0,0,15,0,0,0,0,0,0,ft,bup,nz,pss,n,0,3,Elizabeth P,107,26.25x26.25,s,0,50,b,135,1,0,spindexer,1.5
