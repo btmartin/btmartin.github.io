@@ -36,3 +36,9 @@ TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumbe
 8096_9,Bryce F,2026ilpe,qm,9,2026ilpe_qm9,r2,8096,90,90,0,0,0,0,dt,0,4,15,0,35,35,5,0,0,ut,trc,nz,puf,n,0,0,Parker S,104,108 perimeter,s,Untested shoot on move unsure about bumper weighted ,35,b,115,1,0,Spinder to kicker,2
 6237_9,Elizabeth P,2026ilpe,qm,9,2026ilpe_qm9,b2,6237,60,60,0,0,0,0,ot,0,0,5,0,5,15,35,0,0,all,bup,nz,pss,n,0,0,Bryce F,103,25x27x30,s,Not very well on the move shooting,50,b,123,0,1,Use belts to move fuel to shooter,2
 4787_9,Ryan S,2026ilpe,qm,9,2026ilpe_qm9,b3,4787,0,0,0,0,0,0,c,0,0,0,0,0,0,0,0,0,ds,tdn,nz,puf,n,0,0,Jake R,84.6,27 x 27,s,Passing   Auto aim   Shooting on move is in progress,35,go,90.9,1,0,Conveyor straight to shooter,1
+7472_10,Judah G,2026ilpe,qm,10,2026ilpe_qm10,r3,7472,0,0,0,0,1,0,dt,0,0,0,0,0,0,0,0,0,ds,trc,dp,pss,n,0,2,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
+7417_10,Malachi,2026ilpe,qm,10,2026ilpe_qm10,b3,7417,0,0,0,0,1,0,c,0,0,0,0,0,0,0,0,0,ds,trc,nz,dfs,n,0,1,Malachi B,64,30 by 20,s,0,12,go,0,1,0,0,1
+2022_10,Elijah G.,2026ilpe,qm,10,2026ilpe_qm10,b1,2022,0,0,0,0,1,0,dt,0,2,0,0,0,0,0,0,0,ds,trc,nz,pss,n,0,2,Cooper Sharpe,0,27x27,s,0,25,b,0,1,0,Spindexer to shooter,15
+1625_10,Xander L,2026ilpe,qm,10,2026ilpe_qm10,r1,1625,120,120,0,0,1,1,ob,0,3,15,0,35,35,35,0,0,ab,bup,nz,pss,n,1,1,Anika R,114.2,27.625 x 27.375,s,0,45,go,130,0,1,Over the bumper intake to a turret,2
+4423_10,Cooper S,2026ilpe,qm,10,2026ilpe_qm10,b2,4423,100,90,10,0,0,0,ot,0,0,5,0,35,35,15,0,10,nd,bth,nz,pss,0,0,0,Luke G,93,27x27,s,Feeding ,25,go,103,0,1,Indexer ,1 5
+3067_10,Nick R,2026ilpe,qm,10,2026ilpe_qm10,r2,3067,20,20,0,0,0,0,db,0,0,5,0,5,5,5,0,0,ft,bup,nz,puf,n,0,0,Malachi B,103,27 by 27 29 high,s,0,50,b,107,0,1,Spindexer ,1 and a half
