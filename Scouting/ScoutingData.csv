@@ -171,3 +171,9 @@ _,,,,,_,,,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#
 2040_34,Xander,2026ilpe,qm,34,2026ilpe_qm34,r1,2040,45,45,0,0,1,0,dt,0,0,15,0,15,15,0,0,0,ft,trc,nz,pss,n,0,2,Elijah M,110,27 27 5,s,0,40,go,114,1,1,Belts,4
 4645_34,Cooper S,2026ilpe,qm,34,2026ilpe_qm34,b2,4645,5,5,0,0,0,0,dt,0,0,5,0,0,0,0,0,0,ds,tdn,dp,noa,n,0,0,Luke G,107,27x27,s,0,40,b,115,1,1,Spindexter,2
 648_4,Luke G,2026ilpe,qm,4,2026ilpe_qm4,b3,648,0,0,0,0,0,0,c,0,0,0,0,0,0,0,0,0,ds,bup,dp,noa,n,0,0,Luke G,106,28x28,s,L1 climb,27,go,120,1,1,Slanted slope to push balls to shooter,1 5
+4096_35,Elijah G.,2026ilpe,qm,35,2026ilpe_qm35,b1,4096,125,125,0,0,0,0,dt,0,2,15,5,35,35,35,0,0,nd,trc,nz,pss,n,0,0,Liam p,108,28x26,s,Three wide robot,40,b,118,1,1,0,2
+3067_35,Nick R,2026ilpe,qm,35,2026ilpe_qm35,r2,3067,40,40,0,0,0,0,c,0,0,0,5,15,5,15,0,0,nd,bup,nz,puf,n,0,0,Malachi B,103,27 by 27 29 high,s,0,50,b,107,0,1,Spindexer ,1 and a half
+5442_35,Xander L,2026ilpe,qm,35,2026ilpe_qm35,r1,5442,70,70,0,0,1,0,db,0,2,0,15,5,15,35,0,0,ds,bup,nz,pss,n,0,1,Jake R,114,26 x 28,s,0,60,go,130   roughly,0,0,Conveyor belt to elevator,2
+6651_35,Cooper S,2026ilpe,qm,35,2026ilpe_qm35,b2,6651,5,5,0,0,0,0,c,0,0,5,0,0,0,0,0,0,ds,bup,dp,noa,n,0,0,Jake W,106,27x27,s,0,10,go,116,0,1,Intake to two wheel single ball tower shooter,1 12
+1756_35,Gavin c,2026ilpe,qm,35,2026ilpe_qm35,b3,1756,180,180,0,0,0,0,ob,0,2,0,0,60,60,60,0,0,all,bup,nz,pss,n,0,0,Jake W,104,26x28,s,0,45,b,116 12,0,1,Intake to spindexer to single turret,1 12
+4423_34,Parker S,2026ilpe,qm,34,2026ilpe_qm34,,4423,50,40,10,0,0,0,ob,0,0,0,15,15,5,5,0,10,fo,bup,dp,puf,0,0,0,Luke G,93,27x27,s,Feeding ,25,go,103,0,1,Indexer ,1 5
