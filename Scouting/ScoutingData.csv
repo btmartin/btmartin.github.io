@@ -67,3 +67,9 @@ TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumbe
 5442_15,Xander L,2026ilpe,qm,15,2026ilpe_qm15,r1,5442,65,65,0,0,0,1,db,0,2,0,0,15,15,35,0,0,ft,bup,nz,pss,n,1,0,Jake R,114,26 x 28,s,0,60,go,130   roughly,0,0,Conveyor belt to elevator,2
 1625_15,Cooper S,2026ilpe,qm,15,2026ilpe_qm15,b2,1625,80,80,0,0,0,0,db,0,5,15,0,15,35,15,0,0,ft,trc,nz,pss,n,0,0,Anika R,114.2,27.625 x 27.375,s,0,45,go,130,0,1,Over the bumper intake to a turret,2
 2861_15,Parker S,2026ilpe,qm,15,2026ilpe_qm15,r3,2861,40,40,0,0,0,0,c,0,0,5,15,5,0,15,0,0,ft,trc,nz,puf,n,0,0,Ryan s,98,21 x 33,s,No metal frame,45,b,110,1,0,Grip wheels for intake,1
+1736_16,Elijah G.,2026ilpe,qm,16,2026ilpe_qm16,b1,1736,20,20,0,0,1,0,c,0,0,5,0,15,0,0,0,0,ah,bup,nz,pss,n,0,1,Mia S + Elizabeth P,105,27x27,s,0,30,b,116,0,1,"intake throws ball up, spindexer takes in balls to shoot",2
+648_16,Cooper S,2026ilpe,qm,16,2026ilpe_qm16,b2,648,5,5,0,0,0,0,ob,0,4,0,0,5,0,0,0,0,ds,tdn,dp,noa,n,0,0,Luke G,106,28x28,s,L1 climb,27,go,120,1,1,Slanted slope to push balls to shooter,1 5
+4143_16,Nick R,2026ilpe,qm,16,2026ilpe_qm16,r2,4143,175,175,0,0,0,0,ob,0,0,35,5,60,60,15,0,0,ft,bup,nz,puf,n,0,0,Ryan S,105,28 x 26,s,0,72,n,120,0,0,Roller bed,1 5
+8096_16,Luke G,2026ilpe,qm,16,2026ilpe_qm16,r1,8096,85,85,0,0,1,1,dt,0,8,15,5,35,15,15,0,0,ut,bth,az,pss,n,2,1,Parker S,104,108 perimeter,s,Untested shoot on move unsure about bumper weighted ,35,b,115,1,0,Spinder to kicker,2
+7472_16,Malachi B,2026ilpe,qm,16,2026ilpe_qm16,b3,7472,0,0,0,0,1,0,ot,0,0,0,0,0,0,0,1,0,ds,bup,dp,dfs,n,0,1,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
+2022_16,Parker S,2026ilpe,qm,16,2026ilpe_qm16,,2022,0,0,0,0,0,0,c,0,0,0,0,0,0,0,0,0,ds,trc,dp,pss,n,0,0,Cooper Sharpe,0,27x27,s,0,25,b,0,1,0,Spindexer to shooter,15
