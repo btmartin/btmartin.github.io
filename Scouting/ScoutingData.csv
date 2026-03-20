@@ -209,3 +209,9 @@ _,,,,,_,,,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#
 4655_41,Elizabeth P,2026ilpe,qm,41,2026ilpe_qm41,b2,4655,80,80,0,0,0,0,dt,0,3,0,35,15,15,15,0,0,all,bth,nz,puf,n,0,0,Elizabeth P,107,29x25.5,s,0,55,b,118.5,1,1,spindexer,4
 4096_41,Ryan S,2026ilpe,qm,41,2026ilpe_qm41,b3,4096,70,70,0,0,0,0,ot,0,0,5,0,15,15,35,0,0,fo,trc,nz,pss,n,0,0,Liam p,108,28x26,s,Three wide robot,40,b,118,1,1,0,2
 2039_41,Bryce F,2026ilpe,qm,41,2026ilpe_qm41,r2,2039,10,10,0,0,0,0,c,0,0,5,0,5,0,0,0,0,ft,trc,nz,puf,n,0,0,Brody K,73.1,26.5x26.5,t,Has L1 climb,12,go,80.6,0,1,Rollers,1
+8020_42,Elizabeth P,2026ilpe,qm,42,2026ilpe_qm42,b2,8020,90,90,0,0,0,1,c,0,0,15,0,35,35,5,0,0,all,trc,az,pss,n,1,0,Bryce F,112,25x27x22,s,0,30,b,123,1,1,Wheels move balls to shooter,2
+9082_42,Jaxon C,2026ilpe,qm,42,2026ilpe_qm42,r3,9082,140,140,0,0,0,0,ot,0,0,35,0,35,35,35,0,0,all,trc,nz,pss,n,0,0,Elizabeth P,107,26.25x26.25,s,0,50,b,135,1,0,spindexer,1.5
+7472_42,Mackenzie J,2026ilpe,qm,42,2026ilpe_qm42,b1,7472,10,10,0,0,0,0,dt,0,4,5,0,5,0,0,0,0,nd,trc,az,puf,n,0,0,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
+1756_42,Ryan S,2026ilpe,qm,42,2026ilpe_qm42,b3,1756,75,75,0,0,0,1,ob,0,0,5,15,15,5,35,0,0,ab,bup,dp,pss,n,4,0,Jake W,104,26x28,s,0,45,b,116 12,0,1,Intake to spindexer to single turret,1 12
+648_42,Jake R,2026ilpe,qm,42,2026ilpe_qm42,r1,648,0,0,0,0,1,0,c,0,0,0,0,0,0,0,0,0,ds,bth,dp,dfs,n,0,1,Luke G,106,28x28,s,L1 climb,27,go,120,1,1,Slanted slope to push balls to shooter,1 5
+3284_42,Bryce F,2026ilpe,qm,42,2026ilpe_qm42,r2,3284,25,25,0,0,0,0,ot,0,8,15,5,5,0,0,0,0,ft,trc,nz,dfs,n,0,0,Elijah M,110,32 32,s,0,30,b,115,1,1,Belts,4 75
