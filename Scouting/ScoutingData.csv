@@ -49,3 +49,9 @@ TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumbe
 648_12,Cooper S,2026ilpe,qm,12,2026ilpe_qm12,b2,648,0,0,0,0,0,0,c,0,0,0,0,0,0,0,0,0,ds,bth,nz,pss,n,0,0,Luke G,106,28x28,s,L1 climb,27,go,120,1,1,Slanted slope to push balls to shooter,1 5
 2039_12,Parker S,2026ilpe,qm,12,2026ilpe_qm12,r3,2039,30,20,10,0,0,0,c,0,0,5,5,5,0,5,0,10,ft,trc,nz,puf,2,0,0,Brody K,73.1,26.5x26.5,t,Has L1 climb,12,go,80.6,0,1,Rollers,1
 8719_12,Xander L,2026ilpe,qm,12,2026ilpe_qm12,r1,8719,0,0,0,0,0,0,dt,0,0,0,0,0,0,0,0,0,ds,trc,dp,noa,n,0,0,Ryan S,80,27 by 27,s,When asked their bot is unique because of hard work,25,go,85,1,1,Conveyer feeder ,1.5
+3067_13,Elijah G.,2026ilpe,qm,13,2026ilpe_qm13,b1,3067,25,25,0,0,0,0,c,0,0,0,0,15,5,5,0,0,nd,bup,nz,pss,n,0,0,Malachi B,103,27 by 27 29 high,s,0,50,b,107,0,1,Spindexer ,1 and a half
+1736_13,Nick R,2026ilpe,qm,13,2026ilpe_qm13,r2,1736,25,25,0,0,0,0,c,0,0,5,0,0,5,15,0,0,nd,bup,az,puf,n,0,0,Mia S + Elizabeth P,105,27x27,s,0,30,b,116,0,1,"intake throws ball up, spindexer takes in balls to shoot",2
+8029_13,Cooper S,2026ilpe,qm,13,2026ilpe_qm13,b2,8029,10,10,0,0,0,0,dt,0,10,0,5,5,0,0,0,0,ah,trc,nz,pss,n,0,0,Parker,103,27x27,s,Unsure about shoot on move,15,b,110,1,0,Indexer,4
+3488_13,Malachi B,2026ilpe,qm,13,2026ilpe_qm13,b3,3488,25,25,0,0,1,0,ob,0,0,0,5,15,5,0,2,0,ah,bup,nz,dfs,n,0,1,Bryce F,114,30x23x28,s,0,35,b,128,0,1,Polybelt pushes fuel to shooter,4
+4213_13,Xander L,2026ilpe,qm,13,2026ilpe_qm13,r1,4213,0,0,0,0,1,0,ot,0,0,0,0,0,0,0,0,0,ds,bth,dp,pss,n,0,1,Mac,110.4,26x28,s,0,50,b,122.4,1,1,Over the bumper intake to a turret,2
+2022_13,Parker S,2026ilpe,qm,13,2026ilpe_qm13,,2022,0,0,0,0,1,0,dt,0,2,0,0,0,0,0,0,0,ds,trc,dp,noa,n,0,1,Cooper Sharpe,0,27x27,s,0,25,b,0,1,0,Spindexer to shooter,15
