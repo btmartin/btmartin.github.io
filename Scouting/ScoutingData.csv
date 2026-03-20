@@ -43,3 +43,9 @@ TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumbe
 4423_10,Cooper S,2026ilpe,qm,10,2026ilpe_qm10,b2,4423,100,90,10,0,0,0,ot,0,0,5,0,35,35,15,0,10,nd,bth,nz,pss,0,0,0,Luke G,93,27x27,s,Feeding ,25,go,103,0,1,Indexer ,1 5
 3067_10,Nick R,2026ilpe,qm,10,2026ilpe_qm10,r2,3067,20,20,0,0,0,0,db,0,0,5,0,5,5,5,0,0,ft,bup,nz,puf,n,0,0,Malachi B,103,27 by 27 29 high,s,0,50,b,107,0,1,Spindexer ,1 and a half
 2481_11,Luke G,2026ilpe,qm,11,2026ilpe_qm11,b3,2481,370,370,0,0,0,1,db,0,3,85,15,60,85,125,0,0,ah,bup,nz,puf,n,2,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+8020_12,Nick R,2026ilpe,qm,12,2026ilpe_qm12,,8020,50,50,0,0,0,0,ot,0,0,15,0,5,15,15,0,0,ft,trc,nz,pss,n,0,0,Bryce F,112,25x27x22,s,0,30,b,123,1,1,Wheels move balls to shooter,2
+2040_12,Elijah G.,2026ilpe,qm,12,2026ilpe_qm12,b1,2040,120,120,0,0,0,0,dt,0,4,15,0,35,35,35,0,0,ab,bup,nz,pss,n,0,0,Elijah M,110,27 27 5,s,0,40,go,114,1,1,Belts,4
+6651_12,Malachi B,2026ilpe,qm,12,2026ilpe_qm12,b3,6651,0,0,0,0,1,0,ot,0,0,0,0,0,0,0,0,0,ds,bup,dp,noa,n,0,1,Jake W,106,27x27,s,0,10,go,116,0,1,Intake to two wheel single ball tower shooter,1 12
+648_12,Cooper S,2026ilpe,qm,12,2026ilpe_qm12,b2,648,0,0,0,0,0,0,c,0,0,0,0,0,0,0,0,0,ds,bth,nz,pss,n,0,0,Luke G,106,28x28,s,L1 climb,27,go,120,1,1,Slanted slope to push balls to shooter,1 5
+2039_12,Parker S,2026ilpe,qm,12,2026ilpe_qm12,r3,2039,30,20,10,0,0,0,c,0,0,5,5,5,0,5,0,10,ft,trc,nz,puf,2,0,0,Brody K,73.1,26.5x26.5,t,Has L1 climb,12,go,80.6,0,1,Rollers,1
+8719_12,Xander L,2026ilpe,qm,12,2026ilpe_qm12,r1,8719,0,0,0,0,0,0,dt,0,0,0,0,0,0,0,0,0,ds,trc,dp,noa,n,0,0,Ryan S,80,27 by 27,s,When asked their bot is unique because of hard work,25,go,85,1,1,Conveyer feeder ,1.5
