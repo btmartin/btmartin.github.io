@@ -253,3 +253,9 @@ _50,Parker S,2026ilpe,qm,50,2026ilpe_qm50,,,50,50,0,0,1,1,c,0,1,0,0,0,15,35,0,0,
 4655_51,Parker S,2026ilpe,qm,51,2026ilpe_qm51,r3,4655,35,35,0,0,0,1,ot,0,0,0,15,0,15,5,0,0,fo,bth,nz,puf,n,2,0,Elizabeth P,107,29x25.5,s,0,55,b,118.5,1,1,spindexer,4
 5442_50,Gavin C,2026ilpe,qm,50,2026ilpe_qm50,b3,5442,15,15,0,0,0,0,c,0,0,0,5,0,5,5,0,0,ft,bup,nz,pss,n,0,0,Jake R,114,26 x 28,s,0,60,go,130   roughly,0,0,Conveyor belt to elevator,2
 7472_51,Xander,2026ilpe,qm,51,2026ilpe_qm51,r1,7472,30,30,0,0,0,0,c,0,0,5,5,0,15,5,0,0,all,bup,dp,puf,n,0,0,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
+4423_52,Xander,2026ilpe,qm,52,2026ilpe_qm52,r1,4423,125,115,10,0,0,0,c,0,0,5,5,35,35,35,0,10,all,trc,nz,pss,0,0,0,Luke G,93,27x27,s,Feeding ,25,go,103,0,1,Indexer ,1 5
+7848_51,Gavin C,2026ilpe,qm,51,2026ilpe_qm51,b3,7848,35,35,0,0,0,0,ot,0,0,5,0,0,15,15,0,0,ft,bth,nz,pss,n,0,0,Jake W,113,30x25,s,Low hopper capacity trench bot,30,b,126,1,1,Funnel and roller into a split shooter mechanism ,1
+9082_52,Elijah G.,2026ilpe,qm,52,2026ilpe_qm52,b1,9082,95,95,0,0,0,0,dt,0,2,5,5,15,35,35,0,0,ft,bth,nz,pss,n,0,0,Elizabeth P,107,26.25x26.25,s,0,50,b,135,1,0,spindexer,1.5
+2861_52,Nick R,2026ilpe,qm,52,2026ilpe_qm52,r2,2861,40,40,0,0,0,1,c,0,0,5,0,15,15,5,0,0,ft,trc,nz,puf,n,1,0,Ryan s,98,21 x 33,s,No metal frame,45,b,110,1,0,Grip wheels for intake,1
+2040_52,Parker S,2026ilpe,qm,52,2026ilpe_qm52,r3,2040,75,75,0,0,0,0,ot,0,0,5,15,5,35,15,0,0,ah,bth,nz,puf,n,0,0,Elijah M,110,27 27 5,s,0,40,go,114,1,1,Belts,4
+4213_52,Cooper S,2026ilpe,qm,52,2026ilpe_qm52,b2,4213,0,0,0,0,1,0,c,0,0,0,0,0,0,0,0,0,ft,bth,nz,noa,n,0,1,Mac,110.4,26x28,s,0,50,b,122.4,1,1,Over the bumper intake to a turret,2
