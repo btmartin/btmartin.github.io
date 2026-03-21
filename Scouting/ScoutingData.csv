@@ -1,229 +1,226 @@
 TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumber,totalPoints,totalFuel,totalClimbPoints,autoClimbPoints,playedDefense,wasDefended,robotStartLocation,autoClimb,secToCenter,autoFuel,transitionFuel,activeShiftFuel1,activeShiftFuel2,endgameFuel,foulsTotal,endgameClimb,shootingPreferredLocation,neutralZonePath,mainPickupLocation,inactiveStrategy,climbTime,wasDRating,playedDRating,pitScouter,weightNoBumpers,dimensionsNoBumpers,drivetrainType,pitComments,hopperCapacity,fuelIntakeType,weightWithBumpers,trenchAbility,shootOnMove,feederToShooter,wheelWidth
-4645_1,Jaxon C,2026ilpe,qm,1,2026ilpe_qm1,r3,4645,0,0,0,0,0,0,dt,0,0,0,0,0,0,0,0,0,ds,trc,nz,noa,n,0,0,Luke G,107,27x27,s,0,40,b,115,1,1,Spindexter,2
-2039_1,Jake R,2026ilpe,qm,1,2026ilpe_qm1,r1,2039,0,0,0,0,0,0,c,0,,0,0,0,0,0,0,0,ds,,nz,noa,n,0,0,Brody K,73.1,26.5x26.5,t,Has L1 climb,12,go,80.6,0,1,Rollers,1
-6237_1,Bryce F,2026ilpe,qm,1,2026ilpe_qm1,r2,6237,85,85,0,0,0,1,ot,0,0,15,0,35,0,35,0,0,ft,bup,nz,puf,n,3,0,Bryce F,103,25x27x30,s,Not very well on the move shooting,50,b,123,0,1,Use belts to move fuel to shooter,2
-2040_1,Elizabeth P,2026ilpe,qm,1,2026ilpe_qm1,b2,2040,115,115,0,0,0,0,dt,0,3,15,15,35,15,35,0,0,ft,trc,nz,puf,n,0,0,Elijah M,110,27 27 5,s,0,40,go,114,1,1,Belts,4
-4655_2,Jaxon C,2026ilpe,qm,2,2026ilpe_qm2,r3,4655,15,15,0,0,1,0,ot,0,2,0,15,0,0,0,0,0,all,trc,nz,dfs,n,0,2,Elizabeth P,107,29x25.5,s,0,55,b,118.5,1,1,spindexer,4
-3284_2,Jake R,2026ilpe,qm,2,2026ilpe_qm2,r1,3284,10,10,0,0,1,0,dt,0,3,5,5,0,0,0,1,0,fo,bth,nz,dfs,n,0,3,Elijah M,110,32 32,s,0,30,b,115,1,1,Belts,4 75
-4143_2,Elizabeth P,2026ilpe,qm,2,2026ilpe_qm2,b2,4143,95,95,0,0,0,1,ob,0,2,15,15,35,15,15,0,0,all,bup,nz,pss,n,3,0,Ryan S,105,28 x 26,s,0,72,n,120,0,0,Roller bed,1 5
-1756_2,Bryce F,2026ilpe,qm,2,2026ilpe_qm2,r2,1756,90,90,0,0,0,0,db,0,2,0,15,35,5,35,0,0,nd,bup,nz,puf,n,0,0,Jake W,104,26x28,s,0,45,b,116 12,0,1,Intake to spindexer to single turret,1 12
-7417_3,Jake R,2026ilpe,qm,3,2026ilpe_qm3,r1,7417,5,5,0,0,1,0,ot,0,0,5,0,0,0,0,1,0,ds,bth,nz,dfs,n,0,3,Malachi B,64,30 by 20,s,0,12,go,0,1,0,0,1
-4213_3,Jaxon C,2026ilpe,qm,3,2026ilpe_qm3,r3,4213,0,0,0,0,0,1,ob,0,0,0,0,0,0,0,0,0,ds,bth,nz,pss,n,4,0,Mac,110.4,26x28,s,0,50,b,122.4,1,1,Over the bumper intake to a turret,2
-4787_3,Bryce F,2026ilpe,qm,3,2026ilpe_qm3,r2,4787,75,75,0,0,0,0,c,0,0,5,5,35,15,15,0,0,ft,trc,az,puf,n,0,0,Jake R,84.6,27 x 27,s,Passing   Auto aim   Shooting on move is in progress,35,go,90.9,1,0,Conveyor straight to shooter,1
-5442_3,Elizabeth P,2026ilpe,qm,3,2026ilpe_qm3,b2,5442,35,35,0,0,1,1,db,0,3,0,0,15,15,5,0,0,all,bup,nz,puf,n,3,1,Jake R,114,26 x 28,s,0,60,go,130   roughly,0,0,Conveyor belt to elevator,2
-4423_4,Jaxon C,2026ilpe,qm,4,2026ilpe_qm4,r3,4423,30,20,10,0,0,0,ot,0,0,0,0,0,5,15,0,10,ft,bth,nz,pss,0,0,0,Luke G,93,27x27,s,Feeding ,25,go,103,0,1,Indexer ,1 5
-8020_3,Mackenzie,2026ilpe,qm,3,2026ilpe_qm3,b1,8020,60,60,0,0,0,0,ot,0,0,15,0,15,15,15,0,0,nd,trc,nz,pss,n,0,0,Bryce F,112,25x27x22,s,0,30,b,123,1,1,Wheels move balls to shooter,2
-1625_4,Jake R,2026ilpe,qm,4,2026ilpe_qm4,r1,1625,105,105,0,0,0,0,db,0,3,15,5,35,35,15,0,0,all,bup,nz,puf,n,0,0,Anika R,114.2,27.625 x 27.375,s,0,45,go,130,0,1,Over the bumper intake to a turret,2
-3488_4,Bryce F,2026ilpe,qm,4,2026ilpe_qm4,r2,3488,35,35,0,0,0,0,c,0,0,0,0,15,5,15,0,0,ah,bup,az,puf,n,0,0,Bryce F,114,30x23x28,s,0,35,b,128,0,1,Polybelt pushes fuel to shooter,4
-2861_4,Elizabeth P,2026ilpe,qm,4,2026ilpe_qm4,b2,2861,90,90,0,0,0,0,db,0,0,5,0,15,35,35,0,0,fo,trc,az,puf,n,0,0,Ryan s,98,21 x 33,s,No metal frame,45,b,110,1,0,Grip wheels for intake,1
-2481_5,Anika,2026ilpe,qm,5,2026ilpe_qm5,b3,2481,85,85,0,0,1,0,db,0,3,85,0,0,0,0,2,0,ds,bup,az,dfs,n,0,4,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
-2039_6,Anika,2026ilpe,qm,6,2026ilpe_qm6,b1,2039,15,5,10,0,1,0,c,0,0,5,0,0,0,0,0,10,ft,bup,dp,dfs,2,0,2,Brody K,73.1,26.5x26.5,t,Has L1 climb,12,go,80.6,0,1,Rollers,1
-4213_6,Ryan S,2026ilpe,qm,6,2026ilpe_qm6,b3,4213,5,5,0,0,1,0,ot,0,0,0,0,0,0,5,0,0,ds,bth,nz,pss,n,0,1,Mac,110.4,26x28,s,0,50,b,122.4,1,1,Over the bumper intake to a turret,2
-5442_6,Bryce F,2026ilpe,qm,6,2026ilpe_qm6,r2,5442,45,45,0,0,0,1,ob,0,1,0,0,15,15,15,2,0,all,bup,az,puf,n,1,0,Jake R,114,26 x 28,s,0,60,go,130   roughly,0,0,Conveyor belt to elevator,2
-3284_6,Jake R,2026ilpe,qm,6,2026ilpe_qm6,r1,3284,5,5,0,0,1,0,ob,0,4,5,0,0,0,0,1,0,ds,bup,dp,noa,n,0,2,Elijah M,110,32 32,s,0,30,b,115,1,1,Belts,4 75
-4655_6,Elizabeth P,2026ilpe,qm,6,2026ilpe_qm6,b2,4655,40,40,0,0,0,1,dt,0,2,0,5,5,15,15,0,0,all,bth,az,puf,n,1,0,Elizabeth P,107,29x25.5,s,0,55,b,118.5,1,1,spindexer,4
-6651_6,Jaxon C,2026ilpe,qm,6,2026ilpe_qm6,r3,6651,0,0,0,0,0,0,ot,0,0,0,0,0,0,0,0,0,ds,tdn,dp,noa,n,0,0,Jake W,106,27x27,s,0,10,go,116,0,1,Intake to two wheel single ball tower shooter,1 12
-2861_7,Mackenzie J,2026ilpe,qm,7,2026ilpe_qm7,b1,2861,50,50,0,0,0,0,db,0,0,5,0,15,15,15,0,0,all,trc,nz,puf,n,0,0,Ryan s,98,21 x 33,s,No metal frame,45,b,110,1,0,Grip wheels for intake,1
-4645_7,Jaxon C,2026ilpe,qm,7,2026ilpe_qm7,r3,4645,0,0,0,0,0,0,c,0,0,0,0,0,0,0,0,0,ds,trc,dp,pss,n,0,0,Luke G,107,27x27,s,0,40,b,115,1,1,Spindexter,2
-4143_7,Bryce F,2026ilpe,qm,7,2026ilpe_qm7,r2,4143,320,320,0,0,0,0,ob,0,2,35,15,125,85,60,0,0,ft,bup,nz,puf,n,0,0,Ryan S,105,28 x 26,s,0,72,n,120,0,0,Roller bed,1 5
-1736_7,Ryan S,2026ilpe,qm,7,2026ilpe_qm7,b3,1736,10,10,0,0,1,0,c,0,0,0,0,5,0,5,0,0,ds,bup,az,puf,n,0,1,Mia S + Elizabeth P,105,27x27,s,0,30,b,116,0,1,"intake throws ball up, spindexer takes in balls to shoot",2
-2040_7,Jake R,2026ilpe,qm,7,2026ilpe_qm7,r1,2040,45,45,0,0,0,0,c,0,3,15,5,5,5,15,0,0,ft,bup,nz,puf,n,0,0,Elijah M,110,27 27 5,s,0,40,go,114,1,1,Belts,4
-3488_7,Elizabeth P,2026ilpe,qm,7,2026ilpe_qm7,b2,3488,20,20,0,0,0,0,ob,0,0,0,0,15,5,0,0,0,ft,bup,nz,puf,n,0,0,Bryce F,114,30x23x28,s,0,35,b,128,0,1,Polybelt pushes fuel to shooter,4
-2481_8,Anika,2026ilpe,qm,8,2026ilpe_qm8,b3,2481,300,300,0,0,0,1,db,0,3,85,35,85,35,60,0,0,ft,bup,nz,puf,n,1,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
-8020_9,Jaxon C,2026ilpe,qm,9,2026ilpe_qm9,r3,8020,100,100,0,0,0,0,ot,0,2,15,0,35,35,15,0,0,all,trc,nz,pss,n,0,0,Bryce F,112,25x27x22,s,0,30,b,123,1,1,Wheels move balls to shooter,2
-7848_9,Mackenzie J,2026ilpe,qm,9,2026ilpe_qm9,b1,7848,20,20,0,0,0,0,dt,0,0,0,0,15,0,5,0,0,nd,trc,az,pss,n,0,0,Jake W,113,30x25,s,Low hopper capacity trench bot,30,b,126,1,1,Funnel and roller into a split shooter mechanism ,1
-6651_9,Jake R,2026ilpe,qm,9,2026ilpe_qm9,r1,6651,0,0,0,0,1,0,db,0,0,0,0,0,0,0,0,0,ds,bup,dp,dfs,n,0,1,Jake W,106,27x27,s,0,10,go,116,0,1,Intake to two wheel single ball tower shooter,1 12
-8096_9,Bryce F,2026ilpe,qm,9,2026ilpe_qm9,r2,8096,90,90,0,0,0,0,dt,0,4,15,0,35,35,5,0,0,ut,trc,nz,puf,n,0,0,Parker S,104,108 perimeter,s,Untested shoot on move unsure about bumper weighted ,35,b,115,1,0,Spinder to kicker,2
-6237_9,Elizabeth P,2026ilpe,qm,9,2026ilpe_qm9,b2,6237,60,60,0,0,0,0,ot,0,0,5,0,5,15,35,0,0,all,bup,nz,pss,n,0,0,Bryce F,103,25x27x30,s,Not very well on the move shooting,50,b,123,0,1,Use belts to move fuel to shooter,2
-4787_9,Ryan S,2026ilpe,qm,9,2026ilpe_qm9,b3,4787,0,0,0,0,0,0,c,0,0,0,0,0,0,0,0,0,ds,tdn,nz,puf,n,0,0,Jake R,84.6,27 x 27,s,Passing   Auto aim   Shooting on move is in progress,35,go,90.9,1,0,Conveyor straight to shooter,1
-7472_10,Judah G,2026ilpe,qm,10,2026ilpe_qm10,r3,7472,0,0,0,0,1,0,dt,0,0,0,0,0,0,0,0,0,ds,trc,dp,pss,n,0,2,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
-7417_10,Malachi,2026ilpe,qm,10,2026ilpe_qm10,b3,7417,0,0,0,0,1,0,c,0,0,0,0,0,0,0,0,0,ds,trc,nz,dfs,n,0,1,Malachi B,64,30 by 20,s,0,12,go,0,1,0,0,1
-2022_10,Elijah G.,2026ilpe,qm,10,2026ilpe_qm10,b1,2022,0,0,0,0,1,0,dt,0,2,0,0,0,0,0,0,0,ds,trc,nz,pss,n,0,2,Cooper Sharpe,0,27x27,s,0,25,b,0,1,0,Spindexer to shooter,15
+_,,,,,_,,,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
 1625_10,Xander L,2026ilpe,qm,10,2026ilpe_qm10,r1,1625,120,120,0,0,1,1,ob,0,3,15,0,35,35,35,0,0,ab,bup,nz,pss,n,1,1,Anika R,114.2,27.625 x 27.375,s,0,45,go,130,0,1,Over the bumper intake to a turret,2
-4423_10,Cooper S,2026ilpe,qm,10,2026ilpe_qm10,b2,4423,100,90,10,0,0,0,ot,0,0,5,0,35,35,15,0,10,nd,bth,nz,pss,0,0,0,Luke G,93,27x27,s,Feeding ,25,go,103,0,1,Indexer ,1 5
-3067_10,Nick R,2026ilpe,qm,10,2026ilpe_qm10,r2,3067,20,20,0,0,0,0,db,0,0,5,0,5,5,5,0,0,ft,bup,nz,puf,n,0,0,Malachi B,103,27 by 27 29 high,s,0,50,b,107,0,1,Spindexer ,1 and a half
-2481_11,Luke G,2026ilpe,qm,11,2026ilpe_qm11,b3,2481,370,370,0,0,0,1,db,0,3,85,15,60,85,125,0,0,ah,bup,nz,puf,n,2,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
-8020_12,Nick R,2026ilpe,qm,12,2026ilpe_qm12,,8020,50,50,0,0,0,0,ot,0,0,15,0,5,15,15,0,0,ft,trc,nz,pss,n,0,0,Bryce F,112,25x27x22,s,0,30,b,123,1,1,Wheels move balls to shooter,2
-2040_12,Elijah G.,2026ilpe,qm,12,2026ilpe_qm12,b1,2040,120,120,0,0,0,0,dt,0,4,15,0,35,35,35,0,0,ab,bup,nz,pss,n,0,0,Elijah M,110,27 27 5,s,0,40,go,114,1,1,Belts,4
-6651_12,Malachi B,2026ilpe,qm,12,2026ilpe_qm12,b3,6651,0,0,0,0,1,0,ot,0,0,0,0,0,0,0,0,0,ds,bup,dp,noa,n,0,1,Jake W,106,27x27,s,0,10,go,116,0,1,Intake to two wheel single ball tower shooter,1 12
-648_12,Cooper S,2026ilpe,qm,12,2026ilpe_qm12,b2,648,0,0,0,0,0,0,c,0,0,0,0,0,0,0,0,0,ds,bth,nz,pss,n,0,0,Luke G,106,28x28,s,L1 climb,27,go,120,1,1,Slanted slope to push balls to shooter,1 5
-2039_12,Parker S,2026ilpe,qm,12,2026ilpe_qm12,r3,2039,30,20,10,0,0,0,c,0,0,5,5,5,0,5,0,10,ft,trc,nz,puf,2,0,0,Brody K,73.1,26.5x26.5,t,Has L1 climb,12,go,80.6,0,1,Rollers,1
-8719_12,Xander L,2026ilpe,qm,12,2026ilpe_qm12,r1,8719,0,0,0,0,0,0,dt,0,0,0,0,0,0,0,0,0,ds,trc,dp,noa,n,0,0,Ryan S,80,27 by 27,s,When asked their bot is unique because of hard work,25,go,85,1,1,Conveyer feeder ,1.5
-3067_13,Elijah G.,2026ilpe,qm,13,2026ilpe_qm13,b1,3067,25,25,0,0,0,0,c,0,0,0,0,15,5,5,0,0,nd,bup,nz,pss,n,0,0,Malachi B,103,27 by 27 29 high,s,0,50,b,107,0,1,Spindexer ,1 and a half
-1736_13,Nick R,2026ilpe,qm,13,2026ilpe_qm13,r2,1736,25,25,0,0,0,0,c,0,0,5,0,0,5,15,0,0,nd,bup,az,puf,n,0,0,Mia S + Elizabeth P,105,27x27,s,0,30,b,116,0,1,"intake throws ball up, spindexer takes in balls to shoot",2
-8029_13,Cooper S,2026ilpe,qm,13,2026ilpe_qm13,b2,8029,10,10,0,0,0,0,dt,0,10,0,5,5,0,0,0,0,ah,trc,nz,pss,n,0,0,Parker,103,27x27,s,Unsure about shoot on move,15,b,110,1,0,Indexer,4
-3488_13,Malachi B,2026ilpe,qm,13,2026ilpe_qm13,b3,3488,25,25,0,0,1,0,ob,0,0,0,5,15,5,0,2,0,ah,bup,nz,dfs,n,0,1,Bryce F,114,30x23x28,s,0,35,b,128,0,1,Polybelt pushes fuel to shooter,4
-4213_13,Xander L,2026ilpe,qm,13,2026ilpe_qm13,r1,4213,0,0,0,0,1,0,ot,0,0,0,0,0,0,0,0,0,ds,bth,dp,pss,n,0,1,Mac,110.4,26x28,s,0,50,b,122.4,1,1,Over the bumper intake to a turret,2
-2022_13,Parker S,2026ilpe,qm,13,2026ilpe_qm13,,2022,0,0,0,0,1,0,dt,0,2,0,0,0,0,0,0,0,ds,trc,dp,noa,n,0,1,Cooper Sharpe,0,27x27,s,0,25,b,0,1,0,Spindexer to shooter,15
-3284_14,Nick R,2026ilpe,qm,14,2026ilpe_qm14,r2,3284,35,35,0,0,1,0,dt,0,0,15,5,15,0,0,0,0,nd,trc,az,puf,n,0,1,Elijah M,110,32 32,s,0,30,b,115,1,1,Belts,4 75
-6237_14,Elijah G.,2026ilpe,qm,14,2026ilpe_qm14,b1,6237,115,115,0,0,0,0,ot,0,0,15,15,15,35,35,0,0,nd,bup,nz,pss,n,0,0,Bryce F,103,25x27x30,s,Not very well on the move shooting,50,b,123,0,1,Use belts to move fuel to shooter,2
-4423_14,Malachi B,2026ilpe,qm,14,2026ilpe_qm14,b3,4423,20,20,0,0,0,1,ob,0,0,5,0,15,0,0,0,0,ft,bup,nz,pss,n,1,0,Luke G,93,27x27,s,Feeding ,25,go,103,0,1,Indexer ,1 5
-4787_14,Parker S,2026ilpe,qm,14,2026ilpe_qm14,,4787,15,15,0,0,0,0,c,0,0,5,0,0,5,5,0,0,fo,trc,dp,puf,n,0,0,Jake R,84.6,27 x 27,s,Passing   Auto aim   Shooting on move is in progress,35,go,90.9,1,0,Conveyor straight to shooter,1
-1756_14,Cooper S,2026ilpe,qm,14,2026ilpe_qm14,b2,1756,30,30,0,0,0,0,db,0,10,15,15,0,0,0,0,0,nd,bup,nz,pss,n,0,0,Jake W,104,26x28,s,0,45,b,116 12,0,1,Intake to spindexer to single turret,1 12
-4156_14,Xander L,2026ilpe,qm,14,2026ilpe_qm14,r1,4156,0,0,0,0,0,0,ob,0,0,0,0,0,0,0,0,0,ds,tdn,dp,noa,n,0,0,Brody K,92.5,26x26,s,Unconfident in weight,50,b,105,0,0,Conveyor Belts,2.5
-7417_15,Elijah G.,2026ilpe,qm,15,2026ilpe_qm15,b1,7417,0,0,0,0,1,0,dt,0,0,0,0,0,0,0,0,0,ds,trc,nz,dfs,n,0,1,Malachi B,64,30 by 20,s,0,12,go,0,1,0,0,1
-7846_15,Nick R,2026ilpe,qm,15,2026ilpe_qm15,r2,7846,5,5,0,0,0,0,ot,0,0,0,0,0,0,5,0,0,ft,trc,nz,pss,n,0,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
-4096_15,Malachi B,2026ilpe,qm,15,2026ilpe_qm15,b3,4096,40,40,0,0,0,0,ot,0,1,15,0,5,5,15,0,0,ut,trc,az,noa,n,0,0,Liam p,108,28x26,s,Three wide robot,40,b,118,1,1,0,2
-5442_15,Xander L,2026ilpe,qm,15,2026ilpe_qm15,r1,5442,65,65,0,0,0,1,db,0,2,0,0,15,15,35,0,0,ft,bup,nz,pss,n,1,0,Jake R,114,26 x 28,s,0,60,go,130   roughly,0,0,Conveyor belt to elevator,2
 1625_15,Cooper S,2026ilpe,qm,15,2026ilpe_qm15,b2,1625,80,80,0,0,0,0,db,0,5,15,0,15,35,15,0,0,ft,trc,nz,pss,n,0,0,Anika R,114.2,27.625 x 27.375,s,0,45,go,130,0,1,Over the bumper intake to a turret,2
-2861_15,Parker S,2026ilpe,qm,15,2026ilpe_qm15,r3,2861,40,40,0,0,0,0,c,0,0,5,15,5,0,15,0,0,ft,trc,nz,puf,n,0,0,Ryan s,98,21 x 33,s,No metal frame,45,b,110,1,0,Grip wheels for intake,1
-1736_16,Elijah G.,2026ilpe,qm,16,2026ilpe_qm16,b1,1736,20,20,0,0,1,0,c,0,0,5,0,15,0,0,0,0,ah,bup,nz,pss,n,0,1,Mia S + Elizabeth P,105,27x27,s,0,30,b,116,0,1,"intake throws ball up, spindexer takes in balls to shoot",2
-648_16,Cooper S,2026ilpe,qm,16,2026ilpe_qm16,b2,648,5,5,0,0,0,0,ob,0,4,0,0,5,0,0,0,0,ds,tdn,dp,noa,n,0,0,Luke G,106,28x28,s,L1 climb,27,go,120,1,1,Slanted slope to push balls to shooter,1 5
-4143_16,Nick R,2026ilpe,qm,16,2026ilpe_qm16,r2,4143,175,175,0,0,0,0,ob,0,0,35,5,60,60,15,0,0,ft,bup,nz,puf,n,0,0,Ryan S,105,28 x 26,s,0,72,n,120,0,0,Roller bed,1 5
-8096_16,Luke G,2026ilpe,qm,16,2026ilpe_qm16,r1,8096,85,85,0,0,1,1,dt,0,8,15,5,35,15,15,0,0,ut,bth,az,pss,n,2,1,Parker S,104,108 perimeter,s,Untested shoot on move unsure about bumper weighted ,35,b,115,1,0,Spinder to kicker,2
-7472_16,Malachi B,2026ilpe,qm,16,2026ilpe_qm16,b3,7472,0,0,0,0,1,0,ot,0,0,0,0,0,0,0,1,0,ds,bup,dp,dfs,n,0,1,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
-2022_16,Parker S,2026ilpe,qm,16,2026ilpe_qm16,,2022,0,0,0,0,0,0,c,0,0,0,0,0,0,0,0,0,ds,trc,dp,pss,n,0,0,Cooper Sharpe,0,27x27,s,0,25,b,0,1,0,Spindexer to shooter,15
-2481_17,Luke G,2026ilpe,qm,17,2026ilpe_qm17,r2,2481,355,355,0,0,0,1,db,0,3,85,0,35,85,150,0,0,ah,bup,nz,puf,n,1,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
-_,,,,,_,,,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
-3488_18,Elijah G.,2026ilpe,qm,18,2026ilpe_qm18,b1,3488,20,20,0,0,0,0,db,0,0,5,5,5,5,0,0,0,ah,bup,nz,pss,n,0,0,Bryce F,114,30x23x28,s,0,35,b,128,0,1,Polybelt pushes fuel to shooter,4
-9082_17,Nick R,2026ilpe,qm,17,2026ilpe_qm17,,9082,0,0,0,0,1,0,c,0,0,0,0,0,0,0,0,0,ds,trc,dp,dfs,n,0,2,Elizabeth P,107,26.25x26.25,s,0,50,b,135,1,0,spindexer,1.5
-4096_18,Luke G,2026ilpe,qm,18,2026ilpe_qm18,r1,4096,40,40,0,0,0,0,ot,0,0,0,5,35,0,0,0,0,nd,trc,nz,pss,n,0,0,Liam p,108,28x26,s,Three wide robot,40,b,118,1,1,0,2
-4787_18,Malachi,2026ilpe,qm,18,2026ilpe_qm18,b3,4787,10,10,0,0,0,0,c,0,0,0,0,0,5,5,0,0,fo,trc,op,pss,n,0,0,Jake R,84.6,27 x 27,s,Passing   Auto aim   Shooting on move is in progress,35,go,90.9,1,0,Conveyor straight to shooter,1
-2040_18,Cooper S,2026ilpe,qm,18,2026ilpe_qm18,b2,2040,125,125,0,0,0,0,ot,0,4,15,15,0,60,35,0,0,ah,bth,nz,pss,n,0,0,Elijah M,110,27 27 5,s,0,40,go,114,1,1,Belts,4
-5442_18,Parker S,2026ilpe,qm,18,2026ilpe_qm18,r3,5442,35,35,0,0,0,0,ot,0,0,5,15,0,0,15,0,0,ah,bup,nz,puf,n,0,0,Jake R,114,26 x 28,s,0,60,go,130   roughly,0,0,Conveyor belt to elevator,2
-4213_19,Jake R,2026ilpe,qm,19,2026ilpe_qm19,r1,4213,0,0,0,0,1,0,c,0,0,0,0,0,0,0,1,0,ds,bup,dp,noa,n,0,1,Mac,110.4,26x28,s,0,50,b,122.4,1,1,Over the bumper intake to a turret,2
-4655_19,Ryan S,2026ilpe,qm,19,2026ilpe_qm19,b3,4655,40,40,0,0,0,1,dt,0,0,15,5,5,0,15,0,0,ds,trc,nz,puf,n,2,0,Elizabeth P,107,29x25.5,s,0,55,b,118.5,1,1,spindexer,4
-2861_19,Mackenzie J,2026ilpe,qm,19,2026ilpe_qm19,b1,2861,75,75,0,0,0,0,c,0,0,5,5,35,15,15,0,0,nd,trc,nz,puf,n,0,0,Ryan s,98,21 x 33,s,No metal frame,45,b,110,1,0,Grip wheels for intake,1
 1625_19,Jaxon C,2026ilpe,qm,19,2026ilpe_qm19,r3,1625,140,140,0,0,0,0,ob,0,1,35,0,35,35,35,0,0,all,bup,nz,puf,n,0,0,Anika R,114.2,27.625 x 27.375,s,0,45,go,130,0,1,Over the bumper intake to a turret,2
-8096_18,Bryce F,2026ilpe,qm,18,2026ilpe_qm18,r2,8096,185,185,0,0,0,0,dt,0,2,15,15,85,35,35,1,0,nd,trc,nz,puf,n,0,0,Parker S,104,108 perimeter,s,Untested shoot on move unsure about bumper weighted ,35,b,115,1,0,Spinder to kicker,2
-8020_19,Elizabeth,2026ilpe,qm,19,2026ilpe_qm19,b2,8020,140,140,0,0,0,1,ot,0,2,35,0,35,35,35,0,0,all,bup,nz,pss,n,1,0,Bryce F,112,25x27x22,s,0,30,b,123,1,1,Wheels move balls to shooter,2
-8029_20,Jaxon C,2026ilpe,qm,20,2026ilpe_qm20,r3,8029,15,15,0,0,0,0,dt,0,11,0,5,0,5,5,0,0,all,bup,nz,puf,n,0,0,Parker,103,27x27,s,Unsure about shoot on move,15,b,110,1,0,Indexer,4
-4423_20,Mackenzie J,2026ilpe,qm,20,2026ilpe_qm20,b1,4423,35,35,0,0,0,0,db,0,0,5,5,5,15,5,0,0,nd,bup,nz,pss,n,0,0,Luke G,93,27x27,s,Feeding ,25,go,103,0,1,Indexer ,1 5
-3284_20,Elizabeth,2026ilpe,qm,20,2026ilpe_qm20,b2,3284,30,30,0,0,0,1,dt,0,3,15,5,5,5,0,0,0,all,trc,nz,puf,n,1,0,Elijah M,110,32 32,s,0,30,b,115,1,1,Belts,4 75
-7848_19,Bryce F,2026ilpe,qm,19,2026ilpe_qm19,r2,7848,40,40,0,0,0,0,ot,0,6,0,5,15,15,5,0,0,ft,trc,az,puf,n,0,0,Jake W,113,30x25,s,Low hopper capacity trench bot,30,b,126,1,1,Funnel and roller into a split shooter mechanism ,1
-4143_20,Ryan S,2026ilpe,qm,20,2026ilpe_qm20,b3,4143,65,65,0,0,0,1,ob,0,0,35,0,15,15,0,0,0,ab,bup,dp,pss,n,2,0,Ryan S,105,28 x 26,s,0,72,n,120,0,0,Roller bed,1 5
-7417_20,Jake R,2026ilpe,qm,20,2026ilpe_qm20,r1,7417,0,0,0,0,1,0,c,0,0,0,0,0,0,0,0,0,ds,bup,dp,dfs,n,0,1,Malachi B,64,30 by 20,s,0,12,go,0,1,0,0,1
-8719_21,Ryan S,2026ilpe,qm,21,2026ilpe_qm21,b3,8719,15,15,0,0,1,0,ot,0,0,5,5,5,0,0,0,0,ft,trc,nz,pss,n,0,1,Ryan S,80,27 by 27,s,When asked their bot is unique because of hard work,25,go,85,1,1,Conveyer feeder ,1.5
-5442_21,Jaxon C,2026ilpe,qm,21,2026ilpe_qm21,r3,5442,55,55,0,0,1,1,db,0,4,0,0,35,5,15,0,0,all,bup,nz,puf,n,3,1,Jake R,114,26 x 28,s,0,60,go,130   roughly,0,0,Conveyor belt to elevator,2
-3067_21,Mackenzie J,2026ilpe,qm,21,2026ilpe_qm21,b1,3067,10,10,0,0,1,0,db,0,4,5,0,0,0,5,1,0,nd,bup,nz,dfs,n,0,3,Malachi B,103,27 by 27 29 high,s,0,50,b,107,0,1,Spindexer ,1 and a half
-7472_21,Jake R,2026ilpe,qm,21,2026ilpe_qm21,r1,7472,5,5,0,0,0,0,c,0,0,0,0,0,5,0,0,0,ds,bup,nz,puf,n,0,0,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
-4156_21,Elizabeth,2026ilpe,qm,21,2026ilpe_qm21,b2,4156,0,0,0,0,0,0,ob,0,0,0,0,0,0,0,0,0,ds,bup,nz,puf,n,0,0,Brody K,92.5,26x26,s,Unconfident in weight,50,b,105,0,0,Conveyor Belts,2.5
-4645_20,Bryce F,2026ilpe,qm,20,2026ilpe_qm20,r2,4645,0,0,0,0,0,0,dt,0,0,0,0,0,0,0,0,0,ds,trc,dp,pss,n,0,0,Luke G,107,27x27,s,0,40,b,115,1,1,Spindexter,2
-2861_22,Jaxon C,2026ilpe,qm,22,2026ilpe_qm22,,2861,90,90,0,0,0,0,c,0,0,5,0,35,35,15,0,0,ft,trc,nz,pss,n,0,0,Ryan s,98,21 x 33,s,No metal frame,45,b,110,1,0,Grip wheels for intake,1
-2022_22,Elizabeth,2026ilpe,qm,22,2026ilpe_qm22,b2,2022,0,0,0,0,1,0,dt,0,0,0,0,0,0,0,0,0,ds,trc,nz,pss,n,0,1,Cooper Sharpe,0,27x27,s,0,25,b,0,1,0,Spindexer to shooter,15
-9082_22,Jake R,2026ilpe,qm,22,2026ilpe_qm22,r1,9082,35,35,0,0,0,0,ot,0,0,5,5,5,5,15,0,0,ds,trc,nz,puf,n,0,0,Elizabeth P,107,26.25x26.25,s,0,50,b,135,1,0,spindexer,1.5
-648_22,Mackenzie J,2026ilpe,qm,22,2026ilpe_qm22,b1,648,0,0,0,0,1,0,c,0,0,0,0,0,0,0,0,0,ah,trc,dp,pss,n,0,1,Luke G,106,28x28,s,L1 climb,27,go,120,1,1,Slanted slope to push balls to shooter,1 5
-2039_22,Ryan S,2026ilpe,qm,22,2026ilpe_qm22,b3,2039,25,15,10,0,1,0,c,0,0,5,0,5,5,0,0,10,ft,bup,dp,noa,0,0,1,Brody K,73.1,26.5x26.5,t,Has L1 climb,12,go,80.6,0,1,Rollers,1
-4787_22,Bryce F,2026ilpe,qm,22,2026ilpe_qm22,r2,4787,0,0,0,0,0,0,dt,0,0,0,0,0,0,0,0,0,ds,trc,dp,dfs,n,0,0,Jake R,84.6,27 x 27,s,Passing   Auto aim   Shooting on move is in progress,35,go,90.9,1,0,Conveyor straight to shooter,1
-2481_23,Anika,2026ilpe,qm,23,2026ilpe_qm23,r2,2481,300,300,0,0,0,1,db,0,0,15,15,85,125,60,2,0,ah,bup,nz,puf,n,2,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
 1625_24,Mackenzie J,2026ilpe,qm,24,2026ilpe_qm24,b1,1625,45,45,0,0,0,1,db,0,3,15,5,5,5,15,1,0,nd,bup,az,pss,n,1,0,Anika R,114.2,27.625 x 27.375,s,0,45,go,130,0,1,Over the bumper intake to a turret,2
-3067_23,Jaxon C,2026ilpe,qm,23,2026ilpe_qm23,r3,3067,0,0,0,0,1,0,ob,0,0,0,0,0,0,0,0,0,ds,bup,dp,dfs,n,0,4,Malachi B,103,27 by 27 29 high,s,0,50,b,107,0,1,Spindexer ,1 and a half
-1756_24,Jake R,2026ilpe,qm,24,2026ilpe_qm24,r1,1756,75,75,0,0,0,0,c,0,0,15,15,15,15,15,0,0,ds,bup,nz,puf,n,0,0,Jake W,104,26x28,s,0,45,b,116 12,0,1,Intake to spindexer to single turret,1 12
-1756_24,Jake R,2026ilpe,qm,24,2026ilpe_qm24,r1,1756,75,75,0,0,0,0,c,0,0,15,15,15,15,15,0,0,ds,bup,nz,puf,n,0,0,Jake W,104,26x28,s,0,45,b,116 12,0,1,Intake to spindexer to single turret,1 12
-8029_24,Elizabeth,2026ilpe,qm,24,2026ilpe_qm24,b2,8029,0,0,0,0,1,0,ot,0,0,0,0,0,0,0,0,0,ds,bup,dp,dfs,n,0,2,Parker,103,27x27,s,Unsure about shoot on move,15,b,110,1,0,Indexer,4
-4645_24,Ryan S,2026ilpe,qm,24,2026ilpe_qm24,b3,4645,0,0,0,0,0,1,dt,0,0,0,0,0,0,0,0,0,ds,bup,dp,pss,n,2,0,Luke G,107,27x27,s,0,40,b,115,1,1,Spindexter,2
-7417_24,Bryce F,2026ilpe,qm,24,2026ilpe_qm24,r2,7417,0,0,0,0,1,0,ot,0,0,0,0,0,0,0,1,0,ds,trc,dp,pss,n,0,1,Malachi B,64,30 by 20,s,0,12,go,0,1,0,0,1
-8020_25,Mackenzie J,2026ilpe,qm,25,2026ilpe_qm25,b1,8020,45,45,0,0,0,1,ot,0,5,15,15,15,0,0,0,0,ds,trc,de,pss,n,3,0,Bryce F,112,25x27x22,s,0,30,b,123,1,1,Wheels move balls to shooter,2
-3284_25,Jake R,2026ilpe,qm,25,2026ilpe_qm25,r1,3284,15,15,0,0,1,0,dt,0,6,0,5,5,5,0,0,0,ds,bup,dp,noa,n,0,3,Elijah M,110,32 32,s,0,30,b,115,1,1,Belts,4 75
-6237_24,Jaxon C,2026ilpe,qm,24,2026ilpe_qm24,r3,6237,160,160,0,0,0,0,ot,0,0,5,0,35,60,60,0,0,ft,bup,nz,puf,n,0,0,Bryce F,103,25x27x30,s,Not very well on the move shooting,50,b,123,0,1,Use belts to move fuel to shooter,2
-3488_25,Elizabeth,2026ilpe,qm,25,2026ilpe_qm25,b2,3488,5,5,0,0,0,0,c,0,0,0,5,0,0,0,0,0,ft,bup,dp,puf,n,0,0,Bryce F,114,30x23x28,s,0,35,b,128,0,1,Polybelt pushes fuel to shooter,4
-4156_25,Ryan S,2026ilpe,qm,25,2026ilpe_qm25,b3,4156,0,0,0,0,1,0,ob,0,0,0,0,0,0,0,0,0,ds,bup,dp,dfs,n,0,3,Brody K,92.5,26x26,s,Unconfident in weight,50,b,105,0,0,Conveyor Belts,2.5
-4213_25,Bryce F,2026ilpe,qm,25,2026ilpe_qm25,r2,4213,25,25,0,0,1,0,c,0,0,5,0,5,15,0,0,0,ft,bup,nz,pss,n,0,2,Mac,110.4,26x28,s,0,50,b,122.4,1,1,Over the bumper intake to a turret,2
-1736_26,Mackenzie J,2026ilpe,qm,26,2026ilpe_qm26,b1,1736,20,20,0,0,0,0,c,0,0,5,0,5,5,5,0,0,fo,bup,nz,puf,n,0,0,Mia S + Elizabeth P,105,27x27,s,0,30,b,116,0,1,"intake throws ball up, spindexer takes in balls to shoot",2
-7848_26,Jaxon C,2026ilpe,qm,26,2026ilpe_qm26,r3,7848,45,45,0,0,0,0,ot,0,0,5,5,5,15,15,0,0,ft,trc,nz,puf,n,0,0,Jake W,113,30x25,s,Low hopper capacity trench bot,30,b,126,1,1,Funnel and roller into a split shooter mechanism ,1
-4143_26,Elizabeth,2026ilpe,qm,26,2026ilpe_qm26,b2,4143,205,205,0,0,0,0,ob,0,0,15,35,60,60,35,0,0,all,bup,nz,pss,n,0,0,Ryan S,105,28 x 26,s,0,72,n,120,0,0,Roller bed,1 5
-9082_26,Ryan S,2026ilpe,qm,26,2026ilpe_qm26,b3,9082,70,70,0,0,0,0,dt,0,0,5,0,35,15,15,0,0,ds,trc,nz,puf,n,0,0,Elizabeth P,107,26.25x26.25,s,0,50,b,135,1,0,spindexer,1.5
-6651_26,Jake R,2026ilpe,qm,26,2026ilpe_qm26,r1,6651,20,20,0,0,0,0,dt,0,0,5,15,0,0,0,1,0,ds,trc,nz,puf,n,0,0,Jake W,106,27x27,s,0,10,go,116,0,1,Intake to two wheel single ball tower shooter,1 12
-7472_26,Bryce F,2026ilpe,qm,26,2026ilpe_qm26,r2,7472,20,20,0,0,1,0,c,0,0,5,0,15,0,0,0,0,ut,trc,nz,puf,n,0,1,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
-2022_1,Luke G,2026ilpe,qm,1,2026ilpe_qm1,b1,2022,0,0,0,0,1,0,c,0,0,0,0,0,0,0,0,0,ds,trc,dp,dfs,n,0,1,Cooper Sharpe,0,27x27,s,0,25,b,0,1,0,Spindexer to shooter,15
-8096_27,Ryan S,2026ilpe,qm,27,2026ilpe_qm27,b3,8096,30,30,0,0,0,0,dt,0,0,5,0,5,15,5,0,0,ft,bup,nz,pss,n,0,0,Parker S,104,108 perimeter,s,Untested shoot on move unsure about bumper weighted ,35,b,115,1,0,Spinder to kicker,2
-4655_27,Mackenzie J,2026ilpe,qm,27,2026ilpe_qm27,b1,4655,115,115,0,0,0,1,ot,0,2,35,15,15,35,15,0,0,nd,bth,nz,pss,n,1,0,Elizabeth P,107,29x25.5,s,0,55,b,118.5,1,1,spindexer,4
-8029_27,Jake R,2026ilpe,qm,27,2026ilpe_qm27,r1,8029,10,10,0,0,0,0,c,0,4,5,5,0,0,0,1,0,ds,bup,nz,dfs,n,0,0,Parker,103,27x27,s,Unsure about shoot on move,15,b,110,1,0,Indexer,4
-5442_27,Elizabeth,2026ilpe,qm,27,2026ilpe_qm27,b2,5442,70,70,0,0,0,0,db,0,0,15,0,35,15,5,0,0,fo,bup,nz,puf,n,0,0,Jake R,114,26 x 28,s,0,60,go,130   roughly,0,0,Conveyor belt to elevator,2
-648_27,Jaxon C,2026ilpe,qm,27,2026ilpe_qm27,r3,648,10,10,0,0,0,0,c,0,0,0,0,0,5,5,0,0,fo,trc,nz,puf,n,0,0,Luke G,106,28x28,s,L1 climb,27,go,120,1,1,Slanted slope to push balls to shooter,1 5
-4423_27,Bryce F,2026ilpe,qm,27,2026ilpe_qm27,r2,4423,50,50,0,0,0,0,ot,0,0,5,0,15,15,15,0,0,all,bup,nz,puf,n,0,0,Luke G,93,27x27,s,Feeding ,25,go,103,0,1,Indexer ,1 5
-9082_1,Luke G,2026ilpe,qm,1,2026ilpe_qm1,b3,9082,15,15,0,0,1,0,dt,0,0,15,0,0,0,0,0,0,ft,bup,nz,pss,n,0,3,Elizabeth P,107,26.25x26.25,s,0,50,b,135,1,0,spindexer,1.5
-2481_28,Luke G,2026ilpe,qm,28,2026ilpe_qm28,r1,2481,355,355,0,0,0,1,db,0,3,85,0,125,85,60,0,0,ah,bup,nz,puf,n,1,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
-3067_2,Anika,2026ilpe,qm,2,2026ilpe_qm2,b1,3067,40,40,0,0,0,0,db,0,0,5,0,15,5,15,0,0,nd,bup,az,puf,n,0,0,Malachi B,103,27 by 27 29 high,s,0,50,b,107,0,1,Spindexer ,1 and a half
-_,,,,,_,,,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
-8719_29,Nick R,2026ilpe,qm,29,2026ilpe_qm29,r2,8719,0,0,0,0,1,0,ot,0,0,0,0,0,0,0,0,0,ds,trc,dp,noa,n,0,3,Ryan S,80,27 by 27,s,When asked their bot is unique because of hard work,25,go,85,1,1,Conveyer feeder ,1.5
-3067_29,Gavin c,2026ilpe,qm,29,2026ilpe_qm29,b3,3067,0,0,0,0,0,1,db,0,0,0,0,0,0,0,0,0,ds,bup,dp,pss,n,2,0,Malachi B,103,27 by 27 29 high,s,0,50,b,107,0,1,Spindexer ,1 and a half
-4787_29,Cooper S,2026ilpe,qm,29,2026ilpe_qm29,b2,4787,25,25,0,0,0,0,c,0,0,5,5,5,5,5,0,0,ds,bth,nz,pss,n,0,0,Jake R,84.6,27 x 27,s,Passing   Auto aim   Shooting on move is in progress,35,go,90.9,1,0,Conveyor straight to shooter,1
-3488_29,Parker S,2026ilpe,qm,29,2026ilpe_qm29,r3,3488,5,5,0,0,0,0,c,0,0,0,5,0,0,0,0,0,ds,bup,dp,pss,n,0,0,Bryce F,114,30x23x28,s,0,35,b,128,0,1,Polybelt pushes fuel to shooter,4
-6651_29,Elijah G.,2026ilpe,qm,29,2026ilpe_qm29,b1,6651,0,0,0,0,0,0,ot,0,0,0,0,0,0,0,0,0,ds,tdn,dp,noa,n,0,0,Jake W,106,27x27,s,0,10,go,116,0,1,Intake to two wheel single ball tower shooter,1 12
-4143_29,Xander,2026ilpe,qm,29,2026ilpe_qm29,r1,4143,125,125,0,0,0,1,ob,0,0,15,0,15,35,60,0,0,nd,bup,az,pss,n,1,0,Ryan S,105,28 x 26,s,0,72,n,120,0,0,Roller bed,1 5
-7848_30,Elijah G.,2026ilpe,qm,30,2026ilpe_qm30,b1,7848,45,45,0,0,0,0,ot,0,0,5,5,15,15,5,0,0,ft,bth,nz,pss,n,0,0,Jake W,113,30x25,s,Low hopper capacity trench bot,30,b,126,1,1,Funnel and roller into a split shooter mechanism ,1
-4096_30,Nick R,2026ilpe,qm,30,2026ilpe_qm30,,4096,100,100,0,0,0,0,ot,0,2,15,0,35,15,35,1,0,nd,trc,nz,puf,n,0,0,Liam p,108,28x26,s,Three wide robot,40,b,118,1,1,0,2
-4645_30,Gavin c,2026ilpe,qm,30,2026ilpe_qm30,b3,4645,20,20,0,0,0,0,dt,0,0,5,5,0,5,5,0,0,ft,trc,az,noa,n,0,0,Luke G,107,27x27,s,0,40,b,115,1,1,Spindexter,2
-2022_30,Xander,2026ilpe,qm,30,2026ilpe_qm30,r1,2022,0,0,0,0,1,0,ot,0,0,0,0,0,0,0,0,0,ds,trc,nz,pss,n,0,1,Cooper Sharpe,0,27x27,s,0,25,b,0,1,0,Spindexer to shooter,15
-8020_30,Parker S,2026ilpe,qm,30,2026ilpe_qm30,r3,8020,85,85,0,0,0,0,c,0,0,15,5,15,35,15,0,0,ft,bup,az,puf,n,0,0,Bryce F,112,25x27x22,s,0,30,b,123,1,1,Wheels move balls to shooter,2
-1736_30,Cooper S,2026ilpe,qm,30,2026ilpe_qm30,b2,1736,15,15,0,0,0,0,c,0,0,5,0,0,5,5,0,0,ft,bup,nz,pss,n,0,0,Mia S + Elizabeth P,105,27x27,s,0,30,b,116,0,1,"intake throws ball up, spindexer takes in balls to shoot",2
-7848_2,Anika,2026ilpe,qm,2,2026ilpe_qm2,b3,7848,50,50,0,0,0,0,ot,0,0,5,15,15,15,0,0,0,fo,bth,nz,pss,n,0,0,Jake W,113,30x25,s,Low hopper capacity trench bot,30,b,126,1,1,Funnel and roller into a split shooter mechanism ,1
-8719_3,Anika,2026ilpe,qm,3,2026ilpe_qm3,b3,8719,0,0,0,0,0,0,ot,0,0,0,0,0,0,0,0,0,ds,trc,dp,noa,n,0,0,Ryan S,80,27 by 27,s,When asked their bot is unique because of hard work,25,go,85,1,1,Conveyer feeder ,1.5
-4156_31,Elijah G.,2026ilpe,qm,31,2026ilpe_qm31,b1,4156,5,5,0,0,0,0,db,0,0,0,0,5,0,0,1,0,nd,bup,nz,noa,n,0,0,Brody K,92.5,26x26,s,Unconfident in weight,50,b,105,0,0,Conveyor Belts,2.5
-2861_31,Nick R,2026ilpe,qm,31,2026ilpe_qm31,,2861,25,25,0,0,0,0,c,0,0,5,0,15,5,0,0,0,ft,trc,nz,pss,n,0,0,Ryan s,98,21 x 33,s,No metal frame,45,b,110,1,0,Grip wheels for intake,1
-6237_31,Gavin c,2026ilpe,qm,31,2026ilpe_qm31,b3,6237,85,85,0,0,0,1,ot,0,0,0,0,35,15,35,0,0,ft,bup,nz,puf,n,2,0,Bryce F,103,25x27x30,s,Not very well on the move shooting,50,b,123,0,1,Use belts to move fuel to shooter,2
-7472_31,Cooper S,2026ilpe,qm,31,2026ilpe_qm31,b2,7472,5,5,0,0,0,0,c,0,0,0,5,0,0,0,0,0,nd,bth,nz,pss,n,0,0,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
-1756_31,Parker S,2026ilpe,qm,31,2026ilpe_qm31,r3,1756,100,100,0,0,0,0,db,0,0,35,0,35,15,15,0,0,all,bup,nz,pss,n,0,0,Jake W,104,26x28,s,0,45,b,116 12,0,1,Intake to spindexer to single turret,1 12
-7417_31,Xander,2026ilpe,qm,31,2026ilpe_qm31,r1,7417,0,0,0,0,1,0,dt,0,0,0,0,0,0,0,0,0,ds,bth,dp,dfs,n,0,3,Malachi B,64,30 by 20,s,0,12,go,0,1,0,0,1
-8020_4,Anika,2026ilpe,qm,4,2026ilpe_qm4,b1,8020,60,60,0,0,0,0,ot,0,0,15,0,15,15,15,0,0,nd,trc,nz,pss,n,0,0,Bryce F,112,25x27x22,s,0,30,b,123,1,1,Wheels move balls to shooter,2
-8029_32,Cooper S,2026ilpe,qm,32,2026ilpe_qm32,b2,8029,0,0,0,0,1,0,c,0,0,0,0,0,0,0,1,0,ds,bth,nz,dfs,n,0,2,Parker,103,27x27,s,Unsure about shoot on move,15,b,110,1,0,Indexer,4
-2039_32,Parker S,2026ilpe,qm,32,2026ilpe_qm32,r3,2039,10,0,10,0,1,0,c,0,0,0,0,0,0,0,0,10,ds,bup,dp,noa,1,0,2,Brody K,73.1,26.5x26.5,t,Has L1 climb,12,go,80.6,0,1,Rollers,1
-8096_32,Gavin c,2026ilpe,qm,32,2026ilpe_qm32,b3,8096,115,115,0,0,0,0,ot,0,0,15,15,35,35,15,0,0,ut,trc,nz,puf,n,0,0,Parker S,104,108 perimeter,s,Untested shoot on move unsure about bumper weighted ,35,b,115,1,0,Spinder to kicker,2
-3284_32,Elijah G.,2026ilpe,qm,32,2026ilpe_qm32,b1,3284,5,5,0,0,1,0,dt,0,8,5,0,0,0,0,0,0,nd,trc,nz,dfs,n,0,2,Elijah M,110,32 32,s,0,30,b,115,1,1,Belts,4 75
-9082_32,Nick R,2026ilpe,qm,32,2026ilpe_qm32,r2,9082,60,60,0,0,0,1,ot,0,0,15,0,15,15,15,0,0,nd,trc,nz,puf,n,3,0,Elizabeth P,107,26.25x26.25,s,0,50,b,135,1,0,spindexer,1.5
 1625_32,Xander,2026ilpe,qm,32,2026ilpe_qm32,r1,1625,140,140,0,0,0,1,ob,0,0,35,0,35,35,35,0,0,ah,bup,dp,pss,n,2,0,Anika R,114.2,27.625 x 27.375,s,0,45,go,130,0,1,Over the bumper intake to a turret,2
-2481_33,Luke G,2026ilpe,qm,33,2026ilpe_qm33,r1,2481,435,435,0,0,0,1,db,0,3,85,15,150,150,35,2,0,ab,bup,nz,puf,n,1,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
-648_34,Nick R,2026ilpe,qm,34,2026ilpe_qm34,r2,648,5,5,0,0,0,0,c,0,0,0,0,0,0,5,0,0,ft,trc,az,pss,n,0,0,Luke G,106,28x28,s,L1 climb,27,go,120,1,1,Slanted slope to push balls to shooter,1 5
-4143_34,Elijah G.,2026ilpe,qm,34,2026ilpe_qm34,b1,4143,280,280,0,0,0,0,ob,0,2,35,0,35,60,150,0,0,ft,bup,nz,puf,n,0,0,Ryan S,105,28 x 26,s,0,72,n,120,0,0,Roller bed,1 5
-7417_34,Gavin c,2026ilpe,qm,34,2026ilpe_qm34,b3,7417,0,0,0,0,1,0,c,0,0,0,0,0,0,0,1,0,ds,trc,dp,pss,n,0,2,Malachi B,64,30 by 20,s,0,12,go,0,1,0,0,1
-6237_33,Parker S,2026ilpe,qm,33,2026ilpe_qm33,r3,6237,55,55,0,0,0,0,ot,0,0,5,5,15,15,15,0,0,all,bup,nz,puf,n,0,0,Bryce F,103,25x27x30,s,Not very well on the move shooting,50,b,123,0,1,Use belts to move fuel to shooter,2
-2040_34,Xander,2026ilpe,qm,34,2026ilpe_qm34,r1,2040,45,45,0,0,1,0,dt,0,0,15,0,15,15,0,0,0,ft,trc,nz,pss,n,0,2,Elijah M,110,27 27 5,s,0,40,go,114,1,1,Belts,4
-4645_34,Cooper S,2026ilpe,qm,34,2026ilpe_qm34,b2,4645,5,5,0,0,0,0,dt,0,0,5,0,0,0,0,0,0,ds,tdn,dp,noa,n,0,0,Luke G,107,27x27,s,0,40,b,115,1,1,Spindexter,2
-648_4,Luke G,2026ilpe,qm,4,2026ilpe_qm4,b3,648,0,0,0,0,0,0,c,0,0,0,0,0,0,0,0,0,ds,bup,dp,noa,n,0,0,Luke G,106,28x28,s,L1 climb,27,go,120,1,1,Slanted slope to push balls to shooter,1 5
-4096_35,Elijah G.,2026ilpe,qm,35,2026ilpe_qm35,b1,4096,125,125,0,0,0,0,dt,0,2,15,5,35,35,35,0,0,nd,trc,nz,pss,n,0,0,Liam p,108,28x26,s,Three wide robot,40,b,118,1,1,0,2
-3067_35,Nick R,2026ilpe,qm,35,2026ilpe_qm35,r2,3067,40,40,0,0,0,0,c,0,0,0,5,15,5,15,0,0,nd,bup,nz,puf,n,0,0,Malachi B,103,27 by 27 29 high,s,0,50,b,107,0,1,Spindexer ,1 and a half
-5442_35,Xander L,2026ilpe,qm,35,2026ilpe_qm35,r1,5442,70,70,0,0,1,0,db,0,2,0,15,5,15,35,0,0,ds,bup,nz,pss,n,0,1,Jake R,114,26 x 28,s,0,60,go,130   roughly,0,0,Conveyor belt to elevator,2
-6651_35,Cooper S,2026ilpe,qm,35,2026ilpe_qm35,b2,6651,5,5,0,0,0,0,c,0,0,5,0,0,0,0,0,0,ds,bup,dp,noa,n,0,0,Jake W,106,27x27,s,0,10,go,116,0,1,Intake to two wheel single ball tower shooter,1 12
-1756_35,Gavin c,2026ilpe,qm,35,2026ilpe_qm35,b3,1756,180,180,0,0,0,0,ob,0,2,0,0,60,60,60,0,0,all,bup,nz,pss,n,0,0,Jake W,104,26x28,s,0,45,b,116 12,0,1,Intake to spindexer to single turret,1 12
-4423_34,Parker S,2026ilpe,qm,34,2026ilpe_qm34,,4423,50,40,10,0,0,0,ob,0,0,0,15,15,5,5,0,10,fo,bup,dp,puf,0,0,0,Luke G,93,27x27,s,Feeding ,25,go,103,0,1,Indexer ,1 5
-2861_36,Cooper S,2026ilpe,qm,36,2026ilpe_qm36,b2,2861,90,90,0,0,0,0,c,0,0,5,15,0,35,35,1,0,nd,bth,az,pss,n,0,0,Ryan s,98,21 x 33,s,No metal frame,45,b,110,1,0,Grip wheels for intake,1
-4156_36,Nick R,2026ilpe,qm,36,2026ilpe_qm36,,4156,0,0,0,0,1,0,ob,0,0,0,0,0,0,0,0,0,ds,bup,nz,dfs,n,0,1,Brody K,92.5,26x26,s,Unconfident in weight,50,b,105,0,0,Conveyor Belts,2.5
-7848_36,Parker S,2026ilpe,qm,36,2026ilpe_qm36,r3,7848,10,10,0,0,0,0,ob,0,0,0,0,5,0,5,0,0,fo,bup,op,puf,n,0,0,Jake W,113,30x25,s,Low hopper capacity trench bot,30,b,126,1,1,Funnel and roller into a split shooter mechanism ,1
-4213_36,Elijah G.,2026ilpe,qm,36,2026ilpe_qm36,b1,4213,0,0,0,0,1,0,dt,0,0,0,0,0,0,0,2,0,ds,bup,nz,dfs,n,0,3,Mac,110.4,26x28,s,0,50,b,122.4,1,1,Over the bumper intake to a turret,2
-8719_36,Gavin c,2026ilpe,qm,36,2026ilpe_qm36,b3,8719,0,0,0,0,0,0,ot,0,0,0,0,0,0,0,0,0,ds,trc,dp,pss,n,0,0,Ryan S,80,27 by 27,s,When asked their bot is unique because of hard work,25,go,85,1,1,Conveyer feeder ,1.5
-4655_36,Xander L,2026ilpe,qm,36,2026ilpe_qm36,r1,4655,165,165,0,0,0,1,dt,0,4,35,0,60,35,35,0,0,nd,trc,nz,pss,n,2,0,Elizabeth P,107,29x25.5,s,0,55,b,118.5,1,1,spindexer,4
-1736_37,Jaxon C,2026ilpe,qm,37,2026ilpe_qm37,r3,1736,35,35,0,0,0,0,c,0,0,0,0,15,15,5,0,0,all,bup,az,puf,n,0,0,Mia S + Elizabeth P,105,27x27,s,0,30,b,116,0,1,"intake throws ball up, spindexer takes in balls to shoot",2
-7472_37,Mackenzie J,2026ilpe,qm,37,2026ilpe_qm37,b1,7472,0,0,0,0,0,0,c,0,0,0,0,0,0,0,2,0,ds,bup,dp,noa,n,0,0,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
-9082_37,Elizabeth P,2026ilpe,qm,37,2026ilpe_qm37,b2,9082,100,100,0,0,0,0,ot,0,0,15,0,15,35,35,0,0,ft,bup,nz,puf,n,0,0,Elizabeth P,107,26.25x26.25,s,0,50,b,135,1,0,spindexer,1.5
-2040_37,Jake R,2026ilpe,qm,37,2026ilpe_qm37,r1,2040,65,65,0,0,0,0,dt,0,2,5,15,15,15,15,0,0,nd,bup,nz,puf,n,0,0,Elijah M,110,27 27 5,s,0,40,go,114,1,1,Belts,4
-8096_37,Ryan S,2026ilpe,qm,37,2026ilpe_qm37,b3,8096,45,45,0,0,0,0,dt,0,0,5,5,5,15,15,0,0,ut,trc,nz,pss,n,0,0,Parker S,104,108 perimeter,s,Untested shoot on move unsure about bumper weighted ,35,b,115,1,0,Spinder to kicker,2
-7417_37,Bryce F,2026ilpe,qm,37,2026ilpe_qm37,r2,7417,0,0,0,0,0,0,ot,0,0,0,0,0,0,0,0,0,ds,trc,dp,pss,n,0,0,Malachi B,64,30 by 20,s,0,12,go,0,1,0,0,1
-8020_38,Jaxon C,2026ilpe,qm,38,2026ilpe_qm38,r3,8020,160,160,0,0,0,1,ot,0,7,15,15,35,60,35,0,0,fo,trc,nz,puf,n,2,0,Bryce F,112,25x27x22,s,0,30,b,123,1,1,Wheels move balls to shooter,2
-1756_38,Elizabeth P,2026ilpe,qm,38,2026ilpe_qm38,b2,1756,250,250,0,0,0,0,ob,0,2,35,35,35,85,60,0,0,all,bup,az,pss,n,0,0,Jake W,104,26x28,s,0,45,b,116 12,0,1,Intake to spindexer to single turret,1 12
-4787_38,Mackenzie J,2026ilpe,qm,38,2026ilpe_qm38,b1,4787,5,5,0,0,1,0,c,0,0,5,0,0,0,0,1,0,ds,bup,dp,dfs,n,0,1,Jake R,84.6,27 x 27,s,Passing   Auto aim   Shooting on move is in progress,35,go,90.9,1,0,Conveyor straight to shooter,1
 1625_38,Bryce F,2026ilpe,qm,38,2026ilpe_qm38,r2,1625,60,60,0,0,0,0,ob,0,1,35,15,0,5,5,0,0,ab,bup,nz,puf,n,0,0,Anika R,114.2,27.625 x 27.375,s,0,45,go,130,0,1,Over the bumper intake to a turret,2
-4143_38,Ryan S,2026ilpe,qm,38,2026ilpe_qm38,b3,4143,85,85,0,0,0,0,c,0,0,0,0,15,35,35,1,0,fo,bup,nz,pss,n,0,0,Ryan S,105,28 x 26,s,0,72,n,120,0,0,Roller bed,1 5
-5442_38,Jake R,2026ilpe,qm,38,2026ilpe_qm38,r1,5442,55,55,0,0,0,0,c,0,0,5,15,5,15,15,0,0,nd,bup,nz,puf,n,0,0,Jake R,114,26 x 28,s,0,60,go,130   roughly,0,0,Conveyor belt to elevator,2
-2481_39,Anika,2026ilpe,qm,39,2026ilpe_qm39,r2,2481,425,425,0,0,0,0,db,0,0,85,5,125,85,125,1,0,all,bup,nz,puf,n,0,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
-4213_40,Elizabeth P,2026ilpe,qm,40,2026ilpe_qm40,b2,4213,0,0,0,0,0,1,ob,0,3,0,0,0,0,0,0,0,ds,bth,nz,pss,n,4,0,Mac,110.4,26x28,s,0,50,b,122.4,1,1,Over the bumper intake to a turret,2
-6651_40,Jaxon C,2026ilpe,qm,40,2026ilpe_qm40,r3,6651,10,10,0,0,1,1,db,0,0,0,0,5,5,0,0,0,ft,bup,nz,dfs,n,1,3,Jake W,106,27x27,s,0,10,go,116,0,1,Intake to two wheel single ball tower shooter,1 12
-4645_40,Jake R,2026ilpe,qm,40,2026ilpe_qm40,r1,4645,25,25,0,0,0,1,ot,0,0,5,15,5,0,0,0,0,nd,trc,dp,puf,n,1,0,Luke G,107,27x27,s,0,40,b,115,1,1,Spindexter,2
-4423_40,Mackenzie J,2026ilpe,qm,40,2026ilpe_qm40,b1,4423,55,55,0,0,0,0,db,0,0,0,0,35,15,5,0,0,nd,bup,nz,puf,n,0,0,Luke G,93,27x27,s,Feeding ,25,go,103,0,1,Indexer ,1 5
-8029_40,Ryan S,2026ilpe,qm,40,2026ilpe_qm40,b3,8029,0,0,0,0,0,0,c,0,0,0,0,0,0,0,0,0,ds,trc,dp,dfs,n,0,0,Parker,103,27x27,s,Unsure about shoot on move,15,b,110,1,0,Indexer,4
-4156_40,Bryce F,2026ilpe,qm,40,2026ilpe_qm40,r2,4156,10,10,0,0,0,0,dt,0,0,0,5,5,0,0,0,0,nd,trc,nz,pss,n,0,0,Brody K,92.5,26x26,s,Unconfident in weight,50,b,105,0,0,Conveyor Belts,2.5
-1756_35,Judah G,2026ilpe,qm,35,2026ilpe_qm35,b3,1756,155,155,0,0,0,0,ob,0,0,0,0,60,60,35,0,0,all,bup,nz,puf,n,0,0,Jake W,104,26x28,s,0,45,b,116 12,0,1,Intake to spindexer to single turret,1 12
-3488_41,Mackenzie J,2026ilpe,qm,41,2026ilpe_qm41,b1,3488,50,50,0,0,0,0,c,0,0,0,5,15,15,15,0,0,ah,bup,nz,puf,n,0,0,Bryce F,114,30x23x28,s,0,35,b,128,0,1,Polybelt pushes fuel to shooter,4
-8719_41,Jaxon C,2026ilpe,qm,41,2026ilpe_qm41,r3,8719,0,0,0,0,0,0,dt,0,0,0,0,0,0,0,0,0,ds,bup,dp,noa,n,0,0,Ryan S,80,27 by 27,s,When asked their bot is unique because of hard work,25,go,85,1,1,Conveyer feeder ,1.5
-7848_41,Jake R,2026ilpe,qm,41,2026ilpe_qm41,r1,7848,65,65,0,0,0,0,ot,0,0,15,15,5,15,15,0,0,all,bup,nz,puf,n,0,0,Jake W,113,30x25,s,Low hopper capacity trench bot,30,b,126,1,1,Funnel and roller into a split shooter mechanism ,1
-4655_41,Elizabeth P,2026ilpe,qm,41,2026ilpe_qm41,b2,4655,80,80,0,0,0,0,dt,0,3,0,35,15,15,15,0,0,all,bth,nz,puf,n,0,0,Elizabeth P,107,29x25.5,s,0,55,b,118.5,1,1,spindexer,4
-4096_41,Ryan S,2026ilpe,qm,41,2026ilpe_qm41,b3,4096,70,70,0,0,0,0,ot,0,0,5,0,15,15,35,0,0,fo,trc,nz,pss,n,0,0,Liam p,108,28x26,s,Three wide robot,40,b,118,1,1,0,2
-2039_41,Bryce F,2026ilpe,qm,41,2026ilpe_qm41,r2,2039,10,10,0,0,0,0,c,0,0,5,0,5,0,0,0,0,ft,trc,nz,puf,n,0,0,Brody K,73.1,26.5x26.5,t,Has L1 climb,12,go,80.6,0,1,Rollers,1
-8020_42,Elizabeth P,2026ilpe,qm,42,2026ilpe_qm42,b2,8020,90,90,0,0,0,1,c,0,0,15,0,35,35,5,0,0,all,trc,az,pss,n,1,0,Bryce F,112,25x27x22,s,0,30,b,123,1,1,Wheels move balls to shooter,2
-9082_42,Jaxon C,2026ilpe,qm,42,2026ilpe_qm42,r3,9082,140,140,0,0,0,0,ot,0,0,35,0,35,35,35,0,0,all,trc,nz,pss,n,0,0,Elizabeth P,107,26.25x26.25,s,0,50,b,135,1,0,spindexer,1.5
-7472_42,Mackenzie J,2026ilpe,qm,42,2026ilpe_qm42,b1,7472,10,10,0,0,0,0,dt,0,4,5,0,5,0,0,0,0,nd,trc,az,puf,n,0,0,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
-1756_42,Ryan S,2026ilpe,qm,42,2026ilpe_qm42,b3,1756,75,75,0,0,0,1,ob,0,0,5,15,15,5,35,0,0,ab,bup,dp,pss,n,4,0,Jake W,104,26x28,s,0,45,b,116 12,0,1,Intake to spindexer to single turret,1 12
-648_42,Jake R,2026ilpe,qm,42,2026ilpe_qm42,r1,648,0,0,0,0,1,0,c,0,0,0,0,0,0,0,0,0,ds,bth,dp,dfs,n,0,1,Luke G,106,28x28,s,L1 climb,27,go,120,1,1,Slanted slope to push balls to shooter,1 5
-3284_42,Bryce F,2026ilpe,qm,42,2026ilpe_qm42,r2,3284,25,25,0,0,0,0,ot,0,8,15,5,5,0,0,0,0,ft,trc,nz,dfs,n,0,0,Elijah M,110,32 32,s,0,30,b,115,1,1,Belts,4 75
-2481_43,Anika,2026ilpe,qm,43,2026ilpe_qm43,b2,2481,315,315,0,0,0,1,db,0,0,85,0,85,85,60,1,0,all,bup,nz,puf,n,2,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
-8719_44,Jake R,2026ilpe,qm,44,2026ilpe_qm44,r1,8719,10,0,10,0,0,0,ot,0,0,0,0,0,0,0,0,10,ds,bup,dp,noa,n,0,0,Ryan S,80,27 by 27,s,When asked their bot is unique because of hard work,25,go,85,1,1,Conveyer feeder ,1.5
+1625_4,Jake R,2026ilpe,qm,4,2026ilpe_qm4,r1,1625,105,105,0,0,0,0,db,0,3,15,5,35,35,15,0,0,all,bup,nz,puf,n,0,0,Anika R,114.2,27.625 x 27.375,s,0,45,go,130,0,1,Over the bumper intake to a turret,2
 1625_44,Elizabeth P,2026ilpe,qm,44,2026ilpe_qm44,b2,1625,115,115,0,0,0,0,db,0,4,15,15,35,35,15,0,0,all,bup,nz,pss,n,0,0,Anika R,114.2,27.625 x 27.375,s,0,45,go,130,0,1,Over the bumper intake to a turret,2
-8029_44,Jaxon C,2026ilpe,qm,44,2026ilpe_qm44,r3,8029,30,30,0,0,0,1,dt,0,0,0,0,15,0,15,0,0,all,bth,nz,pss,n,1,0,Parker,103,27x27,s,Unsure about shoot on move,15,b,110,1,0,Indexer,4
-7848_44,Anika,2026ilpe,qm,44,2026ilpe_qm44,b1,7848,5,5,0,0,0,0,c,0,0,5,0,0,0,0,0,0,ds,trc,az,pss,n,0,0,Jake W,113,30x25,s,Low hopper capacity trench bot,30,b,126,1,1,Funnel and roller into a split shooter mechanism ,1
-2040_44,Ryan S,2026ilpe,qm,44,2026ilpe_qm44,b3,2040,75,75,0,0,0,0,ot,0,0,15,5,15,5,35,0,0,all,trc,dp,puf,n,0,0,Elijah M,110,27 27 5,s,0,40,go,114,1,1,Belts,4
-7472_45,Jaxon C,2026ilpe,qm,45,2026ilpe_qm45,r3,7472,5,5,0,0,0,1,c,0,0,5,0,0,0,0,0,0,nd,trc,dp,pss,n,1,0,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
-2861_45,Anika,2026ilpe,qm,45,2026ilpe_qm45,b1,2861,75,75,0,0,0,0,c,0,0,5,5,15,35,15,0,0,ft,trc,nz,puf,n,0,0,Ryan s,98,21 x 33,s,No metal frame,45,b,110,1,0,Grip wheels for intake,1
-4096_45,Bryce F,2026ilpe,qm,45,2026ilpe_qm45,,4096,160,160,0,0,0,0,dt,0,2,15,35,35,60,15,0,0,ft,trc,nz,puf,n,0,0,Liam p,108,28x26,s,Three wide robot,40,b,118,1,1,0,2
+1736_13,Nick R,2026ilpe,qm,13,2026ilpe_qm13,r2,1736,25,25,0,0,0,0,c,0,0,5,0,0,5,15,0,0,nd,bup,az,puf,n,0,0,Mia S + Elizabeth P,105,27x27,s,0,30,b,116,0,1,"intake throws ball up, spindexer takes in balls to shoot",2
+1736_16,Elijah G.,2026ilpe,qm,16,2026ilpe_qm16,b1,1736,20,20,0,0,1,0,c,0,0,5,0,15,0,0,0,0,ah,bup,nz,pss,n,0,1,Mia S + Elizabeth P,105,27x27,s,0,30,b,116,0,1,"intake throws ball up, spindexer takes in balls to shoot",2
+1736_26,Mackenzie J,2026ilpe,qm,26,2026ilpe_qm26,b1,1736,20,20,0,0,0,0,c,0,0,5,0,5,5,5,0,0,fo,bup,nz,puf,n,0,0,Mia S + Elizabeth P,105,27x27,s,0,30,b,116,0,1,"intake throws ball up, spindexer takes in balls to shoot",2
+1736_30,Cooper S,2026ilpe,qm,30,2026ilpe_qm30,b2,1736,15,15,0,0,0,0,c,0,0,5,0,0,5,5,0,0,ft,bup,nz,pss,n,0,0,Mia S + Elizabeth P,105,27x27,s,0,30,b,116,0,1,"intake throws ball up, spindexer takes in balls to shoot",2
+1736_37,Jaxon C,2026ilpe,qm,37,2026ilpe_qm37,r3,1736,35,35,0,0,0,0,c,0,0,0,0,15,15,5,0,0,all,bup,az,puf,n,0,0,Mia S + Elizabeth P,105,27x27,s,0,30,b,116,0,1,"intake throws ball up, spindexer takes in balls to shoot",2
+1736_7,Ryan S,2026ilpe,qm,7,2026ilpe_qm7,b3,1736,10,10,0,0,1,0,c,0,0,0,0,5,0,5,0,0,ds,bup,az,puf,n,0,1,Mia S + Elizabeth P,105,27x27,s,0,30,b,116,0,1,"intake throws ball up, spindexer takes in balls to shoot",2
+1756_14,Cooper S,2026ilpe,qm,14,2026ilpe_qm14,b2,1756,30,30,0,0,0,0,db,0,10,15,15,0,0,0,0,0,nd,bup,nz,pss,n,0,0,Jake W,104,26x28,s,0,45,b,116 12,0,1,Intake to spindexer to single turret,1 12
+1756_2,Bryce F,2026ilpe,qm,2,2026ilpe_qm2,r2,1756,90,90,0,0,0,0,db,0,2,0,15,35,5,35,0,0,nd,bup,nz,puf,n,0,0,Jake W,104,26x28,s,0,45,b,116 12,0,1,Intake to spindexer to single turret,1 12
+1756_24,Jake R,2026ilpe,qm,24,2026ilpe_qm24,r1,1756,75,75,0,0,0,0,c,0,0,15,15,15,15,15,0,0,ds,bup,nz,puf,n,0,0,Jake W,104,26x28,s,0,45,b,116 12,0,1,Intake to spindexer to single turret,1 12
+1756_31,Parker S,2026ilpe,qm,31,2026ilpe_qm31,r3,1756,100,100,0,0,0,0,db,0,0,35,0,35,15,15,0,0,all,bup,nz,pss,n,0,0,Jake W,104,26x28,s,0,45,b,116 12,0,1,Intake to spindexer to single turret,1 12
+1756_35,Judah G,2026ilpe,qm,35,2026ilpe_qm35,b3,1756,155,155,0,0,0,0,ob,0,0,0,0,60,60,35,0,0,all,bup,nz,puf,n,0,0,Jake W,104,26x28,s,0,45,b,116 12,0,1,Intake to spindexer to single turret,1 12
+1756_38,Elizabeth P,2026ilpe,qm,38,2026ilpe_qm38,b2,1756,250,250,0,0,0,0,ob,0,2,35,35,35,85,60,0,0,all,bup,az,pss,n,0,0,Jake W,104,26x28,s,0,45,b,116 12,0,1,Intake to spindexer to single turret,1 12
+1756_42,Ryan S,2026ilpe,qm,42,2026ilpe_qm42,b3,1756,75,75,0,0,0,1,ob,0,0,5,15,15,5,35,0,0,ab,bup,dp,pss,n,4,0,Jake W,104,26x28,s,0,45,b,116 12,0,1,Intake to spindexer to single turret,1 12
+2022_1,Luke G,2026ilpe,qm,1,2026ilpe_qm1,b1,2022,0,0,0,0,1,0,c,0,0,0,0,0,0,0,0,0,ds,trc,dp,dfs,n,0,1,Cooper Sharpe,0,27x27,s,0,25,b,0,1,0,Spindexer to shooter,15
+2022_10,Elijah G.,2026ilpe,qm,10,2026ilpe_qm10,b1,2022,0,0,0,0,1,0,dt,0,2,0,0,0,0,0,0,0,ds,trc,nz,pss,n,0,2,Cooper Sharpe,0,27x27,s,0,25,b,0,1,0,Spindexer to shooter,15
+2022_13,Parker S,2026ilpe,qm,13,2026ilpe_qm13,,2022,0,0,0,0,1,0,dt,0,2,0,0,0,0,0,0,0,ds,trc,dp,noa,n,0,1,Cooper Sharpe,0,27x27,s,0,25,b,0,1,0,Spindexer to shooter,15
+2022_16,Parker S,2026ilpe,qm,16,2026ilpe_qm16,,2022,0,0,0,0,0,0,c,0,0,0,0,0,0,0,0,0,ds,trc,dp,pss,n,0,0,Cooper Sharpe,0,27x27,s,0,25,b,0,1,0,Spindexer to shooter,15
+2022_22,Elizabeth,2026ilpe,qm,22,2026ilpe_qm22,b2,2022,0,0,0,0,1,0,dt,0,0,0,0,0,0,0,0,0,ds,trc,nz,pss,n,0,1,Cooper Sharpe,0,27x27,s,0,25,b,0,1,0,Spindexer to shooter,15
+2022_30,Xander,2026ilpe,qm,30,2026ilpe_qm30,r1,2022,0,0,0,0,1,0,ot,0,0,0,0,0,0,0,0,0,ds,trc,nz,pss,n,0,1,Cooper Sharpe,0,27x27,s,0,25,b,0,1,0,Spindexer to shooter,15
 2022_45,Elizabeth P,2026ilpe,qm,45,2026ilpe_qm45,b2,2022,0,0,0,0,1,0,ot,0,0,0,0,0,0,0,0,0,ds,bup,nz,pss,n,0,1,Cooper Sharpe,0,27x27,s,0,25,b,0,1,0,Spindexer to shooter,15
+2039_1,Jake R,2026ilpe,qm,1,2026ilpe_qm1,r1,2039,0,0,0,0,0,0,c,0,,0,0,0,0,0,0,0,ds,,nz,noa,n,0,0,Brody K,73.1,26.5x26.5,t,Has L1 climb,12,go,80.6,0,1,Rollers,1
+2039_12,Parker S,2026ilpe,qm,12,2026ilpe_qm12,r3,2039,30,20,10,0,0,0,c,0,0,5,5,5,0,5,0,10,ft,trc,nz,puf,2,0,0,Brody K,73.1,26.5x26.5,t,Has L1 climb,12,go,80.6,0,1,Rollers,1
+2039_22,Ryan S,2026ilpe,qm,22,2026ilpe_qm22,b3,2039,25,15,10,0,1,0,c,0,0,5,0,5,5,0,0,10,ft,bup,dp,noa,0,0,1,Brody K,73.1,26.5x26.5,t,Has L1 climb,12,go,80.6,0,1,Rollers,1
+2039_32,Parker S,2026ilpe,qm,32,2026ilpe_qm32,r3,2039,10,0,10,0,1,0,c,0,0,0,0,0,0,0,0,10,ds,bup,dp,noa,1,0,2,Brody K,73.1,26.5x26.5,t,Has L1 climb,12,go,80.6,0,1,Rollers,1
+2039_41,Bryce F,2026ilpe,qm,41,2026ilpe_qm41,r2,2039,10,10,0,0,0,0,c,0,0,5,0,5,0,0,0,0,ft,trc,nz,puf,n,0,0,Brody K,73.1,26.5x26.5,t,Has L1 climb,12,go,80.6,0,1,Rollers,1
+2039_6,Anika,2026ilpe,qm,6,2026ilpe_qm6,b1,2039,15,5,10,0,1,0,c,0,0,5,0,0,0,0,0,10,ft,bup,dp,dfs,2,0,2,Brody K,73.1,26.5x26.5,t,Has L1 climb,12,go,80.6,0,1,Rollers,1
+2040_1,Elizabeth P,2026ilpe,qm,1,2026ilpe_qm1,b2,2040,115,115,0,0,0,0,dt,0,3,15,15,35,15,35,0,0,ft,trc,nz,puf,n,0,0,Elijah M,110,27 27 5,s,0,40,go,114,1,1,Belts,4
+2040_12,Elijah G.,2026ilpe,qm,12,2026ilpe_qm12,b1,2040,120,120,0,0,0,0,dt,0,4,15,0,35,35,35,0,0,ab,bup,nz,pss,n,0,0,Elijah M,110,27 27 5,s,0,40,go,114,1,1,Belts,4
+2040_18,Cooper S,2026ilpe,qm,18,2026ilpe_qm18,b2,2040,125,125,0,0,0,0,ot,0,4,15,15,0,60,35,0,0,ah,bth,nz,pss,n,0,0,Elijah M,110,27 27 5,s,0,40,go,114,1,1,Belts,4
+2040_34,Xander,2026ilpe,qm,34,2026ilpe_qm34,r1,2040,45,45,0,0,1,0,dt,0,0,15,0,15,15,0,0,0,ft,trc,nz,pss,n,0,2,Elijah M,110,27 27 5,s,0,40,go,114,1,1,Belts,4
+2040_37,Jake R,2026ilpe,qm,37,2026ilpe_qm37,r1,2040,65,65,0,0,0,0,dt,0,2,5,15,15,15,15,0,0,nd,bup,nz,puf,n,0,0,Elijah M,110,27 27 5,s,0,40,go,114,1,1,Belts,4
+2040_44,Ryan S,2026ilpe,qm,44,2026ilpe_qm44,b3,2040,75,75,0,0,0,0,ot,0,0,15,5,15,5,35,0,0,all,trc,dp,puf,n,0,0,Elijah M,110,27 27 5,s,0,40,go,114,1,1,Belts,4
+2040_7,Jake R,2026ilpe,qm,7,2026ilpe_qm7,r1,2040,45,45,0,0,0,0,c,0,3,15,5,5,5,15,0,0,ft,bup,nz,puf,n,0,0,Elijah M,110,27 27 5,s,0,40,go,114,1,1,Belts,4
+2481_11,Luke G,2026ilpe,qm,11,2026ilpe_qm11,b3,2481,370,370,0,0,0,1,db,0,3,85,15,60,85,125,0,0,ah,bup,nz,puf,n,2,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+2481_17,Luke G,2026ilpe,qm,17,2026ilpe_qm17,r2,2481,355,355,0,0,0,1,db,0,3,85,0,35,85,150,0,0,ah,bup,nz,puf,n,1,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+2481_23,Anika,2026ilpe,qm,23,2026ilpe_qm23,r2,2481,300,300,0,0,0,1,db,0,0,15,15,85,125,60,2,0,ah,bup,nz,puf,n,2,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+2481_28,Luke G,2026ilpe,qm,28,2026ilpe_qm28,r1,2481,355,355,0,0,0,1,db,0,3,85,0,125,85,60,0,0,ah,bup,nz,puf,n,1,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+2481_33,Luke G,2026ilpe,qm,33,2026ilpe_qm33,r1,2481,435,435,0,0,0,1,db,0,3,85,15,150,150,35,2,0,ab,bup,nz,puf,n,1,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+2481_39,Anika,2026ilpe,qm,39,2026ilpe_qm39,r2,2481,425,425,0,0,0,0,db,0,0,85,5,125,85,125,1,0,all,bup,nz,puf,n,0,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+2481_43,Anika,2026ilpe,qm,43,2026ilpe_qm43,b2,2481,315,315,0,0,0,1,db,0,0,85,0,85,85,60,1,0,all,bup,nz,puf,n,2,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+2481_5,Anika,2026ilpe,qm,5,2026ilpe_qm5,b3,2481,85,85,0,0,1,0,db,0,3,85,0,0,0,0,2,0,ds,bup,az,dfs,n,0,4,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+2481_8,Anika,2026ilpe,qm,8,2026ilpe_qm8,b3,2481,300,300,0,0,0,1,db,0,3,85,35,85,35,60,0,0,ft,bup,nz,puf,n,1,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+2861_15,Parker S,2026ilpe,qm,15,2026ilpe_qm15,r3,2861,40,40,0,0,0,0,c,0,0,5,15,5,0,15,0,0,ft,trc,nz,puf,n,0,0,Ryan s,98,21 x 33,s,No metal frame,45,b,110,1,0,Grip wheels for intake,1
+2861_19,Mackenzie J,2026ilpe,qm,19,2026ilpe_qm19,b1,2861,75,75,0,0,0,0,c,0,0,5,5,35,15,15,0,0,nd,trc,nz,puf,n,0,0,Ryan s,98,21 x 33,s,No metal frame,45,b,110,1,0,Grip wheels for intake,1
+2861_22,Jaxon C,2026ilpe,qm,22,2026ilpe_qm22,,2861,90,90,0,0,0,0,c,0,0,5,0,35,35,15,0,0,ft,trc,nz,pss,n,0,0,Ryan s,98,21 x 33,s,No metal frame,45,b,110,1,0,Grip wheels for intake,1
+2861_31,Nick R,2026ilpe,qm,31,2026ilpe_qm31,,2861,25,25,0,0,0,0,c,0,0,5,0,15,5,0,0,0,ft,trc,nz,pss,n,0,0,Ryan s,98,21 x 33,s,No metal frame,45,b,110,1,0,Grip wheels for intake,1
+2861_36,Cooper S,2026ilpe,qm,36,2026ilpe_qm36,b2,2861,90,90,0,0,0,0,c,0,0,5,15,0,35,35,1,0,nd,bth,az,pss,n,0,0,Ryan s,98,21 x 33,s,No metal frame,45,b,110,1,0,Grip wheels for intake,1
+2861_4,Elizabeth P,2026ilpe,qm,4,2026ilpe_qm4,b2,2861,90,90,0,0,0,0,db,0,0,5,0,15,35,35,0,0,fo,trc,az,puf,n,0,0,Ryan s,98,21 x 33,s,No metal frame,45,b,110,1,0,Grip wheels for intake,1
+2861_45,Anika,2026ilpe,qm,45,2026ilpe_qm45,b1,2861,75,75,0,0,0,0,c,0,0,5,5,15,35,15,0,0,ft,trc,nz,puf,n,0,0,Ryan s,98,21 x 33,s,No metal frame,45,b,110,1,0,Grip wheels for intake,1
+2861_7,Mackenzie J,2026ilpe,qm,7,2026ilpe_qm7,b1,2861,50,50,0,0,0,0,db,0,0,5,0,15,15,15,0,0,all,trc,nz,puf,n,0,0,Ryan s,98,21 x 33,s,No metal frame,45,b,110,1,0,Grip wheels for intake,1
+3067_10,Nick R,2026ilpe,qm,10,2026ilpe_qm10,r2,3067,20,20,0,0,0,0,db,0,0,5,0,5,5,5,0,0,ft,bup,nz,puf,n,0,0,Malachi B,103,27 by 27 29 high,s,0,50,b,107,0,1,Spindexer ,1 and a half
+3067_13,Elijah G.,2026ilpe,qm,13,2026ilpe_qm13,b1,3067,25,25,0,0,0,0,c,0,0,0,0,15,5,5,0,0,nd,bup,nz,pss,n,0,0,Malachi B,103,27 by 27 29 high,s,0,50,b,107,0,1,Spindexer ,1 and a half
+3067_2,Anika,2026ilpe,qm,2,2026ilpe_qm2,b1,3067,40,40,0,0,0,0,db,0,0,5,0,15,5,15,0,0,nd,bup,az,puf,n,0,0,Malachi B,103,27 by 27 29 high,s,0,50,b,107,0,1,Spindexer ,1 and a half
+3067_21,Mackenzie J,2026ilpe,qm,21,2026ilpe_qm21,b1,3067,10,10,0,0,1,0,db,0,4,5,0,0,0,5,1,0,nd,bup,nz,dfs,n,0,3,Malachi B,103,27 by 27 29 high,s,0,50,b,107,0,1,Spindexer ,1 and a half
+3067_23,Jaxon C,2026ilpe,qm,23,2026ilpe_qm23,r3,3067,0,0,0,0,1,0,ob,0,0,0,0,0,0,0,0,0,ds,bup,dp,dfs,n,0,4,Malachi B,103,27 by 27 29 high,s,0,50,b,107,0,1,Spindexer ,1 and a half
+3067_29,Gavin c,2026ilpe,qm,29,2026ilpe_qm29,b3,3067,0,0,0,0,0,1,db,0,0,0,0,0,0,0,0,0,ds,bup,dp,pss,n,2,0,Malachi B,103,27 by 27 29 high,s,0,50,b,107,0,1,Spindexer ,1 and a half
+3067_35,Nick R,2026ilpe,qm,35,2026ilpe_qm35,r2,3067,40,40,0,0,0,0,c,0,0,0,5,15,5,15,0,0,nd,bup,nz,puf,n,0,0,Malachi B,103,27 by 27 29 high,s,0,50,b,107,0,1,Spindexer ,1 and a half
+3284_14,Nick R,2026ilpe,qm,14,2026ilpe_qm14,r2,3284,35,35,0,0,1,0,dt,0,0,15,5,15,0,0,0,0,nd,trc,az,puf,n,0,1,Elijah M,110,32 32,s,0,30,b,115,1,1,Belts,4 75
+3284_2,Jake R,2026ilpe,qm,2,2026ilpe_qm2,r1,3284,10,10,0,0,1,0,dt,0,3,5,5,0,0,0,1,0,fo,bth,nz,dfs,n,0,3,Elijah M,110,32 32,s,0,30,b,115,1,1,Belts,4 75
+3284_20,Elizabeth,2026ilpe,qm,20,2026ilpe_qm20,b2,3284,30,30,0,0,0,1,dt,0,3,15,5,5,5,0,0,0,all,trc,nz,puf,n,1,0,Elijah M,110,32 32,s,0,30,b,115,1,1,Belts,4 75
+3284_25,Jake R,2026ilpe,qm,25,2026ilpe_qm25,r1,3284,15,15,0,0,1,0,dt,0,6,0,5,5,5,0,0,0,ds,bup,dp,noa,n,0,3,Elijah M,110,32 32,s,0,30,b,115,1,1,Belts,4 75
+3284_32,Elijah G.,2026ilpe,qm,32,2026ilpe_qm32,b1,3284,5,5,0,0,1,0,dt,0,8,5,0,0,0,0,0,0,nd,trc,nz,dfs,n,0,2,Elijah M,110,32 32,s,0,30,b,115,1,1,Belts,4 75
+3284_42,Bryce F,2026ilpe,qm,42,2026ilpe_qm42,r2,3284,25,25,0,0,0,0,ot,0,8,15,5,5,0,0,0,0,ft,trc,nz,dfs,n,0,0,Elijah M,110,32 32,s,0,30,b,115,1,1,Belts,4 75
 3284_45,Ryan S,2026ilpe,qm,45,2026ilpe_qm45,b3,3284,0,0,0,0,1,0,ob,0,0,0,0,0,0,0,0,0,ds,trc,dp,dfs,n,0,4,Elijah M,110,32 32,s,0,30,b,115,1,1,Belts,4 75
+3284_6,Jake R,2026ilpe,qm,6,2026ilpe_qm6,r1,3284,5,5,0,0,1,0,ob,0,4,5,0,0,0,0,1,0,ds,bup,dp,noa,n,0,2,Elijah M,110,32 32,s,0,30,b,115,1,1,Belts,4 75
+3488_13,Malachi B,2026ilpe,qm,13,2026ilpe_qm13,b3,3488,25,25,0,0,1,0,ob,0,0,0,5,15,5,0,2,0,ah,bup,nz,dfs,n,0,1,Bryce F,114,30x23x28,s,0,35,b,128,0,1,Polybelt pushes fuel to shooter,4
+3488_18,Elijah G.,2026ilpe,qm,18,2026ilpe_qm18,b1,3488,20,20,0,0,0,0,db,0,0,5,5,5,5,0,0,0,ah,bup,nz,pss,n,0,0,Bryce F,114,30x23x28,s,0,35,b,128,0,1,Polybelt pushes fuel to shooter,4
+3488_25,Elizabeth,2026ilpe,qm,25,2026ilpe_qm25,b2,3488,5,5,0,0,0,0,c,0,0,0,5,0,0,0,0,0,ft,bup,dp,puf,n,0,0,Bryce F,114,30x23x28,s,0,35,b,128,0,1,Polybelt pushes fuel to shooter,4
+3488_29,Parker S,2026ilpe,qm,29,2026ilpe_qm29,r3,3488,5,5,0,0,0,0,c,0,0,0,5,0,0,0,0,0,ds,bup,dp,pss,n,0,0,Bryce F,114,30x23x28,s,0,35,b,128,0,1,Polybelt pushes fuel to shooter,4
+3488_4,Bryce F,2026ilpe,qm,4,2026ilpe_qm4,r2,3488,35,35,0,0,0,0,c,0,0,0,0,15,5,15,0,0,ah,bup,az,puf,n,0,0,Bryce F,114,30x23x28,s,0,35,b,128,0,1,Polybelt pushes fuel to shooter,4
+3488_41,Mackenzie J,2026ilpe,qm,41,2026ilpe_qm41,b1,3488,50,50,0,0,0,0,c,0,0,0,5,15,15,15,0,0,ah,bup,nz,puf,n,0,0,Bryce F,114,30x23x28,s,0,35,b,128,0,1,Polybelt pushes fuel to shooter,4
+3488_7,Elizabeth P,2026ilpe,qm,7,2026ilpe_qm7,b2,3488,20,20,0,0,0,0,ob,0,0,0,0,15,5,0,0,0,ft,bup,nz,puf,n,0,0,Bryce F,114,30x23x28,s,0,35,b,128,0,1,Polybelt pushes fuel to shooter,4
+4096_15,Malachi B,2026ilpe,qm,15,2026ilpe_qm15,b3,4096,40,40,0,0,0,0,ot,0,1,15,0,5,5,15,0,0,ut,trc,az,noa,n,0,0,Liam p,108,28x26,s,Three wide robot,40,b,118,1,1,0,2
+4096_18,Luke G,2026ilpe,qm,18,2026ilpe_qm18,r1,4096,40,40,0,0,0,0,ot,0,0,0,5,35,0,0,0,0,nd,trc,nz,pss,n,0,0,Liam p,108,28x26,s,Three wide robot,40,b,118,1,1,0,2
+4096_30,Nick R,2026ilpe,qm,30,2026ilpe_qm30,,4096,100,100,0,0,0,0,ot,0,2,15,0,35,15,35,1,0,nd,trc,nz,puf,n,0,0,Liam p,108,28x26,s,Three wide robot,40,b,118,1,1,0,2
+4096_35,Elijah G.,2026ilpe,qm,35,2026ilpe_qm35,b1,4096,125,125,0,0,0,0,dt,0,2,15,5,35,35,35,0,0,nd,trc,nz,pss,n,0,0,Liam p,108,28x26,s,Three wide robot,40,b,118,1,1,0,2
+4096_41,Ryan S,2026ilpe,qm,41,2026ilpe_qm41,b3,4096,70,70,0,0,0,0,ot,0,0,5,0,15,15,35,0,0,fo,trc,nz,pss,n,0,0,Liam p,108,28x26,s,Three wide robot,40,b,118,1,1,0,2
+4096_45,Bryce F,2026ilpe,qm,45,2026ilpe_qm45,,4096,160,160,0,0,0,0,dt,0,2,15,35,35,60,15,0,0,ft,trc,nz,puf,n,0,0,Liam p,108,28x26,s,Three wide robot,40,b,118,1,1,0,2
+4143_16,Nick R,2026ilpe,qm,16,2026ilpe_qm16,r2,4143,175,175,0,0,0,0,ob,0,0,35,5,60,60,15,0,0,ft,bup,nz,puf,n,0,0,Ryan S,105,28 x 26,s,0,72,n,120,0,0,Roller bed,1 5
+4143_2,Elizabeth P,2026ilpe,qm,2,2026ilpe_qm2,b2,4143,95,95,0,0,0,1,ob,0,2,15,15,35,15,15,0,0,all,bup,nz,pss,n,3,0,Ryan S,105,28 x 26,s,0,72,n,120,0,0,Roller bed,1 5
+4143_20,Ryan S,2026ilpe,qm,20,2026ilpe_qm20,b3,4143,65,65,0,0,0,1,ob,0,0,35,0,15,15,0,0,0,ab,bup,dp,pss,n,2,0,Ryan S,105,28 x 26,s,0,72,n,120,0,0,Roller bed,1 5
+4143_26,Elizabeth,2026ilpe,qm,26,2026ilpe_qm26,b2,4143,205,205,0,0,0,0,ob,0,0,15,35,60,60,35,0,0,all,bup,nz,pss,n,0,0,Ryan S,105,28 x 26,s,0,72,n,120,0,0,Roller bed,1 5
+4143_29,Xander,2026ilpe,qm,29,2026ilpe_qm29,r1,4143,125,125,0,0,0,1,ob,0,0,15,0,15,35,60,0,0,nd,bup,az,pss,n,1,0,Ryan S,105,28 x 26,s,0,72,n,120,0,0,Roller bed,1 5
+4143_34,Elijah G.,2026ilpe,qm,34,2026ilpe_qm34,b1,4143,280,280,0,0,0,0,ob,0,2,35,0,35,60,150,0,0,ft,bup,nz,puf,n,0,0,Ryan S,105,28 x 26,s,0,72,n,120,0,0,Roller bed,1 5
+4143_38,Ryan S,2026ilpe,qm,38,2026ilpe_qm38,b3,4143,85,85,0,0,0,0,c,0,0,0,0,15,35,35,1,0,fo,bup,nz,pss,n,0,0,Ryan S,105,28 x 26,s,0,72,n,120,0,0,Roller bed,1 5
 4143_45,Jake R,2026ilpe,qm,45,2026ilpe_qm45,r1,4143,65,65,0,0,0,0,c,0,0,5,15,15,15,15,0,0,nd,bup,nz,puf,n,0,0,Ryan S,105,28 x 26,s,0,72,n,120,0,0,Roller bed,1 5
+4143_7,Bryce F,2026ilpe,qm,7,2026ilpe_qm7,r2,4143,320,320,0,0,0,0,ob,0,2,35,15,125,85,60,0,0,ft,bup,nz,puf,n,0,0,Ryan S,105,28 x 26,s,0,72,n,120,0,0,Roller bed,1 5
+4156_14,Xander L,2026ilpe,qm,14,2026ilpe_qm14,r1,4156,0,0,0,0,0,0,ob,0,0,0,0,0,0,0,0,0,ds,tdn,dp,noa,n,0,0,Brody K,92.5,26x26,s,Unconfident in weight,50,b,105,0,0,Conveyor Belts,2.5
+4156_21,Elizabeth,2026ilpe,qm,21,2026ilpe_qm21,b2,4156,0,0,0,0,0,0,ob,0,0,0,0,0,0,0,0,0,ds,bup,nz,puf,n,0,0,Brody K,92.5,26x26,s,Unconfident in weight,50,b,105,0,0,Conveyor Belts,2.5
+4156_25,Ryan S,2026ilpe,qm,25,2026ilpe_qm25,b3,4156,0,0,0,0,1,0,ob,0,0,0,0,0,0,0,0,0,ds,bup,dp,dfs,n,0,3,Brody K,92.5,26x26,s,Unconfident in weight,50,b,105,0,0,Conveyor Belts,2.5
+4156_31,Elijah G.,2026ilpe,qm,31,2026ilpe_qm31,b1,4156,5,5,0,0,0,0,db,0,0,0,0,5,0,0,1,0,nd,bup,nz,noa,n,0,0,Brody K,92.5,26x26,s,Unconfident in weight,50,b,105,0,0,Conveyor Belts,2.5
+4156_36,Nick R,2026ilpe,qm,36,2026ilpe_qm36,,4156,0,0,0,0,1,0,ob,0,0,0,0,0,0,0,0,0,ds,bup,nz,dfs,n,0,1,Brody K,92.5,26x26,s,Unconfident in weight,50,b,105,0,0,Conveyor Belts,2.5
+4156_40,Bryce F,2026ilpe,qm,40,2026ilpe_qm40,r2,4156,10,10,0,0,0,0,dt,0,0,0,5,5,0,0,0,0,nd,trc,nz,pss,n,0,0,Brody K,92.5,26x26,s,Unconfident in weight,50,b,105,0,0,Conveyor Belts,2.5
+4213_13,Xander L,2026ilpe,qm,13,2026ilpe_qm13,r1,4213,0,0,0,0,1,0,ot,0,0,0,0,0,0,0,0,0,ds,bth,dp,pss,n,0,1,Mac,110.4,26x28,s,0,50,b,122.4,1,1,Over the bumper intake to a turret,2
+4213_19,Jake R,2026ilpe,qm,19,2026ilpe_qm19,r1,4213,0,0,0,0,1,0,c,0,0,0,0,0,0,0,1,0,ds,bup,dp,noa,n,0,1,Mac,110.4,26x28,s,0,50,b,122.4,1,1,Over the bumper intake to a turret,2
+4213_25,Bryce F,2026ilpe,qm,25,2026ilpe_qm25,r2,4213,25,25,0,0,1,0,c,0,0,5,0,5,15,0,0,0,ft,bup,nz,pss,n,0,2,Mac,110.4,26x28,s,0,50,b,122.4,1,1,Over the bumper intake to a turret,2
+4213_3,Jaxon C,2026ilpe,qm,3,2026ilpe_qm3,r3,4213,0,0,0,0,0,1,ob,0,0,0,0,0,0,0,0,0,ds,bth,nz,pss,n,4,0,Mac,110.4,26x28,s,0,50,b,122.4,1,1,Over the bumper intake to a turret,2
+4213_36,Elijah G.,2026ilpe,qm,36,2026ilpe_qm36,b1,4213,0,0,0,0,1,0,dt,0,0,0,0,0,0,0,2,0,ds,bup,nz,dfs,n,0,3,Mac,110.4,26x28,s,0,50,b,122.4,1,1,Over the bumper intake to a turret,2
+4213_40,Elizabeth P,2026ilpe,qm,40,2026ilpe_qm40,b2,4213,0,0,0,0,0,1,ob,0,3,0,0,0,0,0,0,0,ds,bth,nz,pss,n,4,0,Mac,110.4,26x28,s,0,50,b,122.4,1,1,Over the bumper intake to a turret,2
+4213_6,Ryan S,2026ilpe,qm,6,2026ilpe_qm6,b3,4213,5,5,0,0,1,0,ot,0,0,0,0,0,0,5,0,0,ds,bth,nz,pss,n,0,1,Mac,110.4,26x28,s,0,50,b,122.4,1,1,Over the bumper intake to a turret,2
+4423_10,Cooper S,2026ilpe,qm,10,2026ilpe_qm10,b2,4423,100,90,10,0,0,0,ot,0,0,5,0,35,35,15,0,10,nd,bth,nz,pss,0,0,0,Luke G,93,27x27,s,Feeding ,25,go,103,0,1,Indexer ,1 5
+4423_14,Malachi B,2026ilpe,qm,14,2026ilpe_qm14,b3,4423,20,20,0,0,0,1,ob,0,0,5,0,15,0,0,0,0,ft,bup,nz,pss,n,1,0,Luke G,93,27x27,s,Feeding ,25,go,103,0,1,Indexer ,1 5
+4423_20,Mackenzie J,2026ilpe,qm,20,2026ilpe_qm20,b1,4423,35,35,0,0,0,0,db,0,0,5,5,5,15,5,0,0,nd,bup,nz,pss,n,0,0,Luke G,93,27x27,s,Feeding ,25,go,103,0,1,Indexer ,1 5
+4423_27,Bryce F,2026ilpe,qm,27,2026ilpe_qm27,r2,4423,50,50,0,0,0,0,ot,0,0,5,0,15,15,15,0,0,all,bup,nz,puf,n,0,0,Luke G,93,27x27,s,Feeding ,25,go,103,0,1,Indexer ,1 5
+4423_34,Parker S,2026ilpe,qm,34,2026ilpe_qm34,,4423,50,40,10,0,0,0,ob,0,0,0,15,15,5,5,0,10,fo,bup,dp,puf,0,0,0,Luke G,93,27x27,s,Feeding ,25,go,103,0,1,Indexer ,1 5
+4423_4,Jaxon C,2026ilpe,qm,4,2026ilpe_qm4,r3,4423,30,20,10,0,0,0,ot,0,0,0,0,0,5,15,0,10,ft,bth,nz,pss,0,0,0,Luke G,93,27x27,s,Feeding ,25,go,103,0,1,Indexer ,1 5
+4423_40,Mackenzie J,2026ilpe,qm,40,2026ilpe_qm40,b1,4423,55,55,0,0,0,0,db,0,0,0,0,35,15,5,0,0,nd,bup,nz,puf,n,0,0,Luke G,93,27x27,s,Feeding ,25,go,103,0,1,Indexer ,1 5
+4645_1,Jaxon C,2026ilpe,qm,1,2026ilpe_qm1,r3,4645,0,0,0,0,0,0,dt,0,0,0,0,0,0,0,0,0,ds,trc,nz,noa,n,0,0,Luke G,107,27x27,s,0,40,b,115,1,1,Spindexter,2
+4645_20,Bryce F,2026ilpe,qm,20,2026ilpe_qm20,r2,4645,0,0,0,0,0,0,dt,0,0,0,0,0,0,0,0,0,ds,trc,dp,pss,n,0,0,Luke G,107,27x27,s,0,40,b,115,1,1,Spindexter,2
+4645_24,Ryan S,2026ilpe,qm,24,2026ilpe_qm24,b3,4645,0,0,0,0,0,1,dt,0,0,0,0,0,0,0,0,0,ds,bup,dp,pss,n,2,0,Luke G,107,27x27,s,0,40,b,115,1,1,Spindexter,2
+4645_30,Gavin c,2026ilpe,qm,30,2026ilpe_qm30,b3,4645,20,20,0,0,0,0,dt,0,0,5,5,0,5,5,0,0,ft,trc,az,noa,n,0,0,Luke G,107,27x27,s,0,40,b,115,1,1,Spindexter,2
+4645_34,Cooper S,2026ilpe,qm,34,2026ilpe_qm34,b2,4645,5,5,0,0,0,0,dt,0,0,5,0,0,0,0,0,0,ds,tdn,dp,noa,n,0,0,Luke G,107,27x27,s,0,40,b,115,1,1,Spindexter,2
+4645_40,Jake R,2026ilpe,qm,40,2026ilpe_qm40,r1,4645,25,25,0,0,0,1,ot,0,0,5,15,5,0,0,0,0,nd,trc,dp,puf,n,1,0,Luke G,107,27x27,s,0,40,b,115,1,1,Spindexter,2
+4645_7,Jaxon C,2026ilpe,qm,7,2026ilpe_qm7,r3,4645,0,0,0,0,0,0,c,0,0,0,0,0,0,0,0,0,ds,trc,dp,pss,n,0,0,Luke G,107,27x27,s,0,40,b,115,1,1,Spindexter,2
+4655_19,Ryan S,2026ilpe,qm,19,2026ilpe_qm19,b3,4655,40,40,0,0,0,1,dt,0,0,15,5,5,0,15,0,0,ds,trc,nz,puf,n,2,0,Elizabeth P,107,29x25.5,s,0,55,b,118.5,1,1,spindexer,4
+4655_2,Jaxon C,2026ilpe,qm,2,2026ilpe_qm2,r3,4655,15,15,0,0,1,0,ot,0,2,0,15,0,0,0,0,0,all,trc,nz,dfs,n,0,2,Elizabeth P,107,29x25.5,s,0,55,b,118.5,1,1,spindexer,4
+4655_27,Mackenzie J,2026ilpe,qm,27,2026ilpe_qm27,b1,4655,115,115,0,0,0,1,ot,0,2,35,15,15,35,15,0,0,nd,bth,nz,pss,n,1,0,Elizabeth P,107,29x25.5,s,0,55,b,118.5,1,1,spindexer,4
+4655_36,Xander L,2026ilpe,qm,36,2026ilpe_qm36,r1,4655,165,165,0,0,0,1,dt,0,4,35,0,60,35,35,0,0,nd,trc,nz,pss,n,2,0,Elizabeth P,107,29x25.5,s,0,55,b,118.5,1,1,spindexer,4
+4655_41,Elizabeth P,2026ilpe,qm,41,2026ilpe_qm41,b2,4655,80,80,0,0,0,0,dt,0,3,0,35,15,15,15,0,0,all,bth,nz,puf,n,0,0,Elizabeth P,107,29x25.5,s,0,55,b,118.5,1,1,spindexer,4
+4655_6,Elizabeth P,2026ilpe,qm,6,2026ilpe_qm6,b2,4655,40,40,0,0,0,1,dt,0,2,0,5,5,15,15,0,0,all,bth,az,puf,n,1,0,Elizabeth P,107,29x25.5,s,0,55,b,118.5,1,1,spindexer,4
+4787_14,Parker S,2026ilpe,qm,14,2026ilpe_qm14,,4787,15,15,0,0,0,0,c,0,0,5,0,0,5,5,0,0,fo,trc,dp,puf,n,0,0,Jake R,84.6,27 x 27,s,Passing   Auto aim   Shooting on move is in progress,35,go,90.9,1,0,Conveyor straight to shooter,1
+4787_18,Malachi,2026ilpe,qm,18,2026ilpe_qm18,b3,4787,10,10,0,0,0,0,c,0,0,0,0,0,5,5,0,0,fo,trc,op,pss,n,0,0,Jake R,84.6,27 x 27,s,Passing   Auto aim   Shooting on move is in progress,35,go,90.9,1,0,Conveyor straight to shooter,1
+4787_22,Bryce F,2026ilpe,qm,22,2026ilpe_qm22,r2,4787,0,0,0,0,0,0,dt,0,0,0,0,0,0,0,0,0,ds,trc,dp,dfs,n,0,0,Jake R,84.6,27 x 27,s,Passing   Auto aim   Shooting on move is in progress,35,go,90.9,1,0,Conveyor straight to shooter,1
+4787_29,Cooper S,2026ilpe,qm,29,2026ilpe_qm29,b2,4787,25,25,0,0,0,0,c,0,0,5,5,5,5,5,0,0,ds,bth,nz,pss,n,0,0,Jake R,84.6,27 x 27,s,Passing   Auto aim   Shooting on move is in progress,35,go,90.9,1,0,Conveyor straight to shooter,1
+4787_3,Bryce F,2026ilpe,qm,3,2026ilpe_qm3,r2,4787,75,75,0,0,0,0,c,0,0,5,5,35,15,15,0,0,ft,trc,az,puf,n,0,0,Jake R,84.6,27 x 27,s,Passing   Auto aim   Shooting on move is in progress,35,go,90.9,1,0,Conveyor straight to shooter,1
+4787_38,Mackenzie J,2026ilpe,qm,38,2026ilpe_qm38,b1,4787,5,5,0,0,1,0,c,0,0,5,0,0,0,0,1,0,ds,bup,dp,dfs,n,0,1,Jake R,84.6,27 x 27,s,Passing   Auto aim   Shooting on move is in progress,35,go,90.9,1,0,Conveyor straight to shooter,1
+4787_9,Ryan S,2026ilpe,qm,9,2026ilpe_qm9,b3,4787,0,0,0,0,0,0,c,0,0,0,0,0,0,0,0,0,ds,tdn,nz,puf,n,0,0,Jake R,84.6,27 x 27,s,Passing   Auto aim   Shooting on move is in progress,35,go,90.9,1,0,Conveyor straight to shooter,1
+5442_15,Xander L,2026ilpe,qm,15,2026ilpe_qm15,r1,5442,65,65,0,0,0,1,db,0,2,0,0,15,15,35,0,0,ft,bup,nz,pss,n,1,0,Jake R,114,26 x 28,s,0,60,go,130   roughly,0,0,Conveyor belt to elevator,2
+5442_18,Parker S,2026ilpe,qm,18,2026ilpe_qm18,r3,5442,35,35,0,0,0,0,ot,0,0,5,15,0,0,15,0,0,ah,bup,nz,puf,n,0,0,Jake R,114,26 x 28,s,0,60,go,130   roughly,0,0,Conveyor belt to elevator,2
+5442_21,Jaxon C,2026ilpe,qm,21,2026ilpe_qm21,r3,5442,55,55,0,0,1,1,db,0,4,0,0,35,5,15,0,0,all,bup,nz,puf,n,3,1,Jake R,114,26 x 28,s,0,60,go,130   roughly,0,0,Conveyor belt to elevator,2
+5442_27,Elizabeth,2026ilpe,qm,27,2026ilpe_qm27,b2,5442,70,70,0,0,0,0,db,0,0,15,0,35,15,5,0,0,fo,bup,nz,puf,n,0,0,Jake R,114,26 x 28,s,0,60,go,130   roughly,0,0,Conveyor belt to elevator,2
+5442_3,Elizabeth P,2026ilpe,qm,3,2026ilpe_qm3,b2,5442,35,35,0,0,1,1,db,0,3,0,0,15,15,5,0,0,all,bup,nz,puf,n,3,1,Jake R,114,26 x 28,s,0,60,go,130   roughly,0,0,Conveyor belt to elevator,2
+5442_35,Xander L,2026ilpe,qm,35,2026ilpe_qm35,r1,5442,70,70,0,0,1,0,db,0,2,0,15,5,15,35,0,0,ds,bup,nz,pss,n,0,1,Jake R,114,26 x 28,s,0,60,go,130   roughly,0,0,Conveyor belt to elevator,2
+5442_38,Jake R,2026ilpe,qm,38,2026ilpe_qm38,r1,5442,55,55,0,0,0,0,c,0,0,5,15,5,15,15,0,0,nd,bup,nz,puf,n,0,0,Jake R,114,26 x 28,s,0,60,go,130   roughly,0,0,Conveyor belt to elevator,2
+5442_6,Bryce F,2026ilpe,qm,6,2026ilpe_qm6,r2,5442,45,45,0,0,0,1,ob,0,1,0,0,15,15,15,2,0,all,bup,az,puf,n,1,0,Jake R,114,26 x 28,s,0,60,go,130   roughly,0,0,Conveyor belt to elevator,2
+6237_1,Bryce F,2026ilpe,qm,1,2026ilpe_qm1,r2,6237,85,85,0,0,0,1,ot,0,0,15,0,35,0,35,0,0,ft,bup,nz,puf,n,3,0,Bryce F,103,25x27x30,s,Not very well on the move shooting,50,b,123,0,1,Use belts to move fuel to shooter,2
+6237_14,Elijah G.,2026ilpe,qm,14,2026ilpe_qm14,b1,6237,115,115,0,0,0,0,ot,0,0,15,15,15,35,35,0,0,nd,bup,nz,pss,n,0,0,Bryce F,103,25x27x30,s,Not very well on the move shooting,50,b,123,0,1,Use belts to move fuel to shooter,2
+6237_24,Jaxon C,2026ilpe,qm,24,2026ilpe_qm24,r3,6237,160,160,0,0,0,0,ot,0,0,5,0,35,60,60,0,0,ft,bup,nz,puf,n,0,0,Bryce F,103,25x27x30,s,Not very well on the move shooting,50,b,123,0,1,Use belts to move fuel to shooter,2
+6237_31,Gavin c,2026ilpe,qm,31,2026ilpe_qm31,b3,6237,85,85,0,0,0,1,ot,0,0,0,0,35,15,35,0,0,ft,bup,nz,puf,n,2,0,Bryce F,103,25x27x30,s,Not very well on the move shooting,50,b,123,0,1,Use belts to move fuel to shooter,2
+6237_33,Parker S,2026ilpe,qm,33,2026ilpe_qm33,r3,6237,55,55,0,0,0,0,ot,0,0,5,5,15,15,15,0,0,all,bup,nz,puf,n,0,0,Bryce F,103,25x27x30,s,Not very well on the move shooting,50,b,123,0,1,Use belts to move fuel to shooter,2
+6237_9,Elizabeth P,2026ilpe,qm,9,2026ilpe_qm9,b2,6237,60,60,0,0,0,0,ot,0,0,5,0,5,15,35,0,0,all,bup,nz,pss,n,0,0,Bryce F,103,25x27x30,s,Not very well on the move shooting,50,b,123,0,1,Use belts to move fuel to shooter,2
+648_12,Cooper S,2026ilpe,qm,12,2026ilpe_qm12,b2,648,0,0,0,0,0,0,c,0,0,0,0,0,0,0,0,0,ds,bth,nz,pss,n,0,0,Luke G,106,28x28,s,L1 climb,27,go,120,1,1,Slanted slope to push balls to shooter,1 5
+648_16,Cooper S,2026ilpe,qm,16,2026ilpe_qm16,b2,648,5,5,0,0,0,0,ob,0,4,0,0,5,0,0,0,0,ds,tdn,dp,noa,n,0,0,Luke G,106,28x28,s,L1 climb,27,go,120,1,1,Slanted slope to push balls to shooter,1 5
+648_22,Mackenzie J,2026ilpe,qm,22,2026ilpe_qm22,b1,648,0,0,0,0,1,0,c,0,0,0,0,0,0,0,0,0,ah,trc,dp,pss,n,0,1,Luke G,106,28x28,s,L1 climb,27,go,120,1,1,Slanted slope to push balls to shooter,1 5
+648_27,Jaxon C,2026ilpe,qm,27,2026ilpe_qm27,r3,648,10,10,0,0,0,0,c,0,0,0,0,0,5,5,0,0,fo,trc,nz,puf,n,0,0,Luke G,106,28x28,s,L1 climb,27,go,120,1,1,Slanted slope to push balls to shooter,1 5
+648_34,Nick R,2026ilpe,qm,34,2026ilpe_qm34,r2,648,5,5,0,0,0,0,c,0,0,0,0,0,0,5,0,0,ft,trc,az,pss,n,0,0,Luke G,106,28x28,s,L1 climb,27,go,120,1,1,Slanted slope to push balls to shooter,1 5
+648_4,Luke G,2026ilpe,qm,4,2026ilpe_qm4,b3,648,0,0,0,0,0,0,c,0,0,0,0,0,0,0,0,0,ds,bup,dp,noa,n,0,0,Luke G,106,28x28,s,L1 climb,27,go,120,1,1,Slanted slope to push balls to shooter,1 5
+648_42,Jake R,2026ilpe,qm,42,2026ilpe_qm42,r1,648,0,0,0,0,1,0,c,0,0,0,0,0,0,0,0,0,ds,bth,dp,dfs,n,0,1,Luke G,106,28x28,s,L1 climb,27,go,120,1,1,Slanted slope to push balls to shooter,1 5
+6651_12,Malachi B,2026ilpe,qm,12,2026ilpe_qm12,b3,6651,0,0,0,0,1,0,ot,0,0,0,0,0,0,0,0,0,ds,bup,dp,noa,n,0,1,Jake W,106,27x27,s,0,10,go,116,0,1,Intake to two wheel single ball tower shooter,1 12
+6651_26,Jake R,2026ilpe,qm,26,2026ilpe_qm26,r1,6651,20,20,0,0,0,0,dt,0,0,5,15,0,0,0,1,0,ds,trc,nz,puf,n,0,0,Jake W,106,27x27,s,0,10,go,116,0,1,Intake to two wheel single ball tower shooter,1 12
+6651_29,Elijah G.,2026ilpe,qm,29,2026ilpe_qm29,b1,6651,0,0,0,0,0,0,ot,0,0,0,0,0,0,0,0,0,ds,tdn,dp,noa,n,0,0,Jake W,106,27x27,s,0,10,go,116,0,1,Intake to two wheel single ball tower shooter,1 12
+6651_35,Cooper S,2026ilpe,qm,35,2026ilpe_qm35,b2,6651,5,5,0,0,0,0,c,0,0,5,0,0,0,0,0,0,ds,bup,dp,noa,n,0,0,Jake W,106,27x27,s,0,10,go,116,0,1,Intake to two wheel single ball tower shooter,1 12
+6651_40,Jaxon C,2026ilpe,qm,40,2026ilpe_qm40,r3,6651,10,10,0,0,1,1,db,0,0,0,0,5,5,0,0,0,ft,bup,nz,dfs,n,1,3,Jake W,106,27x27,s,0,10,go,116,0,1,Intake to two wheel single ball tower shooter,1 12
+6651_6,Jaxon C,2026ilpe,qm,6,2026ilpe_qm6,r3,6651,0,0,0,0,0,0,ot,0,0,0,0,0,0,0,0,0,ds,tdn,dp,noa,n,0,0,Jake W,106,27x27,s,0,10,go,116,0,1,Intake to two wheel single ball tower shooter,1 12
+6651_9,Jake R,2026ilpe,qm,9,2026ilpe_qm9,r1,6651,0,0,0,0,1,0,db,0,0,0,0,0,0,0,0,0,ds,bup,dp,dfs,n,0,1,Jake W,106,27x27,s,0,10,go,116,0,1,Intake to two wheel single ball tower shooter,1 12
+7417_10,Malachi,2026ilpe,qm,10,2026ilpe_qm10,b3,7417,0,0,0,0,1,0,c,0,0,0,0,0,0,0,0,0,ds,trc,nz,dfs,n,0,1,Malachi B,64,30 by 20,s,0,12,go,0,1,0,0,1
+7417_15,Elijah G.,2026ilpe,qm,15,2026ilpe_qm15,b1,7417,0,0,0,0,1,0,dt,0,0,0,0,0,0,0,0,0,ds,trc,nz,dfs,n,0,1,Malachi B,64,30 by 20,s,0,12,go,0,1,0,0,1
+7417_20,Jake R,2026ilpe,qm,20,2026ilpe_qm20,r1,7417,0,0,0,0,1,0,c,0,0,0,0,0,0,0,0,0,ds,bup,dp,dfs,n,0,1,Malachi B,64,30 by 20,s,0,12,go,0,1,0,0,1
+7417_24,Bryce F,2026ilpe,qm,24,2026ilpe_qm24,r2,7417,0,0,0,0,1,0,ot,0,0,0,0,0,0,0,1,0,ds,trc,dp,pss,n,0,1,Malachi B,64,30 by 20,s,0,12,go,0,1,0,0,1
+7417_3,Jake R,2026ilpe,qm,3,2026ilpe_qm3,r1,7417,5,5,0,0,1,0,ot,0,0,5,0,0,0,0,1,0,ds,bth,nz,dfs,n,0,3,Malachi B,64,30 by 20,s,0,12,go,0,1,0,0,1
+7417_31,Xander,2026ilpe,qm,31,2026ilpe_qm31,r1,7417,0,0,0,0,1,0,dt,0,0,0,0,0,0,0,0,0,ds,bth,dp,dfs,n,0,3,Malachi B,64,30 by 20,s,0,12,go,0,1,0,0,1
+7417_34,Gavin c,2026ilpe,qm,34,2026ilpe_qm34,b3,7417,0,0,0,0,1,0,c,0,0,0,0,0,0,0,1,0,ds,trc,dp,pss,n,0,2,Malachi B,64,30 by 20,s,0,12,go,0,1,0,0,1
+7417_37,Bryce F,2026ilpe,qm,37,2026ilpe_qm37,r2,7417,0,0,0,0,0,0,ot,0,0,0,0,0,0,0,0,0,ds,trc,dp,pss,n,0,0,Malachi B,64,30 by 20,s,0,12,go,0,1,0,0,1
+7472_10,Judah G,2026ilpe,qm,10,2026ilpe_qm10,r3,7472,0,0,0,0,1,0,dt,0,0,0,0,0,0,0,0,0,ds,trc,dp,pss,n,0,2,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
+7472_16,Malachi B,2026ilpe,qm,16,2026ilpe_qm16,b3,7472,0,0,0,0,1,0,ot,0,0,0,0,0,0,0,1,0,ds,bup,dp,dfs,n,0,1,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
+7472_21,Jake R,2026ilpe,qm,21,2026ilpe_qm21,r1,7472,5,5,0,0,0,0,c,0,0,0,0,0,5,0,0,0,ds,bup,nz,puf,n,0,0,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
+7472_26,Bryce F,2026ilpe,qm,26,2026ilpe_qm26,r2,7472,20,20,0,0,1,0,c,0,0,5,0,15,0,0,0,0,ut,trc,nz,puf,n,0,1,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
+7472_31,Cooper S,2026ilpe,qm,31,2026ilpe_qm31,b2,7472,5,5,0,0,0,0,c,0,0,0,5,0,0,0,0,0,nd,bth,nz,pss,n,0,0,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
+7472_37,Mackenzie J,2026ilpe,qm,37,2026ilpe_qm37,b1,7472,0,0,0,0,0,0,c,0,0,0,0,0,0,0,2,0,ds,bup,dp,noa,n,0,0,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
+7472_42,Mackenzie J,2026ilpe,qm,42,2026ilpe_qm42,b1,7472,10,10,0,0,0,0,dt,0,4,5,0,5,0,0,0,0,nd,trc,az,puf,n,0,0,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
+7472_45,Jaxon C,2026ilpe,qm,45,2026ilpe_qm45,r3,7472,5,5,0,0,0,1,c,0,0,5,0,0,0,0,0,0,nd,trc,dp,pss,n,1,0,Liamp,105,27X27,s,0,20,b,115,1,0,0,2
+7846_15,Nick R,2026ilpe,qm,15,2026ilpe_qm15,r2,7846,5,5,0,0,0,0,ot,0,0,0,0,0,0,5,0,0,ft,trc,nz,pss,n,0,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+7848_19,Bryce F,2026ilpe,qm,19,2026ilpe_qm19,r2,7848,40,40,0,0,0,0,ot,0,6,0,5,15,15,5,0,0,ft,trc,az,puf,n,0,0,Jake W,113,30x25,s,Low hopper capacity trench bot,30,b,126,1,1,Funnel and roller into a split shooter mechanism ,1
+7848_2,Anika,2026ilpe,qm,2,2026ilpe_qm2,b3,7848,50,50,0,0,0,0,ot,0,0,5,15,15,15,0,0,0,fo,bth,nz,pss,n,0,0,Jake W,113,30x25,s,Low hopper capacity trench bot,30,b,126,1,1,Funnel and roller into a split shooter mechanism ,1
+7848_26,Jaxon C,2026ilpe,qm,26,2026ilpe_qm26,r3,7848,45,45,0,0,0,0,ot,0,0,5,5,5,15,15,0,0,ft,trc,nz,puf,n,0,0,Jake W,113,30x25,s,Low hopper capacity trench bot,30,b,126,1,1,Funnel and roller into a split shooter mechanism ,1
+7848_30,Elijah G.,2026ilpe,qm,30,2026ilpe_qm30,b1,7848,45,45,0,0,0,0,ot,0,0,5,5,15,15,5,0,0,ft,bth,nz,pss,n,0,0,Jake W,113,30x25,s,Low hopper capacity trench bot,30,b,126,1,1,Funnel and roller into a split shooter mechanism ,1
+7848_36,Parker S,2026ilpe,qm,36,2026ilpe_qm36,r3,7848,10,10,0,0,0,0,ob,0,0,0,0,5,0,5,0,0,fo,bup,op,puf,n,0,0,Jake W,113,30x25,s,Low hopper capacity trench bot,30,b,126,1,1,Funnel and roller into a split shooter mechanism ,1
+7848_41,Jake R,2026ilpe,qm,41,2026ilpe_qm41,r1,7848,65,65,0,0,0,0,ot,0,0,15,15,5,15,15,0,0,all,bup,nz,puf,n,0,0,Jake W,113,30x25,s,Low hopper capacity trench bot,30,b,126,1,1,Funnel and roller into a split shooter mechanism ,1
+7848_44,Anika,2026ilpe,qm,44,2026ilpe_qm44,b1,7848,5,5,0,0,0,0,c,0,0,5,0,0,0,0,0,0,ds,trc,az,pss,n,0,0,Jake W,113,30x25,s,Low hopper capacity trench bot,30,b,126,1,1,Funnel and roller into a split shooter mechanism ,1
+7848_9,Mackenzie J,2026ilpe,qm,9,2026ilpe_qm9,b1,7848,20,20,0,0,0,0,dt,0,0,0,0,15,0,5,0,0,nd,trc,az,pss,n,0,0,Jake W,113,30x25,s,Low hopper capacity trench bot,30,b,126,1,1,Funnel and roller into a split shooter mechanism ,1
+8020_12,Nick R,2026ilpe,qm,12,2026ilpe_qm12,,8020,50,50,0,0,0,0,ot,0,0,15,0,5,15,15,0,0,ft,trc,nz,pss,n,0,0,Bryce F,112,25x27x22,s,0,30,b,123,1,1,Wheels move balls to shooter,2
+8020_19,Elizabeth,2026ilpe,qm,19,2026ilpe_qm19,b2,8020,140,140,0,0,0,1,ot,0,2,35,0,35,35,35,0,0,all,bup,nz,pss,n,1,0,Bryce F,112,25x27x22,s,0,30,b,123,1,1,Wheels move balls to shooter,2
+8020_25,Mackenzie J,2026ilpe,qm,25,2026ilpe_qm25,b1,8020,45,45,0,0,0,1,ot,0,5,15,15,15,0,0,0,0,ds,trc,de,pss,n,3,0,Bryce F,112,25x27x22,s,0,30,b,123,1,1,Wheels move balls to shooter,2
+8020_3,Mackenzie,2026ilpe,qm,3,2026ilpe_qm3,b1,8020,60,60,0,0,0,0,ot,0,0,15,0,15,15,15,0,0,nd,trc,nz,pss,n,0,0,Bryce F,112,25x27x22,s,0,30,b,123,1,1,Wheels move balls to shooter,2
+8020_30,Parker S,2026ilpe,qm,30,2026ilpe_qm30,r3,8020,85,85,0,0,0,0,c,0,0,15,5,15,35,15,0,0,ft,bup,az,puf,n,0,0,Bryce F,112,25x27x22,s,0,30,b,123,1,1,Wheels move balls to shooter,2
+8020_38,Jaxon C,2026ilpe,qm,38,2026ilpe_qm38,r3,8020,160,160,0,0,0,1,ot,0,7,15,15,35,60,35,0,0,fo,trc,nz,puf,n,2,0,Bryce F,112,25x27x22,s,0,30,b,123,1,1,Wheels move balls to shooter,2
+8020_4,Anika,2026ilpe,qm,4,2026ilpe_qm4,b1,8020,60,60,0,0,0,0,ot,0,0,15,0,15,15,15,0,0,nd,trc,nz,pss,n,0,0,Bryce F,112,25x27x22,s,0,30,b,123,1,1,Wheels move balls to shooter,2
+8020_42,Elizabeth P,2026ilpe,qm,42,2026ilpe_qm42,b2,8020,90,90,0,0,0,1,c,0,0,15,0,35,35,5,0,0,all,trc,az,pss,n,1,0,Bryce F,112,25x27x22,s,0,30,b,123,1,1,Wheels move balls to shooter,2
+8020_9,Jaxon C,2026ilpe,qm,9,2026ilpe_qm9,r3,8020,100,100,0,0,0,0,ot,0,2,15,0,35,35,15,0,0,all,trc,nz,pss,n,0,0,Bryce F,112,25x27x22,s,0,30,b,123,1,1,Wheels move balls to shooter,2
+8029_13,Cooper S,2026ilpe,qm,13,2026ilpe_qm13,b2,8029,10,10,0,0,0,0,dt,0,10,0,5,5,0,0,0,0,ah,trc,nz,pss,n,0,0,Parker,103,27x27,s,Unsure about shoot on move,15,b,110,1,0,Indexer,4
+8029_20,Jaxon C,2026ilpe,qm,20,2026ilpe_qm20,r3,8029,15,15,0,0,0,0,dt,0,11,0,5,0,5,5,0,0,all,bup,nz,puf,n,0,0,Parker,103,27x27,s,Unsure about shoot on move,15,b,110,1,0,Indexer,4
+8029_24,Elizabeth,2026ilpe,qm,24,2026ilpe_qm24,b2,8029,0,0,0,0,1,0,ot,0,0,0,0,0,0,0,0,0,ds,bup,dp,dfs,n,0,2,Parker,103,27x27,s,Unsure about shoot on move,15,b,110,1,0,Indexer,4
+8029_27,Jake R,2026ilpe,qm,27,2026ilpe_qm27,r1,8029,10,10,0,0,0,0,c,0,4,5,5,0,0,0,1,0,ds,bup,nz,dfs,n,0,0,Parker,103,27x27,s,Unsure about shoot on move,15,b,110,1,0,Indexer,4
+8029_32,Cooper S,2026ilpe,qm,32,2026ilpe_qm32,b2,8029,0,0,0,0,1,0,c,0,0,0,0,0,0,0,1,0,ds,bth,nz,dfs,n,0,2,Parker,103,27x27,s,Unsure about shoot on move,15,b,110,1,0,Indexer,4
+8029_40,Ryan S,2026ilpe,qm,40,2026ilpe_qm40,b3,8029,0,0,0,0,0,0,c,0,0,0,0,0,0,0,0,0,ds,trc,dp,dfs,n,0,0,Parker,103,27x27,s,Unsure about shoot on move,15,b,110,1,0,Indexer,4
+8029_44,Jaxon C,2026ilpe,qm,44,2026ilpe_qm44,r3,8029,30,30,0,0,0,1,dt,0,0,0,0,15,0,15,0,0,all,bth,nz,pss,n,1,0,Parker,103,27x27,s,Unsure about shoot on move,15,b,110,1,0,Indexer,4
+8096_16,Luke G,2026ilpe,qm,16,2026ilpe_qm16,r1,8096,85,85,0,0,1,1,dt,0,8,15,5,35,15,15,0,0,ut,bth,az,pss,n,2,1,Parker S,104,108 perimeter,s,Untested shoot on move unsure about bumper weighted ,35,b,115,1,0,Spinder to kicker,2
+8096_18,Bryce F,2026ilpe,qm,18,2026ilpe_qm18,r2,8096,185,185,0,0,0,0,dt,0,2,15,15,85,35,35,1,0,nd,trc,nz,puf,n,0,0,Parker S,104,108 perimeter,s,Untested shoot on move unsure about bumper weighted ,35,b,115,1,0,Spinder to kicker,2
+8096_27,Ryan S,2026ilpe,qm,27,2026ilpe_qm27,b3,8096,30,30,0,0,0,0,dt,0,0,5,0,5,15,5,0,0,ft,bup,nz,pss,n,0,0,Parker S,104,108 perimeter,s,Untested shoot on move unsure about bumper weighted ,35,b,115,1,0,Spinder to kicker,2
+8096_32,Gavin c,2026ilpe,qm,32,2026ilpe_qm32,b3,8096,115,115,0,0,0,0,ot,0,0,15,15,35,35,15,0,0,ut,trc,nz,puf,n,0,0,Parker S,104,108 perimeter,s,Untested shoot on move unsure about bumper weighted ,35,b,115,1,0,Spinder to kicker,2
+8096_37,Ryan S,2026ilpe,qm,37,2026ilpe_qm37,b3,8096,45,45,0,0,0,0,dt,0,0,5,5,5,15,15,0,0,ut,trc,nz,pss,n,0,0,Parker S,104,108 perimeter,s,Untested shoot on move unsure about bumper weighted ,35,b,115,1,0,Spinder to kicker,2
+8096_9,Bryce F,2026ilpe,qm,9,2026ilpe_qm9,r2,8096,90,90,0,0,0,0,dt,0,4,15,0,35,35,5,0,0,ut,trc,nz,puf,n,0,0,Parker S,104,108 perimeter,s,Untested shoot on move unsure about bumper weighted ,35,b,115,1,0,Spinder to kicker,2
+8719_12,Xander L,2026ilpe,qm,12,2026ilpe_qm12,r1,8719,0,0,0,0,0,0,dt,0,0,0,0,0,0,0,0,0,ds,trc,dp,noa,n,0,0,Ryan S,80,27 by 27,s,When asked their bot is unique because of hard work,25,go,85,1,1,Conveyer feeder ,1.5
+8719_21,Ryan S,2026ilpe,qm,21,2026ilpe_qm21,b3,8719,15,15,0,0,1,0,ot,0,0,5,5,5,0,0,0,0,ft,trc,nz,pss,n,0,1,Ryan S,80,27 by 27,s,When asked their bot is unique because of hard work,25,go,85,1,1,Conveyer feeder ,1.5
+8719_29,Nick R,2026ilpe,qm,29,2026ilpe_qm29,r2,8719,0,0,0,0,1,0,ot,0,0,0,0,0,0,0,0,0,ds,trc,dp,noa,n,0,3,Ryan S,80,27 by 27,s,When asked their bot is unique because of hard work,25,go,85,1,1,Conveyer feeder ,1.5
+8719_3,Anika,2026ilpe,qm,3,2026ilpe_qm3,b3,8719,0,0,0,0,0,0,ot,0,0,0,0,0,0,0,0,0,ds,trc,dp,noa,n,0,0,Ryan S,80,27 by 27,s,When asked their bot is unique because of hard work,25,go,85,1,1,Conveyer feeder ,1.5
+8719_36,Gavin c,2026ilpe,qm,36,2026ilpe_qm36,b3,8719,0,0,0,0,0,0,ot,0,0,0,0,0,0,0,0,0,ds,trc,dp,pss,n,0,0,Ryan S,80,27 by 27,s,When asked their bot is unique because of hard work,25,go,85,1,1,Conveyer feeder ,1.5
+8719_41,Jaxon C,2026ilpe,qm,41,2026ilpe_qm41,r3,8719,0,0,0,0,0,0,dt,0,0,0,0,0,0,0,0,0,ds,bup,dp,noa,n,0,0,Ryan S,80,27 by 27,s,When asked their bot is unique because of hard work,25,go,85,1,1,Conveyer feeder ,1.5
+8719_44,Jake R,2026ilpe,qm,44,2026ilpe_qm44,r1,8719,10,0,10,0,0,0,ot,0,0,0,0,0,0,0,0,10,ds,bup,dp,noa,n,0,0,Ryan S,80,27 by 27,s,When asked their bot is unique because of hard work,25,go,85,1,1,Conveyer feeder ,1.5
+9082_1,Luke G,2026ilpe,qm,1,2026ilpe_qm1,b3,9082,15,15,0,0,1,0,dt,0,0,15,0,0,0,0,0,0,ft,bup,nz,pss,n,0,3,Elizabeth P,107,26.25x26.25,s,0,50,b,135,1,0,spindexer,1.5
+9082_17,Nick R,2026ilpe,qm,17,2026ilpe_qm17,,9082,0,0,0,0,1,0,c,0,0,0,0,0,0,0,0,0,ds,trc,dp,dfs,n,0,2,Elizabeth P,107,26.25x26.25,s,0,50,b,135,1,0,spindexer,1.5
+9082_22,Jake R,2026ilpe,qm,22,2026ilpe_qm22,r1,9082,35,35,0,0,0,0,ot,0,0,5,5,5,5,15,0,0,ds,trc,nz,puf,n,0,0,Elizabeth P,107,26.25x26.25,s,0,50,b,135,1,0,spindexer,1.5
+9082_26,Ryan S,2026ilpe,qm,26,2026ilpe_qm26,b3,9082,70,70,0,0,0,0,dt,0,0,5,0,35,15,15,0,0,ds,trc,nz,puf,n,0,0,Elizabeth P,107,26.25x26.25,s,0,50,b,135,1,0,spindexer,1.5
+9082_32,Nick R,2026ilpe,qm,32,2026ilpe_qm32,r2,9082,60,60,0,0,0,1,ot,0,0,15,0,15,15,15,0,0,nd,trc,nz,puf,n,3,0,Elizabeth P,107,26.25x26.25,s,0,50,b,135,1,0,spindexer,1.5
+9082_37,Elizabeth P,2026ilpe,qm,37,2026ilpe_qm37,b2,9082,100,100,0,0,0,0,ot,0,0,15,0,15,35,35,0,0,ft,bup,nz,puf,n,0,0,Elizabeth P,107,26.25x26.25,s,0,50,b,135,1,0,spindexer,1.5
+9082_42,Jaxon C,2026ilpe,qm,42,2026ilpe_qm42,r3,9082,140,140,0,0,0,0,ot,0,0,35,0,35,35,35,0,0,all,trc,nz,pss,n,0,0,Elizabeth P,107,26.25x26.25,s,0,50,b,135,1,0,spindexer,1.5
