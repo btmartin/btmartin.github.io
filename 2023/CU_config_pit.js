@@ -31,7 +31,7 @@ var config_data = `
       },
       "defaultValue": "s"
     },
-    { "name": "Wheel Width (in inches)",
+    { "name": "Tread Width (in inches)",
       "code": "ww",
       "type": "text",
       "size": 1,
