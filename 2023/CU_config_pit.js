@@ -55,17 +55,6 @@ var config_data = `
       "size": 25,
       "maxSize": 1000
     },
-    { "name": "Fuel Intake Type",
-      "code": "cit",
-      "type":"radio",
-      "choices": {
-        "oo": "Outpost only<br>",
-        "go": "Ground only<br>",
-        "b": "Both<br>",
-        "n": "N/A"
-      },
-      "defaultValue": "n"
-    },
     { "name": "Hopper Capacity",
       "code": "mhc",
       "type": "text",
@@ -78,16 +67,11 @@ var config_data = `
       "type": "checkbox",
       "defaultValue": "0"
     },
-    { "name": "Can They Shoot on the Move (check=yes)",
-      "code": "som",
-      "type": "checkbox",
-      "defaultValue": "0"
-    },
-    { "name": "How Does Their Feeder to Shooter Work (Do NOT Use ANY Punctuation)",
+    { "name": "How Many Gummy Bears Could You Fit Into Your Hopper? (Do NOT Use ANY Punctuation)",
       "code": "sts",
       "type": "text",
       "size": 25,
-      "maxSize": 1000
+      "maxSize": 100000
     },
     { "name": "Comments (Do NOT Use ANY Punctuation)",
       "code": "coo",
