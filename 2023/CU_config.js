@@ -145,7 +145,6 @@ var config_data = `
       },
       "defaultValue": "0"
     },
-   [
   {
     "name": "Fuel Scored (Quick Select)",
     "code": "fse_preset",
@@ -170,7 +169,6 @@ var config_data = `
     "placeholder": "Enter exact number if not listed above",
     "defaultValue": 0
   }
-]
     { 
       "name": "Total Fouls", 
       "code": "ef", 
