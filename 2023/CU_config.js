@@ -146,21 +146,29 @@ var config_data = `
       "defaultValue": "0"
     },
     { 
-      "name": "Fuel Scored During Endgame", 
-      "code": "fse", 
-      "type": "radio",
-      "choices": {
-        "150": "150+<br>",
-        "125": "100-149<br>",
-        "85": "75-99<br>",
-        "60": "50-74<br>",
-        "35": "25-49<br>",
-        "15": "10-24<br>",
-        "5": "1-9<br>",
-        "0": "Did Not Score<br>"
-      },
-      "defaultValue": "0"
+    "name": "Fuel Scored (Quick Select)", 
+    "code": "fse", 
+    "type": "radio",
+    "choices": {
+      "150": "150+<br>",
+      "125": "100-149<br>",
+      "85": "75-99<br>",
+      "60": "50-74<br>",
+      "35": "25-49<br>",
+      "15": "10-24<br>",
+      "5": "1-9<br>",
+      "0": "Did Not Score<br>",
+      "manual": "Enter Custom Number Below"
     },
+    "defaultValue": "0"
+  },
+  {
+    "name": "Custom Fuel Count",
+    "code": "fse_custom",
+    "type": "number",
+    "placeholder": "Type exact number here...",
+    "defaultValue": 0
+  }
     { 
       "name": "Total Fouls", 
       "code": "ef", 
