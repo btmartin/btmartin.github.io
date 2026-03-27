@@ -150,24 +150,17 @@ var config_data = `
       "code": "fse_preset",
       "type": "radio",
       "choices": {
-        "150": "150+",
-        "125": "100-149",
-        "85": "75-99",
-        "60": "50-74",
-        "35": "25-49",
-        "15": "10-24",
-        "5": "1-9",
-        "0": "None",
+        "150": "150+<br>",
+        "125": "100-149<br>",
+        "85": "75-99<br>",
+        "60": "50-74<br>",
+        "35": "25-49<br>",
+        "15": "10-24<br>",
+        "5": "1-9<br>",
+        "0": "None<br>",
         "custom": "Manual Entry Below"
       },
       "defaultValue": "0"
-    },
-    {
-      "name": "Fuel Scored (Custom)",
-      "code": "fse_manual",
-      "type": "number",
-      "placeholder": "Enter exact number if not listed above",
-      "defaultValue": 0
     },
     { 
       "name": "Total Fouls", 
