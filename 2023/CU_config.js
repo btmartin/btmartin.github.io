@@ -168,7 +168,7 @@ var config_data = `
       "type": "number",
       "placeholder": "Enter exact number if not listed above",
       "defaultValue": 0
-    }
+    },
     { 
       "name": "Total Fouls", 
       "code": "ef", 
