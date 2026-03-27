@@ -178,7 +178,7 @@ var config_data = `
       "defaultValue": 0
     },
     { 
-      "name": "Fuel Scored (Quick Select)", 
+      "name": "Fuel Scored During Endgame", 
       "code": "fse", 
       "type": "radio",
       "choices": {
