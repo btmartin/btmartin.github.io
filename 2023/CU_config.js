@@ -69,7 +69,8 @@ var config_data = `
         "db": "Depot Bump<br>",
         "c": "Center<br>",
         "ob": "Outpost Bump<br>",
-        "ot": "Outpost Trench<br>"
+        "ot": "Outpost Trench<br>",
+        "nos": "Did Not Show<br>"
       },
       "defaultValue": "c"
     }
