@@ -162,12 +162,6 @@ var config_data = `
       },
       "defaultValue": "0"
     },
-    {
-      "name": "Fuel Scored (Custom Input)",
-      "code": "fse_manual",
-      "type": "number",
-      "defaultValue": 0
-    },
     { 
       "name": "Endgame Climb", 
       "code": "egc", 
