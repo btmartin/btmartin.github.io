@@ -80,11 +80,6 @@ var config_data = `
       "text-color": "red",
       "type": "checkbox"
     },
-    { 
-      "name": "Seconds to Center (Auto)", 
-      "code": "stc", 
-      "type": "counter" 
-    },
    { 
       "name": "Fuel Scored During Auto", 
       "code": "fsa", 
@@ -92,7 +87,7 @@ var config_data = `
       "choices": {
         "150": "150+<br>",
         "125": "100-149<br>",
-        "85": "75-100<br>",
+        "85": "75-99<br>",
         "60": "50-74<br>",
         "35": "25-49<br>",
         "15": "10-24<br>",
@@ -108,7 +103,7 @@ var config_data = `
       "choices": {
         "150": "150+<br>",
         "125": "100-149<br>",
-        "85": "75-100<br>",
+        "85": "75-99<br>",
         "60": "50-74<br>",
         "35": "25-49<br>",
         "15": "10-24<br>",
@@ -124,7 +119,7 @@ var config_data = `
       "choices": {
         "150": "150+<br>",
         "125": "100-149<br>",
-        "85": "75-100<br>",
+        "85": "75-99<br>",
         "60": "50-74<br>",
         "35": "25-49<br>",
         "15": "10-24<br>",
@@ -140,7 +135,7 @@ var config_data = `
       "choices": {
         "150": "150+<br>",
         "125": "100-149<br>",
-        "85": "75-100<br>",
+        "85": "75-99<br>",
         "60": "50-74<br>",
         "35": "25-49<br>",
         "15": "10-24<br>",
@@ -156,7 +151,7 @@ var config_data = `
       "choices": {
         "150": "150+<br>",
         "125": "100-149<br>",
-        "85": "75-100<br>",
+        "85": "75-99<br>",
         "60": "50-74<br>",
         "35": "25-49<br>",
         "15": "10-24<br>",
@@ -182,17 +177,6 @@ var config_data = `
       },
       "defaultValue": "0"
     },
-    { "name": "Time to Climb",
-      "code": "ttc",
-      "type":"radio",
-      "choices": {
-        "0": "Less than 10 sec<br>",
-        "1": "Between 10 and 20 sec<br>",
-        "2": "More than 20 sec<br>",
-        "n": "Didnt Climb"
-      },
-      "defaultValue": "n"
-    },   
     { 
       "name": "Preferred shooting location", 
       "code": "psl", 
@@ -210,31 +194,6 @@ var config_data = `
       },
       "defaultValue": "ds"
     },
-    { 
-      "name": "How Did They Get to the Neutral Zone", 
-      "code": "nzp", 
-      "type": "radio",
-      "choices": {
-        "bup": "Bump<br>",
-        "trc": "Trench<br>",
-        "bth": "Both<br>",
-        "tdn": "They Didnt Go to the Center"
-    },
-    "defaultValue": "bup"
-  },
-  { 
-    "name": "Main Pickup Location (Teleop Only)", 
-    "code": "am", 
-    "type": "radio",
-    "choices": {
-      "op": "Outpost Area<br>",
-      "de": "Depot Area<br>",
-      "az": "Alliance Zone<br>",
-      "nz": "Neutral Zone<br>",
-      "dp": "Didnt Pickup"
-    },
-    "defaultValue": "dp"
-  },
   { 
     "name": "Inactive Strategy", 
     "code": "ias", 
@@ -249,10 +208,6 @@ var config_data = `
   },
     { "name": "Robot Was Defended |Scale of 0-5| (0 = N/A)",
       "code": "fwd",
-      "type": "counter"
-    },
-    { "name": "Robot Played Defense |Scale of 0-5| (0 = N/A)",
-      "code": "fpd",
       "type": "counter"
     }
   ]
