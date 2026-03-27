@@ -146,7 +146,7 @@ var config_data = `
       "defaultValue": "0"
     },
     {
-      "name": "Fuel Scored (Quick Select)",
+      "name": "Endgame (Quick Select)",
       "code": "fse_preset",
       "type": "radio",
       "choices": {
@@ -162,10 +162,11 @@ var config_data = `
       },
       "defaultValue": "0"
     },
-    { 
-      "name": "Total Fouls", 
-      "code": "ef", 
-      "type": "counter" 
+    {
+      "name": "Fuel Scored (Custom Input)",
+      "code": "fse_manual",
+      "type": "number",
+      "defaultValue": 0
     },
     { 
       "name": "Endgame Climb", 
