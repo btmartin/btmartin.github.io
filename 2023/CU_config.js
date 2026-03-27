@@ -93,9 +93,17 @@ var config_data = `
         "35": "25-49<br>",
         "15": "10-24<br>",
         "5": "1-9<br>",
-        "0": "Did Not Score<br>"
+        "0": "Did Not Score<br>",
+        "manual": "Enter Custom Number Below"
       },
       "defaultValue": "0"
+    },
+    {
+      "name": "Custom Fuel Count",
+      "code": "fsa_custom",
+      "type": "number",
+      "placeholder": "Type exact number here...",
+      "defaultValue": 0
     },
     { 
       "name": "Fuel Scored During Transition Phase", 
@@ -109,9 +117,17 @@ var config_data = `
         "35": "25-49<br>",
         "15": "10-24<br>",
         "5": "1-9<br>",
-        "0": "Did Not Score<br>"
+        "0": "Did Not Score<br>",
+        "manual": "Enter Custom Number Below"
       },
       "defaultValue": "0"
+    },
+    {
+      "name": "Custom Fuel Count",
+      "code": "fst_custom",
+      "type": "number",
+      "placeholder": "Type exact number here...",
+      "defaultValue": 0
     },
     { 
       "name": "Fuel Scored For Shift 1", 
@@ -125,9 +141,17 @@ var config_data = `
         "35": "25-49<br>",
         "15": "10-24<br>",
         "5": "1-9<br>",
-        "0": "Did Not Score<br>"
+        "0": "Did Not Score<br>",
+        "manual": "Enter Custom Number Below"
       },
       "defaultValue": "0"
+    },
+    {
+      "name": "Custom Fuel Count",
+      "code": "ss1_custom",
+      "type": "number",
+      "placeholder": "Type exact number here...",
+      "defaultValue": 0
     },
     { 
       "name": "Fuel Scored During Shift 2", 
@@ -141,9 +165,17 @@ var config_data = `
         "35": "25-49<br>",
         "15": "10-24<br>",
         "5": "1-9<br>",
-        "0": "Did Not Score<br>"
+        "0": "Did Not Score<br>",
+        "manual": "Enter Custom Number Below"
       },
       "defaultValue": "0"
+    },
+    {
+      "name": "Custom Fuel Count",
+      "code": "ss2_custom",
+      "type": "number",
+      "placeholder": "Type exact number here...",
+      "defaultValue": 0
     },
     { 
       "name": "Fuel Scored (Quick Select)", 
