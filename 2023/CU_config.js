@@ -145,30 +145,30 @@ var config_data = `
       },
       "defaultValue": "0"
     },
-  {
-    "name": "Fuel Scored (Quick Select)",
-    "code": "fse_preset",
-    "type": "radio",
-    "choices": {
-      "150": "150+",
-      "125": "100-149",
-      "85": "75-99",
-      "60": "50-74",
-      "35": "25-49",
-      "15": "10-24",
-      "5": "1-9",
-      "0": "None",
-      "custom": "Manual Entry Below"
+    {
+      "name": "Fuel Scored (Quick Select)",
+      "code": "fse_preset",
+      "type": "radio",
+      "choices": {
+        "150": "150+",
+        "125": "100-149",
+        "85": "75-99",
+        "60": "50-74",
+        "35": "25-49",
+        "15": "10-24",
+        "5": "1-9",
+        "0": "None",
+        "custom": "Manual Entry Below"
+      },
+      "defaultValue": "0"
     },
-    "defaultValue": "0"
-  },
-  {
-    "name": "Fuel Scored (Custom)",
-    "code": "fse_manual",
-    "type": "number",
-    "placeholder": "Enter exact number if not listed above",
-    "defaultValue": 0
-  }
+    {
+      "name": "Fuel Scored (Custom)",
+      "code": "fse_manual",
+      "type": "number",
+      "placeholder": "Enter exact number if not listed above",
+      "defaultValue": 0
+    }
     { 
       "name": "Total Fouls", 
       "code": "ef", 
