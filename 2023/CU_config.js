@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "2481 Match Scouting",
-  "page_title": "2026 CIR",
+  "page_title": "2026 Rocket City",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter (First name + last initial)",
