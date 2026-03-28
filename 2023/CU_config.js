@@ -254,7 +254,7 @@ var config_data = `
     { "name": "Robot Played Defended (Check=Yes)",
       "code": "fwd",
       "type": "checkbox"
-    }
+    },
     { "name": "Robot Was Defended (Check=Yes",
       "code": "fwd",
       "type": "checkbox"
