@@ -72,7 +72,7 @@ var config_data = `
         "ot": "Outpost Trench<br>",
         "nos": "Did Not Show<br>"
       },
-      "defaultValue": "c"
+      "defaultValue": "nos"
     }
   ],
   "auton": [
