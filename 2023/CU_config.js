@@ -100,7 +100,7 @@ var config_data = `
     },
     {
       "name": "Custom Fuel Count",
-      "code": "fsa_custom",
+      "code": "cfa",
       "type": "number",
       "placeholder": "Type exact number here...",
       "defaultValue": 0
@@ -124,7 +124,7 @@ var config_data = `
     },
     {
       "name": "Custom Fuel Count",
-      "code": "fst_custom",
+      "code": "cft",
       "type": "number",
       "placeholder": "Type exact number here...",
       "defaultValue": 0
@@ -148,7 +148,7 @@ var config_data = `
     },
     {
       "name": "Custom Fuel Count",
-      "code": "ss1_custom",
+      "code": "cf1",
       "type": "number",
       "placeholder": "Type exact number here...",
       "defaultValue": 0
@@ -172,7 +172,7 @@ var config_data = `
     },
     {
       "name": "Custom Fuel Count",
-      "code": "ss2_custom",
+      "code": "cf2",
       "type": "number",
       "placeholder": "Type exact number here...",
       "defaultValue": 0
@@ -196,7 +196,7 @@ var config_data = `
     },
     {
       "name": "Custom Fuel Count",
-      "code": "fse_custom",
+      "code": "cfe",
       "type": "number",
       "placeholder": "Type exact number here...",
       "defaultValue": 0
