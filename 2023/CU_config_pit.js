@@ -67,7 +67,7 @@ var config_data = `
       "type": "checkbox",
       "defaultValue": "0"
     },
-    { "name": "How Many Gummy Bears Could You Fit Into Your Hopper? (Do NOT Use ANY Punctuation)",
+    { "name": "How Many Gummy Bears Can They Fit Into Their Hopper? (Do NOT Use ANY Punctuation)",
       "code": "sts",
       "type": "text",
       "size": 25,
