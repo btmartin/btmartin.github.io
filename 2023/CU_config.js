@@ -247,6 +247,10 @@ var config_data = `
     },
     "defaultValue": "noa"
   },
+  { "name": "Did They Break (Check=Yes)",
+      "code": "dtb",
+      "type": "checkbox"
+    },
     { "name": "Robot Was Defended |Scale of 0-5| (0 = N/A)",
       "code": "fwd",
       "type": "counter"
