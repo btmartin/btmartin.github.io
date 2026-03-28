@@ -251,9 +251,13 @@ var config_data = `
       "code": "dtb",
       "type": "checkbox"
     },
-    { "name": "Robot Was Defended |Scale of 0-5| (0 = N/A)",
+    { "name": "Robot Played Defended (Check=Yes)",
       "code": "fwd",
-      "type": "counter"
+      "type": "checkbox"
+    }
+    { "name": "Robot Was Defended (Check=Yes",
+      "code": "fwd",
+      "type": "checkbox"
     }
   ]
 
