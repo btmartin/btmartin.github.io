@@ -251,7 +251,7 @@ var config_data = `
       "code": "dtb",
       "type": "checkbox"
     },
-    { "name": "Robot Played Defended (Check=Yes)",
+    { "name": "Robot Played Defense (Check=Yes)",
       "code": "fwd",
       "type": "checkbox"
     },
