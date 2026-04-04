@@ -252,7 +252,7 @@ var config_data = `
       "type": "checkbox"
     },
     { "name": "Robot Played Defense (Check=Yes)",
-      "code": "fwd",
+      "code": "rpd",
       "type": "checkbox"
     },
     { "name": "Robot Was Defended (Check=Yes)",
