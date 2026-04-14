@@ -223,30 +223,22 @@ var config_data = `
       "code": "psl", 
       "type": "radio",
       "choices": {
-        "fo": "In Front of Outpost<br>",
-        "nd": "Near Depot<br>",
-        "aw": "Against Alliance Wall<br>",
-        "ut": "Under Trench<br>",
-        "ah": "Against Hub<br>",
-        "ab": "Against Bump<br>",
-        "ft": "In front of Tower<br>",
+        "clo": "Close<br>",
+        "med": "Med<br>",
+        "fa": "Far<br>",
         "all": "Anywhere<br>",
         "ds": "Didnt Shoot"
       },
       "defaultValue": "ds"
     },
-  { 
-    "name": "Inactive Strategy", 
-    "code": "ias", 
-    "type": "radio",
-    "choices": {
-      "dfs": "Defense<br>",
-      "puf": "Pickup Fuel<br>",
-      "pss": "Feeding/Pushing<br>",
-      "noa": "none of the above"
+    { "name": "E-Stop (Check=Yes)",
+      "code": "esp",
+      "type": "checkbox"
     },
-    "defaultValue": "noa"
-  },
+    { "name": "Disconnected (Check=Yes)",
+      "code": "dsc",
+      "type": "checkbox"
+    },
   { "name": "Did They Break (Check=Yes)",
       "code": "dtb",
       "type": "checkbox"
