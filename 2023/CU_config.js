@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "2481 Match Scouting",
-  "page_title": "2026 Rocket City",
+  "page_title": "2026 Worlds",
   "checkboxAs": "10",
   "prematch": [
     { "name": "Scouter (First name + last initial)",
