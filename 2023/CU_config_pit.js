@@ -31,11 +31,11 @@ var config_data = `
       },
       "defaultValue": "s"
     },
-    { "name": "Tread Width (in inches)",
-      "code": "ww",
+    { "name": "If Your Robot was a Soda Addict, What Kind of Soda Would Your Robot Drink (Do NOT Use ANY Punctuation)",
+      "code": "sts",
       "type": "text",
-      "size": 1,
-      "maxSize": 250
+      "size": 25,
+      "maxSize": 100000
     },
     { "name": "Weight Without Bumpers",
       "code": "wwb",
@@ -66,12 +66,6 @@ var config_data = `
       "code": "cgt",
       "type": "checkbox",
       "defaultValue": "0"
-    },
-    { "name": "How Many Gummy Bears Can They Fit Into Their Hopper? (Do NOT Use ANY Punctuation)",
-      "code": "sts",
-      "type": "text",
-      "size": 25,
-      "maxSize": 100000
     },
     { "name": "Comments (Do NOT Use ANY Punctuation)",
       "code": "coo",
