@@ -61,7 +61,7 @@ var config_data = `
       "min": 1,
       "max": 99999
     },
-    { "name": "Robot Start Location(relative to driver station)",
+    { "name": "Robot Start Location (relative to driver station)",
       "code": "rsl",
       "type":"radio",
       "choices": {
@@ -224,7 +224,7 @@ var config_data = `
       "type": "radio",
       "choices": {
         "clo": "Close<br>",
-        "med": "Med<br>",
+        "med": "Mid<br>",
         "fa": "Far<br>",
         "all": "Anywhere<br>",
         "ds": "Didnt Shoot"
