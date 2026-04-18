@@ -65,7 +65,7 @@ var config_data = `
     { "name": "How has Their Robot Changed?",
       "code": "rch",
       "type": "text",
-      "size": 1000
+      "size": 100
     },
     { "name": "Can They Go Under the Trench (check=yes)",
       "code": "cgt",
