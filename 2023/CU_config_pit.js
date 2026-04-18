@@ -62,6 +62,11 @@ var config_data = `
       ,
       "maxSize": 250
     },
+    { "name": "How has Their Robot Changed?",
+      "code": "rch",
+      "type": "text",
+      "size": 1000
+    },
     { "name": "Can They Go Under the Trench (check=yes)",
       "code": "cgt",
       "type": "checkbox",
