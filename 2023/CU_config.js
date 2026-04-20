@@ -244,11 +244,11 @@ var config_data = `
       "type": "checkbox"
     },
     { "name": "Robot Played Defense (Check=Yes)",
-     "code": "deft",
+     "code": "def_qual",
       "type": "range",
       "min": 0,
-      "max": 100,
-      "default": 50
+      "max": 10,
+      "default": 0
     },
     { "name": "Robot Was Defended (Check=Yes)",
       "code": "fwd",
