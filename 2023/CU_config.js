@@ -239,14 +239,14 @@ var config_data = `
       "code": "dsc",
       "type": "checkbox"
     },
-    { "name": "Did They Break (Check=Yes)",
+  { "name": "Did They Break (Check=Yes)",
       "code": "dtb",
       "type": "checkbox"
     },
     { "name": "Robot Played Defense (Check=Yes)",
-      "code": "def",
-      "type": "checkbox",
-      },
+      "code": "rpd",
+      "type": "checkbox"
+    },
     { "name": "Robot Was Defended (Check=Yes)",
       "code": "fwd",
       "type": "checkbox"
