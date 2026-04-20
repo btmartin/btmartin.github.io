@@ -247,6 +247,22 @@ var config_data = `
       "code": "rpd",
       "type": "checkbox"
     },
+    <!DOCTYPE html>
+<html>
+<body>
+  <label for="mySlider">Adjust Value:</label>
+  <input type="range" id="mySlider" min="1" max="100" value="50">
+  <p>Value: <span id="output">50</span></p>
+
+  <script>
+    const slider = document.getElementById("mySlider");
+    const output = document.getElementById("output");
+    slider.oninput = function() {
+      output.innerHTML = this.value;
+    }
+  </script>
+</body>
+</html>
     { "name": "Robot Was Defended (Check=Yes)",
       "code": "fwd",
       "type": "checkbox"
