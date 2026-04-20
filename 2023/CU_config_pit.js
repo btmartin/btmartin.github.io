@@ -31,7 +31,7 @@ var config_data = `
       },
       "defaultValue": "s"
     },
-    { "name": "How Many Gallons of Milk Could You Pour On Your Robot Before It Short Circuits? (Do NOT Use ANY Punctuation)",
+    { "name": "How Many Zipties are on Your Robot? (Do NOT Use ANY Punctuation)",
       "code": "sts",
       "type": "text",
       "size": 25,
