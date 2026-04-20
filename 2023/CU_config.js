@@ -247,7 +247,52 @@ var config_data = `
       "code": "rpd",
       "type": "checkbox"
     },
-    **Volume:** 0% [||||||||||----------] 100%
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Slider Demo</title>
+    <style>
+        /* Basic styling to make the slider look clean */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding-top: 50px;
+        }
+        .slider-container {
+            width: 300px;
+            text-align: center;
+        }
+        input[type="range"] {
+            width: 100%;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="slider-container">
+        <label for="mySlider">Adjust Intensity</label><br>
+        <input type="range" id="mySlider" min="0" max="100" value="50">
+        <p>Current Value: <span id="displayValue">50</span></p>
+    </div>
+
+    <script>
+        // Use 'const' for variables that don't change
+        const slider = document.getElementById("mySlider");
+        const display = document.getElementById("displayValue");
+
+        // Event listener for real-time updates
+        slider.addEventListener("input", () => {
+            display.textContent = slider.value;
+        }); // Correctly closed parenthesis and semicolon
+    </script>
+
+</body>
+</html>
     { "name": "Robot Was Defended (Check=Yes)",
       "code": "fwd",
       "type": "checkbox"
