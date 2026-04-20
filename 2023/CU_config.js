@@ -246,10 +246,10 @@ var config_data = `
     { "name": "Robot Played Defense (Check=Yes)",
      "code": "def",
       "type": "range",
-  "min": 0,
-  "max": 10,
-  "step": 1,
-  "default": 0
+      "min": 0,
+      "max": 10,
+      "step": 1,
+      "default": 0
     },
     { "name": "Robot Was Defended (Check=Yes)",
       "code": "fwd",
