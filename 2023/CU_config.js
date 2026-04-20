@@ -216,10 +216,10 @@ var config_data = `
       "code": "egc", 
       "type": "radio",
       "choices": {
-        "30": "L3<br>",
-        "20": "L2<br>",
+        "0": "Did not climb<br>",
         "10": "L1<br>",
-        "0": "Did not climb"
+        "20": "L2<br>",
+        "30": "L3<br>"
       },
       "defaultValue": "0"
     },
