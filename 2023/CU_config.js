@@ -223,9 +223,9 @@ var config_data = `
       "code": "psl", 
       "type": "radio",
       "choices": {
-        "clo": "Close<br>",
-        "med": "Mid<br>",
         "fa": "Far<br>",
+        "med": "Mid<br>",
+        "clo": "Close<br>",
         "all": "Anywhere<br>",
         "ds": "Didnt Shoot"
       },
