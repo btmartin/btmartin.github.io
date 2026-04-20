@@ -245,7 +245,7 @@ var config_data = `
     },
     { "name": "Robot Played Defense (Check=Yes)",
      "code": "def_qual",
-      "type": "range",
+      "type": "slider",
       "min": 0,
       "max": 10,
       "default": 0
