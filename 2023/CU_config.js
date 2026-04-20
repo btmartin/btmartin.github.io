@@ -247,7 +247,7 @@ var config_data = `
       "code": "rpd",
       "type": "checkbox"
     },
-    {<!DOCTYPE html>
+    { <!DOCTYPE html>
 <html>
 <body>
   <label for="mySlider">Adjust Value:</label>
