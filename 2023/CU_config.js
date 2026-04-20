@@ -219,7 +219,7 @@ var config_data = `
         "30": "L3<br>",
         "20": "L2<br>",
         "10": "L1<br>",
-        "0": "Did not climb<br>"
+        "0": "Did not climb"
       },
       "defaultValue": "0"
     },
