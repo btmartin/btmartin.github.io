@@ -247,7 +247,7 @@ var config_data = `
       "code": "rpd",
       "type": "checkbox"
     },
-    <!DOCTYPE html>
+    {<!DOCTYPE html>
 <html>
 <body>
   <label for="mySlider">Adjust Value:</label>
@@ -263,6 +263,7 @@ var config_data = `
   </script>
 </body>
 </html>
+},
     { "name": "Robot Was Defended (Check=Yes)",
       "code": "fwd",
       "type": "checkbox"
