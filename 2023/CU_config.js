@@ -244,7 +244,7 @@ var config_data = `
       "type": "checkbox"
     },
     { "name": "Robot Played Defense (Check=Yes)",
-     "code": "def_qual",
+     "code": "def",
       "type": "slider",
       "min": 0,
       "max": 10,
