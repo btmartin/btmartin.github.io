@@ -16,7 +16,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2026alhu",
+      "defaultValue": "2026mil",
       "required": "true",
       "disabled": "true"
     },
