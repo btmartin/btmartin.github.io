@@ -49,3 +49,9 @@ TeamMatch,scouter,eventCode,matchLevel,matchNumber,matchKey,dsPosition,teamNumbe
 4421_12,Cooper S,2026mil,qm,12,2026mil_qm12,b3,4421,127,127,0,0,7,15,35,35,35,dt,0,manual,7,15,,35,,35,,35,,1,0,med,0,0,0,0,0,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!
 2169_12,Malachi B,2026mil,qm,12,2026mil_qm12,r3,2169,0,0,0,0,0,0,0,0,0,c,0,0,,0,,0,,0,,0,,0,0,ds,0,1,0,1,0,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!
 4905_12,Bryce F,2026mil,qm,12,2026mil_qm12,r1,4905,63,63,0,0,11,5,23,24,0,dt,0,manual,11,5,,manual,23,manual,24,0,6,0,0,ds,0,0,0,0,0,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!
+2974_13,Malachi B,2026mil,qm,13,2026mil_qm13,r3,2974,120,120,0,0,15,0,35,35,35,ot,0,15,,0,,35,,35,,35,,0,0,clo,0,0,0,0,0,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!
+8020_13,XLeicht,2026mil,de,13,2026mil_de13,b2,8020,43,43,0,0,3,5,5,15,15,ot,0,manual,3,5,,5,,15,,15,,0,0,clo,0,0,0,0,0,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!
+2122_13,Elijah G,2026mil,qm,13,2026mil_qm13,r2,2122,280,280,0,0,60,0,125,35,60,dt,0,60,,0,,125,,35,,60,,0,0,all,0,0,0,0,1,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!
+1671_13,Gavin c,2026mil,qm,13,2026mil_qm13,b1,1671,70,70,0,0,5,0,15,35,15,c,0,5,,0,,15,,35,,15,,0,0,all,0,0,0,0,1,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!
+9635_13,Bryce F,2026mil,qm,13,2026mil_qm13,r1,9635,100,100,0,0,15,0,15,35,35,c,0,15,,0,,15,,35,,35,,0,0,ds,0,0,0,1,0,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!
+8873_13,Cooper S,2026mil,qm,13,2026mil_qm13,b3,8873,40,40,0,0,0,5,0,0,35,db,0,0,,5,,0,,0,,35,,1,0,med,0,0,0,1,0,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!
